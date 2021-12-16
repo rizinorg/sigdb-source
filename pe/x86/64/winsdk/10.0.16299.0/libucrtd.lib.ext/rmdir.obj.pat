@@ -1,0 +1,8 @@
+48894C24084883EC28488B4C2430E8........4883C428C3................ 00 0000 0018 :0000 __1____crt_unique_heap_ptr__WU__crt_internal_free_policy____QEAA_XZ 
+48894C24084883EC3848837C24400075..33C9E8........EB..33D2488D4C24 62 C0E3 0082 :0000 _rmdir 28E8........488D4C2428E8........488BD0488B4C2440E8........85C075..C7..............488D4C2428E8........8B442420EB..488D4C2428E8........488BC8E8........89442424488D4C2428E8........8B4424244883C438C3
+48894C24084883EC38488B442440488B10488D4C2420E8........488B442440 0C 05B4 002C :0000 _release_____crt_unique_heap_ptr__WU__crt_internal_free_policy____QEAAXXZ 48C700000000004883C438C3
+48894C2408488B442408488B00C3.................................... 00 0000 000E :0000 _get_____crt_unique_heap_ptr__WU__crt_internal_free_policy____QEBAPEA_WXZ 
+48894C2408488B442408C3.......................................... 00 0000 000B :0000 _get_address_of_____crt_unique_heap_ptr__WU__crt_internal_free_policy____QEAAPEAPEA_WXZ 
+488954241048894C24084883EC28BA02000000488B4C2438E8........4883C4 02 2316 0022 :0000 ____R_W___crt_internal_free_policy__QEBAXQEB_W_Z 28C3
+488954241048894C2408488B442408488B4C2410488908488B442408C3...... 00 0000 001D :0000 __0____crt_unique_heap_ptr__WU__crt_internal_free_policy____QEAA_QEA_W_Z 
+---
