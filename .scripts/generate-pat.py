@@ -88,8 +88,8 @@ class PatFile(object):
 
 		with open(filepath) as fp:
 			for line in fp:
-				line = line.rstrip()
-				if line.startswith('#'):
+				line = line.strip()
+				if line.startswith('#') or line == "":
 					# ignore any comment on unofficial pat formats
 					continue
 				elif line == "---":
