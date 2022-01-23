@@ -40,24 +40,27 @@ def listdirs(path):
 	return d
 
 class SigMake(object):
-	def __init__(self, file_in, file_out, lib_desc, lib_arch, lib_bits):
+	def __init__(self, file_in, file_out, lib_desc, lib_arch, lib_bits, no_postlude):
 		super(SigMake, self).__init__()
 		self.file_in = file_in
 		self.file_out = file_out
 		self.lib_desc = lib_desc
 		self.lib_arch = lib_arch
 		self.lib_bits = lib_bits
+		self.postlude = not no_postlude
 
 	def generate(self, rz_sign, test):
 		print('Generating {} signature (as {}) from {}'.format(self.lib_desc, os.path.basename(self.file_out), os.path.basename(self.file_in)))
+		compression = 1 if self.postlude else 2
 		if not test:
-			system_die("{} -q -e 'flirt.sig.deflate=true' -e 'asm.arch={}' -e 'asm.bits={}' -e 'flirt.sig.library={} (rizin.re)' -c '{}' '{}'".format(rz_sign, self.lib_arch, self.lib_bits, self.lib_desc, self.file_out, self.file_in))
+			system_die("{} -q -e 'flirt.sig.deflate=true' -e 'asm.arch={}' -e 'asm.bits={}' -e 'flirt.sig.library={} (rizin.re)' -e 'flirt.node.optimize={}' -c '{}' '{}'".format(rz_sign, self.lib_arch, self.lib_bits, self.lib_desc, compression, self.file_out, self.file_in))
 
 def main():
 	parser = argparse.ArgumentParser(usage='%(prog)s [options]', description=DESCRIPTION, epilog=EPILOG, formatter_class=argparse.RawDescriptionHelpFormatter)
 	parser.add_argument('-s', '--source', default='', help='path to sigdb-source directory (it has to point to sigdb-source root dir)')
 	parser.add_argument('-o', '--output', default='', help='path to the output directory')
 	parser.add_argument('-r', '--rz-sign', default='rz-sign', help='rz-sign binary path')
+	parser.add_argument('--no-postlude', default=False, help='removes the postlude pattern mask in the output files', action='store_true')
 	parser.add_argument('--overwrite', default=False, help='allowes overwriting the output files', action='store_true')
 	parser.add_argument('--test', default=False, help='simulates the generation but does not create the files', action='store_true')
 	args = parser.parse_args()
@@ -113,7 +116,7 @@ def main():
 					file_exists_or_die(lib_src)
 					file_exists_or_die(lib_dsc)
 					description = read_description_or_die(lib_dsc)
-					pats.append(SigMake(lib_src, lib_out, description, arch, bits))
+					pats.append(SigMake(lib_src, lib_out, description, arch, bits, args.no_postlude))
 
 	for pat in pats:
 		pat.generate(args.rz_sign, args.test)

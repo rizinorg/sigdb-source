@@ -5,6 +5,7 @@
 import argparse
 import sys
 import os
+import glob
 from difflib import SequenceMatcher
 
 DESCRIPTION='Rizin FLIRT signature database generator for pat files'
@@ -46,7 +47,9 @@ def is_bad_symbol(name):
 def is_pat(file):
 	return file.endswith('.pat') and os.path.isfile(file)
 
-def list_pat_files(path):
+def list_pat_files(path, recursive):
+	if recursive:
+		return  [os.path.join(path, name) for name in glob.glob("**/*.pat", root_dir=path, recursive=True)]
 	return list(filter(is_pat, [os.path.join(path, name) for name in os.listdir(path) if os.path.isfile(os.path.join(path, name))]))
 
 def similarity_group(grp):
@@ -64,9 +67,10 @@ def similarity_group(grp):
 	return avg / cnt
 
 class PatFile(object):
-	def __init__(self, outname):
+	def __init__(self, outname, max_postlude):
 		super(PatFile, self).__init__()
 		self.outname = outname
+		self.max_postlude = max_postlude * 2
 		self.signatures = {}
 
 	def generate(self):
@@ -109,13 +113,26 @@ class PatFile(object):
 				key = " ".join(tokens[1:3])
 				prelude = tokens[0]
 
+				if len(tokens) > 6:
+					if self.max_postlude == 0:
+						# drop any postlude
+						tokens.pop(6)
+					elif len(tokens[6]) > self.max_postlude:
+						# shorting the postlude
+						tokens[6] = tokens[6][0:self.max_postlude]
+
+					tokens[6] = tokens[6].rstrip('.')
+					if tokens[6] == ("." * len(tokens[6])):
+						# drop any postlude with empty pattern
+						tokens.pop(6)
+
 				if not key in self.signatures:
 					self.signatures[key] = {}
 					self.signatures[key][prelude] = set()
 				elif not prelude in self.signatures[key]:
 					self.signatures[key][prelude] = set()
 
-				self.signatures[key][prelude].add(" ".join(tokens[0:6]))
+				self.signatures[key][prelude].add(" ".join(tokens))
 
 	def handle_conflicts(self, resolve, threshold, verbose):
 		n_dropped = 0
@@ -132,14 +149,14 @@ class PatFile(object):
 					self.signatures[crc][prelude] = self.signatures[crc][prelude][0]
 					continue
 				if not resolve:
-					fcns = [s.split(" ")[-1] for s in self.signatures[crc][prelude]]
+					fcns = [s.split(" ")[5] for s in self.signatures[crc][prelude]]
 					print("Error: found conflicts on short prelude {} ({})".format(prelude, ', '.join(fcns)))
 					sys.exit(1)
 				to_drop.append(prelude)
 
 			for prelude in to_drop:
 				n_sigs = len(self.signatures[crc][prelude])
-				fcns = [s.split(" ")[-1] for s in self.signatures[crc][prelude]]
+				fcns = [s.split(" ")[5] for s in self.signatures[crc][prelude]]
 				if crc == "00 0000":
 					# too small functions gets always dropped when conflicts are found
 					if verbose:
@@ -173,19 +190,22 @@ def main():
 	parser = argparse.ArgumentParser(usage='%(prog)s [options]', description=DESCRIPTION, epilog=EPILOG, formatter_class=argparse.RawDescriptionHelpFormatter)
 	parser.add_argument('-d', '--directory', action='append', default=[], help='input directory containing .pat files to parse')
 	parser.add_argument('-i', '--input', action='append', default=[], help='input .pat file to parse')
-	parser.add_argument('-o', '--output', default='', help='path to the output directory')
+	parser.add_argument('-o', '--output', default='', help='path to the output file .pat')
 	parser.add_argument('-t', '--threshold', default=0.66, type=float, help='threshold for similarity (default 0.66, and must be between 0 and 1)')
+	parser.add_argument('-m', '--max-postlude', default=64, type=int, help='max postlude pattern max size (default 64)')
 	parser.add_argument('--auto', default=False, help='tries to auto resolve conflicts by comparing name similarity value against the threshold', action='store_true')
 	parser.add_argument('--test', default=False, help='simulates the generation but does not create the files', action='store_true')
 	parser.add_argument('--overwrite', default=False, help='allowes overwriting the output file', action='store_true')
 	parser.add_argument('--verbose', default=False, help='the script output is verbose', action='store_true')
+	parser.add_argument('--recursive', default=False, help='search recursively in the input directory', action='store_true')
 	args = parser.parse_args()
 
 	if len(sys.argv) == 1 or \
 		(len(args.input) < 1 and len(args.directory) < 1) or \
 		len(args.output) < 1 or \
 		args.threshold <= 0 or \
-		args.threshold >= 1:
+		args.threshold >= 1 or \
+		args.max_postlude < 0:
 		parser.print_help(sys.stderr)
 		sys.exit(1)
 
@@ -202,7 +222,7 @@ def main():
 		if not os.path.isdir(folder):
 			print("Error: '{}' is not a directory/folder.".format(folder))
 			sys.exit(1)
-		infiles += list_pat_files(folder)
+		infiles += list_pat_files(folder, args.recursive)
 
 	if os.path.isfile(args.output) and not args.overwrite and not args.test:
 		print("Error: '{}' does exists. (overwrite is not allowed)".format(args.output))
@@ -215,13 +235,14 @@ def main():
 	if args.verbose:
 		if args.auto:
 			print("threshold: {:.2f}".format(args.threshold))
+			print("max postlude: {}".format(args.max_postlude))
 		print("output: ", args.output)
 		print("input:\n    {}".format("\n    ".join(infiles)))
 	else:
 		print("output:", args.output)
 		print("input:  {} pat files".format(len(infiles)))
 
-	pat = PatFile(args.output)
+	pat = PatFile(args.output, args.max_postlude)
 	for infile in infiles:
 		print("        {}\rparsing {}".format(" " * maxlen, infile), end='\r', flush=True)
 		pat.parse(infile, args.verbose)
