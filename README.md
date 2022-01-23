@@ -4,6 +4,10 @@ This is the source database from which the .sig files in https://github.com/rizi
 
 Please commit only pat files in here and pat files needs to be reproducible.
 
+# License
+
+LGPL 3.0
+
 ## Mandatory folder structure:
 ```
 <bin format>/<arch>/<bits>/<library>/<library>.pat
