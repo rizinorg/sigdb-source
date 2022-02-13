@@ -1,0 +1,37 @@
+6A..68........8B45EC50E8........C3.............................. 00 0000 0011 :0000 __unwindfunclet__CreateObject_CMFCToolBarsOptionsPropertyPage__SGPAVCObject__XZ_0 
+8B4DF081..........E9............................................ 00 0000 000E :0000 __unwindfunclet___0CMFCToolBarsOptionsPropertyPage__QAE_H_Z_4 
+8B4DF081..........E9............................................ 00 0000 000E :0000 __unwindfunclet___1CMFCToolBarsOptionsPropertyPage__UAE_XZ_4 
+8B4DF081..........E9............................................ 00 0000 000E :0000 __unwindfunclet___0CMFCToolBarsOptionsPropertyPage__QAE_H_Z_2 
+8B4DF081..........E9............................................ 00 0000 000E :0000 __unwindfunclet___1CMFCToolBarsOptionsPropertyPage__UAE_XZ_2 
+8B4DF081..........E9............................................ 00 0000 000E :0000 __unwindfunclet___0CMFCToolBarsOptionsPropertyPage__QAE_H_Z_5 
+8B4DF081..........E9............................................ 00 0000 000E :0000 __unwindfunclet___1CMFCToolBarsOptionsPropertyPage__UAE_XZ_5 
+8B4DF081..........E9............................................ 00 0000 000E :0000 __unwindfunclet___1CMFCToolBarsOptionsPropertyPage__UAE_XZ_3 
+8B4DF081..........E9............................................ 00 0000 000E :0000 __unwindfunclet___0CMFCToolBarsOptionsPropertyPage__QAE_H_Z_3 
+8B4DF081..........E9............................................ 00 0000 000E :0000 __unwindfunclet___0CMFCToolBarsOptionsPropertyPage__QAE_H_Z_1 
+8B4DF081..........E9............................................ 00 0000 000E :0000 __unwindfunclet___1CMFCToolBarsOptionsPropertyPage__UAE_XZ_1 
+8B4DF081..........E9............................................ 00 0000 000E :0000 __unwindfunclet___1CMFCToolBarsOptionsPropertyPage__UAE_XZ_6 
+8B4DF081..........E9............................................ 00 0000 000E :0000 __unwindfunclet___0CMFCToolBarsOptionsPropertyPage__QAE_H_Z_6 
+8B4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet___0CMFCToolBarsOptionsPropertyPage__QAE_H_Z_0 
+8B4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet___1CMFCToolBarsOptionsPropertyPage__UAE_XZ_0 
+8B5424088D420C8B4AF033C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler__CreateObject_CMFCToolBarsOptionsPropertyPage__SGPAVCObject__XZ 
+8B5424088D420C8B4AF833C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler___1CMFCToolBarsOptionsPropertyPage__UAE_XZ 
+8B5424088D420C8B4AF833C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler___0CMFCToolBarsOptionsPropertyPage__QAE_H_Z 
+8BFF558BEC51894DFC6A..8B4DFCE8........8B45FC8B88E403000051E8.... 06 F0BD 0026 :0000 _OnLargeIcons_CMFCToolBarsOptionsPropertyPage__IAEXXZ ....8BE55DC3
+8BFF558BEC51894DFC6A..8B4DFCE8........8B45FC8B88D403000089...... 1E E034 003E :0000 _OnShowTooltips_CMFCToolBarsOptionsPropertyPage__IAEXXZ ....8B55FC8B82D4030000508B4DFC81..........E8........8BE55DC3
+8BFF558BEC51894DFC6A..8B4DFCE8........8B45FC8B88E003000089...... 06 F0BD 0026 :0000 _OnShowMenusDelay_CMFCToolBarsOptionsPropertyPage__IAEXXZ ....8BE55DC3
+8BFF558BEC51894DFC6A..8B4DFCE8........8B45FC8B88D803000089...... 06 F0BD 0026 :0000 _OShowTooltipsWithKeys_CMFCToolBarsOptionsPropertyPage__IAEXXZ ....8BE55DC3
+8BFF558BEC51894DFC6A..8B4DFCE8........8B45FC8B88DC030000518B4DFC 1D 7F01 003D :0000 _OnShowRecentlyUsedMenus_CMFCToolBarsOptionsPropertyPage__IAEXXZ 81..........E8........8B55FC8B82DC030000A3........8BE55DC3
+8BFF558BEC51894DFC6AFF6A..68........E8........83....75..B9...... 0A ADFE 002A :0000 _OnResetUsageData_CMFCToolBarsOptionsPropertyPage__IAEXXZ ..E8........8BE55DC3
+8BFF558BEC51894DFC8B4508508B4DFCE8........8B4DFC81..........5168 FF 1A87 0137 :0000 _DoDataExchange_CMFCToolBarsOptionsPropertyPage__MAEXPAVCDataExchange___Z ........8B550852E8........8B45FC05........5068........8B4D0851E8........8B55FC81..........5268........8B450850E8........8B4DFC81..........5168........8B550852E8........8B45FC05........5068........8B4D0851E8........8B55FC81..........5268........8B450850E8........8B4DFC81..........5168........8B550852E8........8B45FC05........5068........8B4D0851E8........8B55FC81..........5268........8B450850E8........8B4DFC81..........5168........8B550852E8........8B45FC05........5068........8B4D0851E8........8B55FC81
+8BFF558BEC51894DFC8B45FC33C983780C000F94C18BC18BE55DC3.......... 00 0000 001B :0000 _IsEmpty___CList_II__QBEHXZ 
+8BFF558BEC51894DFC8B45FC8B80480100008BE55DC3.................... 00 0000 0016 :0000 _GetFlags_CMFCToolBarsCustomizeDialog__QBEIXZ 
+8BFF558BEC51894DFC8B4DFCE8........8B450883E00174..8B4DFC51E8.... 0B 7B15 002B :0000 ___GCMFCToolBarsOptionsPropertyPage__UAEPAXI_Z ....8B45FC8BE55DC20400
+8BFF558BEC51894DFCB8........8BE55DC3............................ 00 0000 0012 :0000 _GetRuntimeClass_CMFCToolBarsOptionsPropertyPage__UBEPAUCRuntimeClass__XZ 
+8BFF558BEC51894DFCE8........8BE55DC3............................ 00 0000 0012 :0000 _GetMessageMap_CMFCToolBarsOptionsPropertyPage__MBEPBUAFX_MSGMAP__XZ 
+8BFF558BEC6AFF68........64A1000000005051A1........33C5508D45F464 B0 D0DF 00D0 :0000 __1CMFCToolBarsOptionsPropertyPage__UAE_XZ A300000000894DF08B45F0C7..........C745FC060000008B4DF081..........E8........C645FC058B4DF081..........E8........C645FC048B4DF081..........E8........C645FC038B4DF081..........E8........C645FC028B4DF081..........E8........C645FC018B4DF081..........E8........C645FC008B4DF081..........E8........C7............8B4DF0E8........8B4DF464890D00000000598BE55DC3
+8BFF558BEC6AFF68........64A1000000005051A1........33C5508D45F464 FF 03BD 0133 :0000 __0CMFCToolBarsOptionsPropertyPage__QAE_H_Z A300000000894DF06A..6A..68........8B4DF0E8........C745FC000000008B45F0C7..........8B4DF081..........E8........C645FC018B4DF081..........E8........C645FC028B4DF081..........E8........C645FC038B4DF081..........E8........C645FC048B4DF081..........E8........C645FC058B4DF081..........E8........C645FC068B4DF081..........E8........8B4DF08B55088991E80300008B45F08B..........8988D40300008B55F0A1........8982D80300008B4DF08B..........8991DC0300008B45F08B..........8988E00300008B55F0A1........8982E4030000C7
+8BFF558BEC6AFF68........64A1000000005083EC0CA1........33C5508D45 5D 4217 007D :0000 _CreateObject_CMFCToolBarsOptionsPropertyPage__SGPAVCObject__XZ F464A3000000006A..68........68........E8........8945ECC745FC00000000837DEC0074..6A..8B4DECE8........8945E8EB..C745E8000000008B45E88945F0C7............8B45F08B4DF464890D00000000598BE55DC3
+8BFF558BEC83EC0C894DF48B4DF4E8........8B45F48B88D4030000518B4DF4 FF 2660 0191 :0000 _OnInitDialog_CMFCToolBarsOptionsPropertyPage__MAEHXZ 81..........E8........8B55F48B82DC030000508B4DF481..........E8........B9........E8........85C075..8B4DF483B9E8030000000F85........6A..8B4DF481..........E8........6A..8B4DF481..........E8........6A..8B4DF481..........E8........6A..8B4DF481..........E8........6A..8B4DF481..........E8........6A..8B4DF481..........E8........6A..8B4DF481..........E8........6A..8B4DF481..........E8........6A..8B4DF481..........E8........6A..8B4DF481..........E8........8B4DF4E8........5068........E8........83C4088945FC33D2837DFC
+8BFF558BEC8B451083E80189451078..8B4D08FF....8B4D08034D0C894D08EB 05 ABBD 0025 :0000 ___H_YGXPAXIHP6EPAX0_Z_Z ..5DC21000
+8BFF558BECB8........5DC3........................................ 00 0000 000C :0000 _GetThisMessageMap_CMFCToolBarsOptionsPropertyPage__KGPBUAFX_MSGMAP__XZ 
+---

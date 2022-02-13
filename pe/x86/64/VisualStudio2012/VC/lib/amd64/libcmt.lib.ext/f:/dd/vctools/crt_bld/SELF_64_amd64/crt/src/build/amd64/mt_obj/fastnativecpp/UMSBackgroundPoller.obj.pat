@@ -1,0 +1,30 @@
+0FB7C10D........85C90F4EC1C3.................................... 00 0000 000E :0000 HRESULT_FROM_WIN32 
+40534883EC2048832100488BD94883C108E8........488B00488BC34883C420 02 8FCC 0022 :0000 __0__SafeRWList_UListEntry_details_Concurrency__VNoCount_CollectionTypes_23_V_ReaderWriterLock_23__details_Concurrency__QEAA 5BC3
+40534883EC20488BD9488911488BCAE8........488BC34883C4205BC3...... 00 0000 001D :0000 __0_Scoped_lock__ReaderWriterLock_details_Concurrency__QEAA_AEAV123__Z 
+40534883EC20488BD9488911488D4A08E8........488BC34883C4205BC3.... 00 0000 001E :0000 __0_Scoped_lock___SafeRWList_UListEntry_details_Concurrency__VNoCount_CollectionTypes_23_V_ReaderWriterLock_23__details_Concu 
+40534883EC20488BD94C8982E000000048............48......E8........ 20 7DAE 0040 :0000 _InsertProxyInCompletionWhenAwake_UMSBackgroundPoller_details_Concurrency__QEAAXPEAVUMSThreadProxy_23_PEAVUMSSchedulerProxy_2 B801000000F00FC14308FFC083....75..488B0BFF..........4883C4205BC3
+40534883EC4048832100C74108000000004883611000488BD948......E8.... 56 3859 0076 :0000 __0UMSBackgroundPoller_details_Concurrency__QEAA_XZ ....4533C94533C0488B0033D233C9FF..........4889034885C074..488BC34883C4405BC3FF..........488D4C24200FB7D081..........85C00F4ED0E8........48............488D4C2420E8........CC
+483B1174..488B4208C333C0C3...................................... 00 0000 000D :0000 _Next___List_UListEntry_details_Concurrency__VNoCount_CollectionTypes_23__details_Concurrency__QEBAPEAUListEntry_23_PEAU423 
+48832100488BC1C3................................................ 00 0000 0008 :0000 __0__List_UListEntry_details_Concurrency__VNoCount_CollectionTypes_23__details_Concurrency__QEAA_XZ 
+4883C108E9...................................................... 00 0000 0009 :0000 _ReleaseWrite___SafeRWList_UListEntry_details_Concurrency__VNoCount_CollectionTypes_23_V_ReaderWriterLock_23__details_Concurr 
+4883C108E9...................................................... 00 0000 0009 :0000 _AcquireWrite___SafeRWList_UListEntry_details_Concurrency__VNoCount_CollectionTypes_23_V_ReaderWriterLock_23__details_Concurr 
+48895C240848896C24104889742418574883EC20498BF1418BD8488BEA488BF9 23 9DD1 0043 :0000 ___H_YAXPEAX_KHP6APEAX0_Z_Z EB..488BCFFFD64803FDFFCB79..488B5C2430488B6C2438488B7424404883C4205FC3
+48895C24084889742410574883EC20488BF14883C108488BFAE8........488B 45 E74C 0069 :0000 _AddTail___SafeRWList_UListEntry_details_Concurrency__VNoCount_CollectionTypes_23_V_ReaderWriterLock_23__details_Concurrency 064885C075..48897F0848893FEB..488B400848894708488B06488907488B06488B4808488939488B0648897808488D4E0848893E488B5C2430488B7424384883C4205FE9
+48895C24084889742410574883EC208BF2488BD9F6....74..488D79F84C.... 4E 6E83 006E :0000 ___EGlobalCore_details_Concurrency__QEAAPEAXI_Z ........BA........448B07E8........40......74..488BCFE8........488BC7EB..488B4928E8........40......74..488BCBE8........488BC3488B5C2430488B7424384883C4205FC3
+48895C2408574883EC20488BDA488BF9E8........48............4889078B 13 995F 0033 :0000 __0scheduler_resource_allocation_error_Concurrency__QEAA_AEBV01__Z 4318488B5C2430894718488BC74883C4205FC3
+48895C2408574883EC208BDA488BF9E8........F6....74..488BCFE8...... 0F 97B5 002F :0000 ___Gscheduler_resource_allocation_error_Concurrency__UEAAPEAXI_Z ..488BC7488B5C24304883C4205FC3
+488B014C8BC14885C075..48895208488912EB..488B400848894208488B0148 17 D39A 0037 :0000 _AddTail___List_UListEntry_details_Concurrency__VNoCount_CollectionTypes_23__details_Concurrency__QEAAXPEAUListEntry_23__Z 8902488B01488B4808488911498B0048895008498910C3
+488B0948........................................................ 00 0000 000A :0000 __1UMSBackgroundPoller_details_Concurrency__QEAA_XZ 
+488B094883C108E9................................................ 00 0000 000C :0000 __1_Scoped_lock___SafeRWList_UListEntry_details_Concurrency__VNoCount_CollectionTypes_23_V_ReaderWriterLock_23__details_Concu 
+488B09E9........................................................ 00 0000 0008 :0000 __1_Scoped_lock__ReaderWriterLock_details_Concurrency__QEAA_XZ 
+488B1133C04885D274..488B4208C3.................................. 00 0000 000F :0000 _First___List_UListEntry_details_Concurrency__VNoCount_CollectionTypes_23__details_Concurrency__QEBAPEAUListEntry_23_XZ 
+488B4928E9...................................................... 00 0000 0009 :0000 __1GlobalCore_details_Concurrency__QEAA_XZ 
+488BC457415641574883EC3048C740D8FEFFFFFF488958104889681848897020 BC ACE5 00DC :0000 _DoPolling_UMSBackgroundPoller_details_Concurrency__QEAA_NXZ 488BE9488D5910488958084C8D7B08498BCFE8........90488B3B4885FF74..488B7F084885FF74..483B3B74..488B7708EB..33F64C8DB750FFFFFF498BCEE8........84C075..488B4F08488B07488901488B0F488B470848894108488B03483BF875..483B400875..33C0EB..488B00488903F0FF4D08498BD6498B8EE0000000E8........488BFE4885F675..8B450885C00F94C3498BCFE8........8AC3488B5C2458488B6C2460488B7424684883C430415F415E5FC3
+488D8A50000000E9................................................ 00 0000 000C :0000 _dtor_0__0__DoPolling_UMSBackgroundPoller_details_Concurrency__QEAA_NXZ_4HA 
+4C8B4208488B02498900488B42084C8B0249894008488B01483BD075..483B40 0E 990B 002E :0000 _UnlockedRemove___SafeRWList_UListEntry_details_Concurrency__VNoCount_CollectionTypes_23_V_ReaderWriterLock_23__details_Concu 0875..33C0EB..488B00488901C3
+4C8B4208488B02498900488B42084C8B0249894008488B01483BD075..483B40 0E 990B 002E :0000 _Remove___List_UListEntry_details_Concurrency__VNoCount_CollectionTypes_23__details_Concurrency__QEAAXPEAUListEntry_23__Z 0875..33C0EB..488B00488901C3
+8B1183FAFF0F94C0C3.............................................. 00 0000 0009 :0000 __HasWriteLock__ReaderWriterLock_details_Concurrency__QEBA_NXZ 
+C20000.......................................................... 00 0000 0003 :0000 _Decrement_NoCount_CollectionTypes_details_Concurrency__SAXXZ 
+C20000.......................................................... 00 0000 0003 :0000 _Increment_NoCount_CollectionTypes_details_Concurrency__SAXXZ 
+E9.............................................................. 00 0000 0005 :0000 __1scheduler_resource_allocation_error_Concurrency__UEAA_XZ 
+---

@@ -217,7 +217,6 @@ def main():
 			sys.exit(1)
 		maxlen = max(maxlen, len(infile))
 
-
 	for folder in args.directory:
 		if not os.path.isdir(folder):
 			print("Error: '{}' is not a directory/folder.".format(folder))
@@ -227,6 +226,10 @@ def main():
 	if os.path.isfile(args.output) and not args.overwrite and not args.test:
 		print("Error: '{}' does exists. (overwrite is not allowed)".format(args.output))
 		sys.exit(1)
+
+	if args.output in infiles:
+		print("Info: removed {} from input files.".format(args.output))
+		infiles.remove(args.output)
 
 	if len(infiles) < 1:
 		print("Error: no pat files has been given in input or were found in the given directories")

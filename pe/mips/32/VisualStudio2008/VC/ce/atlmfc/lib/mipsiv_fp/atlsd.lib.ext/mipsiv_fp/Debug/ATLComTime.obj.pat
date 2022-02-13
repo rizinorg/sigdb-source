@@ -1,0 +1,81 @@
+004004000000A8AF0000A88F000006D50000083C000004D53C30244608000145 34 A824 0054 :0000 _CheckRange_COleDateTimeSpan_ATL__QAAXXZ 000000000000A88F000006D50000083C000004D53F30244604000145000000000000A98F01000824080028AD0800E00300000000
+004005000800A8AF004004000000A8AF0000A98F0800A88F080028AD0800E003 04 DEFC 0024 :0000 _SetStatus_COleDateTimeSpan_ATL__QAAXW4DateTimeSpanStatus_12__Z 00000000
+004005000800A8AF004004000000A8AF0000A98F0800A88F080028AD0800E003 04 DEFC 0024 :0000 _SetStatus_COleDateTime_ATL__QAAXW4DateTimeStatus_12__Z 00000000
+A0FFBD27........................................................ 00 0000 0004 :0000 _AtlConvertSystemTimeToVariantTime_ATL__YAHABU_SYSTEMTIME__PAN_Z 
+B0FFBD27........................................................ 00 0000 0004 :0000 __YCOleDateTimeSpan_ATL__QAAAAV01_V01__Z 
+B0FFBD27........................................................ 00 0000 0004 :0000 __ZCOleDateTimeSpan_ATL__QAAAAV01_V01__Z 
+B0FFBD27........................................................ 00 0000 0004 :0000 __0COleDateTime_ATL__QAA_HHHHHH_Z 
+B0FFBD27........................................................ 00 0000 0004 :0000 __MCOleDateTime_ATL__QBA_NABV01__Z 
+B0FFBD27........................................................ 00 0000 0004 :0000 __OCOleDateTime_ATL__QBA_NABV01__Z 
+B0FFBD27........................................................ 00 0000 0004 :0000 _SetDate_COleDateTime_ATL__QAAHHHH_Z 
+B0FFBD27........................................................ 00 0000 0004 :0000 _SetTime_COleDateTime_ATL__QAAHHHH_Z 
+B0FFBD27........................................................ 00 0000 0004 :0000 _AtlThrowImpl_ATL__YAXJ_Z 
+B0FFBD27........................................................ 00 0000 0004 :0000 __RCTraceFileAndLineInfo_ATL__QBAXKIPB_WZZ 
+B0FFBD27........................................................ 00 0000 0004 :0000 _TraceV_CTrace_ATL__QBAXPBDHKIPB_WPAD_Z 
+B8FFBD27........................................................ 00 0000 0004 :0000 _GetTotalDays_COleDateTimeSpan_ATL__QBANXZ 
+B8FFBD27........................................................ 00 0000 0004 :0000 _GetTotalHours_COleDateTimeSpan_ATL__QBANXZ 
+B8FFBD27........................................................ 00 0000 0004 :0000 _GetTotalMinutes_COleDateTimeSpan_ATL__QBANXZ 
+B8FFBD27........................................................ 00 0000 0004 :0000 _GetTotalSeconds_COleDateTimeSpan_ATL__QBANXZ 
+B8FFBD27........................................................ 00 0000 0004 :0000 __MCOleDateTimeSpan_ATL__QBA_NABV01__Z 
+B8FFBD27........................................................ 00 0000 0004 :0000 __OCOleDateTimeSpan_ATL__QBA_NABV01__Z 
+B8FFBD27........................................................ 00 0000 0004 :0000 _GetDayOfYear_COleDateTime_ATL__QBAHXZ 
+B8FFBD27........................................................ 00 0000 0004 :0000 __4COleDateTime_ATL__QAAAAV01_AB_J_Z 
+B8FFBD27........................................................ 00 0000 0004 :0000 __4COleDateTime_ATL__QAAAAV01_ABU_FILETIME___Z 
+B8FFBD27........................................................ 00 0000 0004 :0000 __HCOleDateTime_ATL__QBA_AV01_VCOleDateTimeSpan_1__Z 
+B8FFBD27........................................................ 00 0000 0004 :0000 __GCOleDateTime_ATL__QBA_AV01_VCOleDateTimeSpan_1__Z 
+B8FFBD27........................................................ 00 0000 0004 :0000 __YCOleDateTime_ATL__QAAAAV01_VCOleDateTimeSpan_1__Z 
+B8FFBD27........................................................ 00 0000 0004 :0000 __ZCOleDateTime_ATL__QAAAAV01_VCOleDateTimeSpan_1__Z 
+B8FFBD27........................................................ 00 0000 0004 :0000 __GCOleDateTime_ATL__QBA_AVCOleDateTimeSpan_1_ABV01__Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 __8COleDateTimeSpan_ATL__QBA_NABV01__Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 __HCOleDateTimeSpan_ATL__QBA_AV01_ABV01__Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 __GCOleDateTimeSpan_ATL__QBA_AV01_ABV01__Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 _GetYear_COleDateTime_ATL__QBAHXZ 
+C0FFBD27........................................................ 00 0000 0004 :0000 _GetMonth_COleDateTime_ATL__QBAHXZ 
+C0FFBD27........................................................ 00 0000 0004 :0000 _GetDay_COleDateTime_ATL__QBAHXZ 
+C0FFBD27........................................................ 00 0000 0004 :0000 _GetHour_COleDateTime_ATL__QBAHXZ 
+C0FFBD27........................................................ 00 0000 0004 :0000 _GetMinute_COleDateTime_ATL__QBAHXZ 
+C0FFBD27........................................................ 00 0000 0004 :0000 _GetSecond_COleDateTime_ATL__QBAHXZ 
+C0FFBD27........................................................ 00 0000 0004 :0000 _GetDayOfWeek_COleDateTime_ATL__QBAHXZ 
+C0FFBD27........................................................ 00 0000 0004 :0000 __4COleDateTime_ATL__QAAAAV01_ABUtagVARIANT___Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 __8COleDateTime_ATL__QBA_NABV01__Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 __BCOleDateTime_ATL__QBANXZ 
+C0FFBD27........................................................ 00 0000 0004 :0000 _SetDateTime_COleDateTime_ATL__QAAHHHHHHH_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 __0COleDateTimeSpan_ATL__QAA_JHHH_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _GetDays_COleDateTimeSpan_ATL__QBAJXZ 
+C8FFBD27........................................................ 00 0000 0004 :0000 _DoubleFromDate_COleDateTime_ATL__KANN_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _DateFromDouble_COleDateTime_ATL__KANN_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0COleDateTimeSpan_ATL__QAA_N_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetHours_COleDateTimeSpan_ATL__QBAJXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetMinutes_COleDateTimeSpan_ATL__QBAJXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetSeconds_COleDateTimeSpan_ATL__QBAJXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __4COleDateTimeSpan_ATL__QAAAAV01_N_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __9COleDateTimeSpan_ATL__QBA_NABV01__Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __NCOleDateTimeSpan_ATL__QBA_NABV01__Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __PCOleDateTimeSpan_ATL__QBA_NABV01__Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __GCOleDateTimeSpan_ATL__QBA_AV01_XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetCurrentTime_COleDateTime_ATL__SA_AV12_XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0COleDateTime_ATL__QAA_ABUtagVARIANT___Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0COleDateTime_ATL__QAA__J_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0COleDateTime_ATL__QAA_ABU_SYSTEMTIME___Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0COleDateTime_ATL__QAA_ABU_FILETIME___Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetAsSystemTime_COleDateTime_ATL__QBA_NAAU_SYSTEMTIME___Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetAsUDATE_COleDateTime_ATL__QBA_NAAUUDATE___Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __4COleDateTime_ATL__QAAAAV01_ABU_SYSTEMTIME___Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _ConvertSystemTimeToVariantTime_COleDateTime_ATL__IAAHABU_SYSTEMTIME___Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __4COleDateTime_ATL__QAAAAV01_ABUUDATE___Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __9COleDateTime_ATL__QBA_NABV01__Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __NCOleDateTime_ATL__QBA_NABV01__Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __PCOleDateTime_ATL__QBA_NABV01__Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _SetDateTimeSpan_COleDateTimeSpan_ATL__QAAXJHHH_Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _CheckRange_COleDateTime_ATL__IAAXXZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 __AtlRaiseException_ATL__YAXKK_Z 
+F8FFBD27004004000800A8AF0020A0440800A88F000004F50800A88F080000AD 18 0155 0038 :0000 __0COleDateTimeSpan_ATL__QAA_XZ 0800A88F0000A8AF0000A28F0800BD270800E00300000000
+F8FFBD27004004000800A8AF0020A0440800A88F000004F50800A88F080000AD 18 0155 0038 :0000 __0COleDateTime_ATL__QAA_XZ 0800A88F0000A8AF0000A28F0800BD270800E00300000000
+F8FFBD27004004000800A8AF0800A88F000004D50000A4F70000A0D70800BD27 08 1031 0028 :0000 __BCOleDateTimeSpan_ATL__QBANXZ 0800E00300000000
+F8FFBD27004004000800A8AF0800A88F0000088D0000A8AF0000A28F0800BD27 08 1031 0028 :0000 __BCTraceCategory_ATL__QBAKXZ 0800E00300000000
+F8FFBD27004004000800A8AF0800A88F0800088D0000A8AF0000A28F0800BD27 08 1031 0028 :0000 _GetStatus_COleDateTimeSpan_ATL__QBA_AW4DateTimeSpanStatus_12_XZ 0800E00300000000
+F8FFBD27004004000800A8AF0800A88F0800088D0000A8AF0000A28F0800BD27 08 1031 0028 :0000 _GetStatus_COleDateTime_ATL__QBA_AW4DateTimeStatus_12_XZ 0800E00300000000
+F8FFBD27004006001800A8AF004005001000A8AF004004000800A8AF1000A98F 2C 600D 004C :0000 __0CTraceFileAndLineInfo_ATL__QAA_PBDH_Z 0800A88F000009AD0800A98F1800A88F040028AD0800A88F0000A8AF0000A28F0800BD270800E00300000000
+F8FFBD271000ADF7004004000800A8AF1000A4D70800A88F000004F50800A88F 1C D829 003C :0000 __0COleDateTime_ATL__QAA_N_Z 080000AD0800A88F0000A8AF0000A28F0800BD270800E00300000000
+F8FFBD271000ADF7004004000800A8AF1000A4D70800A88F000004F50800A88F 1C D829 003C :0000 __4COleDateTime_ATL__QAAAAV01_N_Z 080000AD0800A88F0000A8AF0000A28F0800BD270800E00300000000
+---

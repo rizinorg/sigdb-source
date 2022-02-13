@@ -1,0 +1,4 @@
+03B42DE90048EB4682B0084B1B680093009800F0........................ 00 0000 0014 :0000 __New_handler_interface_std__YAHI_Z 
+03B42DE980480DF1................................................ 00 0000 0008 :0000 _set_new_handler_std__YAP6AXXZP6AXXZ_Z 
+2DE980480DF1040B87B06F466FF00103C7E904330121384600F0F2F9........ 00 0000 001C :0000 _get_new_handler_std__YAP6AXXZXZ 
+---

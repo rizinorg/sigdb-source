@@ -1,0 +1,27 @@
+33C0C3.......................................................... 00 0000 0003 :0000 __AfxInitManaged__YAHXZ 
+53568B74240C8BD98B0356FF....85C00F85........8B03578BCBFF....8BF8 8E 9FDF 00AE :0000 _GetInterface_CCmdTarget__QAEPAUIUnknown__PBX_Z 8B0639..........75..8B46043B..........75..8B46083B..........75..8B460C3B..........75..8B4F0433D2EB..8B410403C3391075..83C108391175..8B3F3BFA75..EB..8B5704EB..8B06390175..8B41043B460475..8B41083B460875..8B410C3B460C75..8B420403C383380075..83C2088B0A85C975..8B3F85FF75..33C05F5E5BC20400
+558BEC51518B015657894DF8FF....8BF88B4704EB..83C00883380075..8D70 40 A118 0060 :0000 _QueryAggregates_CCmdTarget__QAEPAUIUnknown__PBX_Z 04EB..8B068B4DF88B040185C074..8B088365FC008D55FC52FF750850FF..85C075..8B45FC85C075..83C608833EFF75..8B3F85FF75..33C05F5EC9C20400
+558BEC518B45088B088365FC008D55FC52FF750C50FF..F7D81BC0F7D02345FC 04 864F 0024 :0000 __AfxQueryInterface__YGPAUIUnknown__PAU1_ABU_GUID___Z C9C20800
+558BEC56578B7D0868........FF750C8D77F4E8........85C0595974..83C6 24 6835 0044 :0000 _QueryInterface_CInnerUnknown__UAGJABU_GUID__PAPAX_Z 0456FF..........8B4510893833C0EB..FF75108BCEFF750CE8........5F5E5DC20C00
+5657FF74240C8BF9E8........85C08B74241089068BCF74..E8........33C0 20 A016 0040 :0000 _InternalQueryInterface_CCmdTarget__QAEKPBXPAPAX_Z EB..FF74240CE8........8906F7D81BC025........05........5F5EC20800
+568B7424088B0685C074..8B0850FF....832600EB..33C05EC20400........ 00 0000 001C :0000 __AfxRelease__YGKPAPAUIUnknown___Z 
+568D7104833E0074..5768........E8........568BF8FF..........6A..57 0C 70F8 002C :0000 _ExternalDisconnect_CCmdTarget__QAEXXZ FF..........8326005F5EC3
+6A..B8........E8........8BF18D460483380075..33C0EB..50FF........ 36 4E6C 0056 :0000 _InternalRelease_CCmdTarget__QAEKXZ ..8BD885DB75..FF761C8D4DECE8........8B06215DFC8BCEFF....83......395DF074..FF75EC53E8........8BC3E8........C3
+6A..B8........E8........8B7508FF761083C6F48D4DECE8........8365FC 28 BC3A 0048 :0000 _Release_CInnerUnknown__UAGKXZ 008BCEE8........83......837DF0008BF074..FF75EC6A..E8........8BC6E8........C20400
+6A..FF74240CFF74240CE8........83C40CF7D81BC040C3................ 00 0000 0018 :0000 _IsEqualGUID 
+8379040074..FF316A..E8........C3................................ 00 0000 0010 :0000 __1AFX_MAINTAIN_STATE2__QAE_XZ 
+8379080074..8B41088B0850FF....C383C10451FF..........C3.......... 00 0000 001B :0000 _ExternalAddRef_CCmdTarget__QAEKXZ 
+8379080074..8B41088B0850FF....C3E9.............................. 00 0000 0015 :0000 _ExternalRelease_CCmdTarget__QAEKXZ 
+8379080074..FF7424088B4108FF7424088B0850FF..C20800E9............ 00 0000 001E :0000 _ExternalQueryInterface_CCmdTarget__QAEKPBXPAPAX_Z 
+83C10451FF..........C3.......................................... 00 0000 000B :0000 _InternalAddRef_CCmdTarget__QAEKXZ 
+8B410885C075..68........E8........C3............................ 00 0000 0012 :0000 _GetControllingUnknown_CCmdTarget__QAEPAUIUnknown__XZ 
+8B44240483C0F850FF..........C20400.............................. 00 0000 0011 :0000 _AddRef_CInnerUnknown__UAGKXZ 
+8B5424088D420C8B4AE833C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler__InternalRelease_CCmdTarget__QAEKXZ 
+8B5424088D420C8B4AE833C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler__Release_CInnerUnknown__UAGKXZ 
+8BC1C3.......................................................... 00 0000 0003 :0000 __0IUnknown__QAE_XZ 
+8BC1C7..........C3.............................................. 00 0000 0009 :0000 __0CInnerUnknown__QAE_XZ 
+8D4DECE9........................................................ 00 0000 0008 :0000 __unwindfunclet__InternalRelease_CCmdTarget__QAEKXZ_0 
+8D4DECE9........................................................ 00 0000 0008 :0000 __unwindfunclet__Release_CInnerUnknown__UAGKXZ_0 
+C7............C3................................................ 00 0000 0008 :0000 _EnableAggregation_CCmdTarget__QAEXXZ 
+E9.............................................................. 00 0000 0005 :0000 fcn.00001a40 
+---

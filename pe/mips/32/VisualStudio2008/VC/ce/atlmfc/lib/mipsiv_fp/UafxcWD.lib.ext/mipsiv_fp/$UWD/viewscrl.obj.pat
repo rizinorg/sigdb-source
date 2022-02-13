@@ -1,0 +1,36 @@
+38FFBD27........................................................ 00 0000 0004 :0000 _UpdateBars_CScrollView__IAAXXZ 
+60FFBD27........................................................ 00 0000 0004 :0000 _ResizeParentToFit_CScrollView__QAAXH_Z 
+90FFBD27........................................................ 00 0000 0004 :0000 _OnPrepareDC_CScrollView__UAAXPAVCDC___Z 
+90FFBD27........................................................ 00 0000 0004 :0000 _SetScrollSizes_CScrollView__QAAXHUtagSIZE__ABU2_1_Z 
+98FFBD27........................................................ 00 0000 0004 :0000 _ScrollChildren_ATL__YAXPAUHWND____HH_Z 
+A0FFBD27........................................................ 00 0000 0004 :0000 _GetScrollBarState_CScrollView__IAAXVCSize__AAV2_1AAVCPoint__H_Z 
+A8FFBD27........................................................ 00 0000 0004 :0000 _OnScrollBy_CScrollView__UAAHVCSize__H_Z 
+A8FFBD27........................................................ 00 0000 0004 :0000 _OnScroll_CScrollView__UAAHIIH_Z 
+B0FFBD27........................................................ 00 0000 0004 :0000 _GetScrollPosition_CScrollView__QBA_AVCPoint__XZ 
+B0FFBD27........................................................ 00 0000 0004 :0000 _CenterOnPoint_CScrollView__IAAXVCPoint___Z 
+B0FFBD27........................................................ 00 0000 0004 :0000 _CalcWindowRect_CScrollView__UAAXPAUtagRECT__I_Z 
+B0FFBD27........................................................ 00 0000 0004 :0000 __RCTraceFileAndLineInfo_ATL__QBAXKIPB_WZZ 
+B0FFBD27........................................................ 00 0000 0004 :0000 _TraceV_CTrace_ATL__QBAXPBDHKIPB_WPAD_Z 
+B8FFBD27........................................................ 00 0000 0004 :0000 _GetTrueClientSize_CScrollView__IAAHAAVCSize__0_Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 _ScrollToDevicePosition_CScrollView__IAAXUtagPOINT___Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 _GetDeviceScrollPosition_CScrollView__QBA_AVCPoint__XZ 
+C8FFBD27........................................................ 00 0000 0004 :0000 _FillOutsideRect_CScrollView__QAAXPAVCDC__PAVCBrush___Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _GetDeviceScrollSizes_CScrollView__QBAXAAHAAUtagSIZE__11_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _GetWheelScrollDistance_CScrollView__UAA_AVCSize__V2_HH_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetMessageMap_CScrollView__MBAPBUAFX_MSGMAP__XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 _OnHScroll_CScrollView__QAAXIIPAVCScrollBar___Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _OnVScroll_CScrollView__QAAXIIPAVCScrollBar___Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0CScrollView__IAA_XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetScrollBarSizes_CScrollView__IAAXAAVCSize___Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_148126 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetNextWindow_ATL__YAPAUHWND____PAU2_I_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _AssertValid_CScrollView__UBAXXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 ___GCScrollView__UAAPAXI_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _ScrollToPosition_CScrollView__QAAXUtagPOINT___Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _OnSize_CScrollView__QAAXIHH_Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 __1CScrollView__UAA_XZ 
+F8FFBD270000083C000008250000A8AF0000A28F0800BD270800E00300000000 00 0000 0020 :0000 _GetThisMessageMap_CScrollView__KAPBUAFX_MSGMAP__XZ 
+F8FFBD27004004000800A8AF0000083C000008250000A8AF0000A28F0800BD27 08 1031 0028 :0000 _GetRuntimeClass_CScrollView__UBAPAUCRuntimeClass__XZ 0800E00300000000
+F8FFBD27004004000800A8AF0800A88F0000088D0000A8AF0000A28F0800BD27 08 1031 0028 :0000 __BCTraceCategory_ATL__QBAKXZ 0800E00300000000
+F8FFBD27004006001800A8AF004005001000A8AF004004000800A8AF1000A98F 2C 600D 004C :0000 __0CTraceFileAndLineInfo_ATL__QAA_PBDH_Z 0800A88F000009AD0800A98F1800A88F040028AD0800A88F0000A8AF0000A28F0800BD270800E00300000000
+---

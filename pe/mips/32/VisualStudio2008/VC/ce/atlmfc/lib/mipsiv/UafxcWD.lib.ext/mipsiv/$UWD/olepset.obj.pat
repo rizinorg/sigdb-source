@@ -1,0 +1,210 @@
+004005000800A8AF004004000000A8AF0000A98F0800A88F040028AD0800E003 04 DEFC 0024 :0000 _SetType_CProperty__QAAXK_Z 00000000
+004005000800A8AF004004000000A8AF0000A98F0800A88F040028AD0800E003 04 DEFC 0024 :0000 _SetOSVersion_CPropertySet__QAAXK_Z 00000000
+004005000800A8AF004004000000A8AF0800A98F0000A88F000009AD0800E003 04 DEFC 0024 :0000 _SetID_CProperty__QAAXK_Z 00000000
+004005000800A8AF004004000000A8AF0800E00300000000................ 00 0000 0018 :0000 __3_YAXPAX0_Z 
+0800A5A7004004000000A8AF0000A98F0800A897020028A50800E00300000000 00 0000 0020 :0000 _SetFormatVersion_CPropertySet__QAAXG_Z 
+68FFBD27........................................................ 00 0000 0004 :0000 _WriteToStream_CPropertySection__QAAHPAUIStream___Z 
+70FFBD27........................................................ 00 0000 0004 :0000 _WriteToStream_CPropertySet__QAAHPAUIStream___Z 
+78FFBD27........................................................ 00 0000 0004 :0000 _ReadFromStream_CPropertySet__QAAHPAUIStream___Z 
+90FCBD27........................................................ 00 0000 0004 :0000 _ReadNameDictFromStream_CPropertySection__QAAHPAUIStream___Z 
+90FFBD27........................................................ 00 0000 0004 :0000 _Set_CProperty__QAAHQAX_Z 
+90FFBD27........................................................ 00 0000 0004 :0000 _ReadFromStream_CPropertySection__QAAHPAUIStream__T_LARGE_INTEGER___Z 
+90FFBD27........................................................ 00 0000 0004 :0000 __wcstombsz_ATL__YAHPADPB_WK_Z 
+98FFBD27........................................................ 00 0000 0004 :0000 _SetName_CPropertySection__QAAHKPB_W_Z 
+98FFBD27........................................................ 00 0000 0004 :0000 _WriteNameDictToStream_CPropertySection__QAAHPAUIStream___Z 
+A0FEBD27........................................................ 00 0000 0004 :0000 __AfxWriteNameDictEntry__YAHPAUIStream__KAAV__CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL___Z 
+A0FFBD27........................................................ 00 0000 0004 :0000 _ReadFromStream_CProperty__QAAHPAUIStream___Z 
+A0FFBD27........................................................ 00 0000 0004 :0000 __mbstowcsz_ATL__YAHPA_WPBDK_Z 
+A0FFBD27........................................................ 00 0000 0004 :0000 ___SerializeElements_PAX__YAXAAVCArchive__PAPAXH_Z 
+A0FFBD27........................................................ 00 0000 0004 :0000 _NewAssoc___CMap_V__CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__PB_WPAXPAX__IAAPAVCAssoc_1_PB_W_Z 
+A8FFBD27........................................................ 00 0000 0004 :0000 __AfxConvertStringProp__YAPAEPAEKKI_Z 
+A8FFBD27........................................................ 00 0000 0004 :0000 _WriteToStream_CProperty__QAAHPAUIStream___Z 
+A8FFBD27........................................................ 00 0000 0004 :0000 _Set_CPropertySet__QAAHU_GUID__KPAXK_Z 
+A8FFBD27........................................................ 00 0000 0004 :0000 _Serialize___CMap_V__CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__PB_WPAXPAX__UAAXAAVCArchive___Z 
+B0FEBD27........................................................ 00 0000 0004 :0000 _GetVersion_ATL__YAKXZ 
+B0FFBD27........................................................ 00 0000 0004 :0000 _AddSection_CPropertySet__QAAPAVCPropertySection__U_GUID___Z 
+B0FFBD27........................................................ 00 0000 0004 :0000 _GetNextAssoc___CMap_V__CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__PB_WPAXPAX__QBAXAAPAU__POSITION__AAV__CStri 
+B0FFBD27........................................................ 00 0000 0004 :0000 __RCTraceFileAndLineInfo_ATL__QBAXKIPB_WZZ 
+B0FFBD27........................................................ 00 0000 0004 :0000 _TraceV_CTrace_ATL__QBAXPBDHKIPB_WPAD_Z 
+B0FFBD27........................................................ 00 0000 0004 :0000 _CheckImplicitLoad___CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__AAA_NPBX_Z 
+B0FFBD27........................................................ 00 0000 0004 :0000 _CloneData___CSimpleStringT__W_0A__ATL__CAPAUCStringData_2_PAU32__Z 
+B0FFBD27........................................................ 00 0000 0004 :0000 _Fork___CSimpleStringT__W_0A__ATL__AAAXH_Z 
+B8FFBD27........................................................ 00 0000 0004 :0000 _Set_CPropertySection__QAAHKPAXK_Z 
+B8FFBD27........................................................ 00 0000 0004 :0000 _GetID_CPropertySection__QAAHPB_WPAK_Z 
+B8FFBD27........................................................ 00 0000 0004 :0000 _Get_CPropertySet__QAAPAXU_GUID__K_Z 
+B8FFBD27........................................................ 00 0000 0004 :0000 _Remove_CPropertySet__QAAXU_GUID___Z 
+B8FFBD27........................................................ 00 0000 0004 :0000 _AtlThrowImpl_ATL__YAXJ_Z 
+B8FFBD27........................................................ 00 0000 0004 :0000 __0__CSimpleStringT__W_0A__ATL__QAA_PAUIAtlStringMgr_1__Z 
+B8FFBD27........................................................ 00 0000 0004 :0000 _NewNode___CList_PAXPAX__IAAPAUCNode_1_PAU21_0_Z 
+B8FFBD27........................................................ 00 0000 0004 :0000 _InitHashTable___CMap_V__CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__PB_WPAXPAX__QAAXIH_Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 __0CPropertySection__QAA_U_GUID___Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 _Remove_CPropertySection__QAAXK_Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 __0CPropertySet__QAA_U_GUID___Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 _Set_CPropertySet__QAAHU_GUID__KPAX_Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 _Get_CPropertySet__QAAPAXU_GUID__KPAK_Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 _GetSection_CPropertySet__QAAPAVCPropertySection__U_GUID___Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 _GetProperty_CPropertySet__QAAPAVCProperty__U_GUID__K_Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 __4__CSimpleStringT__W_0A__ATL__QAAAAV01_ABV01__Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 __AtlGetStringResourceImage_ATL__YAPBUATLSTRINGRESOURCEIMAGE_1_PAUHINSTANCE____PAUHRSRC____I_Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 _Reallocate___CSimpleStringT__W_0A__ATL__AAAXH_Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 _SetString___CSimpleStringT__W_0A__ATL__QAAXPB_WH_Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 __A__CMap_V__CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__PB_WPAXPAX__QAAAAPAXPB_W_Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 _Compare___CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__QBAHPB_W_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 __AfxCountPrefixedStringA__YAPAXPBD_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 __AfxCountPrefixedStringW__YAPAXPB_W_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 __0CPropertySection__QAA_XZ 
+C8FFBD27........................................................ 00 0000 0004 :0000 _RemoveAll_CPropertySection__QAAXXZ 
+C8FFBD27........................................................ 00 0000 0004 :0000 _GetProperty_CPropertySection__QAAPAVCProperty__K_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 __catch_149591 
+C8FFBD27........................................................ 00 0000 0004 :0000 __0CPropertySet__QAA_XZ 
+C8FFBD27........................................................ 00 0000 0004 :0000 _Remove_CPropertySet__QAAXU_GUID__K_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _RemoveAll_CPropertySet__QAAXXZ 
+C8FFBD27........................................................ 00 0000 0004 :0000 _AddProperty_CPropertySet__QAAXU_GUID__PAVCProperty___Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _MakeLower___CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__QAAAAV12_XZ 
+C8FFBD27........................................................ 00 0000 0004 :0000 __0__CMap_V__CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__PB_WPAXPAX__QAA_H_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _Lookup___CMap_V__CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__PB_WPAXPAX__QBAHPB_WAAPAX_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 ___AtlAddThrow_I_ATL__YAIII_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _Release_CStringData_ATL__QAAXXZ 
+C8FFBD27........................................................ 00 0000 0004 :0000 __0__CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__QAA_PB_W_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _PrepareWrite___CSimpleStringT__W_0A__ATL__AAAPA_WH_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _LoadStringW___CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__QAAHPAUHINSTANCE____I_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _ReleaseBufferSetLength___CSimpleStringT__W_0A__ATL__QAAXH_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _SetLength___CSimpleStringT__W_0A__ATL__AAAXH_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _AddRef_CStringData_ATL__QAAXXZ 
+C8FFBD27........................................................ 00 0000 0004 :0000 _Empty___CSimpleStringT__W_0A__ATL__QAAXXZ 
+C8FFBD27........................................................ 00 0000 0004 :0000 __0__CList_PAXPAX__QAA_H_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _Serialize___CList_PAXPAX__UAAXAAVCArchive___Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 __unwind_150827 
+C8FFBD27........................................................ 00 0000 0004 :0000 ___AtlMultiplyThrow_I_ATL__YAIII_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _RemoveAll___CMap_V__CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__PB_WPAXPAX__QAAXXZ 
+C8FFBD27........................................................ 00 0000 0004 :0000 ___CompareElements_V__CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__PB_W__YAHPBV__CStringT__WV__StrTraitMFC__WV 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0CProperty__QAA_KQAXK_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _Set_CProperty__QAAHKQAXK_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _Set_CProperty__QAAHQAXK_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _Get_CProperty__QAAPAXXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 _AllocValue_CProperty__AAAPAXK_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_149289 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_149311 
+D0FFBD27........................................................ 00 0000 0004 :0000 __1CPropertySection__QAA_XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_149337 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_149336 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_149335 
+D0FFBD27........................................................ 00 0000 0004 :0000 _SetFormatID_CPropertySection__QAAXU_GUID___Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_149389 
+D0FFBD27........................................................ 00 0000 0004 :0000 _Set_CPropertySection__QAAHKPAX_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _Get_CPropertySection__QAAPAXK_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _Get_CPropertySection__QAAPAXKPAK_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 ___GCProperty__QAAPAXI_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetCount_CPropertySection__QAAKXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_149529 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_149568 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_149592 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_149658 
+D0FFBD27........................................................ 00 0000 0004 :0000 _SetSectionName_CPropertySection__QAAHPB_W_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetSectionName_CPropertySection__QAAPB_WXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_149700 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_149719 
+D0FFBD27........................................................ 00 0000 0004 :0000 __1CPropertySet__QAA_XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_149738 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_149764 
+D0FFBD27........................................................ 00 0000 0004 :0000 _IsEqualGUID__YAHABU_GUID__0_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 ___GCPropertySection__QAAPAXI_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_149893 
+D0FFBD27........................................................ 00 0000 0004 :0000 _SetClassID_CPropertySet__QAAXU_GUID___Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetCount_CPropertySet__QAAKXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_150022 
+D0FFBD27........................................................ 00 0000 0004 :0000 _RemoveAt___CList_PAXPAX__QAAXPAU__POSITION___Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_150101 
+D0FFBD27........................................................ 00 0000 0004 :0000 __4__CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__QAAAAV01_ABV01__Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _AfxCrtErrorCheck__YAHH_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _StringLowercase___ChTraitsOS__W_ATL__SAPA_WPA_WI_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetBuffer___CSimpleStringT__W_0A__ATL__QAAPA_WH_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetLength___CSimpleStringT__W_0A__ATL__QBAHXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0__CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__QAA_XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_150392 
+D0FFBD27........................................................ 00 0000 0004 :0000 __1__CSimpleStringT__W_0A__ATL__QAA_XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __4__CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__QAAAAV01_PB_W_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _LoadStringW___CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__QAAHI_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _AtlGetStringResourceImage_ATL__YAPBUATLSTRINGRESOURCEIMAGE_1_PAUHINSTANCE____I_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 wmemcpy_s 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetBaseTypeLength___ChTraitsOS__W_ATL__SAHPB_W_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _lstrlenW_ATL__YAIPB_W_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _FindStringResourceInstance___StrTraitMFC__WV__ChTraitsOS__W_ATL____SAPAUHINSTANCE____I_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetDefaultManager___StrTraitMFC__WV__ChTraitsOS__W_ATL____SAPAUIAtlStringMgr_ATL__XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __4__CSimpleStringT__W_0A__ATL__QAAAAV01_PB_W_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _PrepareWrite2___CSimpleStringT__W_0A__ATL__AAAXH_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _StringLength___CSimpleStringT__W_0A__ATL__SAHPB_W_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetAllocLength___CSimpleStringT__W_0A__ATL__QBAHXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_150743 
+D0FFBD27........................................................ 00 0000 0004 :0000 _AddTail___CList_PAXPAX__QAAPAU__POSITION__PAX_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __1__CList_PAXPAX__UAA_XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_150770 
+D0FFBD27........................................................ 00 0000 0004 :0000 __1__CMap_V__CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__PB_WPAXPAX__UAA_XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_150808 
+D0FFBD27........................................................ 00 0000 0004 :0000 ___G__CList_PAXPAX__UAAPAXI_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 ___G__CMap_V__CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__PB_WPAXPAX__UAAPAXI_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _RemoveAll___CList_PAXPAX__QAAXXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetNext___CList_PAXPAX__QAAAAPAXAAPAU__POSITION___Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_151040 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetAssocAt___CMap_V__CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__PB_WPAXPAX__IBAPAVCAssoc_1_PB_WAAI1_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0CAssoc___CMap_V__CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__PB_WPAXPAX__QAA_PB_W_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0CPair___CMap_V__CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__PB_WPAXPAX__IAA_PB_W_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __8ATL__YA_NABV__CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____0_PB_W_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _StringCompare___ChTraitsOS__W_ATL__SAHPB_W0_Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 __1CProperty__QAA_XZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 _FreeValue_CProperty__AAAXXZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 _AddProperty_CPropertySection__QAAXPAVCProperty___Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _AddSection_CPropertySet__QAAXPAVCPropertySection___Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _FreeNode___CList_PAXPAX__IAAXPAUCNode_1__Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _memcpy_s_Checked_ATL__YAXPAXIPBXI_Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _strcpy_s_Checked_ATL__YAXPADIPBD_Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _wcscpy_s_Checked_ATL__YAXPA_WIPB_W_Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 __1__CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__QAA_XZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 _Attach___CSimpleStringT__W_0A__ATL__AAAXPAUCStringData_2__Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _ConvertToBaseType___ChTraitsOS__W_ATL__SAXPA_WHPB_WH_Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _wmemcpy_s_Checked_ATL__YAXPA_WIPB_WI_Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _SetString___CSimpleStringT__W_0A__ATL__QAAXPB_W_Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _CopyChars___CSimpleStringT__W_0A__ATL__SAXPA_WIPB_WH_Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _ThrowMemoryException___CSimpleStringT__W_0A__ATL__KAXXZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 _CopyCharsOverlapped___CSimpleStringT__W_0A__ATL__SAXPA_WIPB_WH_Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _AssertValid___CList_PAXPAX__UBAXXZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 _AssertValid___CMap_V__CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__PB_WPAXPAX__UBAXXZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 _SetAt___CMap_V__CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__PB_WPAXPAX__QAAXPB_WPAX_Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 __1CAssoc___CMap_V__CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__PB_WPAXPAX__QAA_XZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 __1CPair___CMap_V__CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__PB_WPAXPAX__QAA_XZ 
+E8FFBD27........................................................ 00 0000 0004 :0000 _Get_CProperty__QAAPAXPAK_Z 
+F0FFBD27004004001000A8AF0000A0AF1000A88F11......000000001000A88F 54 BFE2 0074 :0000 _lstrlenA_ATL__YAHPBD_Z 0400A8AF07......000000000400A88F010008250400A8AF0000A88F010008250000A8AF0400A88F0000088103......00000000F5......000000000000A88F0800A8AF0800A28F1000BD270800E00300000000
+F0FFBD27004006002000A8AF004005001800A8AF004004001000A8AF1800A88F 00 0000 0020 :0000 ___AtlMultiply_I_ATL__YAJPAIII_Z 
+F8FFBD27004004000800A8AF0800A88F000000AD0800A88F040000AD0800A88F 1C D829 003C :0000 __0CProperty__QAA_XZ 080000AD0800A88F0000A8AF0000A28F0800BD270800E00300000000
+F8FFBD27004004000800A8AF0800A88F0000088D0000A8AF0000A28F0800BD27 08 1031 0028 :0000 _GetID_CProperty__QAAKXZ 0800E00300000000
+F8FFBD27004004000800A8AF0800A88F0000088D0000A8AF0000A28F0800BD27 08 1031 0028 :0000 __BCTraceCategory_ATL__QBAKXZ 0800E00300000000
+F8FFBD27004004000800A8AF0800A88F0000088DF0FF08250000A8AF0000A28F 0C 09EF 002C :0000 _GetData___CSimpleStringT__W_0A__ATL__ABAPAUCStringData_2_XZ 0800BD270800E00300000000
+F8FFBD27004004000800A8AF0800A88F000008950000A8A70000A2970800BD27 08 1031 0028 :0000 _GetByteOrder_CPropertySet__QAAGXZ 0800E00300000000
+F8FFBD27004004000800A8AF0800A88F0000A8AF0000A28F0800BD270800E003 04 DEFC 0024 :0000 LockResource 00000000
+F8FFBD27004004000800A8AF0800A88F020008950000A8A70000A2970800BD27 08 1031 0028 :0000 _GetFormatVersion_CPropertySet__QAAGXZ 0800E00300000000
+F8FFBD27004004000800A8AF0800A88F0400088D0000A8AF0000A28F0800BD27 08 1031 0028 :0000 _GetType_CProperty__QAAKXZ 0800E00300000000
+F8FFBD27004004000800A8AF0800A88F0400088D0000A8AF0000A28F0800BD27 08 1031 0028 :0000 _GetOSVersion_CPropertySet__QAAKXZ 0800E00300000000
+F8FFBD27004004000800A8AF0800A88F0400088D0000A8AF0000A28F0800BD27 08 1031 0028 :0000 _GetHeadPosition___CList_PAXPAX__QBAPAU__POSITION__XZ 0800E00300000000
+F8FFBD27004004000800A8AF0800A88F080008250000A8AF0000A28F0800BD27 08 1031 0028 :0000 _data_CPlex__QAAPAXXZ 0800E00300000000
+F8FFBD27004004000800A8AF0800A88F0800088D0000A8AF0000A28F0800BD27 08 1031 0028 :0000 _GetRawValue_CProperty__QAAPAXXZ 0800E00300000000
+F8FFBD27004004000800A8AF0800A88F0C00088D0000A8AF0000A28F0800BD27 08 1031 0028 :0000 _GetCount___CList_PAXPAX__QBAHXZ 0800E00300000000
+F8FFBD27004004000800A8AF0800A88F0C00088D0000A8AF0000A28F0800BD27 08 1031 0028 :0000 _GetCount___CMap_V__CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__PB_WPAXPAX__QBAHXZ 0800E00300000000
+F8FFBD27004004000800A8AF0800A88F0C00088D0200082905......00000000 30 366D 0050 :0000 _IsShared_CStringData_ATL__QBA_NXZ 010008240400A8AF02......000000000400A0AF0400A88FFF0008310000A8A30000A2930800BD270800E00300000000
+F8FFBD27004004000800A8AF0800A88F0C00088D04......000000000400A0AF 28 05C2 0048 :0000 _GetStartPosition___CMap_V__CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__PB_WPAXPAX__QBAPAU__POSITION__XZ 03......00000000FFFF08240400A8AF0400A88F0000A8AF0000A28F0800BD270800E00300000000
+F8FFBD27004004000800A8AF0800A88F0C00088D05......0000000001000824 28 1795 0048 :0000 _IsEmpty___CList_PAXPAX__QBAHXZ 0400A8AF02......000000000400A0AF0400A88F0000A8AF0000A28F0800BD270800E00300000000
+F8FFBD27004004000800A8AF0800A88F0C00088D05......0000000001000824 2C 70F3 004C :0000 _IsLocked_CStringData_ATL__QBA_NXZ 0400A8AF02......000000000400A0AF0400A88FFF0008310000A8A30000A2930800BD270800E00300000000
+F8FFBD27004004000800A8AF0800A88F100008250000A8AF0000A28F0800BD27 08 1031 0028 :0000 _data_CStringData_ATL__QAAPAXXZ 0800E00300000000
+F8FFBD27004004000800A8AF0800A88F1000088D0000A8AF0000A28F0800BD27 08 1031 0028 :0000 _GetSize_CPropertySection__QAAKXZ 0800E00300000000
+F8FFBD27004004000800A8AF0800A88F180008250000A8AF0000A28F0800BD27 08 1031 0028 :0000 _GetList_CPropertySection__QAAPAV__CList_PAXPAX__XZ 0800E00300000000
+F8FFBD27004004000800A8AF0800A88F1C0008250000A8AF0000A28F0800BD27 08 1031 0028 :0000 _GetList_CPropertySet__QAAPAV__CList_PAXPAX__XZ 0800E00300000000
+F8FFBD27004005001000A8AF004004000800A8AF0800A88F05......00000000 2C 2085 004C :0000 _AtlIsValidString_ATL__YAHPB_WI_Z 010008240400A8AF02......000000000400A0AF0400A88F0000A8AF0000A28F0800BD270800E00300000000
+F8FFBD27004005001000A8AF004004000800A8AF0800A88F08000A251000A98F 00 0000 0020 :0000 _GetClassID_CPropertySet__QAA_AU_GUID__XZ 
+F8FFBD27004005001000A8AF004004000800A8AF0800AA8F1000A98F........ 00 0000 001C :0000 _GetFormatID_CPropertySection__QAA_AU_GUID__XZ 
+F8FFBD27004005001000A8AF004004000800A8AF1000A88F0000A8AF0000A28F 0C 09EF 002C :0000 _GetBaseTypeLength___ChTraitsOS__W_ATL__SAHPB_WH_Z 0800BD270800E00300000000
+F8FFBD27004005001000A8AF004004000800A8AF1000A88F0000A8AF0000A28F 0C 09EF 002C :0000 __2_YAPAXIPAX_Z 0800BD270800E00300000000
+F8FFBD27004006001800A8AF004005001000A8AF004004000800A8AF1000A98F 2C 600D 004C :0000 __0CTraceFileAndLineInfo_ATL__QAA_PBDH_Z 0800A88F000009AD0800A98F1800A88F040028AD0800A88F0000A8AF0000A28F0800BD270800E00300000000
+F8FFBD27........................................................ 00 0000 0004 :0000 __AtlGetConversionACP_ATL__YAIXZ 
+F8FFBD27004004000800A8AF0800A88F0000088D0000A8AF0000A28F0800BD27 08 1031 0028 :0000 __B__CSimpleStringT__W_0A__ATL__QBAPB_WXZ 0800E00300000000
+F8FFBD27004004000800A8AF0800A88F0000088D0000A8AF0000A28F0800BD27 08 1031 0028 :0000 _GetString___CSimpleStringT__W_0A__ATL__QBAPB_WXZ 0800E00300000000
+F8FFBD27004006001800A8AF004005001000A8AF004004000800A8AF1000A98F 5C 8494 007C :0000 ___AtlAdd_I_ATL__YAJPAIII_Z FFFF083CFFFF0835234809011800A88F2B40280106......000000000780083C570008350000A8AF08......000000001000A98F1800A88F214828010800A88F000009AD254000000000A8AF0000A28F0800BD270800E00300000000
+---

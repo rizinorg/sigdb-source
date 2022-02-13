@@ -1,0 +1,65 @@
+001004000000A2AF0800E00300000000................................ 00 0000 0010 :0000 __1CComCriticalSection_ATL__QAA_XZ 
+90FFBD27........................................................ 00 0000 0004 :0000 _M119391 
+98FFBD27........................................................ 00 0000 0004 :0000 _M119322 
+98FFBD27........................................................ 00 0000 0004 :0000 _M119349 
+A0FFBD27........................................................ 00 0000 0004 :0000 _M119419 
+A8FFBD27........................................................ 00 0000 0004 :0000 _M119357 
+B0FFBD27........................................................ 00 0000 0004 :0000 _M119304 
+B0FFBD27........................................................ 00 0000 0004 :0000 _M119379 
+B0FFBD27........................................................ 00 0000 0004 :0000 _M119410 
+B0FFBD27........................................................ 00 0000 0004 :0000 __RCTraceFileAndLineInfo_ATL__QBAXKIPB_WZZ 
+B0FFBD27........................................................ 00 0000 0004 :0000 _TraceV_CTrace_ATL__QBAXPBDHKIPB_WPAD_Z 
+B0FFBD27........................................................ 00 0000 0004 :0000 _AtlThrowImpl_ATL__YAXJ_Z 
+B8FFBD27........................................................ 00 0000 0004 :0000 _AtlAdvise_ATL__YAJPAUIUnknown__0ABU_GUID__PAK_Z 
+B8FFBD27........................................................ 00 0000 0004 :0000 _M119277 
+B8FFBD27........................................................ 00 0000 0004 :0000 _M119314 
+B8FFBD27........................................................ 00 0000 0004 :0000 _Init_CComCriticalSection_ATL__QAAJXZ 
+C0FFBD27........................................................ 00 0000 0004 :0000 _M119298 
+C0FFBD27........................................................ 00 0000 0004 :0000 _M119333 
+C0FFBD27........................................................ 00 0000 0004 :0000 _M119341 
+C0FFBD27........................................................ 00 0000 0004 :0000 _RegisterClassObject__ATL_OBJMAP_ENTRY30_ATL__QAAJKK_Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 _Lock___CComCritSecLock_VCComCriticalSection_ATL___ATL__QAAJXZ 
+C0FFBD27........................................................ 00 0000 0004 :0000 __0CAtlWinModule_ATL__QAA_XZ 
+C8FFBD27........................................................ 00 0000 0004 :0000 _M119430 
+C8FFBD27........................................................ 00 0000 0004 :0000 __I__CComPtrBase_UIConnectionPointContainer___ATL__QAAPAPAUIConnectionPointContainer__XZ 
+C8FFBD27........................................................ 00 0000 0004 :0000 __C__CComPtrBase_UIConnectionPointContainer___ATL__QBAPAV___NoAddRefReleaseOnCComPtr_UIConnectionPointContainer___1_XZ 
+C8FFBD27........................................................ 00 0000 0004 :0000 __I__CComPtrBase_UIConnectionPoint___ATL__QAAPAPAUIConnectionPoint__XZ 
+C8FFBD27........................................................ 00 0000 0004 :0000 __C__CComPtrBase_UIConnectionPoint___ATL__QBAPAV___NoAddRefReleaseOnCComPtr_UIConnectionPoint___1_XZ 
+C8FFBD27........................................................ 00 0000 0004 :0000 _Unlock___CComCritSecLock_VCComCriticalSection_ATL___ATL__QAAXXZ 
+C8FFBD27........................................................ 00 0000 0004 :0000 __A__CSimpleArray_GV__CSimpleArrayEqualHelper_G_ATL___ATL__QAAAAGH_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0__CComPtr_UIConnectionPointContainer___ATL__QAA_XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0__CComPtr_UIConnectionPoint___ATL__QAA_XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 _RevokeClassObject__ATL_OBJMAP_ENTRY30_ATL__QAAJXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0__CComCritSecLock_VCComCriticalSection_ATL___ATL__QAA_AAVCComCriticalSection_1__N_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _Unlock_CComCriticalSection_ATL__QAAJXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 _Lock_CComCriticalSection_ATL__QAAJXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0_ATL_WIN_MODULE70_ATL__QAA_XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0CComCriticalSection_ATL__QAA_XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 _AtlWinModuleTerm_ATL__YAJPAU_ATL_WIN_MODULE70_1_PAUHINSTANCE_____Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _Term_CComCriticalSection_ATL__QAAJXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 _RemoveAll___CSimpleArray_GV__CSimpleArrayEqualHelper_G_ATL___ATL__QAAXXZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 __1__CComPtr_UIConnectionPointContainer___ATL__QAA_XZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 __1__CComPtr_UIConnectionPoint___ATL__QAA_XZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 __1__CComPtrBase_UIConnectionPointContainer___ATL__QAA_XZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 __1__CComPtrBase_UIConnectionPoint___ATL__QAA_XZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 __AtlRaiseException_ATL__YAXKK_Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 __1__CComCritSecLock_VCComCriticalSection_ATL___ATL__QAA_XZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 ____E_AtlWinModule_ATL__YAXXZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 ____F_AtlWinModule_ATL__YAXXZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 __1CAtlWinModule_ATL__QAA_XZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 _Term_CAtlWinModule_ATL__QAAXXZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 __1_ATL_WIN_MODULE70_ATL__QAA_XZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 __1__CSimpleArray_GV__CSimpleArrayEqualHelper_G_ATL___ATL__QAA_XZ 
+F8FFBD27001004000800A2AF00080324................................ 00 0000 0010 :0000 _M119373 
+F8FFBD27001004000800A2AF010003240000A3AF0000A28F0800BD270800E003 04 DEFC 0024 :0000 _IsWindowUnicode_ATL__YAHPAUHWND_____Z 00000000
+F8FFBD27001004000800A2AF0800A38F000060AC0800A78F0000A7AF0000A28F 0C 09EF 002C :0000 __0__CComPtrBase_UIConnectionPointContainer___ATL__IAA_XZ 0800BD270800E00300000000
+F8FFBD27001004000800A2AF0800A38F000060AC0800A78F0000A7AF0000A28F 0C 09EF 002C :0000 __0__CComPtrBase_UIConnectionPoint___ATL__IAA_XZ 0800BD270800E00300000000
+F8FFBD27001004000800A2AF0800A38F000060AC0800A78F0400E0AC0800A68F 1C 35EE 003C :0000 __0__CSimpleArray_GV__CSimpleArrayEqualHelper_G_ATL___ATL__QAA_XZ 0800C0AC0800A58F0000A5AF0000A28F0800BD270800E00300000000
+F8FFBD27001004000800A2AF0800A38F0000678C0000A7AF0000A28F0800BD27 08 1031 0028 :0000 __BCTraceCategory_ATL__QBAKXZ 0800E00300000000
+F8FFBD27001004000800A2AF0800A38F0000678C13......000000000800A68F 60 75DC 0080 :0000 _InlineIsEqualUnknown_ATL__YAHABU_GUID___Z 0400C58C0F......000000000800A48F0800888CC00009240A......000000000800AA8F0C004B8D00460C3C05......0000000001000D240400ADAF02......000000000400A0AF0400AE8F0000AEAF0000A28F0800BD270800E00300000000
+F8FFBD27001004000800A2AF0800A38F0400678C0000A7AF0000A28F0800BD27 08 1031 0028 :0000 _GetModuleInstance_CAtlBaseModule_ATL__QAAPAUHINSTANCE____XZ 0800E00300000000
+F8FFBD27001004000800A2AF0800A38F0400678C0000A7AF0000A28F0800BD27 08 1031 0028 :0000 _GetSize___CSimpleArray_GV__CSimpleArrayEqualHelper_G_ATL___ATL__QBAHXZ 0800E00300000000
+F8FFBD27001005001000A2AF001804000800A3AF0800A78F0000E68C1000A58F 80 817D 00A0 :0000 _InlineIsEqualGUID_ATL__YAHABU_GUID__0_Z 0000A48C17......000000000800A88F1000A98F04000A8D04002B8D11......000000000800AC8F1000AD8F08008E8D0800AF8D0B......000000000800B88F1000B98F0C00028F0C00238F05......00000000010007240400A7AF02......000000000400A0AF0400A68F0000A6AF0000A28F0800BD270800E00300000000
+F8FFBD27001006001800A2AF001805001000A3AF003804000800A7AF1000A68F 2C 0799 004C :0000 __0CTraceFileAndLineInfo_ATL__QAA_PBDH_Z 0800A58F0000A6AC0800A48F1800A88F040088AC0800A98F0000A9AF0000A28F0800BD270800E00300000000
+F8FFBD27085802240000438C0000A3AF0000A28F0800BD270800E00300000000 00 0000 0020 :0000 GetCurrentThreadId 
+---

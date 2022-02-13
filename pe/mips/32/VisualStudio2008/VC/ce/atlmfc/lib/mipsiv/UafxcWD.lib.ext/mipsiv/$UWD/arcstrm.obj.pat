@@ -1,0 +1,23 @@
+A8FFBD27........................................................ 00 0000 0004 :0000 _Seek_CArchiveStream__UAAJT_LARGE_INTEGER__KPAT_ULARGE_INTEGER___Z 
+B8FFBD27........................................................ 00 0000 0004 :0000 _Read_CArchiveStream__UAAJPAXKPAK_Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 _Write_CArchiveStream__UAAJPBXKPAK_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _QueryInterface_CArchiveStream__UAAJABU_GUID__PAPAX_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0CArchiveStream__QAA_PAVCArchive___Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __catch_147758 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0IStream__QAA_XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __catch_147793 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0ISequentialStream__QAA_XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __catch_147825 
+D0FFBD27........................................................ 00 0000 0004 :0000 __8_YAHABU_GUID__0_Z 
+F8FFBD27004004000800A8AF0000083C000009250800A88F000009AD0800A88F 14 AB70 0034 :0000 __0IUnknown__QAA_XZ 0000A8AF0000A28F0800BD270800E00300000000
+F8FFBD27........................................................ 00 0000 0004 :0000 _SetSize_CArchiveStream__UAAJT_ULARGE_INTEGER___Z 
+F8FFBD27004004000800A8AF0080083C014008350000A8AF0000A28F0800BD27 08 1031 0028 :0000 _Revert_CArchiveStream__UAAJXZ 0800E00300000000
+F8FFBD27004004000800A8AF........................................ 00 0000 000C :0000 _Release_CArchiveStream__UAAKXZ 
+F8FFBD27004004000800A8AF01000824................................ 00 0000 0010 :0000 _AddRef_CArchiveStream__UAAKXZ 
+F8FFBD27004005001000A8AF004004000800A8AF0080083C014008350000A8AF 10 420D 0030 :0000 _Commit_CArchiveStream__UAAJK_Z 0000A28F0800BD270800E00300000000
+F8FFBD27004005001000A8AF004004000800A8AF0080083C014008350000A8AF 10 420D 0030 :0000 _Clone_CArchiveStream__UAAJPAPAUIStream___Z 0000A28F0800BD270800E00300000000
+F8FFBD27004006001800A8AF004005001000A8AF004004000800A8AF0080083C 18 5034 0038 :0000 _Stat_CArchiveStream__UAAJPAUtagSTATSTG__K_Z 014008350000A8AF0000A28F0800BD270800E00300000000
+F8FFBD27004007002000A8AF........................................ 00 0000 000C :0000 _LockRegion_CArchiveStream__UAAJT_ULARGE_INTEGER__0K_Z 
+F8FFBD27004007002000A8AF........................................ 00 0000 000C :0000 _UnlockRegion_CArchiveStream__UAAJT_ULARGE_INTEGER__0K_Z 
+F8FFBD27004007002000A8AF........................................ 00 0000 000C :0000 _CopyTo_CArchiveStream__UAAJPAUIStream__T_ULARGE_INTEGER__PAT3_2_Z 
+---

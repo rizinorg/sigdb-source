@@ -1,0 +1,48 @@
+03B42DE90048EB46029800F0........................................ 00 0000 000C :0000 __1invalid_argument_std__UAA_XZ 
+03B42DE90048EB460298FFF7........................................ 00 0000 000C :0000 __1logic_error_std__UAA_XZ 
+03B42DE90048EB460298FFF7........................................ 00 0000 000C :0000 __1scheduler_resource_allocation_error_Concurrency__UAA_XZ 
+03B42DE90048EB46029A054B1360029B181D03F0........................ 00 0000 0014 :0000 __1exception_std__UAA_XZ 
+03B42DE90048EB46029B6033........................................ 00 0000 000C :0000 _CriticalNotify_UMSFreeVirtualProcessorRoot_details_Concurrency__QAAXXZ 
+03B42DE90048EB46029BA3F1........................................ 00 0000 000C :0000 _DeleteThis_UMSSchedulerProxy_details_Concurrency__MAAXXZ 
+03B42DE9....EB46....98331B6843F48072039B98331A6003990298FFF7C0FD 08 CDB3 0028 :0000 _PushPolledCompletion_UMSSchedulerProxy_details_Concurrency__AAAXPAVUMSThreadProxy_23__Z 5DF804BB5DF80CFB
+03B42DE90048EB465DF804BB5DF80CFB04000000F1000000760000003B004711 00 0000 0020 :0000 ___empty_global_delete__YAXPAX_Z 
+03B42DE90048EB465DF804BB5DF80CFB04000000F10000008D0000003B004711 00 0000 0020 :0000 ___empty_global_delete__YAXPAXI_Z 
+03B42DE90048EB4682B00498FFF708FC................................ 00 0000 0010 :0000 ___Gexception_std__UAAPAXI_Z 
+03B42DE90048EB4682B00498FFF710FC................................ 00 0000 0010 :0000 ___Gscheduler_resource_allocation_error_Concurrency__UAAPAXI_Z 
+03B42DE90048EB4682B00498FFF720FC059B13F0........................ 00 0000 0014 :0000 ___Glogic_error_std__UAAPAXI_Z 
+03B42DE90048EB4682B00498FFF728FC059B13F0........................ 00 0000 0014 :0000 ___Ginvalid_argument_std__UAAPAXI_Z 
+03B42DE90048EB4682B00498FFF750FB059B13F0........................ 00 0000 0014 :0000 ___GUMSSchedulerProxy_details_Concurrency__QAAPAXI_Z 
+03B42DE9....EB4682B0049A044B1360049B0093009802B05DF804BB5DF80CFB 04 DEFC 0024 :0000 __0IUMSCompletionList_Concurrency__QAA_XZ 00000000
+03B42DE90048EB4682B0049A0A4B136008220021........................ 00 0000 0014 :0000 __0exception_std__QAA_ABV01__Z 
+03B42DE90048EB4682B0049B002B02DC................................ 00 0000 0010 :0000 HRESULT_FROM_WIN32 
+03B42DE90048EB4682B0049B0C331B680093009802B05DF8................ 00 0000 0018 :0000 _GetResourceManager_SchedulerProxy_details_Concurrency__QBAPAVResourceManager_23_XZ 
+03B42DE9....EB46....049B....1B68002B04D0049B1B1D1B68009301E0054B 0C DA3E 002C :0000 _what_exception_std__UBAPBDXZ 0093009B0193019802B05DF8
+03B42DE90048EB4682B0049B20331B6800930821009803F0................ 00 0000 0018 :0000 __1GlobalCore_details_Concurrency__QAA_XZ 
+03B42DE9....EB4682B0049B34331B68002B02D00123009301E000230093009B 04 3ABC 0024 :0000 _MessagedYield_UMSThreadProxy_details_Concurrency__QAA_NXZ DBB28DF8
+03B42DE90048EB4682B0049B68330093009802B05DF804BB5DF80CFB........ 00 0000 001C :0000 _GetThreadProxyFactoryManager_ResourceManager_details_Concurrency__QAAPAVThreadProxyFactoryManager_23_XZ 
+03B42DE90048EB4682B0049B94331B680093009802B05DF8................ 00 0000 0018 :0000 _ContextStackSize_SchedulerProxy_details_Concurrency__QBAHXZ 
+03B42DE90048EB4682B0049B98331B680093009802B05DF8................ 00 0000 0018 :0000 _ContextPriority_SchedulerProxy_details_Concurrency__QBAHXZ 
+03B42DE90048EB4682B00599049800F0................................ 00 0000 0010 :0000 __0invalid_argument_std__QAA_PBD_Z 
+03B42DE90048EB4682B00599049800F0................................ 00 0000 0010 :0000 __0invalid_argument_std__QAA_ABV01__Z 
+03B42DE90048EB4682B005990498FFF7................................ 00 0000 0010 :0000 __0logic_error_std__QAA_PBD_Z 
+03B42DE90048EB4682B005990498FFF7................................ 00 0000 0010 :0000 __0logic_error_std__QAA_ABV01__Z 
+03B42DE90048EB4682B005990498FFF7................................ 00 0000 0010 :0000 __0scheduler_resource_allocation_error_Concurrency__QAA_ABV01__Z 
+03B42DE9....EB46....0698....A0FC....009B....03D0009B0833019301E0 14 9CC4 0034 :0000 _GetUnblockNotifications_UMSSchedulerProxy_details_Concurrency__UAAPAUIUMSUnblockNotification_3_XZ 00230193019B0293029804B05DF804BB5DF80CFB
+03B42DE90048EB4684B0069A0C4B136008220021........................ 00 0000 0014 :0000 __0exception_std__QAA_QBD_Z 
+03B42DE90048EB4686B0099802F04CF8................................ 00 0000 0010 :0000 _HandleCompletion_UMSSchedulerProxy_details_Concurrency__AAA_NPAVUMSThreadProxy_23__Z 
+03B42DE90048EB4688B0BFF3........................................ 00 0000 000C :0000 _Release_UMSSchedulerProxy_details_Concurrency__QAAJXZ 
+03B42DE910480DF1................................................ 00 0000 0008 :0000 _GetCompletionListItems_UMSSchedulerProxy_details_Concurrency__QAAPAVUMSThreadProxy_23_XZ 
+03B42DE910480DF1................................................ 00 0000 0008 :0000 _UnbindContext_UMSSchedulerProxy_details_Concurrency__UAAXPAUIExecutionContext_3__Z 
+03B42DE930480DF1................................................ 00 0000 0008 :0000 _BindContext_UMSSchedulerProxy_details_Concurrency__UAAXPAUIExecutionContext_3__Z 
+03B42DE970480DF1................................................ 00 0000 0008 :0000 _GetNewThreadProxy_UMSSchedulerProxy_details_Concurrency__UAAPAUIThreadProxy_3_PAUIExecutionContext_3__Z 
+03B42DE980480DF1................................................ 00 0000 0008 :0000 ___EGlobalCore_details_Concurrency__QAAPAXI_Z 
+03B42DE980480DF1................................................ 00 0000 0008 :0000 __1UMSSchedulerProxy_details_Concurrency__QAA_XZ 
+044A7969B963B96B09787868FFF7E0F9................................ 00 0000 0010 :0000 fcn.0000e9f0 
+0FB42DE90048EB46029803F0........................................ 00 0000 000C :0000 __3_YAXPAXV_ConcRTNewMoniker__PBDH_Z 
+0FB42DE90048EB4682B0079B069A0221................................ 00 0000 0010 :0000 __2_YAPAXIV_ConcRTNewMoniker__PBDH_Z 
+0FB42DE90048EB4690B000238DF800309DF85030........................ 00 0000 0014 :0000 _SweepCompletionList_UMSSchedulerProxy_details_Concurrency__QAA_NPAVUMSThreadProxy_23__N_Z 
+0FB42DE910480DF1................................................ 00 0000 0008 :0000 ___H_YAXPAXIIP6APAX0_Z_Z 
+0FB42DE980480DF1................................................ 00 0000 0008 :0000 _CreateVirtualProcessorRoot_UMSSchedulerProxy_details_Concurrency__UAAPAVVirtualProcessorRoot_23_PAUSchedulerNode_23_I_Z 
+0FB42DE9B0480DF1................................................ 00 0000 0008 :0000 __0UMSSchedulerProxy_details_Concurrency__QAA_PAUIScheduler_2_PAVResourceManager_12_ABVSchedulerPolicy_2__Z 
+51FD10BD00000000000000000000000000000000000000000000000004000000 0C A01E 002C :0000 fcn.0000cb64 F1000000B401000060004711
+---

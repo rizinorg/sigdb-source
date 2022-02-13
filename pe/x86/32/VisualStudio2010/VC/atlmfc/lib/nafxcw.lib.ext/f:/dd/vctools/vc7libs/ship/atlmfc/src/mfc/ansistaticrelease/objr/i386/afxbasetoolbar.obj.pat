@@ -1,0 +1,81 @@
+33C03981680100000F94C0C3........................................ 00 0000 000C :0000 _DoesAllowSiblingBars_CPane__UBEHXZ 
+33C040C20400.................................................... 00 0000 0006 :0000 _OnBeforeShowPaneMenu_CPane__MAEHAAVCMenu___Z 
+33C040C20400.................................................... 00 0000 0006 :0000 _OnAfterShowPaneMenu_CPane__MAEHH_Z 
+33C040C3........................................................ 00 0000 0004 :0000 _CanFocus_CBasePane__UBEHXZ 
+33C040C3........................................................ 00 0000 0004 :0000 _HideInPrintPreviewMode_CBasePane__UBEHXZ 
+33C040C3........................................................ 00 0000 0004 :0000 _IsAccessibilityCompatible_CBasePane__UAEHXZ 
+33C040C3........................................................ 00 0000 0004 :0000 _AllowShowOnPaneMenu_CPane__UBEHXZ 
+33C040C3........................................................ 00 0000 0004 :0000 _GetDockingMode_CMFCBaseToolBar__UBE_AW4AFX_DOCK_TYPE__XZ 
+33C0C20400...................................................... 00 0000 0005 :0000 _CanAcceptPane_CBasePane__UBEHPBV1__Z 
+33C0C20800...................................................... 00 0000 0005 :0000 _OnShowControlBarMenu_CMFCBaseToolBar__MAEHVCPoint___Z 
+33C0C21800...................................................... 00 0000 0005 :0000 _DockToFrameWindow_CPane__UAEHKPBUtagRECT__KPAVCBasePane__HH_Z 
+33C0C3.......................................................... 00 0000 0003 :0000 _CanBeAttached_CBasePane__UBEHXZ 
+33C0C3.......................................................... 00 0000 0003 :0000 _GetCaptionHeight_CBasePane__UBEHXZ 
+33C0C3.......................................................... 00 0000 0003 :0000 _IsAutoHideMode_CBasePane__UBEHXZ 
+33C0C3.......................................................... 00 0000 0003 :0000 _IsResizable_CPane__UBEHXZ 
+33C0C3.......................................................... 00 0000 0003 :0000 _IsInFloatingMultiPaneFrameWnd_CPane__UBEHXZ 
+6A..FF7120FF..........C3........................................ 00 0000 000C :0000 _BeginModalState_CWnd__UAEXXZ 
+6A..FF7120FF..........C3........................................ 00 0000 000C :0000 _EndModalState_CWnd__UAEXXZ 
+6A..B8........E8........68........E8........598BC8894DF033C08945 10 23A6 0030 :0000 _CreateObject_CMFCBaseToolBar__SGPAVCObject__XZ FC3BC874..E8........E8........C3
+83....C3........................................................ 00 0000 0004 :0000 _GetResizeStep_CPane__UBEHXZ 
+8B01FF..........6A..58C3........................................ 00 0000 000C :0000 _GetMinLength_CPane__UBEHXZ 
+8B01FF..........F7D81BC040C3.................................... 00 0000 000E :0000 _IsFloating_CBasePane__UBEHXZ 
+8B01FF.......................................................... 00 0000 0008 :0000 _DoesAllowDynInsertBefore_CBasePane__UBEHXZ 
+8B01FF..........25........C3.................................... 00 0000 000E :0000 _IsHorizontal_CBasePane__UBEHXZ 
+8B41082B01C3.................................................... 00 0000 0006 :0000 _Width_CRect__QBEHXZ 
+8B4178C3........................................................ 00 0000 0004 :0000 _GetRecentVisibleState_CBasePane__UBEHXZ 
+8B417CC3........................................................ 00 0000 0004 :0000 _IsRestoredFromRegistry_CBasePane__UBEHXZ 
+8B5424088D420C8B4AEC33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler__CreateObject_CMFCBaseToolBar__SGPAVCObject__XZ 
+8B8164010000C3.................................................. 00 0000 0007 :0000 _IsDragMode_CPane__UBEHXZ 
+8B8168010000C3.................................................. 00 0000 0007 :0000 _GetExclusiveRowMode_CPane__UBEHXZ 
+8B818C000000C3.................................................. 00 0000 0007 :0000 _GetEnabledAlignment_CBasePane__UBEKXZ 
+8B8190000000C3.................................................. 00 0000 0007 :0000 _GetPaneStyle_CBasePane__UBEKXZ 
+8B819400000083E002C3............................................ 00 0000 000A :0000 _CanAutoHide_CBasePane__UBEHXZ 
+8B819400000083E004C3............................................ 00 0000 000A :0000 _CanBeResized_CBasePane__UBEHXZ 
+8B819400000083E008C3............................................ 00 0000 000A :0000 _CanBeClosed_CBasePane__UBEHXZ 
+8B8194000000C3.................................................. 00 0000 0007 :0000 _GetControlBarStyle_CBasePane__UBEKXZ 
+8B81AC000000C3.................................................. 00 0000 0007 :0000 _GetParentDockSite_CBasePane__UBEPAVCDockSite__XZ 
+8BC133C9890889480489480889480CC3................................ 00 0000 0010 :0000 __0CRect__QAE_XZ 
+8BC183200083600400C3............................................ 00 0000 000A :0000 __0CSize__QAE_XZ 
+8BFF558BEC568BF18B4D088B0157FF..........8BF88B068BCEFF.......... 10 E327 0030 :0000 _CanBeDocked_CPane__UBEHPAVCBasePane___Z 23F8F7DF1BFFF7DF8BC75F5E5DC20400
+8BFF558BEC568BF1C7..........E8........F645080174..56E8........59 07 67F1 0027 :0000 ___GCMFCBaseToolBar__UAEPAXI_Z 8BC65E5DC20400
+8BFF558BEC6A..FF75086A..FF7120FF..........5DC20400.............. 00 0000 0019 :0000 _GetIcon_CWnd__QBEPAUHICON____H_Z 
+8BFF558BEC6A..FF75086A..FF7120FF..........5DC20400.............. 00 0000 0019 :0000 _GetPaneIcon_CBasePane__UAEPAUHICON____H_Z 
+8BFF558BEC83EC14A1........33C58945FC56578D45EC8BF133FF50FF762089 4C 25BD 006C :0000 _OnAfterStretch_CMFCBaseToolBar__MAEXH_Z 7DEC897DF0897DF4897DF8FF..........8B8E380100008B45F42B8E300100002B45EC3BC174..6A..57FF7620FF..........FF7620FF..........8B4DFC5F33CD5EE8........C9C20400
+8BFF558BEC8B01FF..........85C08B450874..C7..........C7.......... 14 10EB 0034 :0000 _GetMinSize_CMFCBaseToolBar__UBEXAAVCSize___Z ..EB..C7............C7..........5DC20400
+8BFF558BEC8B45085633F68930897004BA........39750C74..39751074..8B 1F 35CA 003F :0000 _CalcFixedLayout_CBasePane__UAE_AVCSize__HH_Z CAEB..33C9890839750C74..39751075..8BCAEB..33C98948045E5DC20C00
+8BFF558BEC8B4508832000836004005DC20800.......................... 00 0000 0013 :0000 _CalcSize_CPane__UAE_AVCSize__H_Z 
+8BFF558BEC8B4508832000836004005DC20C00.......................... 00 0000 0013 :0000 _StretchPane_CBasePane__UAE_AVCSize__HH_Z 
+8BFF558BEC8B450889417C5DC20400.................................. 00 0000 000F :0000 _SetRestoredFromRegistry_CBasePane__UAEXH_Z 
+8BFF558BEC8B45088981680100005DC20400............................ 00 0000 0012 :0000 _SetExclusiveRowMode_CPane__UAEXH_Z 
+8BFF558BEC8B450889818C0000005DC20400............................ 00 0000 0012 :0000 _EnableDocking_CBasePane__UAEXK_Z 
+8BFF558BEC8B45088981900000005DC20400............................ 00 0000 0012 :0000 _SetPaneStyle_CBasePane__UAEXK_Z 
+8BFF558BEC8B45088981940000005DC20400............................ 00 0000 0012 :0000 _SetControlBarStyle_CBasePane__UAEXK_Z 
+8BFF558BEC8BC18B4D088321005DC20400.............................. 00 0000 0011 :0000 _DockPaneStandard_CPane__UAEPAV1_AAH_Z 
+8BFF558BEC8BC18B4D0889088B4D0C8948045DC20800.................... 00 0000 0016 :0000 __0CSize__QAE_HH_Z 
+8BFF558BEC8D81900000008B0881..........0B4D0889085DC20400........ 00 0000 001C :0000 _SetPaneAlignment_CBasePane__UAEXK_Z 
+8BFF558BECFF75086A..FF7120FF..........5DC20400.................. 00 0000 0017 :0000 _Invalidate_CWnd__QAEXH_Z 
+8BFF558BECFF7508E8........595DC20400............................ 00 0000 0012 :0000 __2CObject__SGPAXI_Z 
+8BFF558BECFF7508E8........595DC20400............................ 00 0000 0012 :0000 __3CObject__SGXPAX_Z 
+8BFF558BECFF7508FF7120FF..........5DC20400...................... 00 0000 0015 :0000 _GetClientRect_CWnd__QBEXPAUtagRECT___Z 
+8BFF568BF1E8........C7..........8BC65EC3........................ 00 0000 0014 :0000 __0CMFCBaseToolBar__QAE_XZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetRuntimeClass_CMFCBaseToolBar__UBEPAUCRuntimeClass__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetThisMessageMap_CMFCBaseToolBar__KGPBUAFX_MSGMAP__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetMessageMap_CMFCBaseToolBar__MBEPBUAFX_MSGMAP__XZ 
+C20400.......................................................... 00 0000 0003 :0000 _EnableGripper_CBasePane__UAEXH_Z 
+C20400.......................................................... 00 0000 0003 :0000 _OnMovePaneDivider_CBasePane__UAEXPAVCPaneDivider___Z 
+C20400.......................................................... 00 0000 0003 :0000 _OnRemoveFromMiniFrame_CBasePane__UAEXPAVCPaneFrameWnd___Z 
+C20400.......................................................... 00 0000 0003 :0000 _AccNotifyObjectFocusEvent_CBasePane__UAEXH_Z 
+C20400.......................................................... 00 0000 0003 :0000 _OnBeforeStretch_CPane__MAEXAAH_Z 
+C20400.......................................................... 00 0000 0003 :0000 _OnAfterChangeParent_CMFCBaseToolBar__UAEXPAVCWnd___Z 
+C20400.......................................................... 00 0000 0003 :0000 _DoDataExchange_CWnd__MAEXPAVCDataExchange___Z 
+C20800.......................................................... 00 0000 0003 :0000 _OnUpdateCmdUI_CBasePane__UAEXPAVCFrameWnd__H_Z 
+C20800.......................................................... 00 0000 0003 :0000 _OnDrawDragRect_CPane__MAEXPBUtagRECT__0_Z 
+C20C00.......................................................... 00 0000 0003 :0000 _OnAfterDock_CPane__MAEXPAVCBasePane__PBUtagRECT__W4AFX_DOCK_METHOD___Z 
+C3.............................................................. 00 0000 0001 :0000 _OnDrawCaption_CBasePane__UAEXXZ 
+C3.............................................................. 00 0000 0001 :0000 _AdjustLayout_CBasePane__UAEXXZ 
+C3.............................................................. 00 0000 0001 :0000 _ToggleAutoHide_CPane__UAEXXZ 
+C7..........E9.................................................. 00 0000 000B :0000 __1CMFCBaseToolBar__UAE_XZ 
+FF7120FF..........C3............................................ 00 0000 000A :0000 _UpdateWindow_CWnd__QAEXXZ 
+FF75F0E8........C3.............................................. 00 0000 0009 :0000 __unwindfunclet__CreateObject_CMFCBaseToolBar__SGPAVCObject__XZ_0 
+---

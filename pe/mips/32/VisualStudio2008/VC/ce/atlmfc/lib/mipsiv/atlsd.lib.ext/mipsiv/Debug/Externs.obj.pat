@@ -1,0 +1,22 @@
+A0FDBD27........................................................ 00 0000 0004 :0000 _Init__YA_NXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0CTraceSnapshot__QAA_XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0CAtlAllocator__QAA_XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0CTrace_ATL__AAA_P6AHHPB_WH00ZZ_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __AtlGetThisModuleHandle_ATL__YAPAUHINSTANCE____XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 _RemoveAll___CSimpleArray_UCModuleInfo_CTraceSnapshot__V__CSimpleArrayEqualHelper_UCModuleInfo_CTraceSnapshot___ATL___ATL__QA 
+D0FFBD27........................................................ 00 0000 0004 :0000 _RemoveAll___CSimpleArray_KV__CSimpleArrayEqualHelper_K_ATL___ATL__QAAXXZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 ____Eg_Allocator__YAXXZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 ____Fg_Allocator__YAXXZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 __1CAtlAllocator__QAA_XZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 __1CTraceSnapshot__QAA_XZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 __1__CSimpleArray_UCModuleInfo_CTraceSnapshot__V__CSimpleArrayEqualHelper_UCModuleInfo_CTraceSnapshot___ATL___ATL__QAA_XZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 __1__CSimpleArray_KV__CSimpleArrayEqualHelper_K_ATL___ATL__QAA_XZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 ____E_s_trace_CTrace_ATL__2V12_A__YAXXZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 ____Eg_bInitialized__YAXXZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 ____F_s_trace_CTrace_ATL__2V12_A__YAXXZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 __1CTrace_ATL__AAA_XZ 
+F8FFBD27004004000800A8AF0800A88F000000AD0800A88F040000AD0800A88F 1C D829 003C :0000 __0__CSimpleArray_UCModuleInfo_CTraceSnapshot__V__CSimpleArrayEqualHelper_UCModuleInfo_CTraceSnapshot___ATL___ATL__QAA_XZ 080000AD0800A88F0000A8AF0000A28F0800BD270800E00300000000
+F8FFBD27004004000800A8AF0800A88F000000AD0800A88F040000AD0800A88F 1C D829 003C :0000 __0__CSimpleArray_KV__CSimpleArrayEqualHelper_K_ATL___ATL__QAA_XZ 080000AD0800A88F0000A8AF0000A28F0800BD270800E00300000000
+F8FFBD27004005001000A8AF004004000800A8AF1000A98F0800A88F000009AD 18 0155 0038 :0000 __0CAtlException_ATL__QAA_J_Z 0800A88F0000A8AF0000A28F0800BD270800E00300000000
+F8FFBD270C5808240000088D0000A8AF0000A28F0800BD270800E00300000000 00 0000 0020 :0000 GetCurrentProcessId 
+---

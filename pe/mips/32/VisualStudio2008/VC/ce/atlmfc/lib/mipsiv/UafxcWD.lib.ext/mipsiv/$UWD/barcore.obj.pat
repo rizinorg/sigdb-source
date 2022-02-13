@@ -1,0 +1,35 @@
+004005000800A8AF004004000000A8AF0000A98F0800A88F440028AD0800E003 04 DEFC 0024 :0000 _SetInPlaceOwner_CControlBar__QAAXPAVCWnd___Z 00000000
+004006001000A8AF004005000800A8AF004004000000A8AF0800E00300000000 00 0000 0020 :0000 _OnBarStyleChange_CControlBar__UAAXKK_Z 
+48FFBD27........................................................ 00 0000 0004 :0000 _DrawBorders_CControlBar__UAAXPAVCDC__AAVCRect___Z 
+70FFBD27........................................................ 00 0000 0004 :0000 _OnPaint_CControlBar__QAAXXZ 
+90FFBD27........................................................ 00 0000 0004 :0000 _OnSizeParent_CControlBar__QAAJIJ_Z 
+90FFBD27........................................................ 00 0000 0004 :0000 _EraseNonClient_CControlBar__QAAXXZ 
+98FFBD27........................................................ 00 0000 0004 :0000 _RecalcDelayShow_CControlBar__UAAKPAUAFX_SIZEPARENTPARAMS___Z 
+A0FFBD27........................................................ 00 0000 0004 :0000 _OnIdleUpdateCmdUI_CControlBar__QAAJIJ_Z 
+B8FFBD27........................................................ 00 0000 0004 :0000 _AllocElements_CControlBar__QAAHHH_Z 
+B8FFBD27........................................................ 00 0000 0004 :0000 _WindowProc_CControlBar__UAAJIIJ_Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 _CalcFixedLayout_CControlBar__UAA_AVCSize__HH_Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 _OnCtlColor_CControlBar__QAAPAUHBRUSH____PAVCDC__PAVCWnd__I_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _PostNcDestroy_CControlBar__UAAXXZ 
+C8FFBD27........................................................ 00 0000 0004 :0000 _DoPaint_CControlBar__UAAXPAVCDC___Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _PreCreateWindow_CControlBar__UAAHAAUtagCREATESTRUCTW___Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __1CControlBar__UAA_XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_148134 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_148043 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_148156 
+D0FFBD27........................................................ 00 0000 0004 :0000 _SetBarStyle_CControlBar__QAAXK_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetMessageMap_CControlBar__MBAPBUAFX_MSGMAP__XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 _CalcDynamicLayout_CControlBar__UAA_AVCSize__HK_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0CControlBar__IAA_XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 _IsVisible_CControlBar__UBAHXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 _OnCreate_CControlBar__QAAHPAUtagCREATESTRUCTW___Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _DestroyWindow_CControlBar__UAAHXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 _CalcInsideRect_CControlBar__UBAXAAVCRect__H_Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _OnInitialUpdate_CControlBar__QAAXXZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 _OnDestroy_CControlBar__QAAXXZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 _SetBorders_CControlBar__QAAXHHHH_Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _DelayShow_CControlBar__UAAXH_Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _AssertValid_CControlBar__UBAXXZ 
+F8FFBD270000083C000008250000A8AF0000A28F0800BD270800E00300000000 00 0000 0020 :0000 _GetThisMessageMap_CControlBar__KAPBUAFX_MSGMAP__XZ 
+F8FFBD27004004000800A8AF254000000000A8AF0000A28F0800BD270800E003 04 DEFC 0024 :0000 _IsDockBar_CControlBar__UBAHXZ 00000000
+---

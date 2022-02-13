@@ -1,0 +1,217 @@
+004005000800A8AF004004000000A8AF0000A88F6800098D0800A88F03...... 30 45B4 0050 :0000 _OnUIDeactivate_COleControlContainer__UAAXPAVCOleControlSite___Z 000000000000A88F680000AD0000A88F7000098D0800A88F03......000000000000A88F700000AD0800E00300000000
+004005000800A8AF004004000000A8AF0800E00300000000................ 00 0000 0018 :0000 __3_YAXPAX0_Z 
+10FFBD27........................................................ 00 0000 0004 :0000 _CreateControlCommon_COleControlContainer__QAAHPAVCWnd__ABU_GUID__ABVCControlCreationInfo__PB_WKPBUtagPOINT__PBUtagSIZE__IPAV 
+18FFBD27........................................................ 00 0000 0004 :0000 _CreateOleFont_COleControlContainer__QAAXPAVCFont___Z 
+40FFBD27........................................................ 00 0000 0004 :0000 _CreateControl_COleControlContainer__QAAHPAVCWnd__ABU_GUID__PB_WKPBUtagPOINT__PBUtagSIZE__IPAVCFile__HPA_WPAPAVCOleControlSit 
+48FFBD27........................................................ 00 0000 0004 :0000 _CreateControl_COleControlContainer__QAAHPAVCWnd__ABU_GUID__PB_WKABUtagRECT__IPAVCFile__HPA_WPAPAVCOleControlSite___Z 
+58FFBD27........................................................ 00 0000 0004 :0000 _CreateControl_CWnd__QAAHABU_GUID__PB_WKABUtagRECT__PAV1_IPAVCFile__HPA_W_Z 
+58FFBD27........................................................ 00 0000 0004 :0000 _CreateControl_CWnd__QAAHABU_GUID__PB_WKPBUtagPOINT__PBUtagSIZE__PAV1_IPAVCFile__HPA_W_Z 
+68FFBD27........................................................ 00 0000 0004 :0000 _CreateControl_CWnd__QAAHPB_W0KABUtagRECT__PAV1_IPAVCFile__HPA_W_Z 
+68FFBD27........................................................ 00 0000 0004 :0000 _CreateControl_COleControlContainer__QAAHPAVCWnd__ABVCControlCreationInfo__KPBUtagPOINT__PBUtagSIZE__I_Z 
+68FFBD27........................................................ 00 0000 0004 :0000 _OnPaint_COleControlContainer__UAAHPAVCDC___Z 
+70FFBD27........................................................ 00 0000 0004 :0000 _EnumObjects_XOleContainer_COleControlContainer__UAAJKPAPAUIEnumUnknown___Z 
+88FFBD27........................................................ 00 0000 0004 :0000 _FillListSitesOrWnds_COleControlContainer__UAAHPAU_AFX_OCC_DIALOG_INFO___Z 
+90FFBD27........................................................ 00 0000 0004 :0000 _SetDlgItemInt_COleControlContainer__UAAXHIH_Z 
+98FFBD27........................................................ 00 0000 0004 :0000 _CreateControl_CWnd__QAAHABVCControlCreationInfo__KPBUtagPOINT__PBUtagSIZE__PAV1_I_Z 
+98FFBD27........................................................ 00 0000 0004 :0000 __unwind_149563 
+98FFBD27........................................................ 00 0000 0004 :0000 __catch_149562 
+98FFBD27........................................................ 00 0000 0004 :0000 _GetAmbientProp_COleControlContainer__UAAHPAVCOleControlSite__JPAUtagVARIANT___Z 
+98FFBD27........................................................ 00 0000 0004 :0000 _HandleWindowlessMessage_COleControlContainer__UAAHIIJPAJ_Z 
+A0FFBD27........................................................ 00 0000 0004 :0000 __1COleControlContainer__UAA_XZ 
+A0FFBD27........................................................ 00 0000 0004 :0000 ___SerializeElements_PAX__YAXAAVCArchive__PAPAXH_Z 
+A0FFBD27........................................................ 00 0000 0004 :0000 _NewAssoc___CMap_PAXPAXPAXPAX__IAAPAVCAssoc_1_PAX_Z 
+B0FFBD27........................................................ 00 0000 0004 :0000 _InitControlContainer_CWnd__IAAHH_Z 
+B0FFBD27........................................................ 00 0000 0004 :0000 __RCTraceFileAndLineInfo_ATL__QBAXKIPB_WZZ 
+B0FFBD27........................................................ 00 0000 0004 :0000 _TraceV_CTrace_ATL__QBAXPBDHKIPB_WPAD_Z 
+B0FFBD27........................................................ 00 0000 0004 :0000 _CheckImplicitLoad___CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__AAA_NPBX_Z 
+B0FFBD27........................................................ 00 0000 0004 :0000 _Fork___CSimpleStringT__W_0A__ATL__AAAXH_Z 
+B8FFBD27........................................................ 00 0000 0004 :0000 _TransferAddTail___CTypedPtrList_V__CList_PAXPAX__PAUCOleControlSiteOrWnd____QAAPAU__POSITION__PAUCOleControlSiteOrWnd___Z 
+B8FFBD27........................................................ 00 0000 0004 :0000 _TransferInsertBefore____CTypedPtrList_V__CList_PAXPAX__PAUCOleControlSiteOrWnd____QAAPAU__POSITION__PAU2_PAUCOleControlSiteO 
+B8FFBD27........................................................ 00 0000 0004 :0000 __0__CSimpleStringT__W_0A__ATL__QAA_PAUIAtlStringMgr_1__Z 
+B8FFBD27........................................................ 00 0000 0004 :0000 _AtlThrowImpl_ATL__YAXJ_Z 
+B8FFBD27........................................................ 00 0000 0004 :0000 _Serialize___CMap_PAXPAXPAXPAX__UAAXAAVCArchive___Z 
+B8FFBD27........................................................ 00 0000 0004 :0000 _NewNode___CList_PAXPAX__IAAPAUCNode_1_PAU21_0_Z 
+B8FFBD27........................................................ 00 0000 0004 :0000 _InitHashTable___CMap_PAXPAXPAXPAX__QAAXIH_Z 
+C0FDBD27........................................................ 00 0000 0004 :0000 _GetDlgItemInt_COleControlContainer__UBAIHPAHH_Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 _FindItem_COleControlContainer__UBAPAVCOleControlSite__I_Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 _IsDlgButtonChecked_COleControlContainer__UBAIH_Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 __AtlGetStringResourceImage_ATL__YAPBUATLSTRINGRESOURCEIMAGE_1_PAUHINSTANCE____PAUHRSRC____I_Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 _Reallocate___CSimpleStringT__W_0A__ATL__AAAXH_Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 _SetString___CSimpleStringT__W_0A__ATL__QAAXPB_WH_Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 __A__CMap_PAXPAXPAXPAX__QAAAAPAXPAX_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 __1COleControlSiteOrWnd__QAA_XZ 
+C8FFBD27........................................................ 00 0000 0004 :0000 __0COleControlContainer__QAA_PAVCWnd___Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _BroadcastAmbientPropertyChange_COleControlContainer__UAAXJ_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _ScrollChildren_COleControlContainer__UAAXHH_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _SetActiveObject_XOleIPFrame_COleControlContainer__UAAJPAUIOleInPlaceActiveObject__PB_W_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 __1CEnumUnknown__UAA_XZ 
+C8FFBD27........................................................ 00 0000 0004 :0000 __0CEnumUnknown__QAA_PBXI_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _AllocSysString___CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__QBAPA_WXZ 
+C8FFBD27........................................................ 00 0000 0004 :0000 __0__CComPtrBase_UIUnknown___ATL__IAA_H_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _RemoveHead___CList_PAXPAX__QAAPAXXZ 
+C8FFBD27........................................................ 00 0000 0004 :0000 _InsertBefore___CList_PAXPAX__QAAPAU__POSITION__PAU2_PAX_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 __I__CComPtrBase_UIUnknown___ATL__QAAPAPAUIUnknown__XZ 
+C8FFBD27........................................................ 00 0000 0004 :0000 __0__CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__QAA_PB_W_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _Release_CStringData_ATL__QAAXXZ 
+C8FFBD27........................................................ 00 0000 0004 :0000 _LoadStringW___CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__QAAHPAUHINSTANCE____I_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _PrepareWrite___CSimpleStringT__W_0A__ATL__AAAPA_WH_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _ReleaseBufferSetLength___CSimpleStringT__W_0A__ATL__QAAXH_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _SetLength___CSimpleStringT__W_0A__ATL__AAAXH_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _Empty___CSimpleStringT__W_0A__ATL__QAAXXZ 
+C8FFBD27........................................................ 00 0000 0004 :0000 __0__CList_PAXPAX__QAA_H_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _Serialize___CList_PAXPAX__UAAXAAVCArchive___Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 __0__CMap_PAXPAXPAXPAX__QAA_H_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _RemoveAll___CMap_PAXPAXPAXPAX__QAAXXZ 
+C8FFBD27........................................................ 00 0000 0004 :0000 ___CompareElements_PAXPAX__YAHPBQAX0_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __catch_149302 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_149381 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_149380 
+D0FFBD27........................................................ 00 0000 0004 :0000 ___GCOleControlContainer__UAAPAXI_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0XOleIPFrame_COleControlContainer__QAA_XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0XOleContainer_COleControlContainer__QAA_XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_149441 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_149440 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_149439 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_149438 
+D0FFBD27........................................................ 00 0000 0004 :0000 ___GCOleControlSiteOrWnd__QAAPAXI_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_149653 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_149652 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_149651 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_149693 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_149692 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_149691 
+D0FFBD27........................................................ 00 0000 0004 :0000 _FreezeAllEvents_COleControlContainer__QAAXH_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _CheckDlgButton_COleControlContainer__UAAXHI_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _CheckRadioButton_COleControlContainer__UAAXHHH_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetDlgItem_COleControlContainer__UBAPAVCWnd__H_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetDlgItem_COleControlContainer__UBAXHPAPAUHWND_____Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetDlgItemTextW_COleControlContainer__UBAHHPA_WH_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _SendDlgItemMessageW_COleControlContainer__UAAJHIIJ_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _SetDlgItemTextW_COleControlContainer__UAAXHPB_W_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __catch_149834 
+D0FFBD27........................................................ 00 0000 0004 :0000 _AfxGetDlgItemStartFromHWND__YAPAUHWND____HPAU1__Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_149929 
+D0FFBD27........................................................ 00 0000 0004 :0000 _QueryInterface_XOleIPFrame_COleControlContainer__UAAJABU_GUID__PAPAX_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _AddRef_XOleIPFrame_COleControlContainer__UAAKXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 _Release_XOleIPFrame_COleControlContainer__UAAKXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_150087 
+D0FFBD27........................................................ 00 0000 0004 :0000 ___GCEnumUnknown__UAAPAXI_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _OnNext_CEnumUnknown__MAAHPAX_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _QueryInterface_XOleContainer_COleControlContainer__UAAJABU_GUID__PAPAX_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _Release_XOleContainer_COleControlContainer__UAAKXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 _AddRef_XOleContainer_COleControlContainer__UAAKXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_150170 
+D0FFBD27........................................................ 00 0000 0004 :0000 __catch_150169 
+D0FFBD27........................................................ 00 0000 0004 :0000 _IsManaged_CControlCreationInfo__QBAHXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0__CComPtr_UIUnknown___ATL__QAA_H_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0__CTypedPtrList_V__CList_PAXPAX__PAUCOleControlSiteOrWnd____QAA_H_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _AddTail___CTypedPtrList_V__CList_PAXPAX__PAUCOleControlSiteOrWnd____QAAPAU__POSITION__PAUCOleControlSiteOrWnd___Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __catch_150280 
+D0FFBD27........................................................ 00 0000 0004 :0000 _RemoveHead____CTypedPtrList_V__CList_PAXPAX__PAUCOleControlSiteOrWnd____QAAPAUCOleControlSiteOrWnd__XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetNext____CTypedPtrList_V__CList_PAXPAX__PAUCOleControlSiteOrWnd____QAAAAPAUCOleControlSiteOrWnd__AAPAU__POSITION___Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetNext____CTypedPtrList_V__CList_PAXPAX__PAUCOleControlSiteOrWnd____QBAPAUCOleControlSiteOrWnd__AAPAU__POSITION___Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __catch_150335 
+D0FFBD27........................................................ 00 0000 0004 :0000 ___G__CTypedPtrList_V__CList_PAXPAX__PAUCOleControlSiteOrWnd____UAAPAXI_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0___CTypedPtrList_V__CList_PAXPAX__PAUCOleControlSiteOrWnd____QAA_H_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 ___G___CTypedPtrList_V__CList_PAXPAX__PAUCOleControlSiteOrWnd____UAAPAXI_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetThreadLocale_ATL__YAKXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetNext___CList_PAXPAX__QBAABQAXAAPAU__POSITION___Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _RemoveAt___CList_PAXPAX__QAAXPAU__POSITION___Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _AfxCrtErrorCheck__YAHH_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _AllocSysString___ChTraitsOS__W_ATL__SAPA_WPB_WH_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0IOleInPlaceFrame__QAA_XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0IOleInPlaceUIWindow__QAA_XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0IOleWindow__QAA_XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0IOleContainer__QAA_XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0IParseDisplayName__QAA_XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetLength___CSimpleStringT__W_0A__ATL__QBAHXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0__CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__QAA_XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_150641 
+D0FFBD27........................................................ 00 0000 0004 :0000 _LoadStringW___CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__QAAHI_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __1__CSimpleStringT__W_0A__ATL__QAA_XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __4__CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__QAAAAV01_PB_W_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _AtlGetStringResourceImage_ATL__YAPBUATLSTRINGRESOURCEIMAGE_1_PAUHINSTANCE____I_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 wmemcpy_s 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetBaseTypeLength___ChTraitsOS__W_ATL__SAHPB_W_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _lstrlenW_ATL__YAIPB_W_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetBuffer___CSimpleStringT__W_0A__ATL__QAAPA_WH_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _FindStringResourceInstance___StrTraitMFC__WV__ChTraitsOS__W_ATL____SAPAUHINSTANCE____I_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetDefaultManager___StrTraitMFC__WV__ChTraitsOS__W_ATL____SAPAUIAtlStringMgr_ATL__XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __4__CSimpleStringT__W_0A__ATL__QAAAAV01_PB_W_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _PrepareWrite2___CSimpleStringT__W_0A__ATL__AAAXH_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _StringLength___CSimpleStringT__W_0A__ATL__SAHPB_W_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetAllocLength___CSimpleStringT__W_0A__ATL__QBAHXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_151003 
+D0FFBD27........................................................ 00 0000 0004 :0000 _AddHead___CList_PAXPAX__QAAPAU__POSITION__PAX_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _AddTail___CList_PAXPAX__QAAPAU__POSITION__PAX_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __1__CList_PAXPAX__UAA_XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_151038 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_151076 
+D0FFBD27........................................................ 00 0000 0004 :0000 __1__CMap_PAXPAXPAXPAX__UAA_XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_151095 
+D0FFBD27........................................................ 00 0000 0004 :0000 ___G__CList_PAXPAX__UAAPAXI_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 ___G__CMap_PAXPAXPAXPAX__UAAPAXI_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _RemoveAll___CList_PAXPAX__QAAXXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetNext___CList_PAXPAX__QAAAAPAXAAPAU__POSITION___Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetAssocAt___CMap_PAXPAXPAXPAX__IBAPAVCAssoc_1_PAXAAI1_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_151310 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0CAssoc___CMap_PAXPAXPAXPAX__QAA_PAX_Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 __1__CTypedPtrList_V__CList_PAXPAX__PAUCOleControlSiteOrWnd____UAA_XZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 __1___CTypedPtrList_V__CList_PAXPAX__PAUCOleControlSiteOrWnd____UAA_XZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 _OnUIActivate_COleControlContainer__UAAXPAVCOleControlSite___Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _FreeNode___CList_PAXPAX__IAAXPAUCNode_1__Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _ltot_s_Checked_ATL__YAXJPA_WIH_Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _ultot_s_Checked_ATL__YAXKPA_WIH_Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 __1__CComPtr_UIUnknown___ATL__QAA_XZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 __1__CComPtrBase_UIUnknown___ATL__QAA_XZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 __1__CStringT__WV__StrTraitMFC__WV__ChTraitsOS__W_ATL_____ATL__QAA_XZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 _Attach___CSimpleStringT__W_0A__ATL__AAAXPAUCStringData_2__Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _ConvertToBaseType___ChTraitsOS__W_ATL__SAXPA_WHPB_WH_Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _wmemcpy_s_Checked_ATL__YAXPA_WIPB_WI_Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _SetString___CSimpleStringT__W_0A__ATL__QAAXPB_W_Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _ThrowMemoryException___CSimpleStringT__W_0A__ATL__KAXXZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 _CopyChars___CSimpleStringT__W_0A__ATL__SAXPA_WIPB_WH_Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _CopyCharsOverlapped___CSimpleStringT__W_0A__ATL__SAXPA_WIPB_WH_Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _AssertValid___CList_PAXPAX__UBAXXZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 _AssertValid___CMap_PAXPAXPAXPAX__UBAXXZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 _SetAt___CMap_PAXPAXPAXPAX__QAAXPAX0_Z 
+F8FFBD27004004000800A8AF0000083C000008250000A8AF0000A28F0800BD27 08 1031 0028 :0000 _GetInterfaceMap_COleControlContainer__MBAPBUAFX_INTERFACEMAP__XZ 0800E00300000000
+F8FFBD27004004000800A8AF0000083C000008250000A8AF0000A28F0800BD27 08 1031 0028 :0000 _GetDispatchMap_COleControlContainer__MBAPBUAFX_DISPMAP__XZ 0800E00300000000
+F8FFBD27004004000800A8AF0000083C000008250000A8AF0000A28F0800BD27 08 1031 0028 :0000 _GetInterfaceMap_CEnumUnknown__MBAPBUAFX_INTERFACEMAP__XZ 0800E00300000000
+F8FFBD27004004000800A8AF0000083C000009250800A88F000009AD0800A88F 14 AB70 0034 :0000 __0IUnknown__QAA_XZ 0000A8AF0000A28F0800BD270800E00300000000
+F8FFBD27004004000800A8AF020009240800A88F000009AD0800A88F040000AD 18 0155 0038 :0000 __0CControlCreationInfo__QAA_XZ 0800A88F0000A8AF0000A28F0800BD270800E00300000000
+F8FFBD27004004000800A8AF0800A88F000000AD0800A88F040000AD0800A88F 1C D829 003C :0000 __0COleControlSiteOrWnd__QAA_XZ 080000AD0800A88F0000A8AF0000A28F0800BD270800E00300000000
+F8FFBD27004004000800A8AF0800A88F0000088D0000A8AF0000A28F0800BD27 08 1031 0028 :0000 __BCTraceCategory_ATL__QBAKXZ 0800E00300000000
+F8FFBD27004004000800A8AF0800A88F0000088D0000A8AF0000A28F0800BD27 08 1031 0028 :0000 __B__CComPtrBase_UIUnknown___ATL__QBAPAUIUnknown__XZ 0800E00300000000
+F8FFBD27004004000800A8AF0800A88F0000088D0000A8AF0000A28F0800BD27 08 1031 0028 :0000 _GetString___CSimpleStringT__W_0A__ATL__QBAPB_WXZ 0800E00300000000
+F8FFBD27004004000800A8AF0800A88F0000088DF0FF08250000A8AF0000A28F 0C 09EF 002C :0000 _GetData___CSimpleStringT__W_0A__ATL__ABAPAUCStringData_2_XZ 0800BD270800E00300000000
+F8FFBD27004004000800A8AF0800A88F0000A8AF0000A28F0800BD270800E003 04 DEFC 0024 :0000 LockResource 00000000
+F8FFBD27004004000800A8AF0800A88F02410800........................ 00 0000 0014 :0000 ___HashKey_PAX__YAIPAX_Z 
+F8FFBD27004004000800A8AF0800A88F0400088D0000A8AF0000A28F0800BD27 08 1031 0028 :0000 _GetHeadPosition___CList_PAXPAX__QBAPAU__POSITION__XZ 0800E00300000000
+F8FFBD27004004000800A8AF0800A88F080008250000A8AF0000A28F0800BD27 08 1031 0028 :0000 _data_CPlex__QAAPAXXZ 0800E00300000000
+F8FFBD27004004000800A8AF0800A88F0C00088D0000A8AF0000A28F0800BD27 08 1031 0028 :0000 _GetCount___CList_PAXPAX__QBAHXZ 0800E00300000000
+F8FFBD27004004000800A8AF0800A88F0C00088D0200082905......00000000 30 366D 0050 :0000 _IsShared_CStringData_ATL__QBA_NXZ 010008240400A8AF02......000000000400A0AF0400A88FFF0008310000A8A30000A2930800BD270800E00300000000
+F8FFBD27004004000800A8AF0800A88F0C00088D05......0000000001000824 28 1795 0048 :0000 _IsEmpty___CList_PAXPAX__QBAHXZ 0400A8AF02......000000000400A0AF0400A88F0000A8AF0000A28F0800BD270800E00300000000
+F8FFBD27004004000800A8AF0800A88F0C00088D05......0000000001000824 2C 70F3 004C :0000 _IsLocked_CStringData_ATL__QBA_NXZ 0400A8AF02......000000000400A0AF0400A88FFF0008310000A8A30000A2930800BD270800E00300000000
+F8FFBD27004004000800A8AF0800A88F100008250000A8AF0000A28F0800BD27 08 1031 0028 :0000 _data_CStringData_ATL__QAAPAXXZ 0800E00300000000
+F8FFBD27004004000800A8AF0800A88F7000088D07......0000000001000824 2C D6FC 004C :0000 _HandleSetFocus_COleControlContainer__UAAHXZ 0000A8AF05......0000000003......00000000254000000000A8AF0000A28F0800BD270800E00300000000
+F8FFBD27004005001000A8AF004004000800A8AF0080083C014008350000A8AF 10 420D 0030 :0000 _ContextSensitiveHelp_XOleIPFrame_COleControlContainer__UAAJH_Z 0000A28F0800BD270800E00300000000
+F8FFBD27004005001000A8AF004004000800A8AF0080083C014008350000A8AF 10 420D 0030 :0000 _GetBorder_XOleIPFrame_COleControlContainer__UAAJPAUtagRECT___Z 0000A28F0800BD270800E00300000000
+F8FFBD27004005001000A8AF004004000800A8AF0080083C014008350000A8AF 10 420D 0030 :0000 _RequestBorderSpace_XOleIPFrame_COleControlContainer__UAAJPBUtagRECT___Z 0000A28F0800BD270800E00300000000
+F8FFBD27004005001000A8AF004004000800A8AF0080083C014008350000A8AF 10 420D 0030 :0000 _SetBorderSpace_XOleIPFrame_COleControlContainer__UAAJPBUtagRECT___Z 0000A28F0800BD270800E00300000000
+F8FFBD27004005001000A8AF004004000800A8AF0080083C014008350000A8AF 10 420D 0030 :0000 _RemoveMenus_XOleIPFrame_COleControlContainer__UAAJPAUHMENU_____Z 0000A28F0800BD270800E00300000000
+F8FFBD27004005001000A8AF004004000800A8AF0080083C014008350000A8AF 10 420D 0030 :0000 _SetStatusText_XOleIPFrame_COleControlContainer__UAAJPB_W_Z 0000A28F0800BD270800E00300000000
+F8FFBD27004005001000A8AF004004000800A8AF0080083C014008350000A8AF 10 420D 0030 :0000 _LockContainer_XOleContainer_COleControlContainer__UAAJH_Z 0000A28F0800BD270800E00300000000
+F8FFBD27004005001000A8AF004004000800A8AF0800A88F000000AD0800A98F 28 AF92 0048 :0000 __0COleControlSiteOrWnd__QAA_PAVCOleControlSite___Z 1000A88F040028AD0800A88F080000AD0800A88F0000A8AF0000A28F0800BD270800E00300000000
+F8FFBD27004005001000A8AF004004000800A8AF0800A88F88FF08250000A8AF 2C D8F2 004C :0000 _GetWindow_XOleIPFrame_COleControlContainer__UAAJPAPAUHWND_____Z 0000A88F2000088D2000098D1000A88F000009AD254000000400A8AF0400A28F0800BD270800E00300000000
+F8FFBD27004005001000A8AF004004000800A8AF1000A88F0000A8AF0000A28F 0C 09EF 002C :0000 _GetBaseTypeLength___ChTraitsOS__W_ATL__SAHPB_WH_Z 0800BD270800E00300000000
+F8FFBD27004005001000A8AF004004000800A8AF1000A88F0000A8AF0000A28F 0C 09EF 002C :0000 __2_YAPAXIPAX_Z 0800BD270800E00300000000
+F8FFBD27004005001000A8AF004004000800A8AF1000A98F0800A88F000009AD 18 0155 0038 :0000 __0CPair___CMap_PAXPAXPAXPAX__IAA_PAX_Z 0800A88F0000A8AF0000A28F0800BD270800E00300000000
+F8FFBD27004005001000A8AF004004000800A8AF254000000000A8AF0000A28F 0C 09EF 002C :0000 _EnableModeless_XOleIPFrame_COleControlContainer__UAAJH_Z 0800BD270800E00300000000
+F8FFBD27004006001800A8AF004005001000A8AF004004000800A8AF0080083C 18 5034 0038 :0000 _InsertMenus_XOleIPFrame_COleControlContainer__UAAJPAUHMENU____PAUtagOleMenuGroupWidths___Z 014008350000A8AF0000A28F0800BD270800E00300000000
+F8FFBD27004006001800A8AF004005001000A8AF004004000800A8AF1000A98F 34 0E6B 0054 :0000 __0COleControlSiteOrWnd__QAA_PAUHWND____H_Z 0800A88F000009AD0800A88F040000AD0800A98F1800A88F080028AD0800A88F0000A8AF0000A28F0800BD270800E00300000000
+F8FFBD27004006001800A8AF004005001000A8AF004004000800A8AF1000A98F 2C 600D 004C :0000 __0CTraceFileAndLineInfo_ATL__QAA_PBDH_Z 0800A88F000009AD0800A98F1800A88F040028AD0800A88F0000A8AF0000A28F0800BD270800E00300000000
+F8FFBD27004007002000A8AF004006001800A8AF004005001000A8AF00400400 20 164D 0040 :0000 _SetMenu_XOleIPFrame_COleControlContainer__UAAJPAUHMENU____PAXPAUHWND_____Z 0800A8AF0080083C014008350000A8AF0000A28F0800BD270800E00300000000
+F8FFBD27004007002000A8AF004006001800A8AF004005001000A8AF00400400 20 164D 0040 :0000 _ParseDisplayName_XOleContainer_COleControlContainer__UAAJPAUIBindCtx__PA_WPAKPAPAUIMoniker___Z 0800A8AF0080083C014008350000A8AF0000A28F0800BD270800E00300000000
+F8FFBD271800A6A7004005001000A8AF004004000800A8AF0080083C01400835 14 AB70 0034 :0000 _TranslateAcceleratorW_XOleIPFrame_COleControlContainer__UAAJPAUtagMSG__G_Z 0000A8AF0000A28F0800BD270800E00300000000
+---

@@ -1,0 +1,12 @@
+0FB7C10D........85C90F4EC1C3.................................... 00 0000 000E :0000 HRESULT_FROM_WIN32 
+40534883EC208BD948............E8........8BCB4883C4205B48FFE0.... 00 0000 001E :0000 _RoInitialize_WinRT_details_Concurrency__SAJW4RO_INIT_TYPE___Z 
+4881EC8800000048............33D241..........FF..........48...... FF 8BF7 0135 :0000 _Initialize_WinRT_details_Concurrency__SAXXZ ......4885C074..48............FF..........48............488BC8FF..........4885C00F84........488BC8E8........48............48............FF..........48............488BC8FF..........4885C00F84........488BC8E8........48............B80100000087056BF4FFFF4881C488000000C3FF..........488D4C24200FB7D081..........85C00F4ED0E8........48............488D4C2420E8........CCFF..........488D4C24400FB7D081..........85C00F4ED0E8........48............488D4C2440E8........CCFF..........488D4C24600FB7D081..........85C00F4ED0E8
+4883EC2848............E8........4883C42848FFE0.................. 00 0000 0017 :0000 _RoUninitialize_WinRT_details_Concurrency__SAXXZ 
+48895C240848896C24104889742418574883EC20498BF1418BD8488BEA488BF9 23 9DD1 0043 :0000 ___H_YAXPEAX_KHP6APEAX0_Z_Z EB..488BCFFFD64803FDFFCB79..488B5C2430488B6C2438488B7424404883C4205FC3
+48895C24084889742410574883EC208BF2488BD9F6....74..488D79F84C.... 4E 252D 006E :0000 ___EGlobalCore_details_Concurrency__QEAAPEAXI_Z ........BA........448B07E8........40......74..488BCFE8........488BC7EB..488B4928E8........40......74..488BCBE8........488BC3488B5C2430488B7424384883C4205FC3
+48895C2408574883EC20488BDA488BF9E8........48............4889078B 13 995F 0033 :0000 __0scheduler_resource_allocation_error_Concurrency__QEAA_AEBV01__Z 4318488B5C2430894718488BC74883C4205FC3
+48895C2408574883EC208BDA488BF9E8........F6....74..488BCFE8...... 0F 97B5 002F :0000 ___Gscheduler_resource_allocation_error_Concurrency__UEAAPEAXI_Z ..488BC7488B5C24304883C4205FC3
+488B4928E9...................................................... 00 0000 0009 :0000 __1GlobalCore_details_Concurrency__QEAA_XZ 
+8B..........85C90F95C0C3........................................ 00 0000 000C :0000 _Initialized_WinRT_details_Concurrency__SA_NXZ 
+E9.............................................................. 00 0000 0005 :0000 __1scheduler_resource_allocation_error_Concurrency__UEAA_XZ 
+---

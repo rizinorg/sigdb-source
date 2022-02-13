@@ -1,0 +1,4 @@
+0000A4AF0000A9........3C..0009AD0800E0..00000000FF.............. 00 0000 0019 :0000 _initp_misc_initcrit 
+C8......3400BF........AF25........00C5AF3800.................... 00 0000 0016 :0000 __crtInitCritSecAndSpinCount 
+E0..BD........AF2400A5AF2000A4AF2000A48F0000000C0000000001000824 07 149A 0027 :0000 __crtInitCritSecNoSpinCount ..00A8AF1000A2
+---

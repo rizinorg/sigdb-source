@@ -1,0 +1,90 @@
+0000083C0010040000000825000048AC0C0040AC100040AC080040AC040040AC 0C 6891 002C :0000 __0__CList_PAVIControlSiteFactory__PAV1___QAA_H_Z 140040AC0800E003180045AC
+0000083C00100400000008250800E003000048AC........................ 00 0000 0014 :0000 __0IControlSiteFactory__QAA_XZ 
+0000083C00100400000008250800E003000048AC........................ 00 0000 0014 :0000 __0COleControlSiteFactory__QAA_XZ 
+0000083C00100400000008250800E003000048AC........................ 00 0000 0014 :0000 __0COccManager__QAA_XZ 
+0000083C00480400000008250800E003000028AD........................ 00 0000 0014 :0000 __1IControlSiteFactory__UAA_XZ 
+0000083C00480400000008250800E003000028AD........................ 00 0000 0014 :0000 __1COleControlSiteFactory__UAA_XZ 
+004004000060050002......180009251200092500002895FFFF0A3403...... 7C 8AC3 009C :0000 __AfxFindNextDlgItem__YAPAUDLGITEMTEMPLATE__PAU1_H_Z 0000000005......040029250000289502002925FD......020020CD0000289503......0000000005......040029250000289502002925FD......020020CD00002A952558400106......02002D2504......00000000FEFF083421406801FFFF0A31FFFF0C3C21484D0103002A25FCFF8C350800E00324104C01
+0040040002......251000002000028D0800E00300000000................ 00 0000 0018 :0000 _GetSafeHwnd_CWnd__QBAPAUHWND____XZ 
+004004000800E0030400028D........................................ 00 0000 000C :0000 _GetHeadPosition___CList_PAVIControlSiteFactory__PAV1___QBAPAU__POSITION__XZ 
+004004000800E00308000225........................................ 00 0000 000C :0000 _data_CPlex__QAAPAXXZ 
+004004001800088D274800010800E00301002231........................ 00 0000 0014 :0000 _IsStoring_CArchive__QBAHXZ 
+005005000000498D0000288D080022250800E003000048AD................ 00 0000 0018 :0000 _GetNext___CList_PAVIControlSiteFactory__PAV1___QAAAAPAVIControlSiteFactory__AAPAU__POSITION___Z 
+007004000300C8910200CA91004A08000300D8892558200125604B01FFFF1934 C4 13AB 00E4 :0000 __AfxFindFirstDlgItem__YAPAUDLGITEMTEMPLATE__PBUDLGTEMPLATE___Z 07......0000D8990C00C8250300188901000F240000189903......1A00CD25257800001200CD250000A89503......0000000005......0400AD250000A8950200AD25FD......0200A0CD0000A89503......0000000005......0400AD250000A8950200AD25FD......0200A0CD0000A9950200AD25FD......0200A0CD400008330A......000000000100E92D03000A2407502A0140480A0021682D010000A8950200AD25FD......0200A0CDFFFF093C0300A825FCFF29350800E00324100901
+0800E00300000000................................................ 00 0000 0008 :0000 __1CNoTrackObject__UAA_XZ 
+0800E00300000000................................................ 00 0000 0008 :0000 __1CObject__UAA_XZ 
+0800E00300000000................................................ 00 0000 0008 :0000 __1COccManager__UAA_XZ 
+0800E00300000000................................................ 00 0000 0008 :0000 _Serialize_CObject__UAAXAAVCArchive___Z 
+0800E00300000224................................................ 00 0000 0008 :0000 _CreateSite_COccManager__UAAPAVCOleControlSite__PAVCOleControlContainer___Z 
+0800E00300000224................................................ 00 0000 0008 :0000 _UnlockResource__YAHPAX_Z 
+0800E00300100400................................................ 00 0000 0008 :0000 LockResource 
+0800E00300100400................................................ 00 0000 0008 :0000 __0CObject__IAA_XZ 
+0800E00300100400................................................ 00 0000 0008 :0000 __0CNoTrackObject__QAA_XZ 
+0800E00300100500................................................ 00 0000 0008 :0000 __2_YAPAXIPAX_Z 
+0800E00301000224................................................ 00 0000 0008 :0000 _FreeResource__YAHPAX_Z 
+2000A88F00100400000045AC040046AC080047AC0800E0030C0048AC........ 00 0000 001C :0000 __0CRect__QAA_HHHH_Z 
+2510E00300......20000324002004000000888C00900500252840021000088D 88 EFB8 00A8 :0000 _CreateSite_COccManager__UAAPAVCOleControlSite__PAVCOleControlContainer__ABVCControlCreationInfo___Z 09F80001008806002580400007......0000000000......2520200215......0000000013......258000000000083C0000093C0000052500......0000242503......0000000000......00000000253020022528400200......252040002580400003......0000000000......000000002510000200......2000042404000000F1000000
+2510E00300......20000324004004000800108D00880600009005000E...... 48 0C0E 0068 :0000 _CreateSite_CControlSiteFactoryMgr__QAAPAVCOleControlSite__PAVCOleControlContainer__ABVCControlCreationInfo___Z 25100000254800020800248D08......0000108E0000888C253020020400088D09F800012528400203......00000000F4......0000000000......2000042404000000F1000000
+2510E00300......20000324008006000098050005......00B0040003...... FF A15E 0124 :0000 ___SerializeElements_PAVIControlSiteFactory____YAXAAVCArchive__PAPAVIControlSiteFactory__H_Z 0000000000......000000001800C88E010009311A......0000000037......00000000FF1F113C0000153C0000B5DEFFFF31362B40110202000015259000022590200280A0120024309502252860020000000C2520C0022B201202060080140000000023801202F2FF00162198930222000010000000000000000C000000001E00001200000000FF1F113C0000153C0000B5DEFFFF31362B40110202000015259000022590200280A0120024309502252860020000000C2520C002002002000B009414000000002B401202060000150000000023801202EFFF00162198930206000010000000000000000C00000000000005240000000C03000424000000
+2510E00300......2000032400C805000C002827030009890080040000000999 14 8E4C 0034 :0000 _ConvertDialogTemplate__YAPAEPAUDLGTEMPLATE__PAUDLGTEMPLATEEX__K_Z 00C00600E6FF1227030009AA12001126070000AA
+2510E00300......28000324008805001800288E00800400010009310F...... 05 6A36 0028 :0000 _Serialize___CList_PAVIControlSiteFactory__PAV1___UAAXAAVCArchive___Z 2520200200
+2510E00300......C800032425F0A00300000A3C004807000000488D00B80500 FF D280 0124 :0000 _CreateDlgControl_COccManager__IAAHPAVCWnd__PAUHWND____HPAUDLGITEMTEMPLATE__GPAEKPAPAU3__Z 5C00C6AFC000C8AF3801D18F4801D08F5801D68F2A......12003526080028260300098904002A260000099925C020020D00288203004B896300C9AB00004B996000C9BB004A08000C002A92256020016700CBAB6400CBBB25584C010F002C8211002A82006A0C000E0028922570A0016800CBA7005A0A0010002C9225480E010100A882257860016A00C9A725688F010000AA9214002C266C00CDA7004A080003008D892570200100008D9925584E016000D1276E00CBA7180015277000CDA70A00288608002A860E002986257800010C002B862560400121702F012000E48E21686C017800C5277800CCAF7C00CFAF8000CDAF00......8400CEAF5001D2
+60FFBD27........................................................ 00 0000 0004 :0000 _CreateDlgControls_COccManager__UAAHPAVCWnd__PAXPAU_AFX_OCC_DIALOG_INFO___Z 
+88FFBD27........................................................ 00 0000 0004 :0000 _SplitDialogTemplate_COccManager__UAAPAUDLGTEMPLATE__PBU2_PAPAUDLGITEMTEMPLATE___Z 
+98FFBD27........................................................ 00 0000 0004 :0000 _PreCreateDialog_COccManager__UAAPBUDLGTEMPLATE__PAU_AFX_OCC_DIALOG_INFO__PBU2__Z 
+98FFBD27........................................................ 00 0000 0004 :0000 __unwind_156740 
+A8FFBD27........................................................ 00 0000 0004 :0000 _CreateDlgControls_COccManager__UAAHPAVCWnd__PB_WPAU_AFX_OCC_DIALOG_INFO___Z 
+B8FFBD27........................................................ 00 0000 0004 :0000 _NewNode___CList_PAVIControlSiteFactory__PAV1___IAAPAUCNode_1_PAU21_0_Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 _CreateContainer_COccManager__UAAPAVCOleControlContainer__PAVCWnd___Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 _CreateSite_COleControlSiteFactory__UAAPAVCOleControlSite__PAVCOleControlContainer__ABVCControlCreationInfo___Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _ConvertDialogItemTemplate__YAPAEPAUDLGITEMTEMPLATE__PAUDLGITEMTEMPLATEEX__K_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _PrepareOleCtrl_CDataExchange__QAAPAVCOleControlSite__H_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _AddHead___CList_PAVIControlSiteFactory__PAV1___QAAPAU__POSITION__PAVIControlSiteFactory___Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 ___G__CList_PAVIControlSiteFactory__PAV1___UAAPAXI_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _AddTail___CList_PAVIControlSiteFactory__PAV1___QAAPAU__POSITION__PAVIControlSiteFactory___Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 __1CControlSiteFactoryMgr__UAA_XZ 
+C8FFBD27........................................................ 00 0000 0004 :0000 _RegisterSiteFactory_CControlSiteFactoryMgr__QAAHPAVIControlSiteFactory___Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 __0CControlSiteFactoryMgr__QAA_XZ 
+C8FFBD27........................................................ 00 0000 0004 :0000 __catch_157280 
+C8FFBD27........................................................ 00 0000 0004 :0000 ___GCControlSiteFactoryMgr__UAAPAXI_Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _CreateObject___CProcessLocal_VCControlSiteFactoryMgr____SAPAVCNoTrackObject__XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 _PostCreateDialog_COccManager__UAAXPAU_AFX_OCC_DIALOG_INFO___Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 ___GIControlSiteFactory__UAAPAXI_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _RemoveAll___CList_PAVIControlSiteFactory__PAV1___QAAXXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_156501 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_156821 
+D0FFBD27........................................................ 00 0000 0004 :0000 _EnsureRead_CArchive__QAAXPAXI_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 ___GCOleControlSiteFactory__UAAPAXI_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_157149 
+D0FFBD27........................................................ 00 0000 0004 :0000 ___GCOccManager__UAAPAXI_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_157281 
+D0FFBD27........................................................ 00 0000 0004 :0000 _UnregisterSiteFactory_CControlSiteFactoryMgr__QAAHPAVIControlSiteFactory___Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_157377 
+D0FFBD27........................................................ 00 0000 0004 :0000 _AfxEnableControlContainer__YAXPAVCOccManager___Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _AfxRegisterSiteFactory__YAHPAVIControlSiteFactory___Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _AfxUnregisterSiteFactory__YAHPAVIControlSiteFactory___Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 __1__CProcessLocal_VCOccManager____QAA_XZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 __1__CProcessLocal_VCControlSiteFactoryMgr____QAA_XZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 _IsDialogEx__YAHPBUDLGTEMPLATE___Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _DlgTemplateItemCount__YAAAGPAUDLGTEMPLATE___Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _DlgTemplateItemCount__YAABGPBUDLGTEMPLATE___Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _OnEvent_COccManager__UAAHPAVCCmdTarget__IPAUAFX_EVENT__PAUAFX_CMDHANDLERINFO___Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 ___CompareElements_PAVIControlSiteFactory__PAV1___YAHPBQAVIControlSiteFactory__0_Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _AfxCrtErrorCheck__YAHH_Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _memcpy_s_Checked_ATL__YAXPAXIPBXI_Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 __3CObject__SAXPAX_Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 __2CObject__SAPAXI_Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _AfxGetResourceHandle__YAPAUHINSTANCE____XZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 _Find___CList_PAVIControlSiteFactory__PAV1___QBAPAU__POSITION__PAVIControlSiteFactory__PAU2__Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _FreeNode___CList_PAVIControlSiteFactory__PAV1___IAAXPAUCNode_1__Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 __1__CList_PAVIControlSiteFactory__PAV1___UAA_XZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 _CreateObject___CProcessLocal_VCOccManager____SAPAVCNoTrackObject__XZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 _RemoveAt___CList_PAVIControlSiteFactory__PAV1___QAAXPAU__POSITION___Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 _GetData___CProcessLocal_VCOccManager____QAAPAVCOccManager__XZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 _GetData___CProcessLocal_VCControlSiteFactoryMgr____QAAPAVCControlSiteFactoryMgr__XZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 __C__CProcessLocal_VCControlSiteFactoryMgr____QAAPAVCControlSiteFactoryMgr__XZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 ____E_afxOccManager__YAXXZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 ____E_afxControlFactoryMgr__YAXXZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 ____F_afxOccManager__YAXXZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 ____F_afxControlFactoryMgr__YAXXZ 
+---

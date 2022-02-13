@@ -1,0 +1,51 @@
+03B42DE90048EB46029801F0........................................ 00 0000 000C :0000 __Acquire__NonReentrantLock_details_Concurrency__QAAXXZ 
+03B42DE90048EB460298FFF7........................................ 00 0000 000C :0000 __1scheduler_resource_allocation_error_Concurrency__UAA_XZ 
+03B42DE90048EB460299029B4833186804F042FA5DF804BB5DF80CFB........ 00 0000 001C :0000 _CompletedTransmogrification_CachedTransmogrifiedPrimary_details_Concurrency__MAAXXZ 
+03B42DE90048EB46029A054B1360029B181D04F0........................ 00 0000 0014 :0000 __1exception_std__UAA_XZ 
+03B42DE90048EB46029B10331868034B1B689847........................ 00 0000 0014 :0000 _Unblock_TransmogrifiedPrimary_details_Concurrency__AAAXXZ 
+03B42DE90048EB465DF804BB5DF80CFB04000000F1000000760000003B004711 00 0000 0020 :0000 ___empty_global_delete__YAXPAX_Z 
+03B42DE90048EB465DF804BB5DF80CFB04000000F10000008D0000003B004711 00 0000 0020 :0000 ___empty_global_delete__YAXPAXI_Z 
+03B42DE90048EB465DF804BB5DF80CFB04000000F1000000A50000006E004711 00 0000 0020 :0000 _CompletedTransmogrification_TransmogrifiedPrimary_details_Concurrency__MAAXXZ 
+03B42DE90048EB4682B001238DF800309DF8000002B05DF8................ 00 0000 0018 :0000 _IsPrimary_TransmogrifiedPrimary_details_Concurrency__UAA_NXZ 
+03B42DE90048EB4682B0049800F0B0F80190084A049B1A60049B03F1........ 00 0000 001C :0000 __0CachedTransmogrifiedPrimary_details_Concurrency__QAA_PAVTransmogrificator_12__Z 
+03B42DE90048EB4682B00498FFF700FE059B13F0........................ 00 0000 0014 :0000 ___Gscheduler_resource_allocation_error_Concurrency__UAAPAXI_Z 
+03B42DE90048EB4682B00498FFF758FF................................ 00 0000 0010 :0000 __0__SafeSQueue_VUMSThreadProxy_details_Concurrency__V_NonReentrantLock_23__details_Concurrency__QAA_XZ 
+03B42DE90048EB4682B00498FFF7C0FC059B13F0........................ 00 0000 0014 :0000 ___GTransmogrifiedPrimary_details_Concurrency__QAAPAXI_Z 
+03B42DE90048EB4682B00498FFF7E0FD059B13F0........................ 00 0000 0014 :0000 ___Gexception_std__UAAPAXI_Z 
+03B42DE9....EB46....049A00231360049A049B1B1D1A60049B0093009802B0 08 CDB3 0028 :0000 __0__SQueue_VUMSThreadProxy_details_Concurrency___details_Concurrency__QAA_XZ 5DF804BB5DF80CFB
+03B42DE9....EB4682B0049A044B1360049B0093009802B05DF804BB5DF80CFB 04 DEFC 0024 :0000 __0UMSBaseObject_details_Concurrency__QAA_XZ 00000000
+03B42DE9....EB46....049A059B1360049B186803F084FE049B0093009802B0 08 CDB3 0028 :0000 __0_Scoped_lock__NonReentrantLock_details_Concurrency__QAA_AAV123__Z 5DF804BB5DF80CFB
+03B42DE90048EB4682B0049A0A4B136008220021........................ 00 0000 0014 :0000 __0exception_std__QAA_ABV01__Z 
+03B42DE90048EB4682B0049B002B02DC................................ 00 0000 0010 :0000 HRESULT_FROM_WIN32 
+03B42DE90048EB4682B0049B0093BFF3................................ 00 0000 0010 :0000 __0_NonReentrantLock_details_Concurrency__QAA_XZ 
+03B42DE90048EB4682B0049B10331B680093009802B05DF8................ 00 0000 0018 :0000 _GetUMSContext_UMSThreadProxy_details_Concurrency__QBAPAXXZ 
+03B42DE9....EB46....049B....1B68002B04D0049B1B1D1B68009301E0054B 0C DA3E 002C :0000 _what_exception_std__UBAPBDXZ 0093009B0193019802B05DF8
+03B42DE9....EB46....049B....002B....0023....12E0....1B68....049B 24 3346 0044 :0000 _Dequeue___SQueue_VUMSThreadProxy_details_Concurrency___details_Concurrency__QAAPAVUMSThreadProxy_23_XZ ......33......681360049B1B68002B03D1049A049B1B1D1A60019B0093009802B05DF8
+03B42DE90048EB4682B0049B1B680093009802B05DF804BB5DF80CFB........ 00 0000 001C :0000 _GetEvent_UMSBackgroundPoller_details_Concurrency__QAAPAXXZ 
+03B42DE90048EB4682B0049B20331B6800930821009804F0................ 00 0000 0018 :0000 __1GlobalCore_details_Concurrency__QAA_XZ 
+03B42DE90048EB4682B005990498FFF7................................ 00 0000 0010 :0000 __0scheduler_resource_allocation_error_Concurrency__QAA_ABV01__Z 
+03B42DE9....EB4684B0069B1B1D1B680093009B002B00D005E04FF486721849 04 B669 0024 :0000 _HandleYielding_TransmogrifiedPrimary_details_Concurrency__AAAPAVUMSThreadProxy_23_XZ 164803F0
+03B42DE90048EB4684B0069B1B680093BFF35B8F009B23F0................ 00 0000 0018 :0000 __Release__NonReentrantLock_details_Concurrency__QAAXXZ 
+03B42DE90048EB4684B0069B20331B680193BFF3........................ 00 0000 0014 :0000 _NotifyBlocked_UMSThreadProxy_details_Concurrency__QAAX_N_Z 
+03B42DE90048EB4684B0079B002B00D005E04FF499721E491E4803F0........ 00 0000 001C :0000 _Execute_TransmogrifiedPrimary_details_Concurrency__AAAXPAVUMSThreadProxy_23__Z 
+03B42DE90048EB4684B0079B002B0FD1................................ 00 0000 0010 :0000 _Enqueue___SQueue_VUMSThreadProxy_details_Concurrency___details_Concurrency__QAAXPAVUMSThreadProxy_23__Z 
+03B42DE9....EB46....149B00934FF480730A93009B1C331B680B931D4B0C93 08 014C 0028 :0000 _PrimaryMain_TransmogrifiedPrimary_details_Concurrency__CAKPAX_Z 149B0D930AA802F0
+03B42DE910480DF1................................................ 00 0000 0008 :0000 _QueueToCompletion_TransmogrifiedPrimary_details_Concurrency__QAAXPAVUMSThreadProxy_23__Z 
+03B42DE910480DF1................................................ 00 0000 0008 :0000 _Initialize_TransmogrifiedPrimary_details_Concurrency__AAAXXZ 
+03B42DE910480DF1................................................ 00 0000 0008 :0000 _SearchForWork_TransmogrifiedPrimary_details_Concurrency__AAAPAVUMSThreadProxy_23_XZ 
+03B42DE910480DF1................................................ 00 0000 0008 :0000 _WaitForWork_TransmogrifiedPrimary_details_Concurrency__AAAPAVUMSThreadProxy_23_XZ 
+03B42DE910480DF1................................................ 00 0000 0008 :0000 _WaitForBlockedThread_TransmogrifiedPrimary_details_Concurrency__AAAPAVUMSThreadProxy_23_PAV423__Z 
+03B42DE930480DF1................................................ 00 0000 0008 :0000 _HandleBlocking_TransmogrifiedPrimary_details_Concurrency__AAAPAVUMSThreadProxy_23_XZ 
+03B42DE980480DF1................................................ 00 0000 0008 :0000 __1_Scoped_lock__NonReentrantLock_details_Concurrency__QAA_XZ 
+03B42DE980480DF1................................................ 00 0000 0008 :0000 ___EGlobalCore_details_Concurrency__QAAPAXI_Z 
+03B42DE980480DF1................................................ 00 0000 0008 :0000 __0TransmogrifiedPrimary_details_Concurrency__QAA_XZ 
+03B42DE980480DF1................................................ 00 0000 0008 :0000 __1TransmogrifiedPrimary_details_Concurrency__QAA_XZ 
+03B42DE980480DF1................................................ 00 0000 0008 :0000 _Enqueue___SafeSQueue_VUMSThreadProxy_details_Concurrency__V_NonReentrantLock_23__details_Concurrency__QAAXPAVUMSThreadProxy 
+03B42DE980480DF1................................................ 00 0000 0008 :0000 _Dequeue___SafeSQueue_VUMSThreadProxy_details_Concurrency__V_NonReentrantLock_23__details_Concurrency__QAAPAVUMSThreadProxy_2 
+0FB42DE90048EB4698B00023039302F0................................ 00 0000 0010 :0000 _PrimaryInvocation_TransmogrifiedPrimary_details_Concurrency__CAXW4_RTL_UMS_SCHEDULER_REASON__KPAX_Z 
+0FB42DE910480DF1................................................ 00 0000 0008 :0000 ___H_YAXPAXIIP6APAX0_Z_Z 
+10B53846FFF74EF8................................................ 00 0000 0008 :0000 __unwind_3_1 
+10B5BB6A03F1300005F044FB10BDFEDE00000000........................ 00 0000 0014 :0000 __unwind_3 
+2DE90048EB4682B064230093009802B0BDE80088........................ 00 0000 0014 :0000 _PollInterval_UMSBackgroundPoller_details_Concurrency__SAHXZ 
+2DE90048EB4684B003F09EFC0090009803F0BEFC0190019B0293029804B0BDE8 00 0000 0020 :0000 _GetCurrent_UMSThreadProxy_details_Concurrency__SAPAV123_XZ 
+---

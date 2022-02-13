@@ -83,7 +83,7 @@ def main():
 		print("Error: path '{}' does not exists".format(sigdb_out))
 		sys.exit(1)
 	elif not args.test and not args.overwrite and len(listdirs(sigdb_out)) > 0:
-		print("Error: '{}' already contains some folders. please use an empty folder".format(sigdb_out))
+		print("Error: '{}' already contains some folders. please use an empty folder (overwrite is not allowed)".format(sigdb_out))
 		sys.exit(1)
 
 	print("source:", sigdb_src)

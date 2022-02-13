@@ -1,0 +1,7 @@
+68........04..AF8804B1AF8C04B0AFA404..AFA0................04..AF 0E 3D6A 002F :0000 _AfxWinMain__YAHPAUHINSTANCE____0PA_WH_Z 0000083C0000088D7804A8..9C04
+B8........04..AF4C....AF48....AF0000083C0000088D3404A8..4C...... 00 0000 001F :0000 __AfxFindModuleInfoProc__YAHPAUHWND____J_Z 
+C8......3000BF........AF4000A6AF3C00A5AF3800A4AF3800A9.......... 00 0000 001F :0000 _TraceV_CTrace_ATL__QBAXPBDHKIPB_WPAD_Z 
+C8......3000BF........AF4000A6AF3C00A5AF3800A4AF4400A82704000825 07 7437 002B :0000 __RCTraceFileAndLineInfo_ATL__QBAXKIPB_WZZ ........3800A9
+F8.............................................................. 00 0000 0001 :0000 __0CTraceFileAndLineInfo_ATL__QAA_PBDH_Z 
+F8.............................................................. 00 0000 0001 :0000 __BCTraceCategory_ATL__QBAKXZ 
+---

@@ -1,0 +1,21 @@
+001080E5........................................................ 00 0000 0004 :0000 __0CAtlException_ATL__QAA_J_Z 
+001A3A31A0E3.................................................... 00 0000 0006 :0000 loc.000013ea 
+0020A0E1........................................................ 00 0000 0004 :0000 __0CAtlAllocator__QAA_XZ 
+0020A0E3........................................................ 00 0000 0004 :0000 __0CTraceSnapshot__QAA_XZ 
+0030A0E3........................................................ 00 0000 0004 :0000 __0__CSimpleArray_UCModuleInfo_CTraceSnapshot__V__CSimpleArrayEqualHelper_UCModuleInfo_CTraceSnapshot___ATL___ATL__QAA_XZ 
+0030A0E3........................................................ 00 0000 0004 :0000 __0__CSimpleArray_KV__CSimpleArrayEqualHelper_K_ATL___ATL__QAA_XZ 
+04E02DE514009FE50C309FE50FE0.................................... 00 0000 000E :0000 ____Eg_Allocator__YAXXZ 
+04E02DE514009FE50C309FE50FE0.................................... 00 0000 000E :0000 ____Fg_Allocator__YAXXZ 
+10402DE90040A0E1................................................ 00 0000 0008 :0000 __1CAtlAllocator__QAA_XZ 
+10402DE90040A0E1................................................ 00 0000 0008 :0000 __1CTraceSnapshot__QAA_XZ 
+10402DE9........................................................ 00 0000 0004 :0000 ____Eg_bInitialized__YAXXZ 
+10402DE9........................................................ 00 0000 0004 :0000 _Init__YA_NXZ 
+2FE1............................................................ 00 0000 0002 :0000 loc.000020ca 
+30402DE90040A0E1................................................ 00 0000 0008 :0000 _RemoveAll___CSimpleArray_KV__CSimpleArrayEqualHelper_K_ATL___ATL__QAAXXZ 
+30402DE90040A0E1................................................ 00 0000 0008 :0000 _RemoveAll___CSimpleArray_UCModuleInfo_CTraceSnapshot__V__CSimpleArrayEqualHelper_UCModuleInfo_CTraceSnapshot___ATL___ATL__QA 
+373CE0E3........................................................ 00 0000 0004 :0000 GetCurrentProcessId 
+92E5............................................................ 00 0000 0002 :0000 loc.000013a6 
+A0E1............................................................ 00 0000 0002 :0000 loc.00001b32 
+04..2D..0C309FE50FE0A0E113FF2FE104E0............................ 00 0000 0012 :0000 __1__CSimpleArray_KV__CSimpleArrayEqualHelper_K_ATL___ATL__QAA_XZ 
+04..2D..0C309FE50FE0A0E113FF2FE104E0............................ 00 0000 0012 :0000 __1__CSimpleArray_UCModuleInfo_CTraceSnapshot__V__CSimpleArrayEqualHelper_UCModuleInfo_CTraceSnapshot___ATL___ATL__QAA_XZ 
+---

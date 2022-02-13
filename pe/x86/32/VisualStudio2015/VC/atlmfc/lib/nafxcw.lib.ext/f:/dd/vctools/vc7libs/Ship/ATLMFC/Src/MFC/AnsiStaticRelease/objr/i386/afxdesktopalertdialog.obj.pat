@@ -1,0 +1,197 @@
+33C039410C0F9CC0C3.............................................. 00 0000 0009 :0000 _IsLocked_CStringData_ATL__QBE_NXZ 
+33C039818801000075..39818401000074..33C040C3.................... 00 0000 0016 :0000 _IsHighContrastMode_AFX_GLOBAL_DATA__QBEHXZ 
+33C040C20400.................................................... 00 0000 0006 :0000 _OnEraseBkgnd_CMFCDesktopAlertDialog__IAEHPAVCDC___Z 
+33C083790C010F9FC0C3............................................ 00 0000 000A :0000 _IsShared_CStringData_ATL__QBE_NXZ 
+33C0890189410489410889410C8BC1C3................................ 00 0000 0010 :0000 __0CRect__QAE_XZ 
+53568BF15785F60F84........837E200074..33DB399EB809000074..33C040 78 5E9D 0098 :0000 _HasFocus_CMFCDesktopAlertDialog__QBEHXZ EB..E8........8BF885FF74..395F2074..FF7720FF..........85C075..FF7720FF..........85C074..FF..........50E8........3BF875..FF..........50E8........8BF885FF74..395F2074..FF7720FF7620FF..........85C075..8B47203B462075..33DB438BC3EB..33C05F5E5BC3
+558BEC33C03945080F95C05DC3...................................... 00 0000 000D :0000 _AtlIsValidString_ATL__YAHPBDI_Z 
+558BEC33C050505050FF750CFF7508506A..FF..........5DC3............ 00 0000 001A :0000 _GetBaseTypeLength___ChTraitsCRT_D_ATL__SAHPB_WH_Z 
+558BEC33C05050FF750CFF7508FF7514FF7510506A..FF..........5DC3.... 00 0000 001E :0000 _ConvertToBaseType___ChTraitsCRT_D_ATL__SAXPADHPB_WH_Z 
+558BEC5153FF750C894DFCFF7508E8........8BD8595985DB74..0FB7035657 3B 2541 005B :0000 _LoadStringA___CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QAEHPAUHINSTANCE____I_Z 508D7B0257E8........59598B4DFC8BF056E8........0FB70B51575650E8........8B4DFC83C41056E8........33C05F405E5B8BE55DC20800
+558BEC51568BF18975FCE8........508D4E04E8........E8........508D4E 14 906F 0034 :0000 __0CMFCDesktopAlertWndInfo__QAE_XZ 08E8........8326008BC683660C005E8BE55DC3
+558BEC51568BF18975FCE8........C7..........8BC65E8BE55DC3........ 00 0000 001C :0000 __0CStatic__QAE_XZ 
+558BEC5156FF75108BF1FF750C8975FCFF7508E8........8BC65E8BE55DC20C 01 78F0 0021 :0000 __0__CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QAE_PBDHPAUIAtlStringMgr_1__Z 00
+558BEC518365FC00568B750C5785F679..33F68B393B77F47C..8D47F050E8.. 29 C488 0049 :0000 _Left___CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QBE_AV12_H_Z ......598D48108B45088908EB..E8........8B4D08505657E8........8B45085F5E8BE55DC20800
+558BEC518B4508568BF18975FC8B0083....50E8........83....89068BC659 07 70DB 0027 :0000 __0__CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QAE_ABV01__Z 5E8BE55DC20400
+558BEC518BC1538945FC568B18578B4BF08B7BF48B01FF....8B75088BC86A.. 46 6DF9 0066 :0000 _Fork___CSimpleStringT_D_0A__ATL__AAEXH_Z 568B10FF..89450885C074..3BFE7D..8BF78D560152538D70105256E8........8B45088D4BF083C410897804E8........8B45FC5F89305E5B8BE55DC20400E8........CC
+558BEC538B5D0C578BF985DB75..E8........EB..837D080074..8B078B4D08 57 F9F5 0077 :0000 _SetString___CSimpleStringT_D_0A__ATL__QAEXPBDH_Z 2BC8568B70F4894D0C8BCF53E8........8BD08B450C3BC65E5377..8D0C02518B0FFF71F852E8........EB..8B07FF7508FF70F852E8........83C4108BCF53E8........5F5B5DC2080068........E8........CC
+558BEC56578BF98B4D1085C974..837D08008B750C75..85F674..68........ 41 2A04 0061 :0000 __0__CSimpleStringT_D_0A__ATL__QAE_PBDHPAUIAtlStringMgr_1__Z EB..8B016A..56FF..85C074..83....8BCF568907E8........56FF750856FF37E8........83C4108BC75F5E5DC20C0068........E8........E8........CC
+558BEC568B7508578B0E8B01FF....8BC88D460C8338007C..3B0E75..8BFEF0 3B 0228 005B :0000 _CloneData___CSimpleStringT_D_0A__ATL__CAPAUCStringData_2_PAU32__Z FF00EB..8B016A..FF7604FF..8BF885FF74..8B46048947048D46108B4E04415150518D471050E8........83C4108BC75F5E5DC3E8........CC
+558BEC568B7508578BF98B0689078D4F048D460450E8........8D4608508D4F 14 918E 0034 :0000 __4CMFCDesktopAlertWndInfo__QAEAAV0_AAV0__Z 08E8........8B460C89470C8BC75F5E5DC20400
+558BEC568B7508578BF98B0F3971F47E..8B71F48379FC017E..568BCFE8.... 38 DB5A 0058 :0000 _PrepareWrite2___CSimpleStringT_D_0A__ATL__AAEXH_Z ....EB..8B49F83BCE7D..81..........7E..81..........EB..8BC1992BC2D1F803C83BCE7D..8BCE518BCFE8........5F5E5DC20400
+558BEC568B7508578BF98B1783....8B0A3972087D..85F67E..8B016A..5652 18 E800 0038 :0000 _Reallocate___CSimpleStringT_D_0A__ATL__AAEXH_Z FF....85C074..83....89075F5E5DC20400E8........CC
+558BEC568B751085F674..578B7D088BCFFF....037D0C83EE0175..5F5E5DC2 02 D69A 0022 :0000 ___H_YGXPAXIIP6EPAX0_Z_Z 1000
+558BEC568B751485F675..33C0EB..8B450885C075..E8........6A..5E8930 5F 406A 007F :0000 _memcpy_s E8........8BC6EB..578B7D1085FF74..39750C72..565750E8........83C40C33C0EB..FF750C6A..50E8........83C40C85FF75..E8........6A..EB..39750C73..E8........6A..5E8930E8........8BC6EB..6A..585F5E5DC3
+558BEC568BF18B4D0885C974..8B01FF....83....89068BC65E5DC2040068.. 09 9A1A 0029 :0000 __0__CSimpleStringT_D_0A__ATL__QAE_PAUIAtlStringMgr_1__Z ......E8........CC
+558BEC568BF1C7..........E8........F645080174..F645080475..56E8.. 16 8611 0036 :0000 ___GCBrush__UAEPAXI_Z ......EB..6A..56E8........59598BC65E5DC20400
+558BEC568BF1E8........F645080174..F645080475..56E8........EB..68 13 75DF 0033 :0000 ___GCMFCDesktopAlertDialog__UAEPAXI_Z ........56E8........59598BC65E5DC20400
+558BEC568BF1E8........F645080174..F645080475..56E8........EB..6A 10 0411 0030 :0000 ___GCGdiObject__UAEPAXI_Z ..56E8........59598BC65E5DC20400
+558BEC568BF1E8........F645080174..F645080475..56E8........EB..68 13 1F63 0033 :0000 ___GCStatic__UAEPAXI_Z ........56E8........59598BC65E5DC20400
+558BEC568BF1E8........FF7620FF..........50E8........0FB755100FB7 24 F04B 0044 :0000 _OnLButtonDown_CMFCDesktopAlertDialog__IAEXIVCPoint___Z 4D0CC1E2100BD1526A..68........FF7020FF..........8BCEE8........5E5DC20C00
+558BEC56FF75088BF1E8........8BC65E5DC20400...................... 00 0000 0015 :0000 __4__CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QAEAAV01_PBD_Z 
+558BEC56FF75088BF1E8........85C074..FF75088BCE50E8........5E5DC2 02 2768 0022 :0000 _LoadStringA___CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QAEHI_Z 0400
+558BEC56FF75088BF1E8........8BC65E5DC20400...................... 00 0000 0015 :0000 __4__CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QAEAAV01_ABV01__Z 
+558BEC56FF75088BF1E8........8BC65E5DC20400...................... 00 0000 0015 :0000 __4__CSimpleStringT_D_0A__ATL__QAEAAV01_PBD_Z 
+558BEC57FF750C8BF98B8FD0000000E8........85C074..33C040EB..538D9F 5F 54BD 007F :0000 _OnCommand_CMFCDesktopAlertDialog__MAEHIJ_Z E801000085DB75..33C0EB..8B43203B450C75..8BCBE8........8B4D080FB7D13BC275..8B87D00000008BCB568B30E8........8B8FD000000050FF..........5E85C074..33C040EB..FF750C8BCFFF7508E8........5B5F5DC20800
+558BEC5DE9...................................................... 00 0000 0009 :0000 _GetBuffer___CSimpleStringT_D_0A__ATL__QAEPADH_Z 
+558BEC5DE9...................................................... 00 0000 0009 :0000 _ReleaseBufferSetLength___CSimpleStringT_D_0A__ATL__QAEXH_Z 
+558BEC5DE9...................................................... 00 0000 0009 :0000 _StringCompare___ChTraitsCRT_D_ATL__SAHPBD0_Z 
+558BEC6A..FF750868........FF7120FF..........5DC20400............ 00 0000 001A :0000 _SetIcon_CStatic__QAEPAUHICON____PAU2__Z 
+558BEC6AFF68........64A1000000005081EC10020000A1........33C58945 3C 38B5 005C :0000 __1CGdiObject__UAE_XZ EC535657508D45F464A3000000008965F08365FC00C7..........E8........8B4DF464890D00000000595F5E5B8B4DEC33CDE8........8BE55DC3
+558BEC817D080E00078075..E8........FF7508E8........CC............ 00 0000 001A :0000 _AtlThrowImpl_ATL__YGXJ_Z 
+558BEC837D080053578BD974..FF750C6A..FF7508E8........8BF883C40C85 40 E6B9 0060 :0000 _FormatV___CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QAEXPBDPAD_Z FF79..68........EB..578BCBE8........FF750C8D4F016A..FF75085150E8........83C4148BCB57E8........5F5B5DC2080068........E8........CC
+558BEC837D0800578BF975..33C0EB..FF7508E8........5950FF75088BCFE8 09 1234 0029 :0000 _SetString___CSimpleStringT_D_0A__ATL__QAEXPBD_Z ........5F5DC20400
+558BEC837D080074..8B81CC010000EB..8B81D00100005DC20400.......... 00 0000 001B :0000 _GetTextHeight_AFX_GLOBAL_DATA__QAEHH_Z 
+558BEC837D080074..FF7508FF31E8........59595DC2040068........E8.. 04 4ACC 0024 :0000 _Compare___CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QBEHPBD_Z ......CC
+558BEC837D080075..33C05DC35DE9.................................. 00 0000 0013 :0000 _StringLength___CSimpleStringT_D_0A__ATL__SAHPBD_Z 
+558BEC837D100675..578B7D088BCF6A..E8........E8........8BC8E8.... 26 2C50 004A :0000 _OnCtlColor_CMFCDesktopAlertDialog__IAEPAUHBRUSH____PAVCDC__PAVCWnd__I_Z ....85C074..568B37E8........8BCFFF7070FF....5E6A..FF..........5F5DC20C005DE9
+558BEC83B9B4090000008B450874..85C074..8378200074..8BC8E8........ 0C FF6D 002C :0000 _OnSetFocus_CMFCDesktopAlertDialog__IAEXPAVCWnd___Z EB..50E8........5DC20400
+558BEC8B450832D285C074..A9........75..0FB7C050E8........B2018AC2 04 057A 0024 :0000 _CheckImplicitLoad___CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__AAE_NPBX_Z 5DC20400
+558BEC8B4508538BD9578B088B3B83....8D51F03BD774..837F0C007C..8B02 30 31A1 0050 :0000 __4__CSimpleStringT_D_0A__ATL__QAEAAV01_ABV01__Z 3B0775..5652E8........598BCF8BF0E8........8D461089035EEB..FF71F4518BCBE8........5F8BC35B5DC20400
+558BEC8B4508568BF18B0083....50E8........83....89068BC6595E5DC204 01 78F0 0021 :0000 __0__CSimpleStringT_D_0A__ATL__QAE_ABV01__Z 00
+558BEC8B450883....89015DC20400.................................. 00 0000 000F :0000 _Attach___CSimpleStringT_D_0A__ATL__AAEXPAUCStringData_2__Z 
+558BEC8B450885C074..8B4004FF750C506A..FF7120FF..........5DC20800 00 0000 0020 :0000 _SetFont_CWnd__QAEXPAVCFont__H_Z 
+558BEC8B450885C074..8B402050FF7120FF..........5DC20400.......... 00 0000 001B :0000 _IsChild_CWnd__QBEHPBV1__Z 
+558BEC8B450885C07E..0FB7C00D........5DC3........................ 00 0000 0014 :0000 _HRESULT_FROM_WIN32 
+558BEC8B450889018B450C8941048B45108941088B451489410C8BC15DC21000 00 0000 0020 :0000 __0CRect__QAE_HHHH_Z 
+558BEC8B450889018B450C8941048BC15DC20800........................ 00 0000 0014 :0000 __0CSize__QAE_HH_Z 
+558BEC8B450889018B450C8941048BC15DC20800........................ 00 0000 0014 :0000 __0CPoint__QAE_HH_Z 
+558BEC8B45088B51082B1189108B510C2B51048950045DC20400............ 00 0000 001A :0000 _Size_CRect__QBE_AVCSize__XZ 
+558BEC8B45088BD133C9398AB009000075..8908EB..8B8AA809000089088B8A 0B D297 002B :0000 _GetDlgSize_CMFCDesktopAlertDialog__QAE_AVCSize__XZ AC0900008948045DC20400
+558BEC8B4508FF7510FF750C8B108B01FF72F452FF....5DC20C00.......... 00 0000 001B :0000 _DrawTextA_CDC__QAEHABV__CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__PAUtagRECT__I_Z 
+558BEC8B450CC1E804406A..0FB7C050FF7508FF..........85C075..5DC3FF 10 2915 0030 :0000 _AtlGetStringResourceImage_ATL__YAPBUATLSTRINGRESOURCEIMAGE_1_PAUHINSTANCE____I_Z 750C50FF7508E8........83C40C5DC3
+558BEC8B45145685C074..837D080075..E8........6A..5E8930E8........ 2C B44D 004C :0000 _memmove_s 8BC6EB..837D100074..39450C73..E8........6A..EB..50FF7510FF7508E8........83C40C33C05E5DC3
+558BEC8B4D088D451050FF750CE8........5DC3........................ 00 0000 0014 :0000 _Format___CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QAAXPBDZZ 
+558BEC8B5508568BF185D278..8B0633C9412B48FC8B40F82BC20BC87D..528B 18 AAA4 0038 :0000 _PrepareWrite___CSimpleStringT_D_0A__ATL__AAEPADH_Z CEE8........8B065E5DC2040068........E8........CC
+558BEC8B550885D278..8B013B50F87F..8950F48B01C60402005DC2040068.. 09 7E9F 0029 :0000 _SetLength___CSimpleStringT_D_0A__ATL__AAEXH_Z ......E8........CC
+558BEC8B55088B451003C289118B550C8941088B451403C289510489410C8BC1 04 F488 0024 :0000 __0CRect__QAE_UtagPOINT__UtagSIZE___Z 5DC21000
+558BECF6450C0474..8B01FF7508FF..........33C05DC20800............ 00 0000 001A :0000 _OnPrintClient_CMFCDesktopAlertDialog__IAEJPAVCDC__I_Z 
+558BECFF750851FF..........5DC20400.............................. 00 0000 0011 :0000 __4CRect__QAEXABUtagRECT___Z 
+558BECFF7508E8........595DC20400................................ 00 0000 0010 :0000 __2CObject__SGPAXI_Z 
+558BECFF7508E8........5DC3...................................... 00 0000 000D :0000 _FindStringResourceInstance___StrTraitMFC_DV__ChTraitsCRT_D_ATL____SAPAUHINSTANCE____I_Z 
+558BECFF7508E8........595DC20400................................ 00 0000 0010 :0000 __3CObject__SGXPAX_Z 
+558BECFF7508FF7120FF..........50E8........5DC20400.............. 00 0000 0019 :0000 _GetNextWindow_CWnd__QBEPAV1_I_Z 
+558BECFF7508FF7120FF..........50E8........5DC20400.............. 00 0000 0019 :0000 _GetWindow_CWnd__QBEPAV1_I_Z 
+558BECFF7508FF7120FF..........5DC20400.......................... 00 0000 0013 :0000 _GetClientRect_CWnd__QBEXPAUtagRECT___Z 
+558BECFF7508FF7120FF..........5DC20400.......................... 00 0000 0013 :0000 _GetWindowRect_CWnd__QBEXPAUtagRECT___Z 
+558BECFF750C0FB7450850E8........5DC20800........................ 00 0000 0014 :0000 _Create_CDialog__UAEHIPAVCWnd___Z 
+558BECFF750C6A..FF7508E8........83C40C5DC3...................... 00 0000 0015 :0000 __vscprintf 
+558BECFF750C6A..FF7508E8........83C40C5DC3...................... 00 0000 0015 :0000 _GetFormattedLength___ChTraitsCRT_D_ATL__SAHPBDPAD_Z 
+558BECFF750C8B4D08E8........F7D81BC0405DC3...................... 00 0000 0015 :0000 __8ATL__YA_NABV__CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____0_PBD_Z 
+558BECFF750CFF7508FF..........5DC3.............................. 00 0000 0011 :0000 _GetNextWindow__YAPAUHWND____PAU1_I_Z 
+558BECFF750CFF7508FF..........5DC3.............................. 00 0000 0011 :0000 __AtlInitializeCriticalSectionEx_ATL__YAHPAU_RTL_CRITICAL_SECTION__KK_Z 
+558BECFF750CFF7508FF..........85C075..5DC35650FF..........8BF085 40 C35B 0060 :0000 __AtlGetStringResourceImage_ATL__YAPBUATLSTRINGRESOURCEIMAGE_1_PAUHINSTANCE____PAUHRSRC____I_Z F674..FF750CFF7508FF..........8B55108D0C0683....76..3BF173..0FB7068D344683C60283EA0175..3BF172..33C0EB..0FB706F7D81BC023C65E5DC3
+558BECFF7510FF750CFF75086A..6A..E8........8B08FF700483C90251E8.. 0F 4068 002F :0000 __vscprintf_l ......83C41C85C079..83....5DC3
+558BECFF7510FF750CFF7508FF7104FF..........5DC20C00.............. 00 0000 0019 :0000 _DrawIcon_CDC__QAEHUtagPOINT__PAUHICON_____Z 
+558BECFF7510FF750CFF7508FF7120FF..........5DC20C00.............. 00 0000 0019 :0000 _SendMessageA_CWnd__QBEJIIJ_Z 
+558BECFF75146A..FF7510FF750CFF7508E8........83C4145DC3.......... 00 0000 001B :0000 _vsprintf_s 
+558BECFF75146A..FF7510FF750CFF7508E8........83C4145DC3.......... 00 0000 001B :0000 _Format___ChTraitsCRT_D_ATL__SAHPADIPBD0_Z 
+558BECFF7518FF7514FF7510FF750CFF7508E8........FF7004FF30E8...... 0D CEB0 002D :0000 __vsprintf_s_l ..83C41C85C079..83....5DC3
+56578BF933F6833CB70074..FF34B7FF..........4683....7C..5F5EC3.... 00 0000 001E :0000 __1CDCCache_CImage_ATL__QAE_XZ 
+568BF133C050890689461C8946208D460450FF..........85C075..FF...... 15 1CB9 0035 :0000 __0CInitGDIPlus_CImage_ATL__QAE_XZ ....85C07E..0FB7C00D........8946208BC65EC3
+568BF133C0578B0E83....8B3939410474..39410C7D..508BCEE8........EB 15 08E1 0035 :0000 _Empty___CSimpleStringT_D_0A__ATL__QAEXXZ ..E8........8B078BCFFF....83....89065F5EC3
+568BF1578D7E0457FF..........833E0074..FF36E8........83260057FF.. 07 F9ED 0027 :0000 _ReleaseGDIPlus_CInitGDIPlus_CImage_ATL__QAEXXZ ........5F5EC3
+568BF18B4E0883....E8........8B4E0483....5EE9.................... 00 0000 001A :0000 __1CMFCDesktopAlertWndInfo__QAE_XZ 
+568BF18D8EC0000000E8........8D8EB4000000C7..........E8........8B 03 65EF 0027 :0000 __1CDialogEx__UAE_XZ CE5EE9
+568BF18D8EE8010000C7..........E8........8D8E68010000E8........8D 19 7391 003D :0000 __1CMFCDesktopAlertDialog__UAE_XZ 8EE8000000E8........8D8ED4000000E8........8BCE5EE9
+568BF1E8........83F8FF75..0BC0EB..FF7620FF..........50E8........ 19 F1A7 0039 :0000 _OnCreate_CMFCDesktopAlertDialog__IAEHPAUtagCREATESTRUCTA___Z 5068........E8........598986D000000033C0595EC20400
+568BF1E8........508BCEE8........8BC65EC3........................ 00 0000 0014 :0000 __0__CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QAE_XZ 
+568BF1E8........8D460450FF..........5EC3........................ 00 0000 0014 :0000 __1CInitGDIPlus_CImage_ATL__QAE_XZ 
+5733C08BF9ABABABAB8BC15FC3...................................... 00 0000 000D :0000 __0CDCCache_CImage_ATL__QAE_XZ 
+64A140C601008B..........53BB........8B0C88A1........3B8100000000 39 6DB7 0059 :0000 _GetCDCCacheInstance_CImage_ATL__CAPAVCDCCache_12_XZ 7E..56BE........56E8........83............5975..5733C08BFB68........ABABABABE8........56E8........59595F5E8BC35BC3
+64A140C601008B..........57BF........8B0C88A1........3B8100000000 36 CB0C 0056 :0000 _GetInitGDIPlusInstance_CImage_ATL__CAPAVCInitGDIPlus_12_XZ 7E..56BE........56E8........83............5975..8BCFE8........68........E8........56E8........59595E8BC75FC3
+68........B8........E8........8BF18B7D08817F04010200000F85...... 92 EC5A 00B2 :0000 _PreTranslateMessage_CMFCDesktopAlertDialog__UAEHPAUtagMSG___Z ..8B86D000000085C074..8378200074..FF37E8........8BD885DB74..68........8D85F0FEFFFF50FF7320FF..........8D85F0FEFFFF508D8DECFEFFFFE8........8365FC008D8DECFEFFFF68........E8........85C074..8B43203B462075..8B8ED0000000E8........8B8DECFEFFFF83......8D49F0E8........578BCEE8........E8........C20400
+68........B8........E8........8BF1E8........6A..E9........5668.. AA EC02 00CA :0000 _OnInitDialog_CMFCDesktopAlertDialog__MAEHXZ ......E8........595985C074..83A09400000000EB..85F675..33C0EB..8B462068........8D8DF0FEFFFF5150FF..........8D85F0FEFFFF508D8DECFEFFFFE8........8365FC008D8DECFEFFFF68........E8........85C075..8BCEE8........83....3C..75..6A..8BCEE8........8B8DECFEFFFF83......8D49F0E8........6A..FF7620FF..........50E8........8BF085F60F85........40E8........C3
+68........E8........CC.......................................... 00 0000 000B :0000 _ThrowMemoryException___CSimpleStringT_D_0A__ATL__KAXXZ 
+68........B8........E8........8BD98B45088985C8FEFFFF33C08985D0FE FF 5DCE 0164 :0000 _OnDraw_CMFCDesktopAlertDialog__MAEXPAVCDC___Z FFFF8985D4FEFFFF8985D8FEFFFF8985DCFEFFFF8D85D0FEFFFF50FF7320FF..........E8........83EC108DB5D0FEFFFF8BFC8BC88B10A5A5A5A58BBDC8FEFFFF57FF..........6A..FF7320FF..........50E8........8BF0E9........8B46208D8DF0FEFFFF68........5150FF..........8D85F0FEFFFF508D8DCCFEFFFFE8........8365FC008D8DCCFEFFFF68........E8........85C075..8BCEE8........83....3C..75..33C08985E0FEFFFF8985E4FEFFFF8985E8FEFFFF8985ECFEFFFF8D85E0FEFFFF50FF7620FF..........8D85E0FEFFFF8BCB50E8........6A..6A..68........FF7620FF..........50FFB5E4FEFF
+68........B8........E8........8BF1568D8D60FFFFFFE8........8365FC 45 7645 0065 :0000 _OnPaint_CMFCDesktopAlertDialog__IAEXXZ 008D8560FFFFFF56508D4DB4E8........837DBC008D4DC4C645FC0175..8B4DB88B06518BCEFF..........8D4DB4E8........8D8D60FFFFFFE8........E8........C3
+68........B8........E8........8BF18B5D08899D74FFFFFF8B550C33FF89 FF 5680 021A :0000 _GetOptimalTextSize_CMFCDesktopAlertDialog__IAE_AVCSize__V__CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL___Z 7DFC397AF475..893B8D4AF0897B04E9........8D45C0897DD050FF7620897DD4897DD8897DDC897DC0897DC4897DC8897DCCFF..........8D4598C7............506A..FF75C4FF75C0FF..........50FF..........85C074..8D45AC508D45D050FF..........EB..578D45D050576A..FF..........568D8D5CFFFFFFE8........C645FC01E8........05........8D8D5CFFFFFF50E8........898570FFFFFFE8........8D75E068........8B80CC0100006BC803897DE0897DE48D7D808945EC898578FFFFFF8B450C894DE8A5898D7CFFFFFF8D4DE051FF70F4A58D8D5CFFFFFF508B855CFFFFFFA5A5FF....8B4DE88D75802B4DE0
+6A..6A..68........FF7120FF..........C3.......................... 00 0000 0013 :0000 _GetIcon_CStatic__QBEPAUHICON____XZ 
+6A..FF7120FF..........C3........................................ 00 0000 000C :0000 _BeginModalState_CWnd__UAEXXZ 
+6A..FF7120FF..........C3........................................ 00 0000 000C :0000 _EndModalState_CWnd__UAEXXZ 
+6A..58C3........................................................ 00 0000 0004 :0000 __AtlGetConversionACP_ATL__YGIXZ 
+6A..B8........E8........68........E8........598BC8894DF033C08945 10 7CAA 0030 :0000 _CreateObject_CMFCDesktopAlertDialog__SGPAVCObject__XZ FC85C974..E8........E8........C3
+6A..B8........E8........8BF18975F0E8........508BCEE8........FF75 24 B53C 0044 :0000 __0__CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QAE_PBD_Z 088365FC008BCEE8........84C075..FF75088BCEE8........8BC6E8........C20400
+6A..B8........E8........A1........85C075..8B..........85C975..68 4E 0CD7 006E :0000 _GetInstance_CMFCVisualManager__SGPAV1_XZ ........E8........598BC8894DF033C08945FC85C974..50E8........83......EB..E8........A3........C780B4000000010000008B..........8B01FF....A1........E8........C3
+6A..B8........E8........8BF9897DF0E8........8365FC008D8FD4000000 79 0344 0099 :0000 __0CMFCDesktopAlertDialog__QAE_XZ C7..........E8........8DB7E8000000C645FC018BCE8975ECE8........BB........891E8DB768010000C645FC028BCE8975ECE8........891E8D8FE8010000C645FC03E8........33C08987D00000008987B00900008987A80900008987AC0900008987B40900008987B80900008BC7E8........C3
+6A..B8........E8........8BD9895DD08B450C8B138B75085068........FF FF 8BF0 02DD :0000 _CreateFromParams_CMFCDesktopAlertDialog__QAEHAAVCMFCDesktopAlertWndInfo__PAVCMFCDesktopAlertWnd___Z ..........85C00F84........8D8BD400000056E8........8B83D80000008365C80083....6A..5A508955CCE8........598D7810897DD48365FC00817FF4000200007E..68........8D45D8508D4DD4E8........508D4DD4C645FC01E8........8B4DD8C645FC008D49F0E8........8B7DD48B83DC00000083....50E8........598D70108975D8817EF400020000C645FC027E..68........8D45DC508D4DD8E8........508D4DD8C645FC03E8........8B4DDC83C1F0C645FC02E8........8B75D8518D47F08BDC50895DDCE8........83....598B4DD089038D45C050E8........518D46F08BDC50895DDCE8........83....89038D
+8321008BC183610400C3............................................ 00 0000 000A :0000 __0CSize__QAE_XZ 
+83............56BE........75..8BCEE8........C7.................. 04 9670 0024 :0000 _GetGlobalData__YAPAUAFX_GLOBAL_DATA__XZ 8BC65EC3
+837908008D411075..8B4104C3...................................... 00 0000 000D :0000 _GetDC_CMemDC__QAEAAVCDC__XZ 
+85C975..33C0C38B4104C3.......................................... 00 0000 000B :0000 _GetSafeHandle_CGdiObject__QBEPAXXZ 
+85C975..33C0C38B4120C3.......................................... 00 0000 000B :0000 _GetSafeHwnd_CWnd__QBEPAUHWND____XZ 
+8B0183....C3.................................................... 00 0000 0006 :0000 _GetData___CSimpleStringT_D_0A__ATL__ABEPAUCStringData_2_XZ 
+8B018B40F4C3.................................................... 00 0000 0006 :0000 _GetLength___CSimpleStringT_D_0A__ATL__QBEHXZ 
+8B018B40F8C3.................................................... 00 0000 0006 :0000 _GetAllocLength___CSimpleStringT_D_0A__ATL__QBEHXZ 
+8B018B48F085C974..8B01FF....33C0C3.............................. 00 0000 0011 :0000 _GetManager___CSimpleStringT_D_0A__ATL__QBEPAUIAtlStringMgr_2_XZ 
+8B018B48F085C974..8B01FF....EB..33C085C075..E8........8BC88B10FF 03 3F17 0023 :0000 _GetManager___CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QBEPAUIAtlStringMgr_2_XZ ....C3
+8B01C3.......................................................... 00 0000 0003 :0000 __B__CSimpleStringT_D_0A__ATL__QBEPBDXZ 
+8B01C3.......................................................... 00 0000 0003 :0000 _GetString___CSimpleStringT_D_0A__ATL__QBEPBDXZ 
+8B0933C03941F40F94C0C3.......................................... 00 0000 000B :0000 _IsEmpty___CSimpleStringT_D_0A__ATL__QBE_NXZ 
+8B0983....E9.................................................... 00 0000 000A :0000 __1__CSimpleStringT_D_0A__ATL__QAE_XZ 
+8B0983....E9.................................................... 00 0000 000A :0000 __1__CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QAE_XZ 
+8B41082B01C3.................................................... 00 0000 0006 :0000 _Width_CRect__QBEHXZ 
+8B410C2B4104C3.................................................. 00 0000 0007 :0000 _Height_CRect__QBEHXZ 
+8B4DF081..........E9............................................ 00 0000 000E :0000 __unwindfunclet___0CMFCDesktopAlertDialog__QAE_XZ_3 
+8B4DF081..........E9............................................ 00 0000 000E :0000 __unwindfunclet___0CMFCDesktopAlertDialog__QAE_XZ_1 
+8B4DF081..........E9............................................ 00 0000 000E :0000 __unwindfunclet___0CMFCDesktopAlertDialog__QAE_XZ_2 
+8B4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet___0__CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QAE_PBD_Z_0 
+8B4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet___0CMFCDesktopAlertDialog__QAE_XZ_0 
+8B5424088D420C8B4A8833C8E8........8B4AFC33C8E8........B8........ 01 B78A 0025 :0000 __ehhandler__CreateFromParams_CMFCDesktopAlertDialog__QAEHAAVCMFCDesktopAlertWndInfo__PAVCMFCDesktopAlertWnd___Z E9
+8B5424088D420C8B4AE833C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler___0CMFCDesktopAlertDialog__QAE_XZ 
+8B5424088D420C8B4AEC33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler___0__CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QAE_PBD_Z 
+8B5424088D420C8B4AEC33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler__CreateObject_CMFCDesktopAlertDialog__SGPAVCObject__XZ 
+8B5424088D420C8B4AEC33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler__GetInstance_CMFCVisualManager__SGPAV1_XZ 
+8B5424088D420C8B8A58FFFFFF33C8E8........8B4AFC33C8E8........B8.. 04 BDCF 0028 :0000 __ehhandler__GetOptimalTextSize_CMFCDesktopAlertDialog__IAE_AVCSize__V__CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____AT ......E9
+8B5424088D420C8B8A5CFFFFFF33C8E8........8B4AFC33C8E8........B8.. 04 BDCF 0028 :0000 __ehhandler__OnPaint_CMFCDesktopAlertDialog__IAEXXZ ......E9
+8B5424088D420C8B8AC4FEFFFF33C8E8........8B4AFC33C8E8........B8.. 04 BDCF 0028 :0000 __ehhandler__OnDraw_CMFCDesktopAlertDialog__MAEXPAVCDC___Z ......E9
+8B5424088D420C8B8AE0FDFFFF33C8E8........8B4AF833C8E8........B8.. 04 2784 0028 :0000 __ehhandler___1CGdiObject__UAE_XZ ......E9
+8B5424088D420C8B8AE8FEFFFF33C8E8........8B4AFC33C8E8........B8.. 04 9C98 0028 :0000 __ehhandler__PreTranslateMessage_CMFCDesktopAlertDialog__UAEHPAUtagMSG___Z ......E9
+8B5424088D420C8B8AE8FEFFFF33C8E8........8B4AFC33C8E8........B8.. 04 BDCF 0028 :0000 __ehhandler__OnInitDialog_CMFCDesktopAlertDialog__MAEHXZ ......E9
+8BC1C3.......................................................... 00 0000 0003 :0000 _TopLeft_CRect__QAEAAVCPoint__XZ 
+8BC1C3.......................................................... 00 0000 0003 :0000 __BCRect__QAEPAUtagRECT__XZ 
+8BD183....F00FC1420C4885C07F..8B0A528B01FF....C3................ 00 0000 0018 :0000 _Release_CStringData_ATL__QAEXXZ 
+8D4110C3........................................................ 00 0000 0004 :0000 _data_CStringData_ATL__QAEPAXXZ 
+8D4D0CE9........................................................ 00 0000 0008 :0000 reloc.target.__unwindfunclet__GetOptimalTextSize_CMFCDesktopAlertDialog__IAE_AVCSize__V__CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL___Z_0 
+8D4DB4E9........................................................ 00 0000 0008 :0000 __unwindfunclet__OnPaint_CMFCDesktopAlertDialog__IAEXXZ_1 
+8D4DD4E9........................................................ 00 0000 0008 :0000 __unwindfunclet__CreateFromParams_CMFCDesktopAlertDialog__QAEHAAVCMFCDesktopAlertWndInfo__PAVCMFCDesktopAlertWnd___Z_0 
+8D4DD8E9........................................................ 00 0000 0008 :0000 __unwindfunclet__CreateFromParams_CMFCDesktopAlertDialog__QAEHAAVCMFCDesktopAlertWndInfo__PAVCMFCDesktopAlertWnd___Z_1 
+8D4DD8E9........................................................ 00 0000 0008 :0000 __unwindfunclet__CreateFromParams_CMFCDesktopAlertDialog__QAEHAAVCMFCDesktopAlertWndInfo__PAVCMFCDesktopAlertWnd___Z_2 
+8D4DDCE9........................................................ 00 0000 0008 :0000 __unwindfunclet__CreateFromParams_CMFCDesktopAlertDialog__QAEHAAVCMFCDesktopAlertWndInfo__PAVCMFCDesktopAlertWnd___Z_3 
+8D8D5CFFFFFFE9.................................................. 00 0000 000B :0000 __unwindfunclet__GetOptimalTextSize_CMFCDesktopAlertDialog__IAE_AVCSize__V__CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL 
+8D8D60FFFFFFE9.................................................. 00 0000 000B :0000 __unwindfunclet__OnPaint_CMFCDesktopAlertDialog__IAEXXZ_0 
+8D8DCCFEFFFFE9.................................................. 00 0000 000B :0000 __unwindfunclet__OnDraw_CMFCDesktopAlertDialog__MAEXPAVCDC___Z_0 
+8D8DE8FDFFFFE9.................................................. 00 0000 000B :0000 __unwindfunclet___1CGdiObject__UAE_XZ_2 
+8D8DECFEFFFFE9.................................................. 00 0000 000B :0000 __unwindfunclet__PreTranslateMessage_CMFCDesktopAlertDialog__UAEHPAUtagMSG___Z_0 
+8D8DECFEFFFFE9.................................................. 00 0000 000B :0000 __unwindfunclet__OnInitDialog_CMFCDesktopAlertDialog__MAEHXZ_0 
+B8........C3.................................................... 00 0000 0006 :0000 _GetRuntimeClass_CMFCDesktopAlertDialog__UBEPAUCRuntimeClass__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 ___local_stdio_printf_options 
+B8........C3.................................................... 00 0000 0006 :0000 _GetThisMessageMap_CMFCDesktopAlertDialog__KGPBUAFX_MSGMAP__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetMessageMap_CMFCDesktopAlertDialog__MBEPBUAFX_MSGMAP__XZ 
+B9........E8........68........FF..........C3.................... 00 0000 0016 :0000 ____FgdiPlus__1__GetInitGDIPlusInstance_CImage_ATL__CAPAVCInitGDIPlus_12_XZ_YAXXZ 
+B9........E9.................................................... 00 0000 000A :0000 ____Fcache__1__GetCDCCacheInstance_CImage_ATL__CAPAVCDCCache_12_XZ_YAXXZ 
+C20400.......................................................... 00 0000 0003 :0000 _Serialize_CObject__UAEXAAVCArchive___Z 
+C20400.......................................................... 00 0000 0003 :0000 _DoDataExchange_CWnd__MAEXPAVCDataExchange___Z 
+C3.............................................................. 00 0000 0001 :0000 ___empty_global_delete__YAXPAX_Z 
+C3.............................................................. 00 0000 0001 :0000 ___empty_global_delete__YAXPAXI_Z 
+C3.............................................................. 00 0000 0001 :0000 __1CObject__UAE_XZ 
+C3.............................................................. 00 0000 0001 :0000 _____vcrt_va_start_verify_argument_type_PBD__YAXXZ 
+C7..........E9.................................................. 00 0000 000B :0000 __1CBrush__UAE_XZ 
+E8........E8........C6............C3............................ 00 0000 0012 :0000 ____E_isCImageStaticInitialized_CImage_ATL__0_NA__YAXXZ 
+E8........E8........B001C3...................................... 00 0000 000D :0000 _CImageStaticInitialize_CImage_ATL__CA_NXZ 
+E8........508D8DE8FDFFFFE8........8BBDE4FDFFFF8D8DECFDFFFF33F6C6 83 40D0 00A3 :0000 __catch___1CGdiObject__UAE_XZ_0 45FC025668........8B07518BCFFF....85C074..8D85ECFDFFFF506A..68........68........8D85E8FDFFFF68........50E8........83C418EB..6A..68........68........8D85E8FDFFFF68........50E8........83C41456568BB5E8FDFFFF56E8........8D4EF0E8........8B078BCF6A..FF....B8........C3
+E8........C20400................................................ 00 0000 0008 :0000 _OnCreate_CWnd__IAEHPAUtagCREATESTRUCTA___Z 
+E8........85C074..8B108BC8FF....33C0C3.......................... 00 0000 0013 :0000 _AfxGetMainWnd__YGPAVCWnd__XZ 
+E8........C20C00................................................ 00 0000 0008 :0000 _OnLButtonDown_CWnd__IAEXIVCPoint___Z 
+E9.............................................................. 00 0000 0005 :0000 _CopyCharsOverlapped___CSimpleStringT_D_0A__ATL__SAXPADIPBDH_Z 
+E9.............................................................. 00 0000 0005 :0000 _GetDefaultManager___StrTraitMFC_DV__ChTraitsCRT_D_ATL____SAPAUIAtlStringMgr_ATL__XZ 
+E9.............................................................. 00 0000 0005 :0000 _CopyChars___CSimpleStringT_D_0A__ATL__SAXPADIPBDH_Z 
+F0FF410CC3...................................................... 00 0000 0005 :0000 _AddRef_CStringData_ATL__QAEXXZ 
+FF..........50E8........C3...................................... 00 0000 000D :0000 _GetFocus_CWnd__SGPAV1_XZ 
+FF..........50E8........C3...................................... 00 0000 000D :0000 _GetForegroundWindow_CWnd__SGPAV1_XZ 
+FF7120FF..........C3............................................ 00 0000 000A :0000 _IsWindowVisible_CWnd__QBEHXZ 
+FF7120FF..........C3............................................ 00 0000 000A :0000 _IsIconic_CWnd__QBEHXZ 
+FF7120FF..........50E8........C3................................ 00 0000 0010 :0000 _GetParent_CWnd__QBEPAV1_XZ 
+FF75F0E8........C3.............................................. 00 0000 0009 :0000 __unwindfunclet__GetInstance_CMFCVisualManager__SGPAV1_XZ_0 
+FF75F0E8........C3.............................................. 00 0000 0009 :0000 __unwindfunclet__CreateObject_CMFCDesktopAlertDialog__SGPAVCObject__XZ_0 
+---
