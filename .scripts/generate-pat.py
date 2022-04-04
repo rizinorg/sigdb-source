@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # SPDX-FileCopyrightText: 2021 RizinOrg <info@rizin.re>
 # SPDX-FileCopyrightText: 2021 deroad <wargio@libero.it>
 # SPDX-License-Identifier: LGPL-3.0-only
@@ -66,6 +67,15 @@ def similarity_group(grp):
 		return 1.0
 	return avg / cnt
 
+def calculate_stat_bytes(tokens):
+	mbytes = tokens[0]
+	if len(tokens) > 6:
+		mbytes += tokens[6]
+	masked = mbytes.count('.')
+	percentage = (masked / len(mbytes)) * 100
+	percentage = 100 - percentage
+	return percentage
+
 class PatFile(object):
 	def __init__(self, outname, max_postlude):
 		super(PatFile, self).__init__()
@@ -86,10 +96,11 @@ class PatFile(object):
 			fp.write("---\n")
 		print("{} has been created".format(self.outname))
 
-	def parse(self, filepath, verbose):
+	def parse(self, filepath, threshold, verbose):
 		if verbose:
 			print("Parsing {}".format(filepath))
-
+		n_signatures = 0
+		n_dropped = 0
 		with open(filepath) as fp:
 			for line in fp:
 				line = line.strip()
@@ -103,11 +114,15 @@ class PatFile(object):
 				if is_bad_symbol(tokens[5]):
 					continue
 
+				n_signatures += 1
+
 				if tokens[3] == "0000":
 					# drop any signature with function size of zero
+					n_dropped += 1
 					continue
 				elif tokens[0] == ("." * len(tokens[0])):
 					# drop any signature with empty pattern
+					n_dropped += 1
 					continue
 
 				key = " ".join(tokens[1:3])
@@ -126,6 +141,14 @@ class PatFile(object):
 						# drop any postlude with empty pattern
 						tokens.pop(6)
 
+				percentage = calculate_stat_bytes(tokens)
+				if percentage < threshold:
+					if verbose:
+						print("dropping {} signature due bad threshold ({:.2f}%)".format(" ".join(tokens), percentage))
+					# drop any signature that does not reach the threshold
+					n_dropped += 1
+					continue
+
 				if not key in self.signatures:
 					self.signatures[key] = {}
 					self.signatures[key][prelude] = set()
@@ -133,6 +156,7 @@ class PatFile(object):
 					self.signatures[key][prelude] = set()
 
 				self.signatures[key][prelude].add(" ".join(tokens))
+		return (n_signatures, n_dropped)
 
 	def handle_conflicts(self, resolve, threshold, verbose):
 		n_dropped = 0
@@ -185,6 +209,7 @@ class PatFile(object):
 		print("Stats: {} conflicts over a total of {} unique signatures.".format(n_dropped + n_resolved, n_total))
 		print("- Resolved: ", n_resolved)
 		print("- Dropped:  ", n_dropped)
+		print("- Kept:     ", n_total - n_dropped)
 
 def main():
 	parser = argparse.ArgumentParser(usage='%(prog)s [options]', description=DESCRIPTION, epilog=EPILOG, formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -192,7 +217,8 @@ def main():
 	parser.add_argument('-i', '--input', action='append', default=[], help='input .pat file to parse')
 	parser.add_argument('-o', '--output', default='', help='path to the output file .pat')
 	parser.add_argument('-t', '--threshold', default=0.66, type=float, help='threshold for similarity (default 0.66, and must be between 0 and 1)')
-	parser.add_argument('-m', '--max-postlude', default=64, type=int, help='max postlude pattern max size (default 64)')
+	parser.add_argument('-p', '--max-postlude', default=64, type=int, help='max postlude pattern max size (default 64)')
+	parser.add_argument('-m', '--max-masked', default=50, type=int, help='max masked bytes percentage (default 50%%)')
 	parser.add_argument('--auto', default=False, help='tries to auto resolve conflicts by comparing name similarity value against the threshold', action='store_true')
 	parser.add_argument('--test', default=False, help='simulates the generation but does not create the files', action='store_true')
 	parser.add_argument('--overwrite', default=False, help='allowes overwriting the output file', action='store_true')
@@ -239,17 +265,27 @@ def main():
 		if args.auto:
 			print("threshold: {:.2f}".format(args.threshold))
 			print("max postlude: {}".format(args.max_postlude))
+			print("max masked: {}".format(args.max_masked))
 		print("output: ", args.output)
 		print("input:\n    {}".format("\n    ".join(infiles)))
 	else:
 		print("output:", args.output)
 		print("input:  {} pat files".format(len(infiles)))
 
+	n_signatures = 0
+	n_dropped = 0
 	pat = PatFile(args.output, args.max_postlude)
 	for infile in infiles:
 		print("        {}\rparsing {}".format(" " * maxlen, infile), end='\r', flush=True)
-		pat.parse(infile, args.verbose)
+		n_sigs, n_drops = pat.parse(infile, args.max_masked, args.verbose)
+		n_signatures += n_sigs
+		n_dropped += n_drops
 		maxlen = max(maxlen, len(infile))
+
+	percentage = 0
+	if n_signatures > 0:
+		percentage = n_dropped / n_signatures * 100
+	print("        {}\rparsed a total of {} signatures and dropped {} (~{:.0f}%) signatures.".format(" " * maxlen, n_signatures, n_dropped, percentage), flush=True)
 
 	print("        {}\rhandling conflicts".format(" " * maxlen), flush=True)
 	pat.handle_conflicts(args.auto, args.threshold, args.verbose)
