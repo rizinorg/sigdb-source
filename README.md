@@ -36,7 +36,6 @@ bin  elf         ELF format plugin (LGPL3)
 
 # Create folders and files
 $ mkdir -p sigdb-source/elf/tricore/32/mylibrary
-$ cp signatures.pat 
 $ echo "My Library Description" > sigdb-source/elf/tricore/32/mylibrary.description
 $ sha1sum my-tricore-lib.a > sigdb-source/elf/tricore/32/mylibrary.src.sha1
 
