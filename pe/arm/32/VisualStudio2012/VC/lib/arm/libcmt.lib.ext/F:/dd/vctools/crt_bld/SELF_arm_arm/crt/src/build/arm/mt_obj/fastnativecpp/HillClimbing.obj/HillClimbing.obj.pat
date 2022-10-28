@@ -1,0 +1,35 @@
+00697047........................................................ 00 0000 0004 :0000 _Count_MeasuredHistory_HillClimbing_details_Concurrency__QAAHXZ 
+006A04F0DD96.................................................... 00 0000 0006 :0000 __1GlobalCore_details_Concurrency__QAA_XZ 
+00EE102A01EE101AB8EE402BB2EE040BB8EE411B22EE000B80EE010B7047.... 00 0000 001E :0000 _CalculateThroughput_HillClimbing_details_Concurrency__AAANIIII_Z 
+036913..9FED050B704700EE103A90ED001BB8EEC00B81EE000B7047........ 00 0000 001C :0000 _Mean_MeasuredHistory_HillClimbing_details_Concurrency__QAANXZ 
+08B90020704701207047............................................ 00 0000 000A :0000 ___sign_I_details_Concurrency__YAII_Z 
+11F03F0300EB431043698B4209..9FED050B00230361836180ED000B80ED020B 04 3C6F 0024 :0000 _GetHistory_HillClimbing_details_Concurrency__AAAPAVMeasuredHistory_123_I_Z 
+2DE90048EB4688B09FED0B3B13460A46002130EE032B00EE003B059101210491 16 A2FB 0036 :0000 _SignificanceTest_MeasuredHistory_HillClimbing_details_Concurrency__QAAHNHI_Z 
+2DE90048EB46FFF753FAB1EEC00BBDE80088............................ 00 0000 0012 :0000 _StandardDeviation_MeasuredHistory_HillClimbing_details_Concurrency__QAANXZ 
+2DE918480DF2080B0446FFF7A1F9236902EE103AB8EEC22B80EE020BBDE81888 00 0000 0020 :0000 _VarianceMean_MeasuredHistory_HillClimbing_details_Concurrency__QAANXZ 
+2DE918480DF2080B046914......080B0B..FEF795FC01EE104AB1EEC02BB8EE 0E 14A9 002E :0000 _StandardDeviationMean_MeasuredHistory_HillClimbing_details_Concurrency__QAANXZ 
+2DE918480DF2080B2DED028B0446....77FE23......C01B20......103AB8EE 1A 87D4 003A :0000 _CoefficientOfVariationMean_MeasuredHistory_HillClimbing_details_Concurrency__QAANXZ 
+2DE918480DF2080B2DED028B0446....C7FA....408B....C00B....10FA02.. 1C C05F 003C :0000 _CoefficientOfVariation_MeasuredHistory_HillClimbing_details_Concurrency__QAANXZ 
+2DE918480DF2080BD0F814380446994212......1838....1418....71FB9FED 1C 80D0 003C :0000 _EstablishControlSetting_HillClimbing_details_Concurrency__AAAXI_Z 
+2DE930480DF2080B0D460446....020F0D..0D......042C24......35FC.... 00 0000 0046 :0000 ___EGlobalCore_details_Concurrency__QAAPAXI_Z ..0F..............FC............03F026FC15F0010F02D0204603F020FC2046BDE83088
+2DE930480DF2080B2DED028B0D462C6905..1E..03..01..00..1B..28...... 00 0000 005C :0000 _IsStableHistory_HillClimbing_details_Concurrency__AAA_NPAVMeasuredHistory_123__Z ..FD......4A......1B......2B..........0B......8B......FA......1B88EE000BB0EEC00BB4EEC10BF1EE10FAE2DC0120BDEC028BBDE83088
+2DE930480DF2080B9FED0F0B4024002501464A69D0F814389A4210......1838 00 0000 0048 :0000 _FlushHistories_HillClimbing_details_Concurrency__AAAXXZ ..............28....................81ED000B81ED020B4D618D612031013CE6D1BDE83088
+2DE970480DF20C0B2DED0A8B....10FE94......4C0B....491B....462B.... 00 0000 0102 :0000 _SignificanceTest_MeasuredHistory_HillClimbing_details_Concurrency__QAAHPAV1234_H_Z ..3B......4B......5B......6B......8B......9B......7B......0B......1B......2B......3B......4B......5B......6B......8B......9B..................7B......F8..............3A......AB......BB......FD..........8B......F8..............3A......CB......9B......FD......8B......0B......FF......BB......0B......FA......0A..........9B......FA..........1B......0B..........03......0B......1B......0B......0BB0EEC00BB4EEC10BF1EE10FA00D2002014B001F09FFDBDEC0A8BBDE87088
+2DE978480DF2100B2DED028B0C46D0F800180646D1F8B850D1F8AC30D1F88420 04 CD17 00C6 :0000 _RecommendControlSetting_HillClimbing_details_Concurrency__AAAII_Z ......................20..........30......10......................38......28..........................................................................................................................8B..................................F8..................18..............F820EE080BB5EEC00BF1EE10FA01D9013DE4E76C1C2046BDEC028BBDE87888
+2DE978480DF2100B9FED180B3F2500260446266184ED000B84ED020B6661A661 04 20CD 006A :0000 __0HillClimbing_details_Concurrency__QAA_IIPAVSchedulerProxy_12__Z ......................2A......38..........38......0B......03......68......68......0B......18C0F82068C0F82468C0F82868C0F82C68C0F83068C0F81028BDE87888
+2DE9F0480DF2100B1E4614460F46054602..28..B047ED19013C002CF9DABDE8 02 0F7B 0022 :0000 ___H_YAXPAXIHP6APAX0_Z_Z 
+2DE9F0480DF2100B2DED028B0F461E46154604460F..00..BD......243839.. 00 0000 01A0 :0000 _Update_HillClimbing_details_Concurrency__QAAIIIII_Z ..............38......F8......08..........38..........38..........................................18..................................28..........08......58......68......10......30......20..............................58..................5A..........2B......0B......3A......2B......0B......58..............8B..........38......28......28......28..........58..................FB......18..............FB......0B......28..........0B..............0B......0B..........0B......0B..............................FA
+2DE9F0480DF2100B2DED088B0F4605461646....9DFF04..28..31......98FF 00 0000 00B2 :0000 _CalculateThroughputSlope_HillClimbing_details_Concurrency__AAANHH_Z ..............F8..........8B......F8..........7A......3A......3B......2B......9B..........1B......3A......2B......0B..........AB......0B......8B......FB......1B......BB......1B......FA..............FB......0B......0B......0B......0BB0EEC00B01E09FED060BB1EE400B02F0B1F820EE080BBDEC088BBDE8F088
+80697047........................................................ 00 0000 0004 :0000 _LastDataPointCount_MeasuredHistory_HillClimbing_details_Concurrency__QAAIXZ 
+90ED021B90ED002B0369816100EE001B30EE020B013380ED021B80ED000B0361 02 38C9 0022 :0000 _Add_MeasuredHistory_HillClimbing_details_Concurrency__QAAXNI_Z 
+90F8343802460B..01..00..00..0BB9012300E0002382F834387047........ 00 0000 001C :0000 _GetRandomMove_HillClimbing_details_Concurrency__AAAHXZ 
+9FED050B00230361416180ED000B80ED020B83617047.................... 00 0000 0016 :0000 _Clear_MeasuredHistory_HillClimbing_details_Concurrency__QAAXI_Z 
+9FED050B00230361436180ED000B80ED020B83617047.................... 00 0000 0016 :0000 __0MeasuredHistory_HillClimbing_details_Concurrency__QAA_XZ 
+9FED070B40230022026180ED000B80ED020B426182612030013BF5D17047.... 00 0000 001E :0000 _ClearHistories_HillClimbing_details_Concurrency__AAAXXZ 
+9FED163B0369B0EE432B02..14......000B....103A01......002B....C10B 00 0000 0054 :0000 _Variance_MeasuredHistory_HillClimbing_details_Concurrency__QAANXZ ......3A......2B......1B......0B......0B......2B9FED060BB0EEC21BB4EEC01BF1EE10FA01DCB0EE432BB0EE420B7047
+B0EEC00B7047.................................................... 00 0000 0006 :0000 _abs__YANN_Z 
+B5EE400BF1EE10FA02......080B70..B5EEC00BF1EE10FA01DD012301E06FF0 0C 2489 002C :0000 ___sign_N_details_Concurrency__YANN_Z 
+D0F8AC20D0F8B830D31AD0F88420934200D8134618467047................ 00 0000 0018 :0000 _MinVprocHWThreads_SchedulerProxy_details_Concurrency__QBAIXZ 
+D0F8B810D0F8AC30D0F884205B1A934200D81346C8187047................ 00 0000 0018 :0000 _MinHWThreads_SchedulerProxy_details_Concurrency__QBAIXZ 
+D0F8B820D0F88030D0F8BC009B18984200D318467047.................... 00 0000 0016 :0000 _DesiredHWThreads_SchedulerProxy_details_Concurrency__QBAIXZ 
+---

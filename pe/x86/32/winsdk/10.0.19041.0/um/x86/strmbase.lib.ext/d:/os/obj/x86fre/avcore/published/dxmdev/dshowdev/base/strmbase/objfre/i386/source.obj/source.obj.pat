@@ -1,0 +1,63 @@
+33C03941140F95C0C3.............................................. 00 0000 0009 :0000 _ThreadExists_CAMThread__QBEHXZ 
+33C03941180F95C0C3.............................................. 00 0000 0009 :0000 _IsConnected_CBasePin__QAEHXZ 
+33C0C3.......................................................... 00 0000 0003 :0000 _OnThreadCreate_CSourceStream__MAEJXZ 
+33C0C3.......................................................... 00 0000 0003 :0000 _OnThreadDestroy_CSourceStream__MAEJXZ 
+33C0C3.......................................................... 00 0000 0003 :0000 _OnThreadStartPlay_CSourceStream__MAEJXZ 
+33C0C3.......................................................... 00 0000 0003 :0000 _GetSetupData_CBaseFilter__UAEPAU_AMOVIESETUP_FILTER__XZ 
+6A..E8........C3................................................ 00 0000 0008 :0000 _Init_CSourceStream__QAEJXZ 
+6A..E8........C3................................................ 00 0000 0008 :0000 _Pause_CSourceStream__QAEJXZ 
+6A..E8........C3................................................ 00 0000 0008 :0000 _Stop_CSourceStream__QAEJXZ 
+6A..E8........C3................................................ 00 0000 0008 :0000 _Exit_CSourceStream__QAEJXZ 
+836C240404E9.................................................... 00 0000 000A :0000 _Release_CBaseFilter__W3AGKXZ 
+836C240404E9.................................................... 00 0000 000A :0000 _QueryInterface_CBaseFilter__W3AGJABU_GUID__PAPAX_Z 
+836C240404E9.................................................... 00 0000 000A :0000 _AddRef_CBasePin__W3AGKXZ 
+836C240404E9.................................................... 00 0000 000A :0000 _Release_CBasePin__W3AGKXZ 
+836C240404E9.................................................... 00 0000 000A :0000 _AddRef_CBaseFilter__W3AGKXZ 
+836C240404E9.................................................... 00 0000 000A :0000 _QueryInterface_CBasePin__W3AGJABU_GUID__PAPAX_Z 
+83....E9........................................................ 00 0000 0008 :0000 ___ECSourceStream__WEI_AEPAXI_Z 
+8B4104C3........................................................ 00 0000 0004 :0000 _GetOwner_CUnknown__QBEPAUIUnknown__XZ 
+8BFF51FF..........C3............................................ 00 0000 000A :0000 _Unlock_CCritSec__QAEXXZ 
+8BFF51FF..........C3............................................ 00 0000 000A :0000 _Lock_CCritSec__QAEXXZ 
+8BFF51FF..........C3............................................ 00 0000 000A :0000 __1CCritSec__QAE_XZ 
+8BFF5356578BF98BCFE8........85C074..68........8BCFE8........EB.. 08 2DF8 00D1 :0000 _ThreadProc_CSourceStream__MAEKXZ ..........................8BCFFFD68BD885DB79..8B0F8B71108BCEFF..........8BCFFFD6538BCFE8........33C040EB..6A..8BCFE8........8BCFE8........8BD88BCB83E90174..83E90174..83E90174..83E9018BCF74..68........E8........EB..6A..8BCFE8........8B078B70188BCEFF..........8BCFFFD683....75..EB..6A..E8........8B078B70108BCEFF..........8BCFFFD633C985C00F98C18BC15F5E5BC3
+8BFF538BD956578BB3A000000083....56FF..........33FF397B1874..8BCB 01 3E9B 0063 :0000 _Inactive_CSourceStream__MAEJXZ ..........85C078..397BCC74..83C3B86A..8BCBE8........85C078..6A..8BCBE8........85C079..8BF8EB..8BCBE8........56FF..........8BC75F5E5BC3
+8BFF538BD956578BB3A000000083....56FF..........8B8BA0000000E8.... 00 0000 0076 :0000 _Active_CSourceStream__MAEJXZ ....33FF85C074..47EB..397B1874..8BCBE8........85C078..83C3B88BCBE8........85C075..BF........EB..578BCBE8........8BF885FF78..6A..8BCBE8........8BF856FF..........8BC75F5E5BC3
+8BFF558BEC515356576A..8BF1E8........FF75148B7D108D4E488B5D0C538D 08 410A 0062 :0000 __0CSourceStream__QAE_PBGPAJPAVCSource__0_Z ........................8BC6C7............508BCFC7..........C7............C7............89B8E8000000E8........89038BC65F5E5BC9C21000
+8BFF558BEC515356576A..8BF1E8........FF75148B7D108D4E488B5D0C538D 08 410A 0062 :0000 __0CSourceStream__QAE_PBDPAJPAVCSource__PBG_Z ........................8BC6C7............508BCFC7..........C7............C7............89B8E8000000E8........89038BC65F5E5BC9C21000
+8BFF558BEC5356578BF98D775856FF..........8B475033C96A..405AF7E20F 08 2212 0085 :0000 _AddPin_CSource__QAEJPAVCSourceStream___Z ........................8BD85985DB75..BF........EB..837F540074..8B4750C1E00250FF775453E8........8B47508B4D08890C83FF7754E8........83C4108B47508B4D08895F54890C83FF475033FF56FF..........8BC75F5E5B5DC20400
+8BFF558BEC538B5D1085DB75..B8........EB..5657FF750CFF..........8B 0E B06F 0069 :0000 _FindPin_CSource__UAGJPBGPAPAUIPin___Z ......................................8D4FF4FFD685C074..8D480CEB..33C9890B85C974..8B01518B70048BCEFF..........FFD633C0EB..B8........5F5E5B5DC20C00
+8BFF558BEC538BD956578BB3A000000083....56FF..........8B450885C079 00 0000 0059 :0000 _GetMediaType_CSourceStream__MAEJHPAVCMediaType___Z ..BF........EB..7E..BF........EB..8B43B8FF750C8B781C8BCFFF..........8D4BB8FFD78BF856FF..........8BC75F5E5B5DC20800
+8BFF558BEC56578B795033D285FF7E..8B71548B0E8D4154F7D91BC923C83B4D 02 24F4 0038 :0000 _FindPinNumber_CSource__QAEHPAUIPin___Z ......4283C6043BD77C..83....5F5E5DC204008BC2EB
+8BFF558BEC56578BF98D775856FF..........8B4D0885C978..3B4F507D..8B 0F 18C2 0041 :0000 _GetPin_CSource__UAEPAVCBasePin__H_Z ................................33FF56FF..........8BC75F5E5DC20400
+8BFF558BEC568BF133D2578B465085C07E..8B4E548B7D08393C9174..423BD0 01 9349 005A :0000 _RemovePin_CSource__QAEJPAVCSourceStream___Z ....33C0405F5E5DC2040083....75..51E8........836654008B465059EB..8B4E548B0491894491FC8B4650423BD07C..4889465033C0EB
+8BFF558BEC568BF1E8........F645080174..56E8........598BC65E5DC204 01 78F0 0021 :0000 ___GCSource__UAEPAXI_Z 
+8BFF558BEC568BF1E8........F645080174..56E8........598BC65E5DC204 01 78F0 0021 :0000 ___GCSourceStream__UAEPAXI_Z 
+8BFF558BEC5DE9.................................................. 00 0000 000B :0000 _CheckRequest_CSourceStream__IAEHPAW4Command_1__Z 
+8BFF558BEC83EC0C538BD956578B038B70148BCEFF..........8BCBFFD68D45 05 1751 0144 :0000 _DoBufferProcessingLoop_CSourceStream__MAEJXZ ..................85C075..8D7B488B3733C05050508B4E408D45F850FF..........8BCFFF....85C079..6A..FF..........8D45FC8BCB50E8........85C074..837DFC0274..837DFC0174..837DFC0374..B8........EB..8B03FF75F88B70088BCEFF..........8BCBFFD68945F485C075..8B07FF75F88B70448BCEFF..........8BCFFFD68BF88B45F8508B088B71088BCEFF..........FFD685FF0F84........33C0EB..33C0508BCBE8........837DFC030F85........33C0405F5E5BC9C383....8B45F8508B088B71088BCE75..FF..........FFD68B078B704C8BCEFF..........8BCFFFD6EB..FF..........FFD68B078B704C8BCEFF
+8BFF558BEC83EC14A1........33C58945FC53568B450C8D7510578D7DEC8BD9 14 94FA 006E :0000 __0CSource__QAE_PBDPAUIUnknown__U_GUID__PAJ_Z ................................................836350008363540056C7..........C7............C7............FF..........8B4DFC8BC35F5E33CD5BE8........C9C21C00
+8BFF558BEC83EC14A1........33C58945FC53568B450C8D7510578D7DEC8BD9 14 94FA 006E :0000 __0CSource__QAE_PBDPAUIUnknown__U_GUID___Z ................................................836350008363540056C7..........C7............C7............FF..........8B4DFC8BC35F5E33CD5BE8........C9C21800
+8BFF558BEC83EC14A1........33C58945FC53568B450C8D7510578D7DEC8BD9 14 94FA 006E :0000 __0CSource__QAE_PBGPAUIUnknown__U_GUID__PAJ_Z ................................................836350008363540056C7..........C7............C7............FF..........8B4DFC8BC35F5E33CD5BE8........C9C21C00
+8BFF558BEC83EC14A1........33C58945FC53568B450C8D7510578D7DEC8BD9 14 94FA 006E :0000 __0CSource__QAE_PBGPAUIUnknown__U_GUID___Z ................................................836350008363540056C7..........C7............C7............FF..........8B4DFC8BC35F5E33CD5BE8........C9C21800
+8BFF558BEC83EC50A1........33C58945FC8B4508538BD98945B056578BB3A0 04 4D4A 0087 :0000 _CheckMediaType_CSourceStream__MAEJPBVCMediaType___Z ............56FF..........8D4DB4E8........8B43B88D4DB4518B781C8BCFFF..........8D4BB8FFD7FF75B08D4DB4E8........F7D88D4DB41BFF81..........E8........56FF..........8B4DFC8D87054000805F5E33CD5BE8........C9C20400
+8BFF558BEC8B4508568B40F8508B088B71048BCEFF..........FFD65E5DC204 01 78F0 0021 :0000 _AddRef_CBasePin__UAGKXZ 
+8BFF558BEC8B4508568B40F8508B088B71048BCEFF..........FFD65E5DC204 01 78F0 0021 :0000 _AddRef_CBaseFilter__UAGKXZ 
+8BFF558BEC8B4508568B40F8508B088B71088BCEFF..........FFD65E5DC204 01 78F0 0021 :0000 _Release_CBasePin__UAGKXZ 
+8BFF558BEC8B4508568B40F8508B088B71088BCEFF..........FFD65E5DC204 01 78F0 0021 :0000 _Release_CBaseFilter__UAGKXZ 
+8BFF558BEC8B4508568BF1508906FF..........8BC65E5DC20400.......... 00 0000 001B :0000 __0CAutoLock__QAE_PAVCCritSec___Z 
+8BFF558BEC8B450856FF75108B40F8FF750C508B088B318BCEFF..........FF 06 77F6 0026 :0000 _QueryInterface_CBasePin__UAGJABU_GUID__PAPAX_Z 
+8BFF558BEC8B450856FF75108B40F8FF750C508B088B318BCEFF..........FF 06 77F6 0026 :0000 _QueryInterface_CBaseFilter__UAGJABU_GUID__PAPAX_Z 
+8BFF558BEC8B450C8B4D0887015DC20800.............................. 00 0000 0011 :0000 __InlineInterlockedExchangePointer_8 
+8BFF558BEC8B4D08568B750C85F675..B8........EB..8D41ACF7D8571BC023 09 0B9A 0060 :0000 _QueryId_CSourceStream__MAGJPAPAG_Z ..........................8D780183....7D..B8........EB..6A..FF..........890685C075..B8........EB..5057E8........33C05F5E5DC20800
+8BFF5633F68D4114873085F674..6AFF56FF..........56FF..........5EC3 00 0000 0020 :0000 _Close_CAMThread__QAEXXZ 
+8BFF56578BF9578B8FE8000000C7..........C7............C7.......... 00 0000 003E :0000 __1CSourceStream__UAE_XZ ..C7............E8........8D4F48E8........8BCF5F5EE9
+8BFF56578BF98B773856FF..........8B471433FF473BC774..83....74..33 03 6088 002D :0000 _IsActive_CBaseFilter__QAEHXZ ................8BC75F5EC3
+8BFF56578BF98D775856FF..........8B7F5056FF..........8BC75F5EC3.. 00 0000 001F :0000 _GetPinCount_CSource__UAEHXZ 
+8BFF568BF156FF..........8BC65EC3................................ 00 0000 0010 :0000 __0CCritSec__QAE_XZ 
+8BFF578BF98B5750C7..........C7............C7............85D274.. 0C BE90 005B :0000 __1CSource__UAE_XZ ..........................8B036A..8B70048BCEFF..........8BCBFFD68B575085D275..5E5B8D475850FF..........8BCF5FE9
+8D4158C3........................................................ 00 0000 0004 :0000 _pStateLock_CSource__QAEPAVCCritSec__XZ 
+B8........C20C00................................................ 00 0000 0008 :0000 _QueryInternalConnections_CBasePin__UAGJPAPAUIPin__PAK_Z 
+B8........C20400................................................ 00 0000 0008 :0000 _GetMediaType_CSourceStream__MAEJPAVCMediaType___Z 
+E9.............................................................. 00 0000 0005 :0000 __1CBaseOutputPin__UAE_XZ 
+E9.............................................................. 00 0000 0005 :0000 _GetRequest_CSourceStream__IAE_AW4Command_1_XZ 
+FF31FF..........C3.............................................. 00 0000 0009 :0000 __1CAutoLock__QAE_XZ 
+---

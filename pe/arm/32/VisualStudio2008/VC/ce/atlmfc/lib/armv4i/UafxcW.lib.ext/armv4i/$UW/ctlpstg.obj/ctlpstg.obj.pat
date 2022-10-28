@@ -1,0 +1,20 @@
+000051E3........................................................ 00 0000 0004 :0000 _SaveCompleted_XPersistStorage_COleControl__UAAJPAUIStorage___Z 
+0000A0E3........................................................ 00 0000 0004 :0000 _HandsOffStorage_XPersistStorage_COleControl__UAAJXZ 
+0000A0E3........................................................ 00 0000 0004 :0000 __AfxInitManaged__YAHXZ 
+0020A0E3........................................................ 00 0000 0004 :0000 loc.00001558 
+04E02DE5110E40E2000000EB04E0.................................... 00 0000 000E :0000 _Release_XPersistStorage_COleControl__UAAKXZ 
+04E02DE5110E40E2000000EB04E0.................................... 00 0000 000E :0000 _QueryInterface_XPersistStorage_COleControl__UAAJABU_GUID__PAPAX_Z 
+04E02DE5110E40E2000000EB04E0.................................... 00 0000 000E :0000 _AddRef_XPersistStorage_COleControl__UAAKXZ 
+0DC0A0E1........................................................ 00 0000 0004 :0000 _CreateObject___CThreadLocal_V_AFXCTL_AMBIENT_CACHE____SAPAVCNoTrackObject__XZ 
+10402DE9........................................................ 00 0000 0004 :0000 _InitNew_XPersistStorage_COleControl__UAAJPAUIStorage___Z 
+1EFF2FE1........................................................ 00 0000 0004 :0000 __1AFX_MAINTAIN_STATE2__QAA_XZ 
+743010E5........................................................ 00 0000 0004 :0000 _IsDirty_XPersistStorage_COleControl__UAAJXZ 
+8DE5............................................................ 00 0000 0002 :0000 loc.000017ca 
+94E5............................................................ 00 0000 0002 :0000 loc.00001c9e 
+F0432DE9........................................................ 00 0000 0004 :0000 _Load_XPersistStorage_COleControl__UAAJPAUIStorage___Z 
+F0472DE9........................................................ 00 0000 0004 :0000 _Save_XPersistStorage_COleControl__UAAJPAUIStorage__H_Z 
+04..2DE514109FE5000000EB000050E3................................ 00 0000 0010 :0000 __C__CThreadLocal_V_AFXCTL_AMBIENT_CACHE____QAAPAV_AFXCTL_AMBIENT_CACHE__XZ 
+04..2DE514109FE5000000EB000050E3................................ 00 0000 0010 :0000 _GetData___CThreadLocal_V_AFXCTL_AMBIENT_CACHE____QAAPAV_AFXCTL_AMBIENT_CACHE__XZ 
+04..2DE510001BE5000000EB0080BDE8................................ 00 0000 0010 :0000 __unwind_155051 
+04..2DE5110E40E2003090E5D03093E5................................ 00 0000 0010 :0000 _GetClassID_XPersistStorage_COleControl__UAAJPAU_GUID___Z 
+---

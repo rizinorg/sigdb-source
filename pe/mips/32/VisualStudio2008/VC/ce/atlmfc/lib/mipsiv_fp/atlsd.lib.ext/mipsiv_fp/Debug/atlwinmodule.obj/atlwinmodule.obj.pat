@@ -1,0 +1,19 @@
+004004000000A8AF0800E00300000000................................ 00 0000 0010 :0000 __1CComCriticalSection_ATL__QAA_XZ 
+C0FFBD27........................................................ 00 0000 0004 :0000 __0CAtlWinModule_ATL__QAA_XZ 
+C8FFBD27........................................................ 00 0000 0004 :0000 __A__CSimpleArray_GV__CSimpleArrayEqualHelper_G_ATL___ATL__QAAAAGH_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0_ATL_WIN_MODULE70_ATL__QAA_XZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 _AtlWinModuleTerm_ATL__YAJPAU_ATL_WIN_MODULE70_1_PAUHINSTANCE_____Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _Term_CComCriticalSection_ATL__QAAJXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 _RemoveAll___CSimpleArray_GV__CSimpleArrayEqualHelper_G_ATL___ATL__QAAXXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 __0CComCriticalSection_ATL__QAA_XZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 ____E_AtlWinModule_ATL__YAXXZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 ____F_AtlWinModule_ATL__YAXXZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 __1CAtlWinModule_ATL__QAA_XZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 _Term_CAtlWinModule_ATL__QAAXXZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 __1_ATL_WIN_MODULE70_ATL__QAA_XZ 
+D8FFBD27........................................................ 00 0000 0004 :0000 __AtlRaiseException_ATL__YAXKK_Z 
+D8FFBD27........................................................ 00 0000 0004 :0000 __1__CSimpleArray_GV__CSimpleArrayEqualHelper_G_ATL___ATL__QAA_XZ 
+F8FFBD27004004000800A8AF0800A88F000000AD0800A88F040000AD0800A88F 1C D829 003C :0000 __0__CSimpleArray_GV__CSimpleArrayEqualHelper_G_ATL___ATL__QAA_XZ 
+F8FFBD27004004000800A8AF0800A88F0400088D0000A8AF0000A28F0800BD27 08 1031 0028 :0000 _GetModuleInstance_CAtlBaseModule_ATL__QAAPAUHINSTANCE____XZ 
+F8FFBD27004004000800A8AF0800A88F0400088D0000A8AF0000A28F0800BD27 08 1031 0028 :0000 _GetSize___CSimpleArray_GV__CSimpleArrayEqualHelper_G_ATL___ATL__QBAHXZ 
+---

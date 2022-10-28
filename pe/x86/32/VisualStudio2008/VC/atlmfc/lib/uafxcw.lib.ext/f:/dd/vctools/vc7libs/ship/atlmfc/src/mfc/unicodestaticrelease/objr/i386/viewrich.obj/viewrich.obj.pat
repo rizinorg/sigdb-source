@@ -1,0 +1,451 @@
+33C039410C0F9CC0C3.............................................. 00 0000 0009 :0000 _IsLocked_CStringData_ATL__QBE_NXZ 
+33C039818000000075..39818400000074..33C040C3.................... 00 0000 0016 :0000 _IsMarked_CRichEditCntrItem__QAEHXZ 
+33C03981C40000000F95C0C3........................................ 00 0000 000C :0000 _IsInPlaceActive_COleServerDoc__QBEHXZ 
+33C03981EC0000000F95C040C3...................................... 00 0000 000D :0000 _GetStreamFormat_CRichEditDoc__QBEHXZ 
+33C083790C010F9FC0C3............................................ 00 0000 000A :0000 _IsShared_CStringData_ATL__QBE_NXZ 
+33C083....40F00FC101C3.......................................... 00 0000 000B :0000 _AddRef_CStringData_ATL__QAEXXZ 
+33C0C20400...................................................... 00 0000 0005 :0000 _OnPasteNativeObject_CRichEditView__MAEHPAUIStorage___Z 
+33C0C20400...................................................... 00 0000 0005 :0000 _OnChangeItemPosition_CRichEditCntrItem__MAEHABVCRect___Z 
+33C0C20C00...................................................... 00 0000 0005 :0000 _GetContextMenu_CRichEditView__MAEPAUHMENU____GPAUIOleObject__PAU_charrange___Z 
+33C0C3.......................................................... 00 0000 0003 :0000 _OnGetEmbeddedItem_CRichEditDoc__MAEPAVCOleServerItem__XZ 
+33C0C3.......................................................... 00 0000 0003 :0000 __AfxInitManaged__YAHXZ 
+68........B8........E8........33DB538BF96A..8D8DFCFCFFFFE8...... 00 0000 0129 :0000 _OnInsertObject_CRichEditView__IAEXXZ ..8D8DFCFCFFFF895DFCE8........83....0F85........8D8DFBFCFFFFE8........8B4F548B0153899DF0FCFFFFC645FC02FF..........8BF0568D8DFCFCFFFF89B5F0FCFFFFC7868400000001000000E8........3BC375..899E84000000E8........568BCFE8........8BCE8985F4FCFFFFE8........899E84000000399DF4FCFFFF74..FFB5F4FCFFFFE8........8D8DFCFCFFFFE8........3BC375..8B0653576AFF8BCEFF....C745FC01000000EB..8B8DF0FCFFFF33DB3BCB74..6A..E8........6AFF5368........E8........C745FC01000000B8........C333DB8D8DFBFCFFFF885DFCE8........83......8D8DFCFCFFFFE8
+68........E8........CC.......................................... 00 0000 000B :0000 _ThrowMemoryException___CSimpleStringT_D_0A__ATL__KAXXZ 
+68........E8........CC.......................................... 00 0000 000B :0000 _ThrowMemoryException___CSimpleStringT__W_0A__ATL__KAXXZ 
+68........B8........E8........8365FC00E8........8B4804E8........ 01 3E9B 0026 :0000 __1CWaitCursor__QAE_XZ ..........C3
+68........E8........C3.......................................... 00 0000 000B :0000 ____E_init_CRichEditCntrItem__YAXXZ 
+68........FF..........A3........C3.............................. 00 0000 0011 :0000 ____E_afxMsgFindReplace2__YAXXZ 
+68........B8........E8........8BD9E8........33FF575768........8D 0D FF68 0080 :0000 _OnFormatFont_CRichEditView__IAEXXZ ..................................8D8D64FEFFFF897DFCE8........83....75..568D8D64FEFFFFE8........83EC746A..598BFCF3A58BCBE8........83......8D8D64FEFFFFC7..................E8........E8........C3
+68........E8........85C075..E9........C3........................ 00 0000 0014 :0000 _GetData___CProcessLocal_V_AFX_RICHEDIT_STATE____QAEPAV_AFX_RICHEDIT_STATE__XZ 
+68........B8........E8........8BF1E8........8D4DB88BF8E8........ 0A 2934 008F :0000 _OnEditProperties_CRichEditView__IAEXXZ ......................8D55B8526AFF50FF....8D45B8508BCFE8........6A..68........6A..578D8D44FEFFFFE8........8D8D44FEFFFFC645FC01E8........8D8D44FEFFFFC645FC00C7..................E8........83......8D4DB8E8........E8........C3
+68........B8........E8........8BD933F656566A..8D8DFCFEFFFFE8.... 00 0000 0101 :0000 _OnEditPasteSpecial_CRichEditView__IAEXXZ ....33FF47578D8DFCFEFFFF8975FCE8........565668........57FF..........8D8DFCFEFFFFE8........565668........57578D8DFCFEFFFFE8........8D8DFCFEFFFFE8........3BC775..8B8578FFFFFF8B4D9C24080FB6F08B45BC8945EC8B45B4F7DE1BF66BC0240FB7040883E6038D4DF3468945E8E8........FF7320C645FC01FF..........50E8........8D8DFCFEFFFF8DBB80000000E8........FF75EC89070FB745E856508BCBE8........832700FF..........8D4DF3C645FC00E8........83......8D8DFCFEFFFFE8........E8........C3
+6A..6A..68........FF7120FF..........C3.......................... 00 0000 0013 :0000 _Cut_CRichEditCtrl__QAEXXZ 
+6A..6A..68........FF7120FF..........C3.......................... 00 0000 0013 :0000 _Copy_CRichEditCtrl__QAEXXZ 
+6A..6A..68........FF7120FF..........C3.......................... 00 0000 0013 :0000 _Paste_CRichEditCtrl__QAEXXZ 
+6A..6A..68........FF7120FF..........C3.......................... 00 0000 0013 :0000 _Clear_CRichEditCtrl__QAEXXZ 
+6A..6A..68........FF7120FF..........C3.......................... 00 0000 0013 :0000 _Redo_CRichEditCtrl__QAEHXZ 
+6A..6A..68........FF7120FF..........C3.......................... 00 0000 0013 :0000 _CanRedo_CRichEditCtrl__QBEHXZ 
+6A..6A..68........FF7120FF..........C3.......................... 00 0000 0013 :0000 _GetModify_CRichEditCtrl__QBEHXZ 
+6A..6A..68........FF7120FF..........C3.......................... 00 0000 0013 :0000 _CanUndo_CRichEditCtrl__QBEHXZ 
+6A..6A..68........FF7120FF..........C3.......................... 00 0000 0013 :0000 _Undo_CRichEditCtrl__QAEHXZ 
+6A..6A..68........FF7120FF..........C3.......................... 00 0000 0013 :0000 _EmptyUndoBuffer_CRichEditCtrl__QAEXXZ 
+6A..6A..6A..FF7120FF..........C3................................ 00 0000 0010 :0000 _GetTextLength_CRichEditCtrl__QBEJXZ 
+6A..6A..6A..FF7120FF..........C3................................ 00 0000 0010 :0000 _GetTextLength_CRichEditView__QBEJXZ 
+6A..B8........E8........8BF18D4D0BE8........FF75088365FC008BCEE8 00 0000 0046 :0000 _SetParaFormat_CRichEditView__QAEHAAUPARAFORMAT2___Z ........83......8D4D0B8BF8C786E801000001000000E8........8BC7E8........C20400
+6A..E8........C3................................................ 00 0000 0008 :0000 _OnEditReplace_CRichEditView__IAEXXZ 
+6A..FF7120FF..........C3........................................ 00 0000 000C :0000 _BeginModalState_CWnd__UAEXXZ 
+6A..6A..E8........C3............................................ 00 0000 000A :0000 _OnCharBold_CRichEditView__IAEXXZ 
+6A..E8........C3................................................ 00 0000 0008 :0000 _OnEditFind_CRichEditView__IAEXXZ 
+6A..E8........C3................................................ 00 0000 0008 :0000 _OnParaLeft_CRichEditView__IAEXXZ 
+6A..FF7120FF..........C3........................................ 00 0000 000C :0000 _EndModalState_CWnd__UAEXXZ 
+6A..6A..E8........C3............................................ 00 0000 000A :0000 _OnCharItalic_CRichEditView__IAEXXZ 
+6A..E8........C3................................................ 00 0000 0008 :0000 _OnParaRight_CRichEditView__IAEXXZ 
+6A..58C3........................................................ 00 0000 0004 :0000 __AtlGetConversionACP_ATL__YGIXZ 
+6A..E8........C3................................................ 00 0000 0008 :0000 _OnParaCenter_CRichEditView__IAEXXZ 
+6A..6A..E8........C3............................................ 00 0000 000A :0000 _OnCharUnderline_CRichEditView__IAEXXZ 
+6A..B8........E8........8BF18D4DF3E8........8365FC008D4508508BCE 01 3E9B 0043 :0000 _SetCharFormat_CRichEditView__QAEXUCHARFORMAT2W___Z ..........83......8D4DF3C786E401000001000000E8........E8........C27400
+6A..B8........E8........8BF18975F0E8........508BCEE8........FF75 08 AAE5 0044 :0000 __0__CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QAE_PB_W_Z ........................84C075..FF75088BCEE8........8BC6E8........C20400
+6A..B8........E8........8BF18975F0E8........508BCEE8........FF75 08 AAE5 0044 :0000 __0__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAE_PB_W_Z ........................84C075..FF75088BCEE8........8BC6E8........C20400
+6A..B8........E8........8BF168........E8........598BC8894DF033C0 06 F64E 0038 :0000 _CreateClientItem_CRichEditDoc__UBEPAVCRichEditCntrItem__PAU_reobject___Z ..............56FF7508E8........E8........C20400
+6A..B8........E8........8BF18D4DF3E8........8B466033DB895DFC3BC3 01 52D4 008F :0000 _WrapChanged_CRichEditView__MAEXXZ ....6A..EB..83....75..53538BCEE8........EB..83....75..E8........8B40048D7E6C578BC8E8........395E7075..53535368........8BCFE8........8B86980000002B86900000008BCE2B86880000005057E8........83......8D4DF3E8........E8........C3
+6A..B8........E8........68........E8........598BC8894DF033C08945 04 0082 0030 :0000 _CreateObject_CRichEditView__SGPAVCObject__XZ ..........E8........E8........C3
+6A..B8........E8........894DF068........B9........E8........8BF0 0A 9D1D 00E7 :0000 _OnReplaceAll_CRichEditView__MAEXPB_W0HH_Z ......................E8........FF75088D7E0C8BCFE8........FF750C8D5E108BCBE8........8B45108946148B45148D4D0B89461CC7461801000000E8........FF761C8B07FF76148B4DF08365FC0050E8........85C075..8B4DF056E8........85C075..FF378B4DF0E8........EB..8B4DF06A..6A..E8........8B038B4DF06A..50E8........8B4DF056E8........85C075..FF378B4DF0E8........8B4DF06A..6A..E8........83......8D4D0BE8........E8........C21000
+6A..B8........E8........8BF18975F08D8EA0000000C745FC01000000E8.. 00 0000 0040 :0000 __1CRichEditView__UAE_XZ ......8D4E6CC645FC00E8........83......8BCEE8........E8........C3
+6A..B8........E8........6A..E8........8BC8894DF033C08945FC3BC874 00 0000 002C :0000 _CreateObject___CProcessLocal_V_AFX_RICHEDIT_STATE____SGPAVCNoTrackObject__XZ ..E8........E8........C3
+6A..B8........E8........8BF18975F0C7..........8B467C8365FC0085C0 01 DBC5 0039 :0000 __1CRichEditCntrItem__UAE_XZ ....8B0850FF....83......8BCEE8........E8........C3
+6A..B8........E8........68........E8........598BC8894DF033C08945 04 0082 0032 :0000 _CreateObject_CRichEditCntrItem__SGPAVCObject__XZ ..........5050E8........E8........C3
+6A..B8........E8........8BF1E8........8D4DF3E8........8B068365FC 04 5686 0054 :0000 _DeleteContents_CRichEditDoc__UAEXXZ ..................8BF085F674..8B068BCEFF..........6A..8BCEE8........83......8D4DF3E8........E8........C3
+6A..B8........E8........8BF18975F0FF750CE8........8B450833C9894D 02 5C68 0079 :0000 __0CRichEditCntrItem__QAE_PAU_reobject__PAVCRichEditDoc___Z ..............898E80000000898E840000003BC174..8B4818894E248B481C894E388B402089467C8B46248B0850FF....8B46388B0850FF....8B467C8B0850FF....EB..894E24894E38894E7C8BC6E8........C20800
+6A..B8........E8........8BF1FF7508E8........8B068BCEFF.......... 03 C8F4 0072 :0000 _SetTitle_CRichEditDoc__UAEXPB_W_Z ..............FF70108D4DECE8........FF75088365FC008D4DF0E8........FF75F08B4668FF75EC8B0850C645FC01FF....8B4DF083C1F0E8........8B4DEC83C1F0E8........E8........C20400
+6A..B8........E8........8B49208B01FF..........8B70688D45F0506A.. 04 D141 0073 :0000 _ConvertTo_CRichEditCntrItem__UAEHABU_GUID___Z ..................85C07D..33C0EB..FF75F08D4DECE8........FF75EC8B06FF75088365FC006AFF56FF....FF75F08BF0FF..........8B4DEC83C1F0E8........33C085F60F9DC0E8........C20400
+6A..B8........E8........894DEC33FF4789B98400000068........B9.... 00 0000 0159 :0000 _OnEditFindReplace_CRichEditView__IAEXH_Z ....E8........8BF033C033DB3BF30F95C03BC375..E8........8B46043BC374..8B4D08394E0875..FF7020FF..........50E8........8B4E046A..E8........E9........53536A..FF7020FF..........8B4DEC8D45F050E8........8B45F0895DFC3958F474..68........8D4DF0E8........83F8FF74..8D460C508D4DF0E8........8D4610508D4DE8E8........68........C645FC01E8........598BC8894DE4C645FC023BCB74..E8........EB..33C033C9C645FC01894604395E1874..8BCF395E1474..83C904395E1C74..83C902FF75EC8B7DE88B105157FF75F08BC8FF7508FF..........85C075..895E04EB..8B4508
+6A..B8........E8........8BF9FF750CE8........68........B9........ 03 C8F4 0162 :0000 _OnFindReplaceCmd_CRichEditView__IAEJIJ_Z ..............33C985C00F95C185C975..E8........8B8E80000000F6....74..83600400E9........F6....74..8D450C508BCEE8........8BB6800000008B178365FC008BCED1E983E101518BCEC1E90283E1015183E60156FF308BCFFF..........8B4D0CE9........F6....74..8D45EC508BCEE8........89450C8D45F0508BCEC745FC01000000E8........8BB6800000008B4D0CFF318B178BCED1E983E101518BCEC1E90283E1015183E60156FF308BCFC645FC02FF..........8B4DF083C1F0E8........8B4DECEB..F6....74..8D45E4508BCEE8........89450C8D45E8508BCEC745FC03000000E8........8BB6800000008B178BCE
+6A..B8........E8........8B45088B308BCEE8........8B45108B7D148365 0E F256 0050 :0000 _EditStreamCallBack_CRichEditView__SGKKPAEJPAJ_Z ................................8B4E248B1150FF750C74..FF....8B45ECE8........C21000FF....8907EB
+6A..B8........E8........8BF18D4DE4E8........8365FC00E8........8B 09 3B5B 004F :0000 _OnDevModeChange_CRichEditView__IAEXPA_W_Z ..........................8B068D4DE4518BCEFF..........83......8D4DE4E8........E8........C20400
+6A..B8........E8........8BD933FF397D1475..33C0E8........C214008B 07 426E 00D5 :0000 _QueryAcceptData_CRichEditView__MAEJPAUIDataObject__PAGKHPAX_Z ......................83C40485C075..8D4DE4E8........57FF75088D4DE4897DFCE8........66393E75..39BB8000000075..0FB7..........57508D4DE4E8........8D4DE485C074..83......E8........EB..0FB7..........5750E8........8D4DE485C074..66A1........668906EB..576A..E8........85C074..33C04066890683......8D4DE4E8........8BC7E9........0FB706FF75188BCB508D45E450E8........33FF47EB
+6A..FF..........C20400.......................................... 00 0000 000B :0000 _OnTextNotFound_CRichEditView__MAEXPB_W_Z 
+6A..B8........E8........8BF18975E4FF75088D4DE8E8........33DB8D4D 05 E49E 00C1 :0000 _InsertFileAsObject_CRichEditView__QAEXPB_W_Z ..................8B4E548B0153895DECC645FC02FF..........535333FF478BF05768........89BE84000000FF75E88BCE8975ECE8........3BC375..E8........8BCEE8........8B4DE456E8........899E84000000897DFCEB..8B4DEC33FF33DB473BCB74..57899984000000E8........897DFCB8........C333DB8D4D0B885DFCE8........8B4DE883C1F0E8........E8........C20400
+6A..B8........E8........8BD9895DF068........68........E8........ 09 316A 00B9 :0000 __0CRichEditView__QAE_XZ ............................E8........8D8BA0000000C645FC01E8........C7..................89736889B3800000008975E08975E48975E88975EC8DBB880000008D75E0A5A533C0408983E80100008983E4010000894360A5B8........B9........898398000000C7............898B9C000000A5C7..................C7..................8BC3E8........C3
+6A..B8........E8........8BF9897DEC8D4D0FE8........8B4F548B0133F6 0E EABF 0195 :0000 _DoPaste_CRichEditView__QAEXAAVCOleDataObject__GPAX_Z ......................................8BF88B45EC5656899F840000008B808000000053FF7508897DE88BCF3BC375..E8........3BC675..E8........83....75..E8........EB..83....75..E8........EB..E8........3BC675..565653FF75088BCFEB..6639750C0F85........8B4D086A..58668945C88D45C8506A..C745D0040000008975CCC7............895DD4E8........8BD83BDE74..538BCFE8........6A..8D45DC5650E8........83C40C8D45DC50C7............895DE0FF..........0FB7..........8B4D085650E8........8BD83BDE74..53FF..........FF70148B178BCFFF....53FF..........53FF..........EB..8BCF397510
+6A..B8........E8........8BF18B7E548D4DB833DBE8........8B76688B06 04 5E0A 0067 :0000 _GetSelectedItem_CRichEditView__QBEPAVCRichEditCntrItem__XZ ..........8D4DB8516AFF56FF....85C075..FF75D08BCFE8........8BD885DB75..8B078D4DB8518BCFFF..........8BD883......8D4DB8E8........8BC3E8........C3
+6A..B8........E8........8BF18B7E548D4DB833DBE8........8B76688B06 04 5E0A 0070 :0000 _GetInPlaceActiveItem_CRichEditView__QBEPAVCRichEditCntrItem__XZ ..........8D4DB8516AFF56FF....85C075..F745E80000000274..FF75D08BCFE8........8BD885DB75..8B078D4DB8518BCFFF..........8BD883......8D4DB8E8........8BC3E8........C3
+6A..B8........E8........8B45088BF1508D4DB8E8........8B466883.... 00 0000 0064 :0000 _InsertItem_CRichEditView__QAEJPAVCRichEditCntrItem___Z ..8B088365FC008D55B85250FF....8BF88D45B0508BCEE8........8B45B4488945B08D45B0508BCEE8........83......8D4DB8E8........8BC7E8........C20400
+6A..B8........E8........8BF18B06FF..........8BF885FF0F84........ 03 7AD8 00B9 :0000 _UpdateObjectCache_CRichEditDoc__IAEXXZ ..............8B47688B0850FF....8365B4008945B085C07E..8D4DB8E8........8B47688B088365FC006A..8D55B852FF75B450FF....85C075..FF75D08BCEE8........8BD885DB75..8B068D4DB8518BCEFF..........8BD88BCBE8........C783800000000100000083......8D4DB8E8........FF45B48B45B43B45B07C..8BCEE8........83A6F000000000E8........C3
+6AFF6A..E8........C3............................................ 00 0000 000A :0000 _OnEditSelectAll_CRichEditView__IAEXXZ 
+6AFF6A..E8........C3............................................ 00 0000 000A :0000 _RemoveAll_CDWordArray__QAEXXZ 
+8379040074..FF316A..E8........C3................................ 00 0000 0010 :0000 __1AFX_MAINTAIN_STATE2__QAE_XZ 
+83A18000000000E9................................................ 00 0000 000C :0000 _OnEditPaste_CRichEditView__IAEXXZ 
+83C10451FF..........C3.......................................... 00 0000 000B :0000 _InternalAddRef_CCmdTarget__QAEKXZ 
+85C975..33C0C38B4120C3.......................................... 00 0000 000B :0000 _GetSafeHwnd_CWnd__QBEPAUHWND____XZ 
+8B0133C93948F40F94C18AC1C3...................................... 00 0000 000D :0000 _IsEmpty___CSimpleStringT__W_0A__ATL__QBE_NXZ 
+8B0183....C3.................................................... 00 0000 0006 :0000 _GetData___CSimpleStringT__W_0A__ATL__ABEPAUCStringData_2_XZ 
+8B0183....C3.................................................... 00 0000 0006 :0000 _GetData___CSimpleStringT_D_0A__ATL__ABEPAUCStringData_2_XZ 
+8B018B40F4C3.................................................... 00 0000 0006 :0000 _GetLength___CSimpleStringT__W_0A__ATL__QBEHXZ 
+8B018B40F8C3.................................................... 00 0000 0006 :0000 _GetAllocLength___CSimpleStringT__W_0A__ATL__QBEHXZ 
+8B01C3.......................................................... 00 0000 0003 :0000 _GetString___CSimpleStringT_D_0A__ATL__QBEPBDXZ 
+8B01C3.......................................................... 00 0000 0003 :0000 __B__CSimpleStringT__W_0A__ATL__QBEPB_WXZ 
+8B01C3.......................................................... 00 0000 0003 :0000 _GetString___CSimpleStringT__W_0A__ATL__QBEPB_WXZ 
+8B01FF..........8BC8E9.......................................... 00 0000 000F :0000 _IsModified_CRichEditDoc__UAEHXZ 
+8B0983....E9.................................................... 00 0000 000A :0000 __1__CSimpleStringT__W_0A__ATL__QAE_XZ 
+8B0983....E9.................................................... 00 0000 000A :0000 __1__CSimpleStringT_D_0A__ATL__QAE_XZ 
+8B0983....E9.................................................... 00 0000 000A :0000 __1__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAE_XZ 
+8B0983....E9.................................................... 00 0000 000A :0000 __1__CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QAE_XZ 
+8B4108C3........................................................ 00 0000 0004 :0000 _GetSize_CDWordArray__QBEHXZ 
+8B410C2B4104C3.................................................. 00 0000 0007 :0000 _Height_CRect__QBEHXZ 
+8B4118F7D083E001C3.............................................. 00 0000 0009 :0000 _IsStoring_CArchive__QBEHXZ 
+8B4120C3........................................................ 00 0000 0004 :0000 _GetDocument_COleClientItem__QBEPAVCOleDocument__XZ 
+8B4120C3........................................................ 00 0000 0004 :0000 _GetDocument_CRichEditCntrItem__QAEPAVCRichEditDoc__XZ 
+8B4124C3........................................................ 00 0000 0004 :0000 _GetFile_CArchive__QBEPAVCFile__XZ 
+8B4130C3........................................................ 00 0000 0004 :0000 _GetDrawAspect_COleClientItem__QBE_AW4tagDVASPECT__XZ 
+8B4154C3........................................................ 00 0000 0004 :0000 _GetDocument_CRichEditView__QBEPAVCRichEditDoc__XZ 
+8B4158C3........................................................ 00 0000 0004 :0000 _GetActiveView_COleClientItem__QBEPAVCView__XZ 
+8B4158C3........................................................ 00 0000 0004 :0000 _GetActiveView_CRichEditCntrItem__QAEPAVCRichEditView__XZ 
+8B41688B0850FF....C3............................................ 00 0000 000A :0000 _OnCancelEditCntr_CRichEditView__IAEXXZ 
+8B417C24080FB6C0F7D81BC083E00340C3.............................. 00 0000 0011 :0000 _GetDrawAspect_COlePasteSpecialDialog__QBE_AW4tagDVASPECT__XZ 
+8B45148320008B4D0833C0408941048B4DE48945EC85C974..E8........B8.. 00 0000 0024 :0000 __catch__EditStreamCallBack_CRichEditView__SGKKPAEJPAJ_Z_1 ......C3
+8B45148320008B4DE88B41088B5508894204C745EC01000000E8........B8.. 00 0000 0024 :0000 __catch__EditStreamCallBack_CRichEditView__SGKKPAEJPAJ_Z_0 ......C3
+8B4DE833F63BCE74..6A..89B184000000E8........B8........C3........ 00 0000 001C :0000 __catch__DoPaste_CRichEditView__QAEXAAVCOleDataObject__GPAX_Z_0 
+8B4DEC33FF33DB473BCB74..57899984000000E8........897DFCB8........ 01 EF04 0021 :0000 __catch__InsertFileAsObject_CRichEditView__QAEXPB_W_Z_0 
+8B4DF083....E9.................................................. 00 0000 000B :0000 __unwindfunclet___0CRichEditView__QAE_XZ_1 
+8B4DF083....E9.................................................. 00 0000 000B :0000 __unwindfunclet___1CRichEditView__UAE_XZ_1 
+8B4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet___0CRichEditCntrItem__QAE_PAU_reobject__PAVCRichEditDoc___Z_0 
+8B4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet___1CRichEditCntrItem__UAE_XZ_0 
+8B4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet___0CRichEditView__QAE_XZ_0 
+8B4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet___1CRichEditView__UAE_XZ_0 
+8B4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet___0__CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QAE_PB_W_Z_0 
+8B4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet___0__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAE_PB_W_Z_0 
+8B5424088D420C8B4AAC33C8E8........8B4AFC33C8E8........B8........ 01 B78A 0025 :0000 __ehhandler__UpdateObjectCache_CRichEditDoc__IAEXXZ 
+8B5424088D420C8B4AAC33C8E8........8B4AFC33C8E8........B8........ 01 B78A 0025 :0000 __ehhandler__InsertItem_CRichEditView__QAEJPAVCRichEditCntrItem___Z 
+8B5424088D420C8B4AB433C8E8........8B4AFC33C8E8........B8........ 01 B78A 0025 :0000 __ehhandler__GetInPlaceActiveItem_CRichEditView__QBEPAVCRichEditCntrItem__XZ 
+8B5424088D420C8B4AB433C8E8........8B4AFC33C8E8........B8........ 01 B78A 0025 :0000 __ehhandler__GetSelectedItem_CRichEditView__QBEPAVCRichEditCntrItem__XZ 
+8B5424088D420C8B4AC033C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler__DoPaste_CRichEditView__QAEXAAVCOleDataObject__GPAX_Z 
+8B5424088D420C8B4ADC33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler___0CRichEditView__QAE_XZ 
+8B5424088D420C8B4ADC33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler__InsertFileAsObject_CRichEditView__QAEXPB_W_Z 
+8B5424088D420C8B4AE033C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler__OnDevModeChange_CRichEditView__IAEXPA_W_Z 
+8B5424088D420C8B4AE033C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler__EditStreamCallBack_CRichEditView__SGKKPAEJPAJ_Z 
+8B5424088D420C8B4AE033C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler__OnFindReplaceCmd_CRichEditView__IAEJIJ_Z 
+8B5424088D420C8B4AE033C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler__QueryAcceptData_CRichEditView__MAEJPAUIDataObject__PAGKHPAX_Z 
+8B5424088D420C8B4AE833C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler__ConvertTo_CRichEditCntrItem__UAEHABU_GUID___Z 
+8B5424088D420C8B4AE833C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler__SetTitle_CRichEditDoc__UAEXPB_W_Z 
+8B5424088D420C8B4AEC33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler___0CRichEditCntrItem__QAE_PAU_reobject__PAVCRichEditDoc___Z 
+8B5424088D420C8B4AEC33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler__DeleteContents_CRichEditDoc__UAEXXZ 
+8B5424088D420C8B4AEC33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler___1CRichEditCntrItem__UAE_XZ 
+8B5424088D420C8B4AEC33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler___1CRichEditView__UAE_XZ 
+8B5424088D420C8B4AEC33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler__OnReplaceAll_CRichEditView__MAEXPB_W0HH_Z 
+8B5424088D420C8B4AEC33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler__WrapChanged_CRichEditView__MAEXXZ 
+8B5424088D420C8B4AEC33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler___0__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAE_PB_W_Z 
+8B5424088D420C8B4AEC33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler___0__CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QAE_PB_W_Z 
+8B5424088D420C8B4AEC33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler__SetCharFormat_CRichEditView__QAEXUCHARFORMAT2W___Z 
+8B5424088D420C8B4AF033C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler__SetParaFormat_CRichEditView__QAEHAAUPARAFORMAT2___Z 
+8B5424088D420C8B8A40FEFFFF33C8E8........8B4AFC33C8E8........B8.. 00 0000 0028 :0000 __ehhandler__OnEditProperties_CRichEditView__IAEXXZ ......E9
+8B5424088D420C8B8A60FEFFFF33C8E8........8B4AFC33C8E8........B8.. 00 0000 0028 :0000 __ehhandler__OnFormatFont_CRichEditView__IAEXXZ ......E9
+8B5424088D420C8B8AE0FBFFFF33C8E8........8B4AF833C8E8........B8.. 00 0000 0028 :0000 __ehhandler___1CWaitCursor__QAE_XZ ......E9
+8B5424088D420C8B8AE8FCFFFF33C8E8........8B4AF833C8E8........B8.. 00 0000 0028 :0000 __ehhandler__OnInsertObject_CRichEditView__IAEXXZ ......E9
+8B5424088D420C8B8AF8FEFFFF33C8E8........B8........E9............ 00 0000 001E :0000 __ehhandler__OnEditPasteSpecial_CRichEditView__IAEXXZ 
+8B818000000083E001C3............................................ 00 0000 000A :0000 _SearchDown_CFindReplaceDialog__QBEHXZ 
+8B8180000000C1E80283E001C3...................................... 00 0000 000D :0000 _MatchCase_CFindReplaceDialog__QBEHXZ 
+8B8180000000C1E80383E001C3...................................... 00 0000 000D :0000 _FindNext_CFindReplaceDialog__QBEHXZ 
+8B8180000000C1E80483E001C3...................................... 00 0000 000D :0000 _ReplaceCurrent_CFindReplaceDialog__QBEHXZ 
+8B8180000000C1E80583E001C3...................................... 00 0000 000D :0000 _ReplaceAll_CFindReplaceDialog__QBEHXZ 
+8B8180000000C1E80683E001C3...................................... 00 0000 000D :0000 _IsTerminating_CFindReplaceDialog__QBEHXZ 
+8B8180000000D1E883E001C3........................................ 00 0000 000C :0000 _MatchWholeWord_CFindReplaceDialog__QBEHXZ 
+8B81980000002B81900000002B8188000000C3.......................... 00 0000 0013 :0000 _GetPrintWidth_CRichEditView__QBEHXZ 
+8B81C0000000C3.................................................. 00 0000 0007 :0000 _GetIconicMetafile_COlePasteSpecialDialog__QBEPAXXZ 
+8B8DF0FCFFFF33DB3BCB74..6A..E8........6AFF5368........E8........ 08 1B45 002D :0000 __catch__OnInsertObject_CRichEditView__IAEXXZ_0 ........................C3
+8BC1C3.......................................................... 00 0000 0003 :0000 __0CSize__QAE_XZ 
+8BC1C3.......................................................... 00 0000 0003 :0000 __0CPoint__QAE_XZ 
+8BC1C3.......................................................... 00 0000 0003 :0000 __0CRect__QAE_XZ 
+8BC1C3.......................................................... 00 0000 0003 :0000 __BCRect__QAEPAUtagRECT__XZ 
+8BC1C3.......................................................... 00 0000 0003 :0000 __0IUnknown__QAE_XZ 
+8BC1C3.......................................................... 00 0000 0003 :0000 _GetRichEditCtrl_CRichEditView__QBEAAVCRichEditCtrl__XZ 
+8BC1C3.......................................................... 00 0000 0003 :0000 __0IRichEditOleCallback__QAE_XZ 
+8BC1C7..........C3.............................................. 00 0000 0009 :0000 __0XRichEditOleCallback_CRichEditView__QAE_XZ 
+8BFF5356578BD9E8........83EC746A..59B8........8BFC89837401000089 10 F886 0038 :0000 _OnColorDefault_CRichEditView__IAEXXZ ........................................5F5E5BC3
+8BFF558BEC0FB745083B..........74..3B..........74..66837D080174.. 09 7AF5 0029 :0000 _IsRichEditFormat_CRichEditView__SAHG_Z 
+8BFF558BEC0FB74508FF750C50E8........5DC20800.................... 00 0000 0016 :0000 _Create_CDialog__UAEHIPAVCWnd___Z 
+8BFF558BEC33C039450874..F745080000FFFF75..0FB7450850E8........B0 05 E842 0025 :0000 _CheckImplicitLoad___CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__AAE_NPBX_Z 
+8BFF558BEC33C039450874..F745080000FFFF75..0FB7450850E8........B0 05 E842 0025 :0000 _CheckImplicitLoad___CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__AAE_NPBX_Z 
+8BFF558BEC33C0408981E80100008981E40100008B450C8320005DC20800.... 00 0000 001E :0000 _OnSelChange_CRichEditView__IAEXPAUtagNMHDR__PAJ_Z 
+8BFF558BEC33C0505050506AFFFF7508506A..FF..........485DC3........ 00 0000 001C :0000 _GetBaseTypeLength___ChTraitsCRT_D_ATL__SAHPB_W_Z 
+8BFF558BEC33C050505050FF750CFF7508506A..FF..........5DC3........ 00 0000 001C :0000 _GetBaseTypeLength___ChTraitsCRT_D_ATL__SAHPB_WH_Z 
+8BFF558BEC33C05050FF750CFF7508FF7514FF7510506A..FF..........5DC3 00 0000 0020 :0000 _ConvertToBaseType___ChTraitsCRT_D_ATL__SAXPADHPB_WH_Z 
+8BFF558BEC515153568B318B5EF483....894DF88B0E8B0157895DFCFF....8B 02 8A56 006A :0000 _Fork___CSimpleStringT__W_0A__ATL__AAEXH_Z ......FF75088BC8FF..8BF885FF75..E8........8B45083BD87D..8BC340508D4E1051508D5F1053E8........8B45FC83C4108BCE894704E8........8B45F85F5E89185BC9C20400
+8BFF558BEC515153568B318B5EF483....894DF88B0E8B0157895DFCFF....8B 02 8A56 006A :0000 _Fork___CSimpleStringT_D_0A__ATL__AAEXH_Z ......FF75088BC8FF..8BF885FF75..E8........8B45083BD87D..8BC340508D4E1051508D5F1053E8........8B45FC83C4108BCE894704E8........8B45F85F5E89185BC9C20400
+8BFF558BEC515153568B7508FFB630FEFFFF81..........8D4DF8E8........ 16 979F 00A7 :0000 _GetClipboardData_XRichEditOleCallback_CRichEditView__UAGJPAU_charrange__KPAPAUIDataObject___Z ................................................85C07D..395DFC74..FF75F853E8........B8........EB..8B06578B7D1457FF75088BCEFF7510FF750CFF..........8BF03BF38B45087C..3BC374..8B0850FF....395DFC74..FF75F853E8........8BC6EB..8907395DFC74..FF75F853E8........33C05F5E5BC9C21000
+8BFF558BEC5151568B7508FFB630FEFFFF81..........8D4DF8E8........FF 05 5275 0042 :0000 _ShowContainerUI_XRichEditOleCallback_CRichEditView__UAGJH_Z ..................837DFC008BF074..FF75F86A..E8........8BC65EC9C20800
+8BFF558BEC5151568B7508FFB630FEFFFF81..........8D4DF8E8........FF 0B 229E 0048 :0000 _GetInPlaceContext_XRichEditOleCallback_CRichEditView__UAGJPAPAUIOleInPlaceFrame__PAPAUIOleInPlaceUIWindow__PAUtagOIFI___Z ..............................837DFC008BF074..FF75F86A..E8........8BC65EC9C21000
+8BFF558BEC5151568B7508FFB630FEFFFF81..........8D4DF8E8........FF 0D 6AB6 0067 :0000 _GetContextMenu_XRichEditOleCallback_CRichEditView__UAGJGPAUIOleObject__PAU_charrange__PAPAUHMENU_____Z ....................................33C95E3BC175..394DFC74..FF75F851E8........B8........EB..8B55188902394DFC74..FF75F851E8........33C0C9C21400
+8BFF558BEC5151568B7508FFB630FEFFFF81..........8D4DF8E8........FF 13 6627 0051 :0000 _QueryAcceptData_XRichEditOleCallback_CRichEditView__UAGJPAUIDataObject__PAGKHPAX_Z ................................................837DFC008BF074..FF75F86A..E8........8BC65EC9C21800
+8BFF558BEC5151568B7508FFB630FEFFFF8D4DF8E8........8B8668FEFFFFC7 0F 0565 0040 :0000 _QueryInsertObject_XRichEditOleCallback_CRichEditView__UAGJPAU_GUID__PAUIStorage__J_Z ................................FF75F86A..E8........33C0C9C21000
+8BFF558BEC5151568D45F8508D45FC50E8........8B75FC8B4D088B0133D23B 07 1D36 002D :0000 _OnUpdateNeedSel_CRichEditView__IAEXPAVCCmdUI___Z ................5EC9C20400
+8BFF558BEC51535657894DFC68........B9........E8........8BF085F675 00 0000 00A5 :0000 _OnReplaceSel_CRichEditView__MAEXPB_WHHH0_Z ..E8........FF75088D7E0C8BCFE8........FF75188D5E108BCBE8........8B4D148B45108B550C518956188B1750894E1C8B4DFC52894614E8........85C075..8B4DFC56E8........8B4DFCEB..6A..FF338B5DFC8BCBE8........568BCBE8........8BCB85C075..FF37E8........EB..FF7604E8........5F5E5BC9C21400
+8BFF558BEC51538B5D0C568B7314578BF98D46FF8D8FA000000050894DFCE8.. 00 0000 0078 :0000 _OnPrint_CRichEditView__MAEXPAVCDC__PAUCPrintInfo___Z ......8B006AFF50FF75088BCFE8........6AFF6A..8BCF89450CE8........39450C7C..8B038B40746689701E3BB7A800000075..6AFF6A..8BCFE8........39450C7D..FF750C8B4DFCE8........5F5E5BC9C20800
+8BFF558BEC5156578BF9E8........8945FC85C074..8D45FC508BCFE8...... 00 0000 004D :0000 _LookupItem_CRichEditDoc__QBEPAVCRichEditCntrItem__PAUIOleObject___Z ..8BF068........8BCEE8........85C074..8B46243B450874..837DFC0075..33C05F5EC9C204008BC6EB
+8BFF558BEC51568BF18B06FF....8945FC85C074..578B068D4DFC518BCEFF.. 00 0000 0040 :0000 _GetView_CRichEditDoc__UBEPAVCRichEditView__XZ ..8BF868........8BCFE8........85C075..3945FC75..5F5EC9C38BC7EB
+8BFF558BEC5156FF750C894DFCFF7508E8........8BF0595985F674..0FB706 08 BB80 005B :0000 _LoadStringW___CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QAEHPAUHINSTANCE____I_Z ........................59598B4DFC8BD853E8........0FB70E51575350E8........8B4DFC83C41053E8........33C05F405B5EC9C20800
+8BFF558BEC51578BF9E8........8945FC85C074..568D45FC508BCFE8...... 00 0000 004B :0000 _MarkItemsClear_CRichEditDoc__IBEXXZ ..8BF068........8BCEE8........85C074..33C03946240F94C0898680000000837DFC0075..5E5FC9C3
+8BFF558BEC51578BF9E8........8945FC85C074..568D45FC508BCFE8...... 00 0000 0055 :0000 _DeleteUnmarkedItems_CRichEditDoc__IBEXXZ ..8BF068........8BCEE8........85C074..8BCEE8........85C075..85F674..8B066A..8BCEFF....837DFC0075..5E5FC9C3
+8BFF558BEC518365FC00538B5D08568BF1578BCBE8........8B..........A9 00 0000 0092 :0000 _PreCloseFrame_CRichEditDoc__UAEXPAVCFrameWnd___Z ........74..6A..6A..6A..FF7320FFD7C745FC010000008B068BCEFF..........8B40688B0850FF....8B068BCEFF..........89450885C074..8D4508508BCEE8........85C074..6A..8BC8E8........837D080075..837DFC0074..6A..6A..6A..FF7320FFD75F5E5BC9C20400
+8BFF558BEC51FFB1840000008B4D088365FC00E8........8B4508C9C20400.. 00 0000 001F :0000 _GetFindString_CFindReplaceDialog__QBE_AV__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__XZ 
+8BFF558BEC51FFB1880000008B4D088365FC00E8........8B4508C9C20400.. 00 0000 001F :0000 _GetReplaceString_CFindReplaceDialog__QBE_AV__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__XZ 
+8BFF558BEC5356578B7D088B078BF16A..8BCFFF....8B5D0C8B43143B86A800 03 7DD0 003B :0000 _OnPrepareDC_CRichEditView__UAEXPAVCDC__PAUCPrintInfo___Z ........53578BCEE8........85C075..2143105F5E5B5DC20800
+8BFF558BEC5356578BD968........B9........E8........8BF085F675..E8 00 0000 0069 :0000 _OnFindNext_CRichEditView__MAEXPB_WHHH_Z ........FF75088D7E0C8BCFE8........8B45108946148B451489461C8B450C568BCB894618E8........8BCB85C075..FF37E8........EB..FF7604E8........5F5E5B5DC21000
+8BFF558BEC5356578BD9E8........8B45088B4D0C85837401000074..318B78 04 B8B9 004F :0000 _OnCharEffect_CRichEditView__QAEXKK_Z ..........098B7801000083EC746A..598BFC8983740100008DB370010000F3A58BCBE8........5F5E5B5DC20800
+8BFF558BEC5356578BD9E8........8B450883A3780100000083EC746A..598B 02 5C68 0047 :0000 _OnColorPick_CRichEditView__IAEXK_Z ......................8983840100008DB370010000F3A58BCBE8........5F5E5B5DC20400
+8BFF558BEC5356578BF968........B9........E8........8BF033DB3BF375 00 0000 0051 :0000 _OnUpdateNeedFind_CRichEditView__IAEXPAVCCmdUI___Z ..E8........53536A..FF7720FF..........85C074..8B460C3958F474..33DB438B4D088B0153FF..5F5E5B5DC20400
+8BFF558BEC53568B750C5756FF75088BF9E8........8BD883FBFF74..83.... 04 3C65 0031 :0000 _FindAndSelect_CRichEditView__QAEJKAAU_findtextexw___Z ................5F5E8BC35B5DC20800
+8BFF558BEC5356FF750C8BD9FF7508E8........8BF0595985F674..570FB73E 04 E71E 004C :0000 _LoadStringW___CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAEHPAUHINSTANCE____I_Z ................0FB70E5183C602565750E8........83C410578BCBE8........33C0405F5E5B5DC20800
+8BFF558BEC536A..6A..6A..FF7120FF..........8B4D088B1133DB85C00F95 03 D5D5 0029 :0000 _OnUpdateNeedText_CRichEditView__IAEXPAVCCmdUI___Z ........5B5DC20400
+8BFF558BEC56578B7D088B37E8........508BCFFF..5F5E5DC20400........ 00 0000 001C :0000 _OnUpdateEditRedo_CRichEditView__IAEXPAVCCmdUI___Z 
+8BFF558BEC56578B7D088B37E8........508BCFFF..5F5E5DC20400........ 00 0000 001C :0000 _OnUpdateEditPasteSpecial_CRichEditView__IAEXPAVCCmdUI___Z 
+8BFF558BEC56578B7D088B37E8........F7D81BC0F7D8508BCFFF..5F5E5DC2 02 2768 0022 :0000 _OnUpdateEditProperties_CRichEditView__IAEXPAVCCmdUI___Z 
+8BFF558BEC56578B7D088B37E8........508BCFFF..5F5E5DC20400........ 00 0000 001C :0000 _OnUpdateEditUndo_CRichEditView__IAEXPAVCCmdUI___Z 
+8BFF558BEC56578B7D088B37E8........508BCFFF..5F5E5DC20400........ 00 0000 001C :0000 _OnUpdateNeedClip_CRichEditView__IAEXPAVCCmdUI___Z 
+8BFF558BEC56578BF1E8........8B7D088B0733C9394E600F95C1518BCFFF.. 08 C01B 004C :0000 _OnUpdateParaAlign_CRichEditView__QAEXPAVCCmdUI__G_Z ..................668B8ECC00000033C0663B4D0C0F94C0EB..6A..588B17508BCFFF....5F5E5DC20800
+8BFF558BEC56578BF9E8........8BF085F675..B8........EB..FF75108BCE 0A 8E29 0038 :0000 _GetWindowContext_CRichEditView__QAEJPAPAUIOleInPlaceFrame__PAPAUIOleInPlaceUIWindow__PAUtagOIFI___Z ............................836658005F5E5DC20C00
+8BFF558BEC56578BF9E8........8BF085F675..B8........EB..837D080074 00 0000 0042 :0000 _ShowContainerUI_CRichEditView__QAEJH_Z ..897E58FF75088BCEE8........85C07C..837D080075..836658005F5E5DC20400
+8BFF558BEC568B7508578DB988000000A5A5A5A55F5E5DC20400............ 00 0000 001A :0000 _SetMargins_CRichEditView__QAEXABVCRect___Z 
+8BFF558BEC568B75088B0E8B0157FF....8D560C833A007C..3B0675..33C08B 07 A588 0060 :0000 _CloneData___CSimpleStringT__W_0A__ATL__CAPAUCStringData_2_PAU32__Z ................8B106A..FF76048BC8FF..8BF885FF75..E8........8B46048947048B4604405083....56508D471050E8........83C4108BC75F5E5DC3
+8BFF558BEC568BF1578B7D088D4608508BCFC7..........E8........8B4724 16 0574 006A :0000 __0CReObject__QAE_PAVCRichEditCntrItem___Z ................................................8B461C8B0850FF....8B46208B0850FF....33C08946288946248B4F308946345F894E2CC74630010000008BC65E5DC20400
+8BFF558BEC568BF168........B9........E8........85C075..E8........ 06 9EA6 0047 :0000 _OnActivateView_CRichEditView__MAEXHPAVCView__0_Z ..............39750C75..8B4E20894878FF75108BCEFF750CFF7508E8........5E5DC20C00
+8BFF558BEC568BF18B0633C983....412B480C8B40082B45080BC87D..FF7508 03 7AD8 002E :0000 _PrepareWrite___CSimpleStringT__W_0A__ATL__AAEPA_WH_Z ..............8B065E5DC20400
+8BFF558BEC568BF18B0633C983....412B480C8B40082B45080BC87D..FF7508 03 7AD8 002E :0000 _PrepareWrite___CSimpleStringT_D_0A__ATL__AAEPADH_Z ..............8B065E5DC20400
+8BFF558BEC568BF18B06FF..........85C075..B8........EB..837D08008B 04 17F7 0050 :0000 _ShowContainerUI_CRichEditCntrItem__QAEJH_Z ..........6A..FF..........8B068BCEFF..........EB..FF..........8B068BCEFF..........33C05E5DC20400
+8BFF558BEC568BF18B4D0885C975..68........E8........8B01FF....83.. 00 0000 002A :0000 __0__CSimpleStringT_D_0A__ATL__QAE_PAUIAtlStringMgr_1__Z ..89068BC65E5DC20400
+8BFF558BEC568BF18B4D0885C975..68........E8........8B01FF....83.. 00 0000 002A :0000 __0__CSimpleStringT__W_0A__ATL__QAE_PAUIAtlStringMgr_1__Z ..89068BC65E5DC20400
+8BFF558BEC568BF18B4E208B01FF..........FF75088B40688B086AFF50FF.. 00 0000 0030 :0000 _SetDrawAspect_CRichEditCntrItem__UAEXW4tagDVASPECT___Z ..FF75088BCEE8........5E5DC20400
+8BFF558BEC568BF18B4E5885C974..E8........85C075..E8........6A..68 00 0000 0041 :0000 _OnDeactivateUI_CRichEditCntrItem__UAEXH_Z ........68........FF7020FF..........FF75088BCEE8........5E5DC20400
+8BFF558BEC568BF18D4D17E8........FF75148BCEFF7510FF750CFF7508E8.. 00 0000 0034 :0000 _FindTextW_CRichEditView__QAEHPB_WHHH_Z ......8D4D178BF0E8........8BC65E5DC21000
+8BFF558BEC568BF1C7..........E8........F645080174..56E8........59 07 67F1 0027 :0000 ___GCCommonDialog__UAEPAXI_Z 
+8BFF558BEC568BF1E8........668B4508668986CC0000008D86B4000000508B 0C 55A3 0035 :0000 _OnParaAlign_CRichEditView__QAEXG_Z ................................5E5DC20400
+8BFF558BEC568BF1E8........F645080174..56E8........8BC65E5DC20400 00 0000 0020 :0000 ___G_AFX_RICHEDIT_STATE__UAEPAXI_Z 
+8BFF558BEC568BF1E8........8B450C85867401000074..8B86780100002345 08 BBEC 003A :0000 _OnUpdateCharEffect_CRichEditView__QAEXPAVCCmdUI__KK_Z ..................6A..588B4D088B1150FF....5E5DC20C00
+8BFF558BEC568BF1E8........F686B80000002074..0FB786BC00000083E001 01 A5A9 0033 :0000 _OnUpdateBullet_CRichEditView__IAEXPAVCCmdUI___Z ....6A..588B4D088B1150FF....5E5DC20400
+8BFF558BEC568BF1E8........F645080174..56E8........598BC65E5DC204 01 78F0 0021 :0000 ___GCRichEditView__UAEPAXI_Z 
+8BFF558BEC568BF1E8........F645080174..56E8........598BC65E5DC204 01 78F0 0021 :0000 ___GCRichEditCntrItem__UAEPAXI_Z 
+8BFF558BEC56FF75088B710856E8........8BC65E5DC20400.............. 00 0000 0019 :0000 _Add_CDWordArray__QAEHK_Z 
+8BFF558BEC56FF75088BF18B0650E8........595985C075..83....EB..2B06 07 8D94 0027 :0000 _FindOneOf___CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QBEHPB_W_Z 
+8BFF558BEC56FF75088BF1E8........8BC65E5DC20400.................. 00 0000 0017 :0000 __0__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAE_ABV01__Z 
+8BFF558BEC56FF75088BF1E8........8BC65E5DC20400.................. 00 0000 0017 :0000 __4__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAEAAV01_ABV01__Z 
+8BFF558BEC56FF75088BF1E8........85C074..83....EB..FF..........8B 02 BB34 0071 :0000 _OnCreate_CRichEditView__IAEHPAUtagCREATESTRUCTW___Z ............68........8BCEE8........8D86EC010000508BCEE8........8BCEE8........6A..FF7620894668FF..........6A..6A..8BCEE8........8B068BCEFF..........33C05E5DC20400
+8BFF558BEC56FF75088BF1E8........8BC65E5DC20400.................. 00 0000 0017 :0000 __0AFX_CLASSINIT__QAE_PAUCRuntimeClass___Z 
+8BFF558BEC56FF75088BF1E8........85C074..FF75088BCE50E8........5E 04 057A 0024 :0000 _LoadStringW___CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAEHI_Z 
+8BFF558BEC56FF75088BF1E8........8BC65E5DC20400.................. 00 0000 0017 :0000 __4__CSimpleStringT__W_0A__ATL__QAEAAV01_PB_W_Z 
+8BFF558BEC56FF75088BF1E8........85C074..FF75088BCE50E8........5E 04 057A 0024 :0000 _LoadStringW___CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QAEHI_Z 
+8BFF558BEC56FF75088BF1E8........8BC65E5DC20400.................. 00 0000 0017 :0000 __4__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAEAAV01_PB_W_Z 
+8BFF558BEC56FF75088BF1E8........5950FF75088BCEE8........5E5DC204 01 78F0 0021 :0000 _SetString___CSimpleStringT__W_0A__ATL__QAEXPB_W_Z 
+8BFF558BEC56FF75148BF1FF7510FF750CFF7508FF..........508BCEE8.... 00 0000 0027 :0000 _CreateDCW_CDC__QAEHPB_W00PBX_Z ....5E5DC21000
+8BFF558BEC578BF9E8........85C074..568B7508568BCFE8........81.... 00 0000 003D :0000 _PreCreateWindow_CRichEditView__MAEHAAUtagCREATESTRUCTW___Z ........6A..5889461089461433C0C7............405E5F5DC20400
+8BFF558BEC5DE9.................................................. 00 0000 000B :0000 _SetPathName_CRichEditDoc__UAEXPB_WH_Z 
+8BFF558BEC5DE9.................................................. 00 0000 000B :0000 _StringScanSet___ChTraitsCRT__W_ATL__SAPB_WPB_W0_Z 
+8BFF558BEC5DE9.................................................. 00 0000 000B :0000 _GetFormattedLength___ChTraitsCRT__W_ATL__SAHPB_WPAD_Z 
+8BFF558BEC5DE9.................................................. 00 0000 000B :0000 _Format___ChTraitsCRT__W_ATL__SAHPA_WIPB_WPAD_Z 
+8BFF558BEC5DE9.................................................. 00 0000 000B :0000 _GetBaseTypeLength___ChTraitsCRT__W_ATL__SAHPB_W_Z 
+8BFF558BEC5DE9.................................................. 00 0000 000B :0000 __ACDWordArray__QAEAAKH_Z 
+8BFF558BEC5DE9.................................................. 00 0000 000B :0000 _GetTextLengthEx_CRichEditView__QBEJKI_Z 
+8BFF558BEC5DE9.................................................. 00 0000 000B :0000 _CopyChars___CSimpleStringT_D_0A__ATL__SAXPADIPBDH_Z 
+8BFF558BEC5DE9.................................................. 00 0000 000B :0000 _ReleaseBufferSetLength___CSimpleStringT__W_0A__ATL__QAEXH_Z 
+8BFF558BEC5DE9.................................................. 00 0000 000B :0000 _ReleaseBufferSetLength___CSimpleStringT_D_0A__ATL__QAEXH_Z 
+8BFF558BEC5DE9.................................................. 00 0000 000B :0000 _GetBuffer___CSimpleStringT__W_0A__ATL__QAEPA_WH_Z 
+8BFF558BEC5DE9.................................................. 00 0000 000B :0000 _GetBuffer___CSimpleStringT_D_0A__ATL__QAEPADH_Z 
+8BFF558BEC6A..FF750868........FF7120FF..........5DC20400........ 00 0000 001C :0000 _SetModify_CRichEditCtrl__QAEXH_Z 
+8BFF558BEC6A..FF7508E8........5DC20400.......................... 00 0000 0013 :0000 _Serialize_CRichEditView__UAEXAAVCArchive___Z 
+8BFF558BEC6A..6A..FF7508E8........5DC20400...................... 00 0000 0015 :0000 _OnUpdateCharBold_CRichEditView__IAEXPAVCCmdUI___Z 
+8BFF558BEC6A..FF7508E8........5DC20400.......................... 00 0000 0013 :0000 _OnUpdateParaLeft_CRichEditView__IAEXPAVCCmdUI___Z 
+8BFF558BEC6A..6A..FF7508E8........5DC20400...................... 00 0000 0015 :0000 _OnUpdateCharItalic_CRichEditView__IAEXPAVCCmdUI___Z 
+8BFF558BEC6A..FF7508E8........5DC20400.......................... 00 0000 0013 :0000 _OnUpdateParaRight_CRichEditView__IAEXPAVCCmdUI___Z 
+8BFF558BEC6A..FF7508FF7108FF..........5DC20400.................. 00 0000 0017 :0000 _DPtoLP_CDC__QBEXPAUtagRECT___Z 
+8BFF558BEC6A..FF7508E8........5DC20400.......................... 00 0000 0013 :0000 _OnUpdateParaCenter_CRichEditView__IAEXPAVCCmdUI___Z 
+8BFF558BEC6A..6A..FF7508E8........5DC20400...................... 00 0000 0015 :0000 _OnUpdateCharUnderline_CRichEditView__IAEXPAVCCmdUI___Z 
+8BFF558BEC817D080E00078075..E8........FF7508E8........CC........ 00 0000 001C :0000 _AtlThrowImpl_ATL__YGXJ_Z 
+8BFF558BEC81EC20020000A1........33C58945FC538B5D08568B.......... 02 E45D 00F6 :0000 _OnDropFiles_CRichEditView__IAEXPAUHDROP_____Z ......6A..6AFF538BF9FFD68985E4FDFFFF8D85E8FDFFFF508BCFE8........8B85E8FDFFFF83A5F0FDFFFF0083BDE4FDFFFF008985E0FDFFFF76..68........8D85F4FDFFFF50FFB5F0FDFFFF53FFD68D85F4FDFFFF508BCFE8........8D85E8FDFFFF508BCFE8........8B85ECFDFFFF8985E8FDFFFF8D85E8FDFFFF508BCFE8........FF7720FF..........FF85F0FDFFFF8B85F0FDFFFF3B85E4FDFFFF72..8B85E0FDFFFF8985E8FDFFFF8D85E8FDFFFF508BCFE8........53FF..........8B4DFC5F5E33CD5BE8........C9C20400
+8BFF558BEC81EC80000000A1........33C58945FC568B750C578B7D086A..8D 03 4FD8 006D :0000 _GetNewStorage_XRichEditOleCallback_CRichEditView__UAGJPAPAUIStorage___Z ..............8D4D80E8........8B45B88906BE........85C074..8365B80033F68B8768FEFFFF8D4D80C780F000000001000000E8........8B4DFC5F8BC633CD5EE8........C9C20800
+8BFF558BEC837D080056578BF974..FF7508E8........598BF0EB..33F68BCF 03 BC41 0050 :0000 __4__CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QAEAAV01_PB_W_Z ........56E8........6AFFFF75085650E8........83C410568BCFE8........EB..E8........8BC75F5E5DC20400
+8BFF558BEC837D080056578BF975..68........E8........FF750CFF7508E8 00 0000 0051 :0000 _FormatV___CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAEXPB_WPAD_Z ........59598BF0568BCFE8........FF750C8D4E01FF75085150E8........83C410568BCFE8........5F5E5DC20800
+8BFF558BEC837D080075..33C05DC35DE9.............................. 00 0000 0015 :0000 _StringLength___CSimpleStringT__W_0A__ATL__SAHPB_W_Z 
+8BFF558BEC837D0C00578BF975..E8........EB..568B750885F675..68.... 00 0000 0073 :0000 _SetString___CSimpleStringT__W_0A__ATL__QAEXPB_WH_Z ....E8........8B0753FF750C8B58F42BF0D1FEE8........3BF35BFF750C77..8D0C70518B0FFF71F850E8........EB..FF75088B0FFF71F850E8........83C410FF750C8BCFE8........5E5F5DC20800
+8BFF558BEC837D0C0075..8B451083....3C..75..6A..EB..F645100874..33 03 EDD3 0036 :0000 _GetDragDropEffect_XRichEditOleCallback_CRichEditView__UAGJHKPAK_Z ........6A..588B4D14850174..890133C05DC21000
+8BFF558BEC83EC0C5657FF75088BF1FF..........8BF88D45F8508D45F4508B 02 BB34 0074 :0000 _SameAsSelected_CRichEditView__IAEHPB_WHH_Z ............8B45F82B45F43BF874..33C0EB..8D45FC508BCEE8........FF75FC33F6FF750839750C74..FF..........85C075..33F6468B4DFC83C1F0E8........8BC65F5EC9C20C00FF..........EB
+8BFF558BEC83EC105356578B7D08837F04008BF18975FC74..8B..........6A 00 0000 00B4 :0000 _OnPrinterChanged_CRichEditView__MAEXABVCDC___Z ..FF7708FFD66A..FF77088BD8FFD6538B..........68........50FFD36A..FF77088945F0FFD66A..FF7708894508FFD6FF750868........50FFD38B5DF08B75FC8BF8EB..BB........BF........8B86980000008945F88B869C00000057538D4DF88945FCE8........85C074..837E6002899E9800000089BE9C00000075..8B068BCEFF..........5F5E5BC9C20400
+8BFF558BEC83EC145356578D45EC508BF1E8........8B4DF033C03986840000 02 E43A 0116 :0000 _FindTextSimple_CRichEditView__QAEHPB_WHHH_Z ......39451474..8B55EC89567CEB..894E7C8986840000008B55088955F4394DEC74..39451474..FF45ECEB..3945EC7F..8945EC8B7D0C8B4D108B..........F7DF1BFF5083E704F7D9501BC96A..FF762083E1020BF9FFD38B4E7C03C18945F033C039451474..3BC87C..50506A..FF7620FFD38945F083CF01EB..3BC87C..8945F083....8D45EC50578BCEE8........83F8FF74..33C040EB..8B4E7C33C03BC87E..39451474..8945EC894DF0EB..50506A..FF7620FFD38945EC8B467C8945F033C050506A..FF7620FFD329467C8D45EC50578BCEE8........33C983F8FF0F95C18BC1EB..33C05F5E5BC9C21000
+8BFF558BEC83EC14568D45F88BF18B4D085733FF8945EC8B4654897DF0C7.... 00 0000 008A :0000 _Stream_CRichEditView__QAEXAAVCArchive__H_Z ........894DF8897DFC3BC775..E8........33D239B8EC0000000F95C2428BC2397D0C74..0D........8B4918F7D1F6....8D4DEC51508BCE74..E8........EB..E8........6A..57FF7620FF..........397DFC74..576AFFFF75FCE8........5F5EC9C20800
+8BFF558BEC83EC185356894DF068........B9........E8........8BD833F6 06 13C1 0125 :0000 _OnDestroy_CRichEditView__IAEXXZ ..............E8........3973040F84........57E8........8B78043977580F84........8B4F588B01FF....8945F43BC60F84........8B4F588B018D55F452FF....8BF08B068BCEFF....8945F885C074..8B068D4DF8518BCEFF....8BD88B038BCBFF....8945FC85C074..8B038D4DFC518BCBFF....8BC868........894DECE8........85C074..8B45EC3B45F074..85C074..8B402050FF..........85C075..837DFC0075..837DF80075..8B5DE8837DF4000F85........33F68B4304FF7020FF..........85C074..8B430456566A..FF7020FF..........8973045F8B75F0837E680074..8B46688B0850FF....8BCEE8........5E5BC9C3
+8BFF558BEC83EC18538B5D0C8B431456578D73248975FC8D7DE8A5A5A5A58B75 0C 337D 00E0 :0000 _PaginateTo_CRichEditView__IAEHPAVCDC__PAUCPrintInfo___Z ............................33C0505050508BCEE8........8B7DF88B87A80000008943143B450C73..8B0753568BCFFF..........6A..FF7608FF..........6A..FF7608894508FF..........FF7508506A..6A..FF75FCFF..........FF75FC8BCEE8........8B0753568BCFFF..........8B43143B87A800000074..408943148B450C39431472..8B4D0C33C0394B146AFF0F94C08BCE8945088B06FF....8B7DFC8B450C8D75E8A5A5A5A55F8943148B45085E5BC9C20800
+8BFF558BEC83EC18837D0879568BF175..6A..FF..........6685C07D..8D45 06 3E9E 0060 :0000 _OnKeyDown_CRichEditView__IAEXIII_Z ......................8D45F8508D4DE8E8........0FB745FC0FB74DF88B7620C1E0100BC150566A..56FF..........EB..8BCEE8........5EC9C20C00
+8BFF558BEC83EC20568BF18B06FF..........85C075..B8........EB..FF75 16 7B98 003D :0000 _GetWindowContext_CRichEditCntrItem__QAEJPAPAUIOleInPlaceFrame__PAPAUIOleInPlaceUIWindow__PAUtagOIFI___Z ................................................5EC9C20C00
+8BFF558BEC83EC20568D45F8508D45FC508BF1E8........FF75FC8D45F0508B 02 BB34 00A9 :0000 _AdjustDialogPosition_CRichEditView__QAEXPAVCDialog___Z ............8D45F050FF7620FF..........8B75088D45E050FF7620FF..........FF75F48D45E0FF75F050FF..........85C074..8B4DEC2B4DE48B45F43BC17E..2B45EC83....50EB..6A..FF..........8B55EC2B55E48B4DF403D13BD07D..2B4DE483....516A..8D45E050FF..........6A..8D45E0508BCEE8........5EC9C20400
+8BFF558BEC83EC3453568B7508578B..........6A..FF7604894DFCFFD733DB 01 EB46 00BA :0000 _PrintInsideRect_CRichEditView__QAEJPAVCDC__AAUtagRECT__JJH_Z ......74..8B46083BC374..536A..50FFD7506A..FF7604FFD7506A..FF7608FFD7506A..FF7604FFD750FF7604FF..........8B46088945D08B46048B750C8945CC8D7DE4A5A58B4510A58B4DFCA58B750C8D7DD4A5A5A5A58945F48B451453538945F8E8........FF75188B4DFC8D45CC50E8........8B4DFC5353894508E8........8B7D0C8B45088D75D4A5A5A5A55F5E5BC9C21400
+8BFF558BEC83EC4453568B7508578B..........6A..FF7608894DFCFFD76A.. 16 9E23 00CB :0000 _PrintPage_CRichEditView__QAEJPAVCDC__JJ_Z ................................................6A..FF7604FFD783....74..8B460885C074..6A..6A..50FFD7506A..FF7604FFD7506A..FF7608FFD7506A..FF7604FFD750FF7604FF..........8B46088B4DFC8945C08B46048945BC8D45EC50E8........8B4DFC8BF08D7DD4A5A5A58D45EC50A5E8........8B4DFC8BF08B450C8D7DC4A5A5A5A58945E48B45108945E86A..8D45BC50E8........5F5E5BC9C20C00
+8BFF558BEC8B013B450875..8B41043B450C75..33C0EB..33C0405DC20800.. 00 0000 001F :0000 __9CSize__QBEHUtagSIZE___Z 
+8BFF558BEC8B018B4074668B4D086689481E5DC20400.................... 00 0000 0016 :0000 _SetMaxPage_CPrintInfo__QAEXI_Z 
+8BFF558BEC8B018B50F483....568B75083BD67E..8BF283780C017E..56E8.. 00 0000 004E :0000 _PrepareWrite2___CSimpleStringT__W_0A__ATL__AAEXH_Z ......EB..8B40083BC67D..8BD0B8........3BD07E..03D0EB..03D23BD67D..8BD652E8........5E5DC20400
+8BFF558BEC8B018B50F483....568B75083BD67E..8BF283780C017E..56E8.. 00 0000 004E :0000 _PrepareWrite2___CSimpleStringT_D_0A__ATL__AAEXH_Z ......EB..8B40083BC67D..8BD0B8........3BD07E..03D0EB..03D23BD67D..8BD652E8........5E5DC20400
+8BFF558BEC8B01FF..........85C074..8B108BC85DFF....5DC20400...... 00 0000 001D :0000 _Serialize_CRichEditDoc__UAEXAAVCArchive___Z 
+8BFF558BEC8B01FF..........8BC85DE9.............................. 00 0000 0015 :0000 _SetModifiedFlag_CRichEditDoc__UAEXH_Z 
+8BFF558BEC8B41080301568B7508992BC2D1F889068B410C034104992BC2D1F8 0A 35AD 002A :0000 _CenterPoint_CRect__QBE_AVCPoint__XZ 
+8BFF558BEC8B450805........50FF..........5DC20400................ 00 0000 0018 :0000 _AddRef_XRichEditOleCallback_CRichEditView__UAGKXZ 
+8BFF558BEC8B450883....89015DC20400.............................. 00 0000 0011 :0000 _Attach___CSimpleStringT_D_0A__ATL__AAEXPAUCStringData_2__Z 
+8BFF558BEC8B450883....89015DC20400.............................. 00 0000 0011 :0000 _Attach___CSimpleStringT__W_0A__ATL__AAEXPAUCStringData_2__Z 
+8BFF558BEC8B450885C074..83....74..83....74..83....74..83....74.. 01 B78A 002C :0000 _AfxCrtErrorCheck__YAHH_Z ..........E9........5DC3
+8BFF558BEC8B450885C07C..3B41087D..8B49048D04815DC20400E8........ 01 18FC 0021 :0000 _ElementAt_CDWordArray__QAEAAKH_Z 
+8BFF558BEC8B450885C07C..8B113B42F87F..8942F48B09C60408005DC20400 01 361F 002B :0000 _SetLength___CSimpleStringT_D_0A__ATL__AAEXH_Z ..........E8........CC
+8BFF558BEC8B450885C07C..8B113B42F87F..8942F48B0933D2668914415DC2 03 E34A 002D :0000 _SetLength___CSimpleStringT__W_0A__ATL__AAEXH_Z ..............E8........CC
+8BFF558BEC8B45088981800000005DC20400............................ 00 0000 0012 :0000 _Mark_CRichEditCntrItem__QAEXH_Z 
+8BFF558BEC8B45088981980000008B450C89819C0000005DC20800.......... 00 0000 001B :0000 _SetPaperSize_CRichEditView__QAEXVCSize___Z 
+8BFF558BEC8B45088B0056578BF98B378D48F083....3BCE74..837E0C007C.. 05 B797 0052 :0000 __4__CSimpleStringT__W_0A__ATL__QAEAAV01_ABV01__Z ............5351E8........598BCE8BD8E8........83....891F5BEB..FF70F48BCF50E8........8BC75F5E5DC20400
+8BFF558BEC8B45088B005683....508BF1E8........83....8906598BC65E5D 03 8E1E 0023 :0000 __0__CSimpleStringT__W_0A__ATL__QAE_ABV01__Z 
+8BFF558BEC8B45088B5004568B3057FF750C8B780C8B40082BFA572BC6505256 01 3E9B 002B :0000 _MoveWindow_CWnd__QAEXPBUtagRECT__H_Z ..........5F5E5DC20800
+8BFF558BEC8B45088B8068FEFFFFC780F00000000100000033C05DC20800.... 00 0000 001E :0000 _DeleteObject_XRichEditOleCallback_CRichEditView__UAGJPAUIOleObject___Z 
+8BFF558BEC8B45088B918800000089108B918C0000008950048B91980000002B 1B 2368 003B :0000 _GetPrintRect_CRichEditView__QBE_AVCRect__XZ 
+8BFF558BEC8B4508FF70188B500CFF701CFF701452E8........5DC20400.... 00 0000 001E :0000 _FindTextW_CRichEditView__QAEHPAV_AFX_RICHEDIT_STATE___Z 
+8BFF558BEC8B4508FF70188B500CFF701CFF701452E8........5DC20400.... 00 0000 001E :0000 _FindTextSimple_CRichEditView__QAEHPAV_AFX_RICHEDIT_STATE___Z 
+8BFF558BEC8B4508FF702CE8........5DC20400........................ 00 0000 0014 :0000 _SyncToRichEditObject_CRichEditCntrItem__QAEXAAU_reobject___Z 
+8BFF558BEC8B450C5DC3............................................ 00 0000 000A :0000 _GetBaseTypeLength___ChTraitsCRT__W_ATL__SAHPB_WH_Z 
+8BFF558BEC8B450CC1E804400FB7C06A..50FF7508FF..........85C075..5D 09 35CB 0032 :0000 _AtlGetStringResourceImage_ATL__YAPBUATLSTRINGRESOURCEIMAGE_1_PAUHINSTANCE____I_Z ..........................83C40C5DC3
+8BFF558BEC8B451403C050FF75108B450C03C050FF7508E8........83C4105D 01 EF04 0021 :0000 _CopyChars___CSimpleStringT__W_0A__ATL__SAXPA_WIPB_WH_Z 
+8BFF558BEC8B451403C050FF75108B450C03C050FF7508E8........83C4105D 01 EF04 0021 :0000 _wmemcpy_s 
+8BFF558BEC8B451403C050FF75108B450C03C050FF7508E8........83C4105D 01 EF04 0021 :0000 _CopyCharsOverlapped___CSimpleStringT__W_0A__ATL__SAXPA_WIPB_WH_Z 
+8BFF558BEC8B451483F8FF75..FF7510E8........594050FF7510FF750CFF75 02 C1AA 002B :0000 _ConvertToBaseType___ChTraitsCRT__W_ATL__SAXPA_WHPB_WH_Z ............83C4105DC3
+8BFF558BEC8B49208B01FF..........FF75108B4068FF750C8B0850FF....33 0C 9B3E 002C :0000 _ActivateAs_CRichEditCntrItem__UAEHPB_WABU_GUID__1_Z 
+8BFF558BEC8B4D0868........E8........8B4D0C89018B45085DC20800.... 00 0000 001E :0000 __5_YGAAVCArchive__AAV0_AAPAVCRichEditCntrItem___Z 
+8BFF558BEC8B4D0868........E8........85C074..8B4D08E8........EB.. 06 8EF1 0026 :0000 _GetPrimarySelectedItem_CRichEditDoc__UAEPAVCOleClientItem__PAVCView___Z 
+8BFF558BEC8B4D0881..........E8........5DC20400.................. 00 0000 0017 :0000 _Release_XRichEditOleCallback_CRichEditView__UAGKXZ 
+8BFF558BEC8B4D088D451050FF750CE8........5DC3.................... 00 0000 0016 :0000 _Format___CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAAXPB_WZZ 
+8BFF558BEC8B4D08E8........5DC20400.............................. 00 0000 0011 :0000 _GetInPlaceActiveItem_CRichEditDoc__UAEPAVCOleClientItem__PAVCWnd___Z 
+8BFF558BEC8B5508568BF18B0683....3950088B087D..85D27E..578B396A.. 03 182C 0039 :0000 _Reallocate___CSimpleStringT_D_0A__ATL__AAEXH_Z ..........5F85C075..E8........83....89065E5DC20400
+8BFF558BEC8B5508568BF18B0683....3950088B087D..85D27E..578B396A.. 03 182C 0039 :0000 _Reallocate___CSimpleStringT__W_0A__ATL__AAEXH_Z ..........5F85C075..E8........83....89065E5DC20400
+8BFF558BEC8B55108BC18B4D0803D18950088B551489088B4D0C03D189480489 06 F4B4 0026 :0000 __0CRect__QAE_UtagPOINT__UtagSIZE___Z 
+8BFF558BEC8B91980000008B45088B899C00000089108948045DC20400...... 00 0000 001D :0000 _GetPaperSize_CRichEditView__QBE_AVCSize__XZ 
+8BFF558BEC8BC18B4D088360040089085DC20400........................ 00 0000 0014 :0000 __0_afxRichEditCookie__QAE_AAVCArchive___Z 
+8BFF558BEC8BC18B4D0889088B4D0C8948045DC20800.................... 00 0000 0016 :0000 __0CSize__QAE_HH_Z 
+8BFF558BEC8BC18B4D0889088B4D0C8948045DC20800.................... 00 0000 0016 :0000 __0CPoint__QAE_HH_Z 
+8BFF558BEC8BC18B4D0889088B4D0C8948048B4D108948088B4D1489480C5DC2 02 D69A 0022 :0000 __0CRect__QAE_HHHH_Z 
+8BFF558BECC78184000000010000008B015DFF.......................... 00 0000 0018 :0000 _TextNotFound_CRichEditView__QAEXPB_W_Z 
+8BFF558BECE8........33C93945080F94C18BC15DC20400................ 00 0000 0018 :0000 _IsSelected_CRichEditView__MBEHPBVCObject___Z 
+8BFF558BECFF75086A..68........FF7120FF..........5DC20400........ 00 0000 001C :0000 _GetSel_CRichEditCtrl__QBEXAAU_charrange___Z 
+8BFF558BECFF75086A..68........FF7120FF..........5DC20400........ 00 0000 001C :0000 _LimitText_CRichEditCtrl__QAEXJ_Z 
+8BFF558BECFF75086A..68........FF7120FF..........5DC20400........ 00 0000 001C :0000 _SetSel_CRichEditCtrl__QAEXAAU_charrange___Z 
+8BFF558BECFF75086A..68........FF7120FF..........5DC20400........ 00 0000 001C :0000 _SetEventMask_CRichEditCtrl__QAEKK_Z 
+8BFF558BECFF75086A..68........FF7120FF..........5DC20400........ 00 0000 001C :0000 _SetOLECallback_CRichEditCtrl__QAEHPAUIRichEditOleCallback___Z 
+8BFF558BECFF75086A..FF7120FF..........5DC20400.................. 00 0000 0017 :0000 _Invalidate_CWnd__QAEXH_Z 
+8BFF558BECFF7508E8........5DC3.................................. 00 0000 000F :0000 _FindStringResourceInstance___StrTraitMFC_DV__ChTraitsCRT_D_ATL____SAPAUHINSTANCE____I_Z 
+8BFF558BECFF7508E8........595DC20400............................ 00 0000 0012 :0000 __3CObject__SGXPAX_Z 
+8BFF558BECFF7508E8........595DC20400............................ 00 0000 0012 :0000 __2CObject__SGPAXI_Z 
+8BFF558BECFF7508E8........5DC3.................................. 00 0000 000F :0000 _FindStringResourceInstance___StrTraitMFC__WV__ChTraitsCRT__W_ATL____SAPAUHINSTANCE____I_Z 
+8BFF558BECFF7508FF7108FF..........5DC20400...................... 00 0000 0015 :0000 _GetDeviceCaps_CDC__QBEHH_Z 
+8BFF558BECFF7508FF7120FF..........5DC20400...................... 00 0000 0015 :0000 _DragAcceptFiles_CWnd__QAEXH_Z 
+8BFF558BECFF7508FF7120FF..........5DC20400...................... 00 0000 0015 :0000 _GetWindowRect_CWnd__QBEXPAUtagRECT___Z 
+8BFF558BECFF7508FF7120FF..........5DC20400...................... 00 0000 0015 :0000 _GetClientRect_CWnd__QBEXPAUtagRECT___Z 
+8BFF558BECFF7508FF7120FF..........5DC20400...................... 00 0000 0015 :0000 _ClientToScreen_CWnd__QBEXPAUtagPOINT___Z 
+8BFF558BECFF7508FF750C68........FF7120FF..........5DC20800...... 00 0000 001D :0000 _FormatRange_CRichEditCtrl__QAEJPAU_formatrange__H_Z 
+8BFF558BECFF7508FF750C68........FF7120FF..........5DC20800...... 00 0000 001D :0000 _ReplaceSel_CRichEditCtrl__QAEXPB_WH_Z 
+8BFF558BECFF750C0FB745085068........FF7120FF..........5DC20800.. 00 0000 001F :0000 _SetOptions_CRichEditCtrl__QAEXGK_Z 
+8BFF558BECFF750C8B4508FF700468........FF7120FF..........5DC20800 00 0000 0020 :0000 _SetTargetDevice_CRichEditCtrl__QAEHAAVCDC__J_Z 
+8BFF558BECFF750CFF750851FF..........5DC20800.................... 00 0000 0016 :0000 _PtInRect_CRect__QBEHUtagPOINT___Z 
+8BFF558BECFF750CFF750851FF..........5DC20800.................... 00 0000 0016 :0000 _OffsetRect_CRect__QAEXHH_Z 
+8BFF558BECFF750CFF750868........FF7120FF..........5DC20800...... 00 0000 001D :0000 _HideSelection_CRichEditCtrl__QAEXHH_Z 
+8BFF558BECFF750CFF750868........FF7120FF..........5DC20800...... 00 0000 001D :0000 _SetTargetDevice_CRichEditCtrl__QAEHPAUHDC____J_Z 
+8BFF558BECFF750CFF750868........FF7120FF..........5DC20800...... 00 0000 001D :0000 _StreamIn_CRichEditCtrl__QAEJHAAU_editstream___Z 
+8BFF558BECFF750CFF750868........FF7120FF..........5DC20800...... 00 0000 001D :0000 _StreamOut_CRichEditCtrl__QAEJHAAU_editstream___Z 
+8BFF558BECFF750CFF750868........FF7120FF..........5DC20800...... 00 0000 001D :0000 _FindTextW_CRichEditCtrl__QBEJKPAU_findtextexw___Z 
+8BFF558BECFF750CFF750868........FF7120FF..........8B45085DC20800 00 0000 0020 :0000 _GetCharPos_CRichEditCtrl__QBE_AVCPoint__J_Z 
+8BFF558BECFF750CFF7508FF..........85C075..5DC35650FF..........8B 04 DFA3 005D :0000 __AtlGetStringResourceImage_ATL__YAPBUATLSTRINGRESOURCEIMAGE_1_PAUHINSTANCE____PAUHRSRC____I_Z ..........FF750CFF7508FF..........8B4D1003C683....76..3BF073..490FB7168D74560275..3BF072..33C0EB..0FB706F7D81BC023C65E5DC3
+8BFF558BECFF75108B4D08FF750C81..........E8........5DC20C00...... 00 0000 001D :0000 _QueryInterface_XRichEditOleCallback_CRichEditView__UAGJABU_GUID__PAPAX_Z 
+8BFF558BECFF7510FF750CFF7508FF7120FF..........5DC20C00.......... 00 0000 001B :0000 _SendMessageW_CWnd__QBEJIIJ_Z 
+8BFF558BECFF7514FF7510FF750CFF750851FF..........5DC21000........ 00 0000 001C :0000 _SetRect_CRect__QAEXHHHH_Z 
+8BFF558BECFF7514FF7510FF750CFF7508E8........50E8........83C4145D 01 EF04 0021 :0000 _wmemcpy_s_Checked_ATL__YAXPA_WIPB_WI_Z 
+8BFF558BECFFB19C00000033D2FFB1980000008B4D0833C05250E8........8B 06 223D 0026 :0000 _GetPageRect_CRichEditView__QBE_AVCRect__XZ 
+8BFF56578BF968........B9........E8........8BF085F675..E8........ 04 3C65 0039 :0000 _OnEditRepeat_CRichEditView__IAEXXZ ................85C075..FF760C8BCFE8........5F5EC3
+8BFF56578BF9FF..........85C074..8B..........6A..FFD685C075..FF.. 00 0000 0088 :0000 _CanPaste_CRichEditView__QBEHXZ ........FFD685C075..FF..........FFD685C075..FF..........FFD685C075..FF..........FFD685C075..FF..........FFD685C075..6A..FFD685C075..6A..FFD685C075..6A..FFD685C075..508BCFE8........85C074..33C040EB..33C05F5EC3
+8BFF5668........8BF1E8........8BCEE8........33C0408986E801000089 07 2B76 0027 :0000 _DeleteContents_CRichEditView__UAEXXZ 
+8BFF566A..6A..8BF1E8........6AFF6A..8D8EA0000000E8........5EC208 01 78F0 0021 :0000 _OnEndPrinting_CRichEditView__MAEXPAVCDC__PAUCPrintInfo___Z 
+8BFF568BF1578DBEE4010000833F0074..8D867001000050E8........832700 09 E2E2 0029 :0000 _GetCharFormatSelection_CRichEditView__QAEAAUCHARFORMAT2W__XZ 
+8BFF568BF1578DBEE8010000833F0074..8D86B400000050E8........832700 09 79FE 0029 :0000 _GetParaFormatSelection_CRichEditView__QAEAAUPARAFORMAT2__XZ 
+8BFF568BF16A..8D8EA0000000E8........6A..6A..8BCEE8........5EC208 01 78F0 0021 :0000 _OnBeginPrinting_CRichEditView__MAEXPAVCDC__PAUCPrintInfo___Z 
+8BFF568BF16A..8D46046A..50C7..........E8........83C40C8BC65EC3.. 00 0000 001F :0000 __0CReObject__QAE_XZ 
+8BFF568BF1837E180074..8B46188B0850FF....837E1C0074..8B461C8B0850 01 00FF 0034 :0000 __1CReObject__QAE_XZ ......837E200074..8B76208B0656FF....5EC3
+8BFF568BF183BEF00000000074..E8........8BCE5EE9.................. 00 0000 001B :0000 _GetStartPosition_CRichEditDoc__UBEPAU__POSITION__XZ 
+8BFF568BF18B0E83....33C0578B3939410474..39410C7D..508BCEE8...... 00 0000 0037 :0000 _Empty___CSimpleStringT_D_0A__ATL__QAEXXZ ..EB..E8........8B078BCFFF....83....89065F5EC3
+8BFF568BF18B0E83....33C0578B3939410474..39410C7D..508BCEE8...... 00 0000 0037 :0000 _Empty___CSimpleStringT__W_0A__ATL__QAEXXZ ..EB..E8........8B078BCFFF....83....89065F5EC3
+8BFF568BF1E8........33C0408986E80100008986E40100005EC3.......... 00 0000 001B :0000 _OnInitialUpdate_CRichEditView__MAEXXZ 
+8BFF568BF1E8........33C0408986E80100008986E40100005EC3.......... 00 0000 001B :0000 _OnEditRedo_CRichEditView__IAEXXZ 
+8BFF568BF1E8........508BCEE8........8BC65EC3.................... 00 0000 0016 :0000 __0__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAE_XZ 
+8BFF568BF1E8........83A6F000000000C786EC000000010000008BC65EC3.. 00 0000 001F :0000 __0CRichEditDoc__IAE_XZ 
+8BFF568BF1E8........8B4804E8........8BC65EC3.................... 00 0000 0016 :0000 __0CWaitCursor__QAE_XZ 
+8BFF568BF1E8........C7..........8BC65EC3........................ 00 0000 0014 :0000 __0_AFX_RICHEDIT_STATE__QAE_XZ 
+8BFF568BF1E8........33C0408986E80100008986E40100005EC3.......... 00 0000 001B :0000 _OnEditUndo_CRichEditView__IAEXXZ 
+8BFF568BF1E8........6A..59848EB800000074..8D86BC0000006683380175 00 0000 006E :0000 _OnBullet_CRichEditView__IAEXXZ ..33C9218EC8000000218EC0000000668908EB..33C040668986BC0000008D86C8000000833800898EB800000075..8B4E648908C7..................8D86B4000000508BCEE8........5EC3
+8BFF568BF1FF762068........E8........595985C074..83B8C40000000074 00 0000 002D :0000 _CanActivate_CRichEditCntrItem__UAEHXZ ..33C05EC38BCE5EE9
+8BFF568D717C833E0075..FF712068........E8........8B1059598BC8FF.. 00 0000 0058 :0000 _GetClientSite_CRichEditCntrItem__UAEPAUIOleClientSite__XZ ........5068........E8........595985C075..E8........8378680074..8B40688B085650FF....85C074..50E8........8B065EC3
+8D410C83....F00FC1104A85D27F..8B018B10518BC8FF....C3............ 00 0000 001A :0000 _Release_CStringData_ATL__QAEXXZ 
+8D4110C3........................................................ 00 0000 0004 :0000 _data_CStringData_ATL__QAEPAXXZ 
+8D4D0BE9........................................................ 00 0000 0008 :0000 __unwindfunclet__SetParaFormat_CRichEditView__QAEHAAUPARAFORMAT2___Z_0 
+8D4D0BE9........................................................ 00 0000 0008 :0000 __unwindfunclet__InsertFileAsObject_CRichEditView__QAEXPB_W_Z_3 
+8D4D0BE9........................................................ 00 0000 0008 :0000 __unwindfunclet__OnReplaceAll_CRichEditView__MAEXPB_W0HH_Z_0 
+8D4D0CE9........................................................ 00 0000 0008 :0000 __unwindfunclet__OnFindReplaceCmd_CRichEditView__IAEJIJ_Z_0 
+8D4D0FE9........................................................ 00 0000 0008 :0000 __unwindfunclet__DoPaste_CRichEditView__QAEXAAVCOleDataObject__GPAX_Z_2 
+8D4DB8E9........................................................ 00 0000 0008 :0000 __unwindfunclet__GetSelectedItem_CRichEditView__QBEPAVCRichEditCntrItem__XZ_0 
+8D4DB8E9........................................................ 00 0000 0008 :0000 __unwindfunclet__GetInPlaceActiveItem_CRichEditView__QBEPAVCRichEditCntrItem__XZ_0 
+8D4DB8E9........................................................ 00 0000 0008 :0000 __unwindfunclet__InsertItem_CRichEditView__QAEJPAVCRichEditCntrItem___Z_0 
+8D4DB8E9........................................................ 00 0000 0008 :0000 __unwindfunclet__UpdateObjectCache_CRichEditDoc__IAEXXZ_0 
+8D4DB8E9........................................................ 00 0000 0008 :0000 __unwindfunclet__OnEditProperties_CRichEditView__IAEXXZ_0 
+8D4DE4E9........................................................ 00 0000 0008 :0000 __unwindfunclet__OnDevModeChange_CRichEditView__IAEXPA_W_Z_0 
+8D4DE4E9........................................................ 00 0000 0008 :0000 __unwindfunclet__QueryAcceptData_CRichEditView__MAEJPAUIDataObject__PAGKHPAX_Z_0 
+8D4DE4E9........................................................ 00 0000 0008 :0000 __unwindfunclet__OnFindReplaceCmd_CRichEditView__IAEJIJ_Z_3 
+8D4DE8E9........................................................ 00 0000 0008 :0000 __unwindfunclet__OnEditFindReplace_CRichEditView__IAEXH_Z_1 
+8D4DE8E9........................................................ 00 0000 0008 :0000 __unwindfunclet__InsertFileAsObject_CRichEditView__QAEXPB_W_Z_2 
+8D4DE8E9........................................................ 00 0000 0008 :0000 __unwindfunclet__OnFindReplaceCmd_CRichEditView__IAEJIJ_Z_4 
+8D4DECE9........................................................ 00 0000 0008 :0000 __unwindfunclet__SetTitle_CRichEditDoc__UAEXPB_W_Z_0 
+8D4DECE9........................................................ 00 0000 0008 :0000 __unwindfunclet__ConvertTo_CRichEditCntrItem__UAEHABU_GUID___Z_0 
+8D4DECE9........................................................ 00 0000 0008 :0000 __unwindfunclet__OnFindReplaceCmd_CRichEditView__IAEJIJ_Z_1 
+8D4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet__OnEditFindReplace_CRichEditView__IAEXH_Z_0 
+8D4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet__SetTitle_CRichEditDoc__UAEXPB_W_Z_1 
+8D4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet__OnFindReplaceCmd_CRichEditView__IAEJIJ_Z_2 
+8D4DF3E9........................................................ 00 0000 0008 :0000 __unwindfunclet__WrapChanged_CRichEditView__MAEXXZ_0 
+8D4DF3E9........................................................ 00 0000 0008 :0000 __unwindfunclet__OnEditPasteSpecial_CRichEditView__IAEXXZ_1 
+8D4DF3E9........................................................ 00 0000 0008 :0000 __unwindfunclet__SetCharFormat_CRichEditView__QAEXUCHARFORMAT2W___Z_0 
+8D4DF3E9........................................................ 00 0000 0008 :0000 __unwindfunclet__DeleteContents_CRichEditDoc__UAEXXZ_0 
+8D8D44FEFFFFE9.................................................. 00 0000 000B :0000 __unwindfunclet__OnEditProperties_CRichEditView__IAEXXZ_1 
+8D8D64FEFFFFE9.................................................. 00 0000 000B :0000 __unwindfunclet__OnFormatFont_CRichEditView__IAEXXZ_0 
+8D8DE8FBFFFFE8........8BB5E4FBFFFF8B0633FF5768........8D8DECFBFF 09 FE61 00A7 :0000 __catch___1CWaitCursor__QAE_XZ_0 ......................85C074..8D85ECFBFFFF5068........68........68........8D85E8FBFFFF68........50E8........83C418EB..68........68........68........8D85E8FBFFFF68........50E8........83C41457578BBDE8FBFFFF57E8........8D4FF0C645FC01E8........8B066A..8BCEFF....B8........C3
+8D8DE8FBFFFFE9.................................................. 00 0000 000B :0000 __unwindfunclet___1CWaitCursor__QAE_XZ_2 
+8D8DFBFCFFFFE9.................................................. 00 0000 000B :0000 __unwindfunclet__OnInsertObject_CRichEditView__IAEXXZ_3 
+8D8DFCFCFFFFE9.................................................. 00 0000 000B :0000 __unwindfunclet__OnInsertObject_CRichEditView__IAEXXZ_2 
+8D8DFCFEFFFFE9.................................................. 00 0000 000B :0000 __unwindfunclet__OnEditPasteSpecial_CRichEditView__IAEXXZ_0 
+B8........C20800................................................ 00 0000 0008 :0000 _ContextSensitiveHelp_XRichEditOleCallback_CRichEditView__UAGJH_Z 
+B8........C21000................................................ 00 0000 0008 :0000 _GetClipboardData_CRichEditView__MAEJPAU_charrange__KPAUIDataObject__PAPAU3__Z 
+B8........C3.................................................... 00 0000 0006 :0000 _GetInterfaceMap_CRichEditView__MBEPBUAFX_INTERFACEMAP__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetRuntimeClass_CRichEditCntrItem__UBEPAUCRuntimeClass__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetThisMessageMap_CRichEditView__KGPBUAFX_MSGMAP__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetMessageMap_CRichEditView__MBEPBUAFX_MSGMAP__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetRuntimeClass_CRichEditDoc__UBEPAUCRuntimeClass__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetRuntimeClass_CRichEditView__UBEPAUCRuntimeClass__XZ 
+C20400.......................................................... 00 0000 0003 :0000 _Serialize_CObject__UAEXAAVCArchive___Z 
+C20400.......................................................... 00 0000 0003 :0000 _DoDataExchange_CWnd__MAEXPAVCDataExchange___Z 
+C3.............................................................. 00 0000 0001 :0000 _UpdateModifiedFlag_CRichEditDoc__UAEXXZ 
+C7..........E9.................................................. 00 0000 000B :0000 __1CCommonDialog__UAE_XZ 
+C7..........E9.................................................. 00 0000 000B :0000 __1COleDialog__UAE_XZ 
+C7..........E9.................................................. 00 0000 000B :0000 __1COlePropertiesDialog__UAE_XZ 
+C7..........E9.................................................. 00 0000 000B :0000 __1CFontDialog__UAE_XZ 
+C781F000000001000000C3.......................................... 00 0000 000B :0000 _InvalidateObjectCache_CRichEditDoc__QAEXXZ 
+E8........8B4004C3.............................................. 00 0000 0009 :0000 _AfxGetApp__YGPAVCWinApp__XZ 
+E8........C20C00................................................ 00 0000 0008 :0000 _OnKeyDown_CWnd__IAEXIII_Z 
+E8........8B4010C3.............................................. 00 0000 0009 :0000 _AfxGetAppName__YGPB_WXZ 
+E8........C20C00................................................ 00 0000 0008 :0000 _OnSize_CWnd__IAEXIHH_Z 
+E8........85C075..E9........C3.................................. 00 0000 000F :0000 _EnsureParentFrame_CWnd__QBEPAVCFrameWnd__XZ 
+E9.............................................................. 00 0000 0005 :0000 _GetDefaultManager___StrTraitMFC__WV__ChTraitsCRT__W_ATL____SAPAUIAtlStringMgr_ATL__XZ 
+E9.............................................................. 00 0000 0005 :0000 __1COleDataObject__QAE_XZ 
+E9.............................................................. 00 0000 0005 :0000 _GetDefaultManager___StrTraitMFC_DV__ChTraitsCRT_D_ATL____SAPAUIAtlStringMgr_ATL__XZ 
+E9.............................................................. 00 0000 0005 :0000 _OnEditCut_CRichEditView__IAEXXZ 
+E9.............................................................. 00 0000 0005 :0000 _OnEditCopy_CRichEditView__IAEXXZ 
+E9.............................................................. 00 0000 0005 :0000 _OnEditClear_CRichEditView__IAEXXZ 
+E9.............................................................. 00 0000 0005 :0000 __B__CProcessLocal_V_AFX_RICHEDIT_STATE____QAEPAV_AFX_RICHEDIT_STATE__XZ 
+FF7120FF..........C3............................................ 00 0000 000A :0000 _UpdateWindow_CWnd__QAEXXZ 
+FF7120FF..........50E8........C3................................ 00 0000 0010 :0000 _SetActiveWindow_CWnd__QAEPAV1_XZ 
+FF7120FF..........50E8........C3................................ 00 0000 0010 :0000 _SetCapture_CWnd__QAEPAV1_XZ 
+FF75E4E8........C3.............................................. 00 0000 0009 :0000 __unwindfunclet__OnEditFindReplace_CRichEditView__IAEXH_Z_2 
+FF75F0E8........C3.............................................. 00 0000 0009 :0000 __unwindfunclet__CreateObject___CProcessLocal_V_AFX_RICHEDIT_STATE____SGPAVCNoTrackObject__XZ_0 
+FF75F0E8........C3.............................................. 00 0000 0009 :0000 __unwindfunclet__CreateObject_CRichEditView__SGPAVCObject__XZ_0 
+FF75F0E8........C3.............................................. 00 0000 0009 :0000 __unwindfunclet__CreateClientItem_CRichEditDoc__UBEPAVCRichEditCntrItem__PAU_reobject___Z_0 
+FF75F0E8........C3.............................................. 00 0000 0009 :0000 __unwindfunclet__CreateObject_CRichEditCntrItem__SGPAVCObject__XZ_0 
+---

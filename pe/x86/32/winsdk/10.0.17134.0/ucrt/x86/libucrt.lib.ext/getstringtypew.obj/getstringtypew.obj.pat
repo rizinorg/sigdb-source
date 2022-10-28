@@ -1,0 +1,2 @@
+8BFF558BECFF7514FF7510FF750CFF7508FF..........5DC3.............. 00 0000 0019 :0000 ___acrt_GetStringTypeW 
+---

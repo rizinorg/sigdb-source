@@ -1,0 +1,29 @@
+90FFBD27........................................................ 00 0000 0004 :0000 _Draw_XViewObject_COleControl__UAAJKJPAXPAUtagDVTARGETDEVICE__PAUHDC____2PBU_RECTL__3P6AHK_ZK_Z 
+A8FFBD27........................................................ 00 0000 0004 :0000 _SetAdvise_XViewObject_COleControl__UAAJKKPAUIAdviseSink___Z 
+A8FFBD27........................................................ 00 0000 0004 :0000 _GetNaturalExtent_XViewObject_COleControl__UAAJKJPAUtagDVTARGETDEVICE__PAUHDC____PAUtagExtentInfo__PAUtagSIZE___Z 
+B0FFBD27........................................................ 00 0000 0004 :0000 _QueryHitRect_XViewObject_COleControl__UAAJKPBUtagRECT__0JPAK_Z 
+B0FFBD27........................................................ 00 0000 0004 :0000 _QueryHitPoint_XViewObject_COleControl__UAAJKPBUtagRECT__UtagPOINT__JPAK_Z 
+B8FFBD27........................................................ 00 0000 0004 :0000 _GetColorSet_XViewObject_COleControl__UAAJKJPAXPAUtagDVTARGETDEVICE__PAUHDC____PAPAUtagLOGPALETTE___Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 _GetExtent_XViewObject_COleControl__UAAJKJPAUtagDVTARGETDEVICE__PAUtagSIZE___Z 
+C0FFBD27........................................................ 00 0000 0004 :0000 _OnGetViewRect_COleControl__UAAHKPAU_RECTL___Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 _GetAdvise_XViewObject_COleControl__UAAJPAK0PAPAUIAdviseSink___Z 
+C8FFBD27........................................................ 00 0000 0004 :0000 __unwind_147923 
+C8FFBD27........................................................ 00 0000 0004 :0000 _GetRect_XViewObject_COleControl__UAAJKPAU_RECTL___Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __catch_147987 
+D0FFBD27........................................................ 00 0000 0004 :0000 _OnGetViewExtent_COleControl__UAAHKJPAUtagDVTARGETDEVICE__PAUtagSIZE___Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 _AddRef_XViewObject_COleControl__UAAKXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 _Release_XViewObject_COleControl__UAAKXZ 
+D0FFBD27........................................................ 00 0000 0004 :0000 _GetViewStatus_XViewObject_COleControl__UAAJPAK_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_147946 
+D0FFBD27........................................................ 00 0000 0004 :0000 _QueryInterface_XViewObject_COleControl__UAAJABU_GUID__PAPAX_Z 
+D0FFBD27........................................................ 00 0000 0004 :0000 __unwind_147988 
+F8FFBD27004004000800A8AF01000824................................ 00 0000 0010 :0000 _OnGetViewStatus_COleControl__UAAKXZ 
+F8FFBD27004004000800A8AF0800A88F000000AD0800A88F040000AD0800A88F 1C D829 003C :0000 __0_AFXCTL_ADVISE_INFO__QAA_XZ 
+F8FFBD27004005001000A8AF004004000800A8AF0080083C014008350000A8AF 10 420D 0030 :0000 _Unfreeze_XViewObject_COleControl__UAAJK_Z 
+F8FFBD27004007002000A8AF004006001800A8AF004005001000A8AF00400400 1C 6B91 003C :0000 _OnGetNaturalExtent_COleControl__UAAHKJPAUtagDVTARGETDEVICE__PAUHDC____PAUtagExtentInfo__PAUtagSIZE___Z 
+F8FFBD27........................................................ 00 0000 0004 :0000 _OnQueryHitPoint_COleControl__UAAHKPBUtagRECT__UtagPOINT__JPAK_Z 
+F8FFBD27004007002000A8AF004006001800A8AF004005001000A8AF00400400 20 164D 0040 :0000 _Freeze_XViewObject_COleControl__UAAJKJPAXPAK_Z 
+F8FFBD27004007002000A8AF004006001800A8AF004005001000A8AF00400400 1C 6B91 003C :0000 _OnGetColorSet_COleControl__UAAHPAUtagDVTARGETDEVICE__PAUHDC____PAPAUtagLOGPALETTE___Z 
+F8FFBD27004007002000A8AF004006001800A8AF004005001000A8AF00400400 0D B0C8 0070 :0000 _OnQueryHitRect_COleControl__UAAHKPBUtagRECT__0JPAK_Z ................................00000000030009243000A88F000009AD010008240000A8AF05......0000000003......00000000254000000000A8AF0000A28F0800BD270800E00300000000
+F8FFBD27254000000000A8AF0000A28F0800BD270800E00300000000........ 00 0000 001C :0000 __AfxInitManaged__YAHXZ 
+---
