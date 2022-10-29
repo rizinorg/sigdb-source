@@ -1,0 +1,86 @@
+0FB7C10D........85C90F4EC1C3.................................... 00 0000 000E :0000 HRESULT_FROM_WIN32 
+32C0C3.......................................................... 00 0000 0003 :0000 _IsPrimary_UMSThreadProxy_details_Concurrency__UEAA_NXZ 
+33C039818800000076..B802000000C33981840000000F97C0C3............ 00 0000 001A :0000 _GetCriticalRegionType_UMSThreadProxy_details_Concurrency__UEBA_AW4CriticalRegionType_3_XZ 
+40534883EC20488B19EB..488BCB488B5B08E8........4885DB75..4883C420 02 8FCC 0022 :0000 __1TokenRegistrationContainer__CancellationTokenState_details_Concurrency__QEAA_XZ 
+40534883EC20488BD94883C108488B01FF....488BCBC7435C060000004883C4 03 6788 0027 :0000 _FreeViaExit_UMSThreadProxy_details_Concurrency__IEAAXXZ 
+40534883EC20488BD94883C108488B01FF....488BCBC7435C080000004883C4 03 6788 0027 :0000 _ReadyForDispatch_UMSThreadProxy_details_Concurrency__AEAAXXZ 
+40534883EC20488BD9E8........488B03488BCBFF....33C04883C4205BC3.. 00 0000 001F :0000 _UMSThreadProxyMain_UMSThreadProxy_details_Concurrency__CAKPEAX_Z 
+40534883EC2048............488BD948890148............4889410848.. 00 0000 004B :0000 __1UMSThreadProxy_details_Concurrency__UEAA_XZ ..........48894110488B4930FF..........488B4B28FF..........488B4B204883C4205BE9
+40534883EC2083610800488BD9E8........85C075..C7430804000000EB..89 12 8E23 0032 :0000 __Reset____SpinWait__00_details_Concurrency__IEAAXXZ 
+40534883EC2083....F00FC15908FFCB75..488B11FF....8BC34883C4205BC3 00 0000 0020 :0000 __Release__RefCounter_details_Concurrency__QEAAJXZ 
+40534883EC30488B492033DB4C8D442440448D4B018D5305885C244048895C24 02 3247 0033 :0000 _IsSuspended_UMSThreadProxy_details_Concurrency__QEAA_NXZ ............385C24400F95C04883C4305BC3
+40534883EC30488B492033DB4C8D442440448D4B018D5306885C244048895C24 02 3247 0033 :0000 _IsTerminated_UMSThreadProxy_details_Concurrency__QEAA_NXZ ............385C24400F95C04883C4305BC3
+40534883EC40488B4140488BD94885C074..836424280048............4889 09 0162 003C :0000 _SpinUntilBlocked_UMSThreadProxy_details_Concurrency__IEAAXXZ ..........................488B43404885C075..4883C4405BC3
+40534883EC408B4138488BD985C075..2144242848............4889442430 06 8B8B 003A :0000 _SpinOnAndReturnBlockingType_UMSThreadProxy_details_Concurrency__IEAA_AW4BlockingType_123_XZ ....................8B433885C074..8B43384883C4405BC3
+40534883EC5033DB4885C975..33C0EB..41B908000000488D4424604C8D4424 10 41C0 0088 :0000 _FromUMSContext_UMSThreadProxy_details_Concurrency__SAPEAV123_PEAX_Z ........................................85C074..488B4C24684885C974..488B11FF..84C0480F445C2468488BC34883C4505BC3FF..........488D4C24300FB7D081..........85C00F4ED0E8........48............488D4C2430E8........CC
+418BC0F00FB111C3................................................ 00 0000 0008 :0000 _atomic_compare_exchange_details_Concurrency__YAJAECJJJ_Z 
+488321004883610800488BC1C3...................................... 00 0000 000D :0000 __0TokenRegistrationContainer__CancellationTokenState_details_Concurrency__QEAA_XZ 
+4883EC28488B094885C974..F0FF490875..488B01FF....4883C428C3...... 00 0000 001D :0000 __1cancellation_token_source_Concurrency__QEAA_XZ 
+4883EC28C7411002000000F0FF490875..488B01FF....4883C428C3........ 00 0000 001C :0000 __helper_func_cdecl___lambda_84b9f91dbb4fb610294e0b5b3941314e___CAXPEAV_CancellationTokenRegistration_details_Concurrency___Z 
+4883EC28C7411002000000F0FF490875..488B01FF....4883C428C3........ 00 0000 001C :0000 __helper_func_vectorcall___lambda_84b9f91dbb4fb610294e0b5b3941314e___CQXPEAV_CancellationTokenRegistration_details_Concurrenc 
+4883EC28C7421002000000F0FF4A0875..488B02488BCAFF....4883C428C3.. 00 0000 001F :0000 __R_lambda_84b9f91dbb4fb610294e0b5b3941314e___QEBAXPEAV_CancellationTokenRegistration_details_Concurrency___Z 
+4883EC28E8........488BC84883C428E9.............................. 00 0000 0015 :0000 _GetCurrent_UMSThreadProxy_details_Concurrency__SAPEAV123_XZ 
+4883EC48895154488B4928FF..........85C074..4883C448C3FF.......... 09 B4A4 004A :0000 _SetPriority_UMSThreadProxy_details_Concurrency__QEAAXH_Z ............................85C00F4ED0E8........48............488D4C2420E8........CC
+4885C975..33C0C3488D8160FFFFFFC3................................ 00 0000 0010 :0000 _FromListEntry_UMSThreadProxy_details_Concurrency__SAPEAV123_PEAU_SLIST_ENTRY___Z 
+4885D274..F0FF4208488911C3...................................... 00 0000 000D :0000 __Assign_cancellation_token_source_Concurrency__AEAAXPEAV_CancellationTokenState_details_2__Z 
+48895C240848896C24104889742418574883EC20498BF1418BD8488BEA488BF9 01 A5A9 0043 :0000 ___H_YAXPEAX_KHP6APEAX0_Z_Z ....488BCFFFD64803FDFFCB79..488B5C2430488B6C2438488B7424404883C4205FC3
+48895C24084889742410574883EC20488D7108488BF9488B06488BCEFF....48 0F 21EF 0059 :0000 _Deactivate_UMSThreadProxy_details_Concurrency__IEAA_NXZ ......................................837F7001488B160F94C383677000488BCEFF....488B7424388AC3488B5C24304883C4205FC3
+48895C24084889742410574883EC20488D7108488BF98BDA488B06488BCEFF.. 00 0000 007F :0000 _InternalSwitchOut_UMSThreadProxy_details_Concurrency__IEAAXW4SwitchingProxyState_3__Z ..83....75..488B4F18488BD748......E8........4883676000C7475C04000000EB..488B47684885C074..48C7476800000000EB..C7475C07000000488BCFE8........488B06488BCE488B5C2430488B7424384883C4205F48
+48895C24084889742410574883EC208BF2488BD9F6....74..488D79F84C.... 00 0000 006E :0000 ___EGlobalCore_details_Concurrency__QEAAPEAXI_Z ........BA........448B07E8........40......74..488BCFE8........488BC7EB..488B4928E8........40......74..488BCBE8........488BC3488B5C2430488B7424384883C4205FC3
+48895C2408574883EC20488BD933FF8B4B0885C975..897B08E8........85C0 01 52D4 00AF :0000 __SpinOnce____SpinWait__00_details_Concurrency__QEAA_NXZ ....C7430804000000EB..8903C7430401000000C7430801000000EB..FFC974..FFC974..FFC974..FFC974..EB..897B08E8........85C075..C7430804000000EB..8903C7430401000000C743080100000032C0EB..FF4B0475..C743080300000040B701FF....408AC7EB..F390FF0B75..8B4B04F7D91BD283C203895308B001488B5C24304883C4205FC3
+48895C2408574883EC20488BDA488BF9E8........48............4889078B 13 995F 0033 :0000 __0scheduler_resource_allocation_error_Concurrency__QEAA_AEBV01__Z 
+48895C2408574883EC20488BDA488BF9E8........48............4889078B 0B 153B 003D :0000 __0scheduler_worker_creation_error_Concurrency__QEAA_AEBV01__Z ..................................488907488BC74883C4205FC3
+48895C2408574883EC20488BDAE8........8BF833C0F00FB17B1075..4C8B03 04 7457 005B :0000 __R_lambda_a82b98f7e2c6043eed4851637b7cc3e6___QEBAXPEAV_CancellationTokenRegistration_details_Concurrency___Z ..............B9030000008BC7F00FB14B1083....75..488B4B18E8........F0FF4B0875..488B03488BCBFF....488B5C24304883C4205FC3
+48895C2408574883EC20488D7908488BD9488B07488BCFFF....488363600048 0A 7541 0042 :0000 _InternalYieldToSystem_UMSThreadProxy_details_Concurrency__IEAAXXZ ............................488B07488BCF488B5C24304883C4205F48
+48895C2408574883EC208BDA488BF9E8........F6....74..488BCFE8...... 00 0000 002F :0000 ___Gscheduler_worker_creation_error_Concurrency__UEAAPEAXI_Z ..488BC7488B5C24304883C4205FC3
+48895C2408574883EC208BDA488BF9E8........F6....74..488BCFE8...... 00 0000 002F :0000 ___Gscheduler_resource_allocation_error_Concurrency__UEAAPEAXI_Z ..488BC7488B5C24304883C4205FC3
+48895C2408574883EC208BDA488BF9E8........F6....74..488BCFE8...... 00 0000 002F :0000 ___GUMSThreadProxy_details_Concurrency__UEAAPEAXI_Z ..488BC7488B5C24304883C4205FC3
+48895C241048896C24184889742420574883EC4048............4833C44889 2F 80EA 00A8 :0000 _InternalSwitchTo_UMSThreadProxy_details_Concurrency__IEAAXPEAV123_W4SwitchingProxyState_3__Z ..................................................................................................83....75..488B4B18488BD348......E8........8B54B420488BCB48896B6089535CE8........85F674..488B07488BCFFF....488B4C24304833CCE8........488B5C2458488B6C2460488B7424684883C4405FC3
+48895C24104889742418574883EC20488B39EB..488B1FE8........8BF033C0 06 F0FE 0072 :0000 ___for_each_V_lambda_a82b98f7e2c6043eed4851637b7cc3e6____TokenRegistrationContainer__CancellationTokenState_details_Concurren ..............488B13488BCBFF....B9030000008BC6F00FB14B1083....75..488B4B18E8........F0FF4B0875..488B03488BCBFF....488B7F084885FF75..488B5C2438488B7424404883C4205FC3
+48895C2410574883EC20488BD9E8........8BF833C0F00FB17B1075..488B13 04 810B 005A :0000 __helper_func_vectorcall___lambda_a82b98f7e2c6043eed4851637b7cc3e6___CQXPEAV_CancellationTokenRegistration_details_Concurrenc ............B9030000008BC7F00FB14B1083....75..488B4B18E8........F0FF4B0875..488B03488BCBFF....488B5C24384883C4205FC3
+48895C2410574883EC20488BD9E8........8BF833C0F00FB17B1075..488B13 04 810B 005A :0000 __Invoke__CancellationTokenRegistration_details_Concurrency__AEAAXXZ ............B9030000008BC7F00FB14B1083....75..488B4B18E8........F0FF4B0875..488B03488BCBFF....488B5C24384883C4205FC3
+48895C2410574883EC20488BD9E8........8BF833C0F00FB17B1075..488B13 04 810B 005A :0000 __helper_func_cdecl___lambda_a82b98f7e2c6043eed4851637b7cc3e6___CAXPEAV_CancellationTokenRegistration_details_Concurrency___Z ............B9030000008BC7F00FB14B1083....75..488B4B18E8........F0FF4B0875..488B03488BCBFF....488B5C24384883C4205FC3
+48895C241848897424205557415441564157488D6C24E04881EC200100004533 2A 6047 0312 :0000 __0UMSThreadProxy_details_Concurrency__QEAA_PEAUIThreadProxyFactory_12_PEAXI_Z ................................................................................................4889014D892748............4889410848............418BF948894110448961384C8961404C896168498BD8488BF14C89A18C000000448961784533C933C94533C033D2FF..........488946304885C00F84........418D442401F00FC10522850000FFC0498BCF898688000000E8........85C00F84........498B0F458D4C24084C8D4558418D54240148897558E8........85C00F84........498B074C8D4D50418D5424014533C033C9C7..............488944244848895C2450E8........488B4D50E8........4C8D4D50418D542401488BC84533C04C8BF0E8........85C00F84........4C896424304C8D4C24
+488B014C8B024889024C8901488B41084C8B4208488942084C894108C3...... 00 0000 001D :0000 _swap_TokenRegistrationContainer__CancellationTokenState_details_Concurrency__QEAAXAEAV1234__Z 
+488B024885C074..F0FF4008488901488BC1C3.......................... 00 0000 0013 :0000 __0cancellation_token_source_Concurrency__QEAA_AEBV01__Z 
+488B024885C074..F0FF4008488901488BC1C3.......................... 00 0000 0013 :0000 __0_lambda_d2a87b99a87e8cca5fb92a582048541a___QEAA_AEBVcancellation_token_source_Concurrency___Z 
+488B024C8B014889014C8902C3...................................... 00 0000 000D :0000 ___swap_PEAU_Node_TokenRegistrationContainer__CancellationTokenState_details_Concurrency___std__YAXAEAPEAU_Node_TokenRegistra 
+488B09E9........................................................ 00 0000 0008 :0000 _cancel_cancellation_token_source_Concurrency__QEBAXXZ 
+488B09E9........................................................ 00 0000 0008 :0000 __R_lambda_d2a87b99a87e8cca5fb92a582048541a___QEBAXXZ 
+488B4928E9...................................................... 00 0000 0009 :0000 __1GlobalCore_details_Concurrency__QEAA_XZ 
+488B8190000000488D8860FFFFFF48F7D8481BC04823C174..48......C333C0 01 EF04 0021 :0000 _GetNextUnblockNotification_UMSThreadProxy_details_Concurrency__UEAAPEAUIUMSUnblockNotification_3_XZ 
+488B81B0000000C3................................................ 00 0000 0008 :0000 _GetExecutingProxy_UMSFreeVirtualProcessorRoot_details_Concurrency__QEAAPEAVUMSThreadProxy_23_XZ 
+488BC1C3........................................................ 00 0000 0004 :0000 ____Move_AEAPEAU_Node_TokenRegistrationContainer__CancellationTokenState_details_Concurrency___std__YA__QEAPEAU_Node_TokenReg 
+488BD1488B491848......E9........................................ 00 0000 0010 :0000 _NotifyTransmogrification_UMSThreadProxy_details_Concurrency__QEAAXXZ 
+488BD1488B491848......E9........................................ 00 0000 0010 :0000 _RequestTransmogrification_UMSThreadProxy_details_Concurrency__IEAAXXZ 
+48............C3................................................ 00 0000 0008 :0000 __B_lambda_a82b98f7e2c6043eed4851637b7cc3e6___QEBAP6QXPEAV_CancellationTokenRegistration_details_Concurrency___ZXZ 
+48............488901488BC1C3.................................... 00 0000 000E :0000 __0IUMSUnblockNotification_Concurrency__QEAA_XZ 
+48............488901488BC1C3.................................... 00 0000 000E :0000 __0IThreadProxy_Concurrency__QEAA_XZ 
+48............C3................................................ 00 0000 0008 :0000 __B_lambda_84b9f91dbb4fb610294e0b5b3941314e___QEBAP6QXPEAV_CancellationTokenRegistration_details_Concurrency___ZXZ 
+48............488901488BC1C3.................................... 00 0000 000E :0000 __0UMSBaseObject_details_Concurrency__QEAA_XZ 
+48............488901488BC1C3.................................... 00 0000 000E :0000 __0IUMSThreadProxy_Concurrency__QEAA_XZ 
+48............C3................................................ 00 0000 0008 :0000 __B_lambda_a82b98f7e2c6043eed4851637b7cc3e6___QEBAP6AXPEAV_CancellationTokenRegistration_details_Concurrency___ZXZ 
+48............C3................................................ 00 0000 0008 :0000 __B_lambda_84b9f91dbb4fb610294e0b5b3941314e___QEBAP6AXPEAV_CancellationTokenRegistration_details_Concurrency___ZXZ 
+488D4160C3...................................................... 00 0000 0005 :0000 _GetTransmogrificator_UMSFreeThreadProxyFactory_details_Concurrency__QEAAPEAVTransmogrificator_23_XZ 
+488D8A28000000E9................................................ 00 0000 000C :0000 _dtor_0__0___Cancel__CancellationTokenState_details_Concurrency__QEAAXXZ_4HA 
+48.............................................................. 00 0000 0004 :0000 __DoYield____SpinWait__00_details_Concurrency__IEAAXXZ 
+4C8BDC574883EC7049C743A8FEFFFFFF49895B10488BF9B90100000033C0F00F 04 F37C 00B0 :0000 __Cancel__CancellationTokenState_details_Concurrency__QEAAXXZ ..........0F57C0F30F7F442428488D5760498D4BC0E8........488B9F9800000048895C24284883A79800000000488B87A000000048894424304883A7A000000000488D4C2438E8........8A942480000000488D4C2428E8........C7471002000000488D4F18E8........90EB..488BCB488B5B08E8........4885DB75..488B9C24880000004883C4705FC3
+8361080048895110488BC1C3........................................ 00 0000 000C :0000 __0___SpinWait__00_details_Concurrency__QEAA_P6AXXZ_Z 
+85D275..C7410804000000C3B8010000008911894104894108C3............ 00 0000 001A :0000 __SetSpinCount____SpinWait__00_details_Concurrency__QEAAXI_Z 
+8A81C2000000C3.................................................. 00 0000 0007 :0000 _IsDeleting_UMSFreeVirtualProcessorRoot_details_Concurrency__QEBA_NXZ 
+8B8180000000C3.................................................. 00 0000 0007 :0000 _GetId_UMSThreadProxy_details_Concurrency__UEBAIXZ 
+8B8184000000FFC0898184000000C3.................................. 00 0000 000F :0000 _EnterCriticalRegion_UMSThreadProxy_details_Concurrency__UEAAHXZ 
+8B8184000000FFC8898184000000C3.................................. 00 0000 000F :0000 _ExitCriticalRegion_UMSThreadProxy_details_Concurrency__UEAAHXZ 
+8B8188000000FF8184000000FFC0898188000000C3...................... 00 0000 0015 :0000 _EnterHyperCriticalRegion_UMSThreadProxy_details_Concurrency__UEAAHXZ 
+8B8188000000FF8984000000FFC8898188000000C3...................... 00 0000 0015 :0000 _ExitHyperCriticalRegion_UMSThreadProxy_details_Concurrency__UEAAHXZ 
+8B8190000000FF818C000000FFC0898190000000C3...................... 00 0000 0015 :0000 _ForceEnterHyperCriticalRegion_UMSThreadProxy_details_Concurrency__QEAAHXZ 
+B801000000C3.................................................... 00 0000 0006 :0000 __NumberOfSpins____SpinWait__00_details_Concurrency__IEAAKXZ 
+B801000000F00FC105EB4A0000FFC0C3................................ 00 0000 0010 :0000 _GetThreadProxyId_ResourceManager_details_Concurrency__SAIXZ 
+B801000000F00FC14108FFC0C3...................................... 00 0000 000D :0000 __Reference__RefCounter_details_Concurrency__QEAAJXZ 
+C74138000000004889514848895140C3................................ 00 0000 0010 :0000 _PrepareToRun_UMSThreadProxy_details_Concurrency__IEAAXPEAVUMSFreeVirtualProcessorRoot_23__Z 
+C7417801000000C3................................................ 00 0000 0008 :0000 _Cancel_UMSThreadProxy_details_Concurrency__QEAAXXZ 
+E9.............................................................. 00 0000 0005 :0000 __1scheduler_resource_allocation_error_Concurrency__UEAA_XZ 
+E9.............................................................. 00 0000 0005 :0000 __1scheduler_worker_creation_error_Concurrency__UEAA_XZ 
+E9.............................................................. 00 0000 0005 :0000 hypot 
+FF090F95C0C3.................................................... 00 0000 0006 :0000 __ShouldSpinAgain____SpinWait__00_details_Concurrency__IEAA_NXZ 
+---

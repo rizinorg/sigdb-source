@@ -1,0 +1,64 @@
+33C039410C0F9CC0C3.............................................. 00 0000 0009 :0000 _IsLocked_CStringData_ATL__QBE_NXZ 
+33C05050FF742410FF742410FF742420FF74242050FF..........50FF...... 00 0000 0023 :0000 _ConvertToBaseType___ChTraitsCRT_D_ATL__SAXPADHPB_WH_Z ....C3
+33C083790C010F9FC0C3............................................ 00 0000 000A :0000 _IsShared_CStringData_ATL__QBE_NXZ 
+53568BF133DB395E24C7..........75..395E308B462876..578D7804FF37FF 00 0000 0038 :0000 __1CEnumOleVerb__UAE_XZ ..........4383....3B5E3072..5F8BCE5E5BE9
+538B5C240885DB75..33C05BC3565753E8........598D74000256FF........ 00 0000 0048 :0000 _AtlAllocTaskWideString_ATL__YAPA_WPB_W_Z ..8BF885FF74..56535657E8........83C41085C074..57FF..........33C0EB..8BC75F5E5BC3
+538B5C240885DB75..33C05BC3565753FF..........8BF0466A..56E8...... 00 0000 004B :0000 _AtlAllocTaskWideString_ATL__YAPA_WPBD_Z ..8BF885FF595974..56576AFF536A..6A..FF..........85C075..57FF..........33FF8BC75F5E5BC3
+558BEC515153568B318B5EF483....894DF88B0E8B0157895DFCFF....8B106A 00 0000 0068 :0000 _Fork___CSimpleStringT_D_0A__ATL__AAEXH_Z ..FF75088BC8FF..8BF885FF75..E8........8B45083BD87D..8BC340508D4E1051508D5F1053E8........8B45FC83C4108BCE894704E8........8B45F85F5E89185BC9C20400
+558BEC5156FF750C894DFCFF7508E8........8BF085F6595974..0FB7065357 06 C9F5 0059 :0000 _LoadStringA___CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QAEHPAUHINSTANCE____I_Z ....................59598B4DFC8BD853E8........0FB70E51575350E8........8B4DFC83C41053E8........33C05F405B5EC9C20800
+558BEC51FF750C8365FC00FF75088D45FC50E8........83C40C85C07D..33C0 06 5325 002D :0000 _AtlCoTaskMemCAlloc_ATL__YAPAXKK_Z ......................C9C3
+558BEC837D0C00538BD975..E8........EB..568B750885F675..68........ 01 3E9B 006B :0000 _SetString___CSimpleStringT_D_0A__ATL__QAEXPBDH_Z ..........8B0357FF750C8B78F42BF0E8........3BF75FFF750C77..8D0C3051FF750C50E8........EB..FF7508FF750C50E8........83C410FF750C8BCBE8........5E5B5DC20800
+558BECFF750CFF7508FF..........85C075..5DC35650FF..........8BF085 02 3C12 005C :0000 __AtlGetStringResourceImage_ATL__YAPBUATLSTRINGRESOURCEIMAGE_1_PAUHINSTANCE____PAUHRSRC____I_Z ......FF750CFF7508FF..........8B4D1003C683....76..3BF073..490FB7168D74560275..3BF072..33C0EB..668B0666F7D81BC023C65E5DC3
+566A..FF7424108BF1FF7424106A..E8........C7..........8BC65EC20800 00 0000 0020 :0000 __0CEnumOleVerb__QAE_PBXI_Z 
+568B74240856E8........85C074..8B460485C074..50E8........85C05989 03 2955 0030 :0000 _OnNext_CEnumOleVerb__MAEHPAX_Z ........E8........33C0405EC20400
+568B74240885F6578BF975..33C0EB..56E8........5950568BCFE8........ 05 FF73 0025 :0000 _SetString___CSimpleStringT_D_0A__ATL__QAEXPBD_Z 
+568BF18B0633C983....412B480C8B40082B4424080BC87D..FF7424088BCEE8 00 0000 002A :0000 _PrepareWrite___CSimpleStringT_D_0A__ATL__AAEPADH_Z ........8B065EC20400
+568BF18B068D48F033D2395104578B3974..39510C7D..3950F87D..68...... 00 0000 0043 :0000 _Empty___CSimpleStringT_D_0A__ATL__QAEXXZ ..E8........8950F48B068810EB..E8........8B078BCFFF....83....89065F5EC3
+568BF18B4C240885C975..68........E8........8B01FF....83....89068B 05 8E1C 0025 :0000 __0__CSimpleStringT_D_0A__ATL__QAE_PAUIAtlStringMgr_1__Z 
+568BF1E8........F64424080174..56E8........598BC65EC20400........ 00 0000 001C :0000 ___GCEnumOleVerb__UAEPAXI_Z 
+568BF1E8........83660800C7..........8BC65EC3.................... 00 0000 0016 :0000 __0COleException__QAE_XZ 
+568BF1E8........508BCEE8........8BC65EC3........................ 00 0000 0014 :0000 __0__CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QAE_XZ 
+56FF7424088BF1E8........8BC65EC20400............................ 00 0000 0012 :0000 __4__CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QAEAAV01_PBD_Z 
+56FF7424088BF1E8........8BC65EC20400............................ 00 0000 0012 :0000 __4__CSimpleStringT_D_0A__ATL__QAEAAV01_PBD_Z 
+56FF7424088BF1E8........85C074..FF7424088BCE50E8........5EC20400 00 0000 0020 :0000 _LoadStringA___CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QAEHI_Z 
+68........E8........CC.......................................... 00 0000 000B :0000 _ThrowMemoryException___CSimpleStringT_D_0A__ATL__KAXXZ 
+6A..B8........E8........894DEC8B0183......33DBFF....8BF0391E74.. 01 04BD 00CE :0000 _DoOleVerb_CCmdTarget__QAEHJPAUtagMSG__PAUHWND____PBUtagRECT___Z ..........33C93BD975..394D087D..FF75085157FF7604E8........8BD8EB..8B46046A..515750EB..FF45F08B45F03B45087D..6A..6A..5783....53E8........8BD885DB75..FF..8BF0833E0075..85DB75..33C0EB..FF75148B5B14FF75108B4DECFF750CFFD385C075..6A..E8........598945148365FC0085C074..8BC8E8........EB..33C083......89450868........8D450850E8........33C040E8........C21000
+6A..B8........E8........8BF133C033FF397D080F95C03BC775..E8...... 00 0000 0186 :0000 _EnumOleVerbs_CCmdTarget__QAEHPAPAUIEnumOLEVERB___Z ..897DEC897DF0897DE4E8........508D4DE8E8........8B068BCE897DFCFF....8BF0393E8975E075..8B450889388B4DE883C1F0E8........33C0397DF00F9FC0E8........C204008B75E08B46046A..5768........50E8........8BD83BDF0F84........8B7DF0C1E7048B45F03B45E475..33C96A..83C00A5AF7E20F90C1F7D90BC851E8........8345E40A837DEC00598BF074..57FF75EC8D87A00000005056E8........FF75ECE8........83C4148975ECFF73108D4DE8E8........85C075..68........8D4DE8E8........8B45ECFF75E88D34078B45F08906E8........83660800FF45F0596A..6A..68........83....5389
+817C24040E00078075..E8........FF742404E8........CC.............. 00 0000 0019 :0000 _AtlThrowImpl_ATL__YGXJ_Z 
+837C24040075..33C0C3E9.......................................... 00 0000 000F :0000 _StringLength___CSimpleStringT_D_0A__ATL__SAHPBD_Z 
+8B0183....C3.................................................... 00 0000 0006 :0000 _GetData___CSimpleStringT_D_0A__ATL__ABEPAUCStringData_2_XZ 
+8B018B40F4C3.................................................... 00 0000 0006 :0000 _GetLength___CSimpleStringT_D_0A__ATL__QBEHXZ 
+8B018B50F483....568B7424083BD67E..8BF283780C017E..56E8........EB 00 0000 0047 :0000 _PrepareWrite2___CSimpleStringT_D_0A__ATL__AAEXH_Z ..8B40083BC67D..BA........3BC27E..03C2EB..03C03BC67D..8BC650E8........5EC20400
+8B01C3.......................................................... 00 0000 0003 :0000 __B__CSimpleStringT_D_0A__ATL__QBEPBDXZ 
+8B01C3.......................................................... 00 0000 0003 :0000 _GetString___CSimpleStringT_D_0A__ATL__QBEPBDXZ 
+8B0983....E9.................................................... 00 0000 000A :0000 __1__CSimpleStringT_D_0A__ATL__QAE_XZ 
+8B0983....E9.................................................... 00 0000 000A :0000 __1__CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QAE_XZ 
+8B44240483....8901C20400........................................ 00 0000 000C :0000 _Attach___CSimpleStringT_D_0A__ATL__AAEXPAUCStringData_2__Z 
+8B44240485C074..83....74..83....74..83....74..83....74..E9...... 00 0000 0027 :0000 _AfxCrtErrorCheck__YAHH_Z ..E9........C3
+8B44240485C07C..8B113B42F87F..8942F48B09C6040800C2040068........ 01 3E9B 0026 :0000 _SetLength___CSimpleStringT_D_0A__ATL__AAEXH_Z ..........CC
+8B442408C1E804400FB7C06A..50FF74240CFF..........85C075..C3FF7424 07 B26D 002F :0000 _AtlGetStringResourceImage_ATL__YAPBUATLSTRINGRESOURCEIMAGE_1_PAUHINSTANCE____I_Z ......................83C40CC3
+8B442408F764240C85D277..83F8FF76..B8........C38B4C2404890133C0C3 00 0000 0020 :0000 ___AtlMultiply_K_ATL__YAJPAKKK_Z 
+8B542404568BF18B0683....3950088B087D..85D27E..578B396A..5250FF.. 00 0000 0034 :0000 _Reallocate___CSimpleStringT_D_0A__ATL__AAEXH_Z ..85C05F75..E8........83....89065EC20400
+8D410C83....F00FC1104A85D27F..8B018B10518BC8FF....C3............ 00 0000 001A :0000 _Release_CStringData_ATL__QAEXXZ 
+8D4110C3........................................................ 00 0000 0004 :0000 _data_CStringData_ATL__QAEPAXXZ 
+8D4DE8E9........................................................ 00 0000 0008 :0000 __unwindfunclet__EnumOleVerbs_CCmdTarget__QAEHPAPAUIEnumOLEVERB___Z_0 
+B8........C3.................................................... 00 0000 0006 :0000 _GetInterfaceMap_CEnumOleVerb__MBEPBUAFX_INTERFACEMAP__XZ 
+C20400.......................................................... 00 0000 0003 :0000 _Serialize_CObject__UAEXAAVCArchive___Z 
+C3.............................................................. 00 0000 0001 :0000 __1CObject__UAE_XZ 
+C3.............................................................. 00 0000 0001 :0000 __1CException__UAE_XZ 
+C7..........C3.................................................. 00 0000 0007 :0000 __1COleException__UAE_XZ 
+E9.............................................................. 00 0000 0005 :0000 _CopyChars___CSimpleStringT_D_0A__ATL__SAXPADIPBDH_Z 
+E9.............................................................. 00 0000 0005 :0000 _GetBuffer___CSimpleStringT_D_0A__ATL__QAEPADH_Z 
+E9.............................................................. 00 0000 0005 :0000 _GetDefaultManager___StrTraitMFC_DV__ChTraitsCRT_D_ATL____SAPAUIAtlStringMgr_ATL__XZ 
+E9.............................................................. 00 0000 0005 :0000 _CopyCharsOverlapped___CSimpleStringT_D_0A__ATL__SAXPADIPBDH_Z 
+E9.............................................................. 00 0000 0005 :0000 _ReleaseBufferSetLength___CSimpleStringT_D_0A__ATL__QAEXH_Z 
+F644240401568BF1C7..........74..56E8........598BC65EC20400...... 00 0000 001D :0000 ___GCOleException__UAEPAXI_Z 
+FF..........33C951515151FF742418FF7424185150FF..........C3...... 00 0000 001D :0000 _GetBaseTypeLength___ChTraitsCRT_D_ATL__SAHPB_WH_Z 
+FF.............................................................. 00 0000 0006 :0000 __AtlGetConversionACP_ATL__YGIXZ 
+FF742404E8........59C20400...................................... 00 0000 000D :0000 __3CObject__SGXPAX_Z 
+FF742404E8........59C20400...................................... 00 0000 000D :0000 __2CObject__SGPAXI_Z 
+FF742404E8........C3............................................ 00 0000 000A :0000 _FindStringResourceInstance___StrTraitMFC_DV__ChTraitsCRT_D_ATL____SAPAUHINSTANCE____I_Z 
+FF742410FF742410FF742410FF742410E8........50E8........83C414C3.. 00 0000 001F :0000 _memcpy_s_Checked_ATL__YAXPAXIPBXI_Z 
+FF7514E8........C3.............................................. 00 0000 0009 :0000 __unwindfunclet__DoOleVerb_CCmdTarget__QAEHJPAUtagMSG__PAUHWND____PBUtagRECT___Z_0 
+FF75E0E8........C3.............................................. 00 0000 0009 :0000 __unwindfunclet__EnumOleVerbs_CCmdTarget__QAEHPAPAUIEnumOLEVERB___Z_1 
+---

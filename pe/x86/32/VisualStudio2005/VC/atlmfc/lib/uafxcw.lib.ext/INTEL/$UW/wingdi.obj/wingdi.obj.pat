@@ -1,0 +1,228 @@
+53558B..........56578B7C24148BF157FF7620FFD58D5F0853FF7620FFD58B 02 BB34 003C :0000 _ScreenToClient_CWnd__QBEXPAUtagRECT___Z ............A9........74..8B078B0B890F89035F5E5D5BC20400
+53558B..........56578B7C24148BF157FF7620FFD58D5F0853FF7620FFD58B 02 BB34 003C :0000 _ClientToScreen_CWnd__QBEXPAUtagRECT___Z ............A9........74..8B078B0B890F89035F5E5D5BC20400
+535657FF7424108BF1FF..........8B4E048B..........8BD833C03B4E0874 00 0000 003C :0000 _SelectStockObject_CDC__UAEPAVCGdiObject__H_Z ..5351FFD78B760885F674..5356FFD750E8........5F5E5BC20400
+53568BF18B460483....3B4608578B..........74..FF74241050FFD78B7608 03 E6EE 0035 :0000 _SetTextAlign_CDC__QAEII_Z ........FF74241056FFD78BD85F5E8BC35BC20400
+53568BF18B460833DB85C0578B..........74..50FFD78BD88B46043B460874 00 0000 0031 :0000 _SaveDC_CDC__UAEHXZ ..50FFD785C074..83....5F5E8BC35BC3
+538B..........568B74240C578BF98B4F0433C03B4F0874..FF760CFF7608FF 0D 07AA 0042 :0000 _ExcludeClipRect_CDC__QAEHPBUtagRECT___Z ............................FF760CFF7608FF7604FF3657FFD35F5E5BC20400
+538B..........568B74240C578BF98B4F0433C03B4F0874..FF760CFF7608FF 0D 07AA 0042 :0000 _IntersectClipRect_CDC__QAEHPBUtagRECT___Z ............................FF760CFF7608FF7604FF3657FFD35F5E5BC20400
+538B5C2408568BF18B4E0433C03B4E08578B..........74..85DB74..8B4304 0A A6BE 0040 :0000 _SelectClipRgn_CDC__QAEHPAVCRgn___Z ......................85DB75..33C0EB..8B43045056FFD75F5E5BC20400
+538B5C2408568BF18B4E0433C03B4E08578B..........74..85DB74..8B4304 0A A6BE 0046 :0000 _SelectObject_CDC__QAEPAVCPen__PAV2__Z ......................85DB75..33C0EB..8B43045056FFD750E8........5F5E5BC20400
+538B5C2408568BF18B4E0433C03B4E08578B..........74..85DB74..8B4304 0A A6BE 0046 :0000 _SelectObject_CDC__QAEPAVCBrush__PAV2__Z ......................85DB75..33C0EB..8B43045056FFD750E8........5F5E5BC20400
+538B5C2408568BF18B4E0433C03B4E08578B..........74..85DB74..8B4304 0A A6BE 0046 :0000 _SelectObject_CDC__UAEPAVCFont__PAV2__Z ......................85DB75..33C0EB..8B43045056FFD750E8........5F5E5BC20400
+538B5C2408568BF18B4E0433C03B4E08578B..........74..85DB74..8B4304 0E CAC6 0048 :0000 _SelectClipRgn_CDC__QAEHPAVCRgn__H_Z ..............................85DB75..33C0EB..8B4304FF7424145056FFD75F5E5BC20800
+538B5C2408568BF18B4E0483....3B4E08578B..........74..85DB75..33C0 01 A5A9 0045 :0000 _SelectObject_CDC__QAEHPAVCRgn___Z ....8B43045051FFD78B760885F674..85DB75..33C0EB..8B43045056FFD75F5E5BC20400
+558BEC51515657FF750C8BF1FF7508FF7604FF..........8BF88B46043B4608 01 DBC5 0046 :0000 _PolylineTo_CDC__QAEHPBUtagPOINT__H_Z ....8D4DF85150FF..........6A..FF75FCFF75F8FF7608FF..........8BC75F5EC9C20800
+558BEC51515657FF750C8BF1FF7508FF7604FF..........8BF88B46043B4608 01 DBC5 0046 :0000 _PolyBezierTo_CDC__QAEHPBUtagPOINT__H_Z ....8D4DF85150FF..........6A..FF75FCFF75F8FF7608FF..........8BC75F5EC9C20800
+558BEC51515657FF75108BF1FF750CFF7508FF7604FF..........8BF88B4604 04 F55B 0049 :0000 _PolyDraw_CDC__QAEHPBUtagPOINT__PBEH_Z ..........8D4DF85150FF..........6A..FF75FCFF75F8FF7608FF..........8BC75F5EC9C20C00
+558BEC51515657FF75248BF1FF7520FF751CFF7518FF7514FF7510FF750CFF75 05 9C6E 0058 :0000 _ArcTo_CDC__QAEHHHHHHHHH_Z ....................8BF88B46043B460874..8D4DF85150FF..........6A..FF75FCFF75F8FF7608FF..........8BC75F5EC9C22000
+558BEC51518D45F850FF7108FF..........8B4DF88B450889088B4DFC894804 04 26E6 0024 :0000 _GetViewportExt_CDC__QBE_AVCSize__XZ 
+558BEC51518D45F850FF7108FF..........8B4DF88B450889088B4DFC894804 04 26E6 0024 :0000 _GetWindowExt_CDC__QBE_AVCSize__XZ 
+558BEC5168........8D45FC50C7............E8........CC............ 00 0000 001A :0000 _AfxThrowUserException__YGXXZ 
+558BEC5168........8D45FC50C7............E8........CC............ 00 0000 001A :0000 _AfxThrowResourceException__YGXXZ 
+558BEC568BF18B46043B4608578B..........74..FF7508FF7510FF750C50FF 07 A474 003D :0000 _SetViewportOrg_CDC__UAE_AVCPoint__HH_Z ................FF7508FF7510FF750C56FFD78B45085F5E5DC20C00
+558BEC568BF18B46043B4608578B..........74..FF7508FF7510FF750C50FF 07 A474 003D :0000 _OffsetViewportOrg_CDC__UAE_AVCPoint__HH_Z ................FF7508FF7510FF750C56FFD78B45085F5E5DC20C00
+558BEC568BF18B46043B4608578B..........74..FF7508FF7510FF750C50FF 07 A474 003D :0000 _SetViewportExt_CDC__UAE_AVCSize__HH_Z ................FF7508FF7510FF750C56FFD78B45085F5E5DC20C00
+558BEC568BF18B46043B4608578B..........74..FF7508FF7518FF7514FF75 0D 3645 0049 :0000 _ScaleViewportExt_CDC__UAE_AVCSize__HHHH_Z ............................FF7508FF7518FF7514FF7510FF750C56FFD78B45085F5E5DC21400
+558BEC568BF18B46043B4608578B..........74..FF7508FF7510FF750C50FF 07 A474 003D :0000 _SetWindowOrg_CDC__QAE_AVCPoint__HH_Z ................FF7508FF7510FF750C56FFD78B45085F5E5DC20C00
+558BEC568BF18B46043B4608578B..........74..FF7508FF7510FF750C50FF 07 A474 003D :0000 _OffsetWindowOrg_CDC__QAE_AVCPoint__HH_Z ................FF7508FF7510FF750C56FFD78B45085F5E5DC20C00
+558BEC568BF18B46043B4608578B..........74..FF7508FF7510FF750C50FF 07 A474 003D :0000 _SetWindowExt_CDC__UAE_AVCSize__HH_Z ................FF7508FF7510FF750C56FFD78B45085F5E5DC20C00
+558BEC568BF18B46043B4608578B..........74..FF7508FF7518FF7514FF75 0D 3645 0049 :0000 _ScaleWindowExt_CDC__UAE_AVCSize__HHHH_Z ............................FF7508FF7518FF7514FF7510FF750C56FFD78B45085F5E5DC21400
+558BEC568BF18B46043B4608578B..........74..FF7508FF7510FF750C50FF 07 A474 003D :0000 _MoveTo_CDC__QAE_AVCPoint__HH_Z ................FF7508FF7510FF750C56FFD78B45085F5E5DC20C00
+558BEC568BF18B4E0433C03B4E08578B..........74..FF7514FF7510FF750C 0C B24D 0042 :0000 _ExcludeClipRect_CDC__QAEHHHHH_Z ..........................FF7514FF7510FF750CFF750856FFD75F5E5DC21000
+558BEC568BF18B4E0433C03B4E08578B..........74..FF7514FF7510FF750C 0C B24D 0042 :0000 _IntersectClipRect_CDC__QAEHHHHH_Z ..........................FF7514FF7510FF750CFF750856FFD75F5E5DC21000
+558BEC56FF75188BF1FF7514FF7510FF750CFF7508FF..........508BCEE8.. 00 0000 0028 :0000 _CreateBitmap_CBitmap__QAEHHHIIPBX_Z ......5E5DC21400
+558BEC83EC105356578D45F0508BF1E8........8D45F8508BCEE8........FF 03 27A6 0069 :0000 _DPtoLP_CDC__QBEXPAUtagSIZE___Z ..............FF75F08BF0E8........8B..........5959568B750850FF36FFD7FF75FC8906E8........FF75F48BD8E8........59595350FF7604FFD75F8946045E5BC9C20400
+558BEC83EC105356578D45F8508BF1E8........8D45F0508BCEE8........FF 03 27A6 0069 :0000 _LPtoDP_CDC__QBEXPAUtagSIZE___Z ..............FF75F08BF0E8........8B..........5959568B750850FF36FFD7FF75FC8906E8........FF75F48BD8E8........59595350FF7604FFD75F8946045E5BC9C20400
+558BEC83EC14566A..8D45EC6A..508BF1E8........8B450883C40C8945F08D 07 503B 0038 :0000 _StartDocW_CDC__QAEHPB_W_Z ..........................FF..........5EC9C20400
+558BEC83EC4053568B75100FB74E04B8........3BC8570F8F........0F84.. 00 0000 0237 :0000 _AfxEnumMetaFileProc__YGHPAUHDC____PAUtagHANDLETABLE__PAUtagMETARECORD__HJ_Z ......83....0F84........81..........0F84........83....0F84........83E90674..81..........74..83E9080F85........8B4D18FF76068B01FF....E9........8B4D18FF76068B01FF....E9........0FB746068B4D0C8B3C8157897D10FF..........85C075..6A..FF..........8B5D188B..........50FF73048945FCFFD7FF7510894518FF7304FFD73B45FC8945F875..FF7510E8........8B138BCB50FF....E9........FF7518FF7304FFD7FF75F8FF7304FFD7E9........83....0F85........57E8........8B4D188B11EB..0FBF56068B4D188B0152FF....E9........0FBF56068B4D188B0152FF....E9
+558BEC8B450885C074..8B4004FF7524FF7520FF751CFF7518FF7514FF7510FF 07 C75E 0030 :0000 _GrayStringW_CDC__UAEHPAVCBrush__P6GHPAUHDC____JH_ZJHHHHH_Z ........................5DC22000
+558BEC8B451885C074..8B4004FF7524FF7520FF751C50FF7514FF7510FF750C 07 BDFE 0030 :0000 _BitBlt_CDC__QAEHHHHHPAV1_HHK_Z ........................5DC22000
+558BECFF7518FF7514FF7510FF750CFF7508FF7104FF..........5DC21400.. 00 0000 001F :0000 _DrawTextExW_CDC__UAEHPA_WHPAUtagRECT__IPAUtagDRAWTEXTPARAMS___Z 
+558BECFF7520FF751CFF7518FF7514FF7510FF750CFF7508FF7104FF........ 00 0000 0025 :0000 _ExtTextOutW_CDC__UAEHHHIPBUtagRECT__PB_WIPAH_Z ..5DC21C00
+558BECFF7524FF7520FF751CFF7518FF7514FF7510FF750CFF7104FF........ 00 0000 0038 :0000 _TabbedTextOutW_CDC__UAE_AVCSize__HHPB_WHHPAHH_Z ..8B4D080FBFD0C1E8100FBFC089410489118BC15DC22000
+565768........8BF1FF..........68........5033FFFF..........3BC774 00 0000 0046 :0000 _SetLayout_CDC__QAEKK_Z ..FF74240CFF7604FFD08BF8EB..397C240C74..6A..83....FF..........8BC75F5EC20400
+5668........8BF1FF..........68........50FF..........85C074..FF76 06 9EEA 0036 :0000 _GetLayout_CDC__QBEKXZ ..............6A..83....FF..........8BC65EC3
+568BF1578B7E0485FF74..6A..E8........85C074..FF76048D481CE8...... 00 0000 002A :0000 _Detach_CGdiObject__QAEPAXXZ ..836604008BC75F5EC3
+568BF1578B7E0485FF74..6A..E8........85C074..FF76048D481CE8...... 00 0000 0031 :0000 _Detach_CDC__QAEPAUHDC____XZ ..8B068BCEFF....836604008BC75F5EC3
+568BF16A..FF7604FF..........83....75..FF742408FF7604FF.......... 01 A5A9 0039 :0000 _PlayMetaFile_CDC__QAEHPAUHMETAFILE_____Z ....5668........FF742410FF7604FF..........5EC20400
+568BF18B460885C074..39460474..6A..FF742410FF74241050FF.......... 0C DFE6 0035 :0000 _LineTo_CDC__QAEHHH_Z ..................................5EC20800
+568BF18B4E0433C03B4E08578B..........74..FF74240C51FFD78B760885F6 01 DBC5 002E :0000 _SetArcDirection_CDC__QAEHH_Z ....FF74240C56FFD75F5EC20400
+568BF18B4E0433C03B4E08578B..........74..FF74240C51FFD78B760885F6 01 DBC5 002E :0000 _SetColorAdjustment_CDC__QAEHPBUtagCOLORADJUSTMENT___Z ....FF74240C56FFD75F5EC20400
+568BF18B4E0433C03B4E08578B..........74..FF74240C51FFD78B760885F6 01 DBC5 002E :0000 _SetBkMode_CDC__QAEHH_Z ....FF74240C56FFD75F5EC20400
+568BF18B4E0433C03B4E08578B..........74..FF74240C51FFD78B760885F6 01 DBC5 002E :0000 _SetPolyFillMode_CDC__QAEHH_Z ....FF74240C56FFD75F5EC20400
+568BF18B4E0433C03B4E08578B..........74..FF74240C51FFD78B760885F6 01 DBC5 002E :0000 _SetROP2_CDC__QAEHH_Z ....FF74240C56FFD75F5EC20400
+568BF18B4E0433C03B4E08578B..........74..FF74240C51FFD78B760885F6 01 DBC5 002E :0000 _SetStretchBltMode_CDC__QAEHH_Z ....FF74240C56FFD75F5EC20400
+568BF18B4E0433C03B4E08578B..........74..FF74240C51FFD78B760885F6 01 DBC5 002E :0000 _SetGraphicsMode_CDC__QAEHH_Z ....FF74240C56FFD75F5EC20400
+568BF18B4E0433C03B4E08578B..........74..FF74240C51FFD78B760885F6 01 DBC5 002E :0000 _SetWorldTransform_CDC__QAEHPBUtagXFORM___Z ....FF74240C56FFD75F5EC20400
+568BF18B4E0433C03B4E08578B..........74..FF742410FF74241051FFD78B 05 EE2C 0036 :0000 _ModifyWorldTransform_CDC__QAEHPBUtagXFORM__K_Z ............FF742410FF74241056FFD75F5EC20800
+568BF18B4E0433C03B4E08578B..........74..FF74240C51FFD78B760885F6 01 DBC5 002E :0000 _SetMapMode_CDC__UAEHH_Z ....FF74240C56FFD75F5EC20400
+568BF18B4E0433C03B4E08578B..........74..FF742410FF74241051FFD78B 05 EE2C 0036 :0000 _OffsetClipRgn_CDC__QAEHHH_Z ............FF742410FF74241056FFD75F5EC20800
+568BF18B4E0433C03B4E08578B..........74..FF742410FF74241051FFD78B 05 EE2C 0036 :0000 _OffsetClipRgn_CDC__QAEHUtagSIZE___Z ............FF742410FF74241056FFD75F5EC20800
+568BF18B4E0433C03B4E08578B..........74..FF742410FF74241051FFD78B 05 EE2C 0036 :0000 _SetTextJustification_CDC__QAEHHH_Z ............FF742410FF74241056FFD75F5EC20800
+568BF18B4E0433C0403B4E08578B..........74..FF74240C51FFD78B760885 02 3C12 003E :0000 _RestoreDC_CDC__UAEHH_Z ......85C074..FF74240C56FFD785C074..33C040EB..33C05F5EC20400
+568BF18B4E043B4E08578B..........B8........74..FF74240C51FFD78B76 04 2C31 0031 :0000 _SetTextCharacterExtra_CDC__QAEHH_Z ..........FF74240C56FFD75F5EC20400
+568BF18B4E0483....3B4E08578B..........74..FF74240C51FFD78B760885 02 3C12 002F :0000 _SetMapperFlags_CDC__QAEKK_Z ......FF74240C56FFD75F5EC20400
+568BF18B4E0483....3B4E08578B..........74..FF74240C51FFD78B760885 02 3C12 002F :0000 _SetBkColor_CDC__UAEKK_Z ......FF74240C56FFD75F5EC20400
+568BF18B4E0483....3B4E08578B..........74..FF74240C51FFD78B760885 02 3C12 002F :0000 _SetTextColor_CDC__UAEKK_Z ......FF74240C56FFD75F5EC20400
+568BF1C7..........E8........F64424080174..56E8........598BC65EC2 02 2768 0022 :0000 ___GCBitmap__UAEPAXI_Z 
+568BF1C7..........E8........F64424080174..56E8........598BC65EC2 02 2768 0022 :0000 ___GCBrush__UAEPAXI_Z 
+568BF1C7..........E8........F64424080174..56E8........598BC65EC2 02 2768 0022 :0000 ___GCPen__UAEPAXI_Z 
+568BF1C7..........E8........F64424080174..56E8........598BC65EC2 02 2768 0022 :0000 ___GCGdiObject__UAEPAXI_Z 
+568BF1E8........F64424080174..56E8........598BC65EC20400........ 00 0000 001C :0000 ___GCWindowDC__UAEPAXI_Z 
+568BF1E8........F64424080174..56E8........598BC65EC20400........ 00 0000 001C :0000 ___GCDC__UAEPAXI_Z 
+568BF1E8........F64424080174..56E8........598BC65EC20400........ 00 0000 001C :0000 ___GCClientDC__UAEPAXI_Z 
+568BF1E8........F64424080174..56E8........598BC65EC20400........ 00 0000 001C :0000 ___GCPaintDC__UAEPAXI_Z 
+56FF7424088BF1E8........83660C00836610008BC65EC20400............ 00 0000 001A :0000 __0CSimpleException__QAE_H_Z 
+56FF7424088BF1E8........8B44240C898614010000C7..........8BC65EC2 02 87C1 0022 :0000 __0CUserException__QAE_HI_Z 
+56FF7424088BF1E8........8B44240C898614010000C7..........8BC65EC2 02 87C1 0022 :0000 __0CResourceException__QAE_HI_Z 
+56FF7424088BF1FF..........FF74240C50FF..........508BCEE8........ 07 1B29 0032 :0000 _CreateDIBPatternBrush_CBrush__QAEHPAXI_Z ........................8BC65EC20800
+56FF7424088BF1FF7604FF..........85C074..8B46045333DB433B460874.. 02 E45D 005E :0000 _SelectClipPath_CDC__QAEHH_Z ......6A..6A..6A..FF..........8BF857FF7604FF..........85C07C..57FF7608FF..........85C075..33DB57FF..........5F8BC35B5EC20400
+6A..B8........E8........E8........8BF0837E200075..837D080074..68 00 0000 0074 :0000 _afxMapHGDIOBJ__YGPAVCHandleMap__H_Z ........E8........6A..8BD8E8........598BC8894D088365FC0085C974..6A..6A..68........68........68........E8........EB..33C083......53894620E8........8B4620E8........C20400
+6A..B8........E8........E8........8BF0837E1C0075..837D080074..68 00 0000 0074 :0000 _afxMapHDC__YGPAVCHandleMap__H_Z ........E8........6A..8BD8E8........598BC8894D088365FC0085C974..6A..6A..68........68........68........E8........EB..33C083......5389461CE8........8B461CE8........C20400
+6A..B9........E8........83............83............68........C7 00 0000 003A :0000 ____E_simpleResourceException__YAXXZ ..................C7..................E8........59C3
+6A..B9........E8........83............83............68........C7 00 0000 003A :0000 ____E_simpleUserException__YAXXZ ..................C7..................E8........59C3
+6A..E8........8BC8E9............................................ 00 0000 000E :0000 _FromHandle_CDC__SGPAV1_PAUHDC_____Z 
+6A..E8........8BC8E9............................................ 00 0000 000E :0000 _FromHandle_CGdiObject__SGPAV1_PAX_Z 
+6A..B8........E8........8BF18975F033C089460489460889460C8B4D083B 05 FD52 0054 :0000 __0CWindowDC__QAE_PAVCWnd___Z ....................74..8B412050894610FF..........508BCEE8........85C075..E8........8BC6E8........C20400
+6A..B8........E8........8BF18975F083660400FF75108365FC00FF750CC7 00 0000 0049 :0000 __0CPen__QAE_HHK_Z ..........FF7508FF..........508BCEE8........85C075..E8........8BC6E8........C20C00
+6A..B8........E8........8BF18975F0C7..........8365FC00E8........ 05 2FB3 003B :0000 __1CWindowDC__UAE_XZ ....................83......8BCEE8........E8........C3
+6A..B8........E8........8BF18975F083660400FF75188365FC00FF7514C7 00 0000 004F :0000 __0CPen__QAE_HHPBUtagLOGBRUSH__HPBK_Z ..........FF7510FF750CFF7508FF..........508BCEE8........85C075..E8........8BC6E8........C21400
+6A..B8........E8........8BF18975F0836604008B45088365FC00C7...... 00 0000 0046 :0000 __0CBrush__QAE_PAVCBitmap___Z ....FF7004FF..........508BCEE8........85C075..E8........8BC6E8........C20400
+6A..B8........E8........8BF18975F033C089460489460889460C8B4D083B 05 FD52 0054 :0000 __0CClientDC__QAE_PAVCWnd___Z ....................74..8B412050894610FF..........508BCEE8........85C075..E8........8BC6E8........C20400
+6A..B8........E8........8BF18975F033C089460489460889460C8945FC8B 06 374B 0054 :0000 __0CPaintDC__QAE_PAVCWnd___Z ......................8B40205150894610FF..........508BCEE8........85C075..E8........8BC6E8........C20400
+6A..B8........E8........8BF18975F083660400FF75088365FC00C7...... 00 0000 0043 :0000 __0CBrush__QAE_K_Z ....FF..........508BCEE8........85C075..E8........8BC6E8........C20400
+6A..B8........E8........8BF18975F0C7..........8365FC00E8........ 05 2FB3 003B :0000 __1CClientDC__UAE_XZ ....................83......8BCEE8........E8........C3
+6A..B8........E8........8BF18975F0C7..........8365FC008D461450FF 03 240A 0040 :0000 __1CPaintDC__UAE_XZ ................8BCEE8........83......8BCEE8........E8........C3
+6A..B8........E8........8BF18975F083660400FF750C8365FC00FF7508C7 00 0000 0046 :0000 __0CBrush__QAE_HK_Z ..........FF..........508BCEE8........85C075..E8........8BC6E8........C20800
+6A..E8........85C05974..C7..........83600400C333C0C3............ 00 0000 001A :0000 _CreateObject_CGdiObject__SGPAVCObject__XZ 
+6A..E8........5933C93BC174..C7..........89480489480889480CC333C0 01 EF04 0021 :0000 _CreateObject_CDC__SGPAVCObject__XZ 
+6A..B8........E8........33DBB8........8945B8895DBC895DC0895DC489 12 E2D3 0233 :0000 _AfxDrawGrayBitmap__YGXPAVCDC__HHABVCBitmap__K_Z ................................................8B..........6A..C645FC02FFD6508D4DD8E8........6A..C645FC03FFD6508D4DE0E8........8B7508568D4DB8C645FC04E8........85C00F84........568D4DC8E8........85C00F84........8B7D148D45A0506A..FF7704FF..........85C00F84........536A..6A..FF75A8FF75A4FF..........508D4DE8E8........85C00F84........FF7704FF75BCE8........FF75EC8BF8FF75CCE8........3BFB8945F00F84........3BC30F84........5353FF75BCFF..........508D4DB8E8........8B..........68........5353FF75BC894514FF75A8FF75A45353FF75CCFFD768........8D4DB8E8
+6A..B8........E8........33DBB8........8945C4895DC8895DCC895DD089 12 F3E9 0277 :0000 _AfxGetGrayBitmap__YGXABVCBitmap__PAV1_K_Z ................................................8B..........6A..C645FC02FFD6508D4DD4E8........6A..C645FC03FFD6508D4DDCE8........8B..........53C645FC04FFD6508D4DC4E8........85C00F84........53FFD6508D4DB4E8........85C00F84........8B75088D459C506A..FF7604FF..........8B4D0CE8........0FB745AE8B4D0C53500FB745AC50FF75A4FF75A0E8........85C00F84........536A..6A..FF75A4FF75A0FF..........508D4DE4E8........85C00F84........FF7604FF75C8E8........FF75E8894508FF75B8E8........395D088945EC0F84........3BC30F84........5353FF75C8FF..........508D4DC4E8........8B
+6A..B8........E8........33DBB8........8945D0895DD4895DD8895DDC89 12 8F18 026C :0000 _AfxDrawDitheredBitmap__YGXPAVCDC__HHABVCBitmap__KK_Z ................................................895DE4C7............8B7508568D4DD0C645FC03E8........85C00F84........568D4DC0E8........85C00F84........8D4598508B45146A..FF7004FF..........85C00F84........8B..........68........6A..6A..6A..6A..FFD7508D4DE8E8........8D45E8508D4DE0E8........8D4DE8E8........536A..6A..FF75A0FF759CFFD7508D4DE8E8........8B4514FF7004FF75D4E8........FF75EC894514FF75C4E8........395D148945F00F84........3BC30F84........5353FF75D4FF..........508D4DD0E8........8B..........68........5353FF75D4894508FF75A0FF759C5353FF75C4FFD7
+6A..B8........E8........33DBB8........8945C0895DC4895DC8895DCC89 1E 1950 02E0 :0000 _AfxGetDitheredBitmap__YGXABVCBitmap__PAV1_KK_Z ........................................................................895DE4C7............8B..........53C645FC04FFD6508D4DC0E8........85C00F84........53FFD6508D4DB0E8........85C00F84........53FFD6508D4DD0E8........85C00F84........8D4588508B45086A..FF7004FF..........85C00F84........8B4D0CE8........0FB7459A8B4D0C53500FB7459850FF7590FF758CE8........85C00F84........8B..........68........33FF4757576A..6A..FFD6508D4DE8E8........8D45E8508D4DE0E8........8D4DE8E8........535757FF7590FF758CFFD6508D4DE8E8........8B4508FF7004FF75C4E8........FF75EC894508FF75B4E8........395D08
+83610400C3...................................................... 00 0000 0005 :0000 _ReleaseOutputDC_CDC__UAEXXZ 
+83610800C3...................................................... 00 0000 0005 :0000 _ReleaseAttribDC_CDC__UAEXXZ 
+8379040075..33C0C3E8........50FF..........C3.................... 00 0000 0016 :0000 _DeleteDC_CDC__QAEHXZ 
+8379040075..33C0C3E8........50FF..........C3.................... 00 0000 0016 :0000 _DeleteObject_CGdiObject__QAEHXZ 
+83790400C7..........74..E8........50FF..........C3.............. 00 0000 0019 :0000 __1CDC__UAE_XZ 
+83....E9........................................................ 00 0000 0008 :0000 _RemoveHandle_CHandleMap__QAEXPAX_Z 
+85C975..33C0C38B4104C3.......................................... 00 0000 000B :0000 _GetSafeHandle_CGdiObject__QBEPAXXZ 
+85C975..33C0C38B4104C3.......................................... 00 0000 000B :0000 _GetSafeHdc_CDC__QBEPAUHDC____XZ 
+85C975..33C0C38B4120C3.......................................... 00 0000 000B :0000 _GetSafeHwnd_CWnd__QBEPAUHWND____XZ 
+8B44240433C93BC174..C7..........89480489480889480CC20400........ 00 0000 001C :0000 _Construct___ConstructDestruct_VCDC____SGXPAVCObject___Z 
+8B44240485C0568BF174..8B400450FF..........508BCEE8........5EC204 01 78F0 0021 :0000 _CreatePatternBrush_CBrush__QAEHPAVCBitmap___Z 
+8B44240485C0568BF174..8B400450FF..........508BCEE8........5EC204 01 78F0 0021 :0000 _CreateCompatibleDC_CDC__QAEHPAV1__Z 
+8B44240485C0568BF174..6A..894604E8........FF76048D481CE8........ 09 ECB1 0029 :0000 _Attach_CGdiObject__QAEHPAX_Z 
+8B44240485C0568BF174..6A..894604E8........FF76048D481CE8........ 0A 82DB 0033 :0000 _Attach_CDC__QAEHPAUHDC_____Z ........................33C0405EC20400
+8B44240485C074..8B400450FF7104E8........C20400.................. 00 0000 0017 :0000 _SelectObject_CDC__QAEPAVCBitmap__PAV2__Z 
+8B44240485C074..8B4004FF74240850FF7104FF..........50E8........C2 02 87C1 0022 :0000 _SelectPalette_CDC__QAEPAVCPalette__PAV2_H_Z 
+8B44240485C074..83600400C7..........C20400...................... 00 0000 0015 :0000 _Construct___ConstructDestruct_VCGdiObject____SGXPAVCObject___Z 
+8B442404894104C20400............................................ 00 0000 000A :0000 _SetOutputDC_CDC__UAEXPAUHDC_____Z 
+8B442404894108C20400............................................ 00 0000 000A :0000 _SetAttribDC_CDC__UAEXPAUHDC_____Z 
+8B4424048B088B50088910894808C20400.............................. 00 0000 0011 :0000 _SwapLeftRight_CRect__SGXPAUtagRECT___Z 
+8B44240885C074..8B400450FF742408FF7104FF..........C20800........ 00 0000 001C :0000 _FillRect_CDC__QAEXPBUtagRECT__PAVCBrush___Z 
+8B442408C20800.................................................. 00 0000 0007 :0000 __2CObject__SGPAXIPAX_Z 
+8B4C24048B016A..FF....C20400.................................... 00 0000 000E :0000 _Destruct___ConstructDestruct_VCDC____SGXPAVCObject___Z 
+8B4C24048B016A..FF....C20400.................................... 00 0000 000E :0000 _Destruct___ConstructDestruct_VCGdiObject____SGXPAVCObject___Z 
+8B4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet___0CClientDC__QAE_PAVCWnd___Z_0 
+8B4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet___1CClientDC__UAE_XZ_0 
+8B4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet___0CWindowDC__QAE_PAVCWnd___Z_0 
+8B4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet___1CWindowDC__UAE_XZ_0 
+8B4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet___0CPaintDC__QAE_PAVCWnd___Z_0 
+8B4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet___1CPaintDC__UAE_XZ_0 
+8B4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet___0CPen__QAE_HHK_Z_0 
+8B4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet___0CPen__QAE_HHPBUtagLOGBRUSH__HPBK_Z_0 
+8B4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet___0CBrush__QAE_K_Z_0 
+8B4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet___0CBrush__QAE_HK_Z_0 
+8B4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet___0CBrush__QAE_PAVCBitmap___Z_0 
+8B5424088D420C8B4A8433C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler__AfxGetDitheredBitmap__YGXABVCBitmap__PAV1_KK_Z 
+8B5424088D420C8B4A9433C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler__AfxDrawDitheredBitmap__YGXPAVCDC__HHABVCBitmap__KK_Z 
+8B5424088D420C8B4A9833C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler__AfxGetGrayBitmap__YGXABVCBitmap__PAV1_K_Z 
+8B5424088D420C8B4A9C33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler__AfxDrawGrayBitmap__YGXPAVCDC__HHABVCBitmap__K_Z 
+8B5424088D420C8B4AEC33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler___0CWindowDC__QAE_PAVCWnd___Z 
+8B5424088D420C8B4AEC33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler___0CBrush__QAE_HK_Z 
+8B5424088D420C8B4AEC33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler___0CBrush__QAE_K_Z 
+8B5424088D420C8B4AEC33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler___1CPaintDC__UAE_XZ 
+8B5424088D420C8B4AEC33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler___1CClientDC__UAE_XZ 
+8B5424088D420C8B4AEC33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler___0CPaintDC__QAE_PAVCWnd___Z 
+8B5424088D420C8B4AEC33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler___0CClientDC__QAE_PAVCWnd___Z 
+8B5424088D420C8B4AEC33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler___0CBrush__QAE_PAVCBitmap___Z 
+8B5424088D420C8B4AEC33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler___0CPen__QAE_HHPBUtagLOGBRUSH__HPBK_Z 
+8B5424088D420C8B4AEC33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler___0CPen__QAE_HHK_Z 
+8B5424088D420C8B4AEC33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler___1CWindowDC__UAE_XZ 
+8BC133C9C7..........89480489480889480CC3........................ 00 0000 0014 :0000 __0CDC__QAE_XZ 
+8BC183600400C7..........C3...................................... 00 0000 000D :0000 __0CGdiObject__QAE_XZ 
+8BC183600400C7..........C3...................................... 00 0000 000D :0000 __0CBitmap__QAE_XZ 
+8BC183600400C7..........C3...................................... 00 0000 000D :0000 __0CBrush__QAE_XZ 
+8BC18B4C24040FBFD1C1E9100FBFC98910894804C20400.................. 00 0000 0017 :0000 __0CSize__QAE_K_Z 
+8BC18B4C240489088B4C24088948048B4C240C8948088B4C241089480CC21000 00 0000 0020 :0000 __0CRect__QAE_HHHH_Z 
+8BC18B4C240489088B4C2408894804C20800............................ 00 0000 0012 :0000 __0CSize__QAE_UtagSIZE___Z 
+8BC1C3.......................................................... 00 0000 0003 :0000 __0CSize__QAE_XZ 
+8BC1C3.......................................................... 00 0000 0003 :0000 __0CPoint__QAE_XZ 
+8BC1C3.......................................................... 00 0000 0003 :0000 __BCRect__QAEPAUtagRECT__XZ 
+8BC1C3.......................................................... 00 0000 0003 :0000 __0CObject__IAE_XZ 
+8D4DB0E9........................................................ 00 0000 0008 :0000 __unwindfunclet__AfxGetDitheredBitmap__YGXABVCBitmap__PAV1_KK_Z_1 
+8D4DB4E9........................................................ 00 0000 0008 :0000 __unwindfunclet__AfxGetGrayBitmap__YGXABVCBitmap__PAV1_K_Z_1 
+8D4DB8E9........................................................ 00 0000 0008 :0000 __unwindfunclet__AfxDrawGrayBitmap__YGXPAVCDC__HHABVCBitmap__K_Z_0 
+8D4DC0E9........................................................ 00 0000 0008 :0000 __unwindfunclet__AfxGetDitheredBitmap__YGXABVCBitmap__PAV1_KK_Z_0 
+8D4DC0E9........................................................ 00 0000 0008 :0000 __unwindfunclet__AfxDrawDitheredBitmap__YGXPAVCDC__HHABVCBitmap__KK_Z_1 
+8D4DC4E9........................................................ 00 0000 0008 :0000 __unwindfunclet__AfxGetGrayBitmap__YGXABVCBitmap__PAV1_K_Z_0 
+8D4DC8E9........................................................ 00 0000 0008 :0000 __unwindfunclet__AfxDrawGrayBitmap__YGXPAVCDC__HHABVCBitmap__K_Z_1 
+8D4DD0E9........................................................ 00 0000 0008 :0000 __unwindfunclet__AfxGetDitheredBitmap__YGXABVCBitmap__PAV1_KK_Z_2 
+8D4DD0E9........................................................ 00 0000 0008 :0000 __unwindfunclet__AfxDrawDitheredBitmap__YGXPAVCDC__HHABVCBitmap__KK_Z_0 
+8D4DD4E9........................................................ 00 0000 0008 :0000 __unwindfunclet__AfxGetGrayBitmap__YGXABVCBitmap__PAV1_K_Z_3 
+8D4DD8E9........................................................ 00 0000 0008 :0000 __unwindfunclet__AfxDrawGrayBitmap__YGXPAVCDC__HHABVCBitmap__K_Z_3 
+8D4DDCE9........................................................ 00 0000 0008 :0000 __unwindfunclet__AfxGetGrayBitmap__YGXABVCBitmap__PAV1_K_Z_4 
+8D4DE0E9........................................................ 00 0000 0008 :0000 __unwindfunclet__AfxDrawGrayBitmap__YGXPAVCDC__HHABVCBitmap__K_Z_4 
+8D4DE0E9........................................................ 00 0000 0008 :0000 __unwindfunclet__AfxGetDitheredBitmap__YGXABVCBitmap__PAV1_KK_Z_4 
+8D4DE0E9........................................................ 00 0000 0008 :0000 __unwindfunclet__AfxDrawDitheredBitmap__YGXPAVCDC__HHABVCBitmap__KK_Z_3 
+8D4DE4E9........................................................ 00 0000 0008 :0000 __unwindfunclet__AfxGetGrayBitmap__YGXABVCBitmap__PAV1_K_Z_2 
+8D4DE8E9........................................................ 00 0000 0008 :0000 __unwindfunclet__AfxDrawGrayBitmap__YGXPAVCDC__HHABVCBitmap__K_Z_2 
+8D4DE8E9........................................................ 00 0000 0008 :0000 __unwindfunclet__AfxGetDitheredBitmap__YGXABVCBitmap__PAV1_KK_Z_3 
+8D4DE8E9........................................................ 00 0000 0008 :0000 __unwindfunclet__AfxDrawDitheredBitmap__YGXPAVCDC__HHABVCBitmap__KK_Z_2 
+B8........C3.................................................... 00 0000 0006 :0000 _GetRuntimeClass_CPaintDC__UBEPAUCRuntimeClass__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetRuntimeClass_CGdiObject__UBEPAUCRuntimeClass__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetRuntimeClass_CPen__UBEPAUCRuntimeClass__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetRuntimeClass_CResourceException__UBEPAUCRuntimeClass__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetRuntimeClass_CBrush__UBEPAUCRuntimeClass__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetRuntimeClass_CUserException__UBEPAUCRuntimeClass__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetRuntimeClass_CFont__UBEPAUCRuntimeClass__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetRuntimeClass_CDC__UBEPAUCRuntimeClass__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetRuntimeClass_CBitmap__UBEPAUCRuntimeClass__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetRuntimeClass_CClientDC__UBEPAUCRuntimeClass__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetRuntimeClass_CPalette__UBEPAUCRuntimeClass__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetRuntimeClass_CWindowDC__UBEPAUCRuntimeClass__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetRuntimeClass_CRgn__UBEPAUCRuntimeClass__XZ 
+C20400.......................................................... 00 0000 0003 :0000 _Serialize_CObject__UAEXAAVCArchive___Z 
+C3.............................................................. 00 0000 0001 :0000 __1CObject__UAE_XZ 
+C3.............................................................. 00 0000 0001 :0000 __1CException__UAE_XZ 
+C3.............................................................. 00 0000 0001 :0000 __1CSimpleException__UAE_XZ 
+C7..........E9.................................................. 00 0000 000B :0000 __1CGdiObject__UAE_XZ 
+C7..........E9.................................................. 00 0000 000B :0000 __1CBrush__UAE_XZ 
+C7..........E9.................................................. 00 0000 000B :0000 __1CBitmap__UAE_XZ 
+C7..........E9.................................................. 00 0000 000B :0000 __1CPen__UAE_XZ 
+C7..........C3.................................................. 00 0000 0007 :0000 __1CResourceException__UAE_XZ 
+C7..........C3.................................................. 00 0000 0007 :0000 __1CUserException__UAE_XZ 
+C7..................C3.......................................... 00 0000 000B :0000 ____F_simpleResourceException__YAXXZ 
+C7..................C3.......................................... 00 0000 000B :0000 ____F_simpleUserException__YAXXZ 
+E9.............................................................. 00 0000 0005 :0000 _abs__YAJJ_Z 
+E9.............................................................. 00 0000 0005 :0000 _FromHandle_CFont__SGPAV1_PAUHFONT_____Z 
+F644240401568BF1C7..........74..56E8........598BC65EC20400...... 00 0000 001D :0000 ___GCResourceException__UAEPAXI_Z 
+F644240401568BF1C7..........74..56E8........598BC65EC20400...... 00 0000 001D :0000 ___GCUserException__UAEPAXI_Z 
+FF7424046A..FF7104FF..........C20400............................ 00 0000 0012 :0000 _GetBitmap_CBitmap__QAEHPAUtagBITMAP___Z 
+FF74240483....E8........8B4C24088908C20800...................... 00 0000 0015 :0000 _SetPermanent_CHandleMap__QAEXPAXPAVCObject___Z 
+FF742404E8........59C20400...................................... 00 0000 000D :0000 __3CObject__SGXPAX_Z 
+FF742404E8........59C20800...................................... 00 0000 000D :0000 __3CObject__SGXPAX0_Z 
+FF742404E8........59C20400...................................... 00 0000 000D :0000 __2CObject__SGPAXI_Z 
+FF742404FF7104FF..........C20400................................ 00 0000 0010 :0000 _RectVisible_CDC__UBEHPBUtagRECT___Z 
+FF742404FF7104FF..........C20400................................ 00 0000 0010 :0000 _GetClipBox_CDC__UBEHPAUtagRECT___Z 
+FF742404FF7104FF..........C20400................................ 00 0000 0010 :0000 _StartDocW_CDC__QAEHPAU_DOCINFOW___Z 
+FF742408FF742408FF..........50E8........C20800.................. 00 0000 0017 :0000 _SelectGdiObject_CDC__KGPAVCGdiObject__PAUHDC____PAX_Z 
+FF742408FF742408FF7104FF..........C20800........................ 00 0000 0014 :0000 _PtVisible_CDC__UBEHHH_Z 
+FF742408FF742408FF7104FF..........C20800........................ 00 0000 0014 :0000 _GetPixel_CDC__QBEKHH_Z 
+FF742410FF742410FF742410FF742410FF7104FF..........C21000........ 00 0000 001C :0000 _TextOutW_CDC__UAEHHHPB_WH_Z 
+FF742410FF742410FF742410FF742410FF7104FF..........C21000........ 00 0000 001C :0000 _DrawTextW_CDC__UAEHPB_WHPAUtagRECT__I_Z 
+FF742410FF742410FF742410FF742410FF7104FF..........C21000........ 00 0000 001C :0000 _Escape_CDC__UAEHHHPBDPAX_Z 
+FF7508E8........59C3............................................ 00 0000 000A :0000 __unwindfunclet__afxMapHGDIOBJ__YGPAVCHandleMap__H_Z_0 
+FF7508E8........59C3............................................ 00 0000 000A :0000 __unwindfunclet__afxMapHDC__YGPAVCHandleMap__H_Z_0 
+---

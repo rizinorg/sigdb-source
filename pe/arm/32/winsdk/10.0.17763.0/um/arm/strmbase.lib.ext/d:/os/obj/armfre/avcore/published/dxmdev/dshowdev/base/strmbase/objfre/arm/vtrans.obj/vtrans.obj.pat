@@ -1,0 +1,21 @@
+0FB42DE90048EB46D0F8A430........................................ 00 0000 000C :0000 _AlterQuality_CVideoTransformFilter__MAAJUtagQuality___Z 
+2DE90048EB460020BDE80088........................................ 00 0000 000C :0000 _GetSetupData_CBaseFilter__UAAPAU_AMOVIESETUP_FILTER__XZ 
+2DE90048EB46024B1B689847........................................ 00 0000 000C :0000 _Lock_CCritSec__QAAXXZ 
+2DE90048EB46024B1B689847........................................ 00 0000 000C :0000 _Unlock_CCritSec__QAAXXZ 
+2DE90048EB4603..00..1B689847BDE80088FEDE00000000................ 00 0000 0018 :0000 __1CAutoLock__QAA_XZ 
+2DE90048EB4607..00..C0E92822C0E92A23C0E92622C0F8................ 00 0000 0018 :0000 _StartStreaming_CVideoTransformFilter__MAAJXZ 
+2DE90048EB4607..03..054BC360034B0361BDE8004802F0................ 00 0000 0018 :0000 __1CVideoTransformFilter__UAA_XZ 
+2DE90048EB463430BDE80088........................................ 00 0000 000C :0000 _CurrentMediaType_CTransformInputPin__QAAAAVCMediaType__XZ 
+2DE90048EB463430BDE80088........................................ 00 0000 000C :0000 _CurrentMediaType_CTransformOutputPin__QAAAAVCMediaType__XZ 
+2DE90048EB464068BDE80088........................................ 00 0000 000C :0000 _GetOwner_CUnknown__QBAPAUIUnknown__XZ 
+2DE918480DF1080B044602F0........................................ 00 0000 000C :0000 __0CVideoTransformFilter__QAA_PBGPAUIUnknown__ABU_GUID___Z 
+2DE918480DF1080B04..04..21..1B..08..98..20..BDE81888FEDE00000000 10 4ADA 0030 :0000 __0CAutoLock__QAA_PAVCCritSec___Z 
+2DE918480DF1080B0E..04..74..1B..98..0B..00..C4E92822C4E92A23074B 08 53CC 0028 :0000 _EndFlush_CVideoTransformFilter__UAAJXZ 
+2DE930480DF1080B0C460546FFF748FF................................ 00 0000 0010 :0000 ___GCVideoTransformFilter__UAAPAXI_Z 
+2DE930480DF1080B50F8085C........................................ 00 0000 000C :0000 _Release_CBaseFilter__UAAKXZ 
+2DE930480DF1080B50F8085C........................................ 00 0000 000C :0000 _AddRef_CBaseFilter__UAAKXZ 
+2DE978480DF1100B0E4600230A460321................................ 00 0000 0010 :0000 _AbortPlayback_CVideoTransformFilter__IAAJJ_Z 
+2DE9F0480DF1100B50F8084C........................................ 00 0000 000C :0000 _QueryInterface_CBaseFilter__UAAJABU_GUID__PAPAX_Z 
+2DE9F0490DF1140B85B00F463B68DFF8................................ 00 0000 0010 :0000 _ShouldSkipFrame_CVideoTransformFilter__IAAHPAUIMediaSample___Z 
+2DE9FE4F0DF1280B002301930B68DFF8................................ 00 0000 0010 :0000 _Receive_CVideoTransformFilter__MAAJPAUIMediaSample___Z 
+---

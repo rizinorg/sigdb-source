@@ -1,0 +1,33 @@
+0000A0E3........................................................ 00 0000 0004 :0000 _OnGetColorSet_COleControl__UAAHPAUtagDVTARGETDEVICE__PAUHDC____PAPAUtagLOGPALETTE___Z 
+0000A0E3........................................................ 00 0000 0004 :0000 _OnGetNaturalExtent_COleControl__UAAHKJPAUtagDVTARGETDEVICE__PAUHDC____PAUtagExtentInfo__PAUtagSIZE___Z 
+0000A0E3........................................................ 00 0000 0004 :0000 __AfxInitManaged__YAHXZ 
+001A0C00A0E3.................................................... 00 0000 0006 :0000 loc.00003436 
+0030A0E3........................................................ 00 0000 0004 :0000 __0_AFXCTL_ADVISE_INFO__QAA_XZ 
+010051E3........................................................ 00 0000 0004 :0000 _OnQueryHitRect_COleControl__UAAHKPBUtagRECT__0JPAK_Z 
+0100A0E3........................................................ 00 0000 0004 :0000 _OnGetViewStatus_COleControl__UAAKXZ 
+04E02DE5490F40E2000000EB04E0.................................... 00 0000 000E :0000 _AddRef_XViewObject_COleControl__UAAKXZ 
+04E02DE5490F40E2000000EB04E0.................................... 00 0000 000E :0000 _Release_XViewObject_COleControl__UAAKXZ 
+04E02DE5490F40E2000000EB04E0.................................... 00 0000 000E :0000 _QueryInterface_XViewObject_COleControl__UAAJABU_GUID__PAPAX_Z 
+0631A0E3........................................................ 00 0000 0004 :0000 _Unfreeze_XViewObject_COleControl__UAAJK_Z 
+0631A0E3........................................................ 00 0000 0004 :0000 _Freeze_XViewObject_COleControl__UAAJKJPAXPAK_Z 
+0DC0A0E1........................................................ 00 0000 0004 :0000 _QueryHitPoint_XViewObject_COleControl__UAAJKPBUtagRECT__UtagPOINT__JPAK_Z 
+0DC0A0E1........................................................ 00 0000 0004 :0000 _OnQueryHitPoint_COleControl__UAAHKPBUtagRECT__UtagPOINT__JPAK_Z 
+0DC0A0E1........................................................ 00 0000 0004 :0000 _SetAdvise_XViewObject_COleControl__UAAJKKPAUIAdviseSink___Z 
+10402DE90140A0E1................................................ 00 0000 0008 :0000 _GetViewStatus_XViewObject_COleControl__UAAJPAK_Z 
+1EFF2FE1........................................................ 00 0000 0004 :0000 __BCRect__QAAPAUtagRECT__XZ 
+1EFF2FE1........................................................ 00 0000 0004 :0000 __0CRect__QAA_XZ 
+1EFF2FE1........................................................ 00 0000 0004 :0000 __1AFX_MAINTAIN_STATE2__QAA_XZ 
+30402DE9........................................................ 00 0000 0004 :0000 _GetExtent_XViewObject_COleControl__UAAJKJPAUtagDVTARGETDEVICE__PAUtagSIZE___Z 
+40E2............................................................ 00 0000 0002 :0000 loc.0000232a 
+70402DE9........................................................ 00 0000 0004 :0000 _QueryHitRect_XViewObject_COleControl__UAAJKPBUtagRECT__0JPAK_Z 
+70402DE9........................................................ 00 0000 0004 :0000 _Draw_XViewObject_COleControl__UAAJKJPAXPAUtagDVTARGETDEVICE__PAUHDC____2PBU_RECTL__3P6AHK_ZK_Z 
+70402DE9........................................................ 00 0000 0004 :0000 _OnGetViewRect_COleControl__UAAHKPAU_RECTL___Z 
+F0402DE9........................................................ 00 0000 0004 :0000 _GetColorSet_XViewObject_COleControl__UAAJKJPAXPAUtagDVTARGETDEVICE__PAUHDC____PAPAUtagLOGPALETTE___Z 
+F0402DE9........................................................ 00 0000 0004 :0000 _GetNaturalExtent_XViewObject_COleControl__UAAJKJPAUtagDVTARGETDEVICE__PAUHDC____PAUtagExtentInfo__PAUtagSIZE___Z 
+04..2D..10..4BE224001BE5000000EB04009FE5........................ 00 0000 0014 :0000 __catch_155535 
+04..2D..00......04E09D......2FE104..00..F1..00..A9..00..35..10.. 00 0000 00F8 :0000 _CopyRect_CRect__QAAXPBUtagRECT___Z ....................................................................................................................................................................................................................................................................................................................................................................................................................0000A60000800000000001040040
+04..2D..04..4D..08..9DE500E08DE5000000EB04D08DE2................ 00 0000 0018 :0000 _SetRect_CRect__QAAXHHHH_Z 
+04..2DE5490F40E2003090E5403193E5................................ 00 0000 0010 :0000 _GetRect_XViewObject_COleControl__UAAJKPAU_RECTL___Z 
+04..2DE503E0A0E1580010E50030B0E1................................ 00 0000 0010 :0000 _GetAdvise_XViewObject_COleControl__UAAJPAK0PAPAUIAdviseSink___Z 
+04..2DE5100051E30100000A200051E3................................ 00 0000 0010 :0000 _OnGetViewExtent_COleControl__UAAHKJPAUtagDVTARGETDEVICE__PAUtagSIZE___Z 
+---

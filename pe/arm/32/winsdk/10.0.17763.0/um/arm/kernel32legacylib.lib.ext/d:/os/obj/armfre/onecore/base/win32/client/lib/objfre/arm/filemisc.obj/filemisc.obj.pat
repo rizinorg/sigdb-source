@@ -1,0 +1,31 @@
+0FB42DE9F04F0DF1................................................ 00 0000 0008 :0000 PrivMoveFileIdentityW 
+0FB42DE9F04F0DF1................................................ 00 0000 0008 :0000 BasepOpenFileForMove 
+10B5002000F0DCFB10BDFFFF........................................ 00 0000 000C :0000 SetFileAttributesTransactedW_fin_0 
+10B5002004F02CF9................................................ 00 0000 0008 :0000 GetFileAttributesTransactedW_fin_0 
+10B5002004F0E4FD10BDFFFF........................................ 00 0000 000C :0000 GetCompressedFileSizeTransactedW_fin_0 
+10B5002005F004FA10BDFFFF........................................ 00 0000 000C :0000 DeleteFileTransactedW_fin_0 
+10B5002005F08CFD10BDFFFF........................................ 00 0000 000C :0000 CreateSymbolicLinkTransactedW_fin_0 
+10B584B0BA693A..1DEE503F00211B6B9869074B1B689847................ 00 0000 0018 :0000 PrivMoveFileIdentityW_fin_0 
+1CB5002002F0BCFF................................................ 00 0000 0008 :0000 MoveFileTransactedW_fin_0 
+1CB5002003F0A4FB1CBDFFFF........................................ 00 0000 000C :0000 MoveFileTransactedA_fin_0 
+1CB57B6823B117F1................................................ 00 0000 0008 :0000 BasepOpenFileForMove_fin_0 
+2DE90048EB461DEE500FBDE80088FFFF................................ 00 0000 0010 :0000 NtCurrentTeb 
+2DE90C480DF1080B002300920022019301F076FABDE80C88................ 00 0000 0018 :0000 MoveFileExA 
+2DE90C480DF1080B00230193022300930023002201F034FBBDE80C88........ 00 0000 001C :0000 MoveFileA 
+2DE90C480DF1080B022300930023002202F09AFF........................ 00 0000 0014 :0000 MoveFileW 
+2DE91E480DF1100B00240194069C009400F016F9........................ 00 0000 0014 :0000 MoveFileWithProgressA 
+2DE91E480DF1100B0C460146684605F0................................ 00 0000 0010 :0000 DeleteFileTransactedA 
+2DE93C480DF1100B0D4601466846144600F0FEFF........................ 00 0000 0014 :0000 SetFileAttributesTransactedA 
+2DE93C480DF1100B0D4601466846144605F006FA10B96FF0................ 00 0000 0018 :0000 GetCompressedFileSizeTransactedA 
+2DE93F480DF1180B0C4601461546D9B1D4B16846........................ 00 0000 0014 :0000 CreateSymbolicLinkA 
+2DE970480DF10C0B85B00C4601461D461646E1B1........................ 00 0000 0014 :0000 CreateSymbolicLinkTransactedA 
+2DE970480DF10C0B87B00C46014602A81D461646....ECFD08..00..20..5C.. 00 0000 0034 :0000 MoveFileWithProgressTransactedA ........02F0E4FD20B90F4B02A81B689847F2E7
+2DE97E480DF1180B0E46014668461C46154604F0........................ 00 0000 0014 :0000 GetFileAttributesTransactedA 
+2DE9B8480DF1100B6F460C46054600233B60B1F1........................ 00 0000 0014 :0000 DeleteFileTransactedW 
+2DE9F8490DF1180B6F461C4615460E46................................ 00 0000 0010 :0000 GetFileAttributesTransactedW 
+2DE9F8490DF1180B6F461C4615460E46................................ 00 0000 0010 :0000 CreateSymbolicLinkTransactedW 
+2DE9FC480DF1180B6F4614460D46064600233B60B2F1FF3F12D08CB100F0ACFE 04 E622 0024 :0000 SetFileAttributesTransactedW 
+2DE9FC480DF1180B6F4614460D4606466FF000033B609C4212D08CB105F0ACF8 00 0000 0020 :0000 GetCompressedFileSizeTransactedW 
+2DE9FC4B0DF1200B6F4682B01D4616468846814600233B60FC6AB4F1........ 00 0000 001C :0000 MoveFileTransactedW 
+2DE9FC4B0DF1200B6F4682B01D4616468846814600233B60FC6AB4F1........ 00 0000 001C :0000 MoveFileTransactedA 
+---

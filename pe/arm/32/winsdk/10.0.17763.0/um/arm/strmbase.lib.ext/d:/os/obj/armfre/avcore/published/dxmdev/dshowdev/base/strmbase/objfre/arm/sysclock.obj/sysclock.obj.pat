@@ -1,0 +1,17 @@
+0FB42DE90048EB4604A9603800F050FC5DF804BB5DF814FB................ 00 0000 0018 :0000 _SetClockDelta_CSystemClock__UAAJ_J_Z 
+2DE90048EB4609..07..09..05..00..13..0B..53..4B..93..8B..D3..CB60 0C 2967 002C :0000 _GetClassID_CSystemClock__UAAJPAU_GUID___Z 
+2DE90048EB46102200F0B2FB08B9012000E00020BDE80088................ 00 0000 0018 :0000 IsEqualGUID 
+2DE90048EB46102202F09AF8........................................ 00 0000 000C :0000 fcn.00001c40 
+2DE90048EB464068BDE80088........................................ 00 0000 000C :0000 _GetOwner_CUnknown__QBAPAUIUnknown__XZ 
+2DE90048EB46BDE8004801F0........................................ 00 0000 000C :0000 __1CSystemClock__UAA_XZ 
+2DE90048EB46BDE80088FFFF........................................ 00 0000 000C :0000 __0IPersist__QAA_XZ 
+2DE90048EB46BDE80088FFFF........................................ 00 0000 000C :0000 __0IAMClockAdjust__QAA_XZ 
+2DE90048EB46BDE80088FFFF........................................ 00 0000 000C :0000 __0IUnknown__QAA_XZ 
+2DE91E480DF1100B044600200090204601F0E6FF........................ 00 0000 0014 :0000 __0CSystemClock__QAA_PBGPAUIUnknown__PAJ_Z 
+2DE930480DF1080B054668200C4601F0................................ 00 0000 0010 :0000 _CreateInstance_CSystemClock__SAPAVCUnknown__PAUIUnknown__PAJ_Z 
+2DE930480DF1080B0C46054601F03CFD14F0010F02D0284601F032FD2846BDE8 04 BA8A 0024 :0000 ___GCSystemClock__UAAPAXI_Z 
+2DE930480DF1080B50F8085C........................................ 00 0000 000C :0000 _Release_CSystemClock__UAAKXZ 
+2DE930480DF1080B50F8085C........................................ 00 0000 000C :0000 _AddRef_CSystemClock__UAAKXZ 
+2DE978480DF1100B0E46124915460446................................ 00 0000 0010 :0000 _NonDelegatingQueryInterface_CSystemClock__UAAJABU_GUID__PAPAX_Z 
+2DE9F0480DF1100B50F8084C........................................ 00 0000 000C :0000 _QueryInterface_CSystemClock__UAAJABU_GUID__PAPAX_Z 
+---

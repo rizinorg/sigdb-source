@@ -1,7 +1,0 @@
-0FB42DE910480DF2040B85B004AC03940EAC02940D9C01940C9C009400F00CFC 00 0000 0020 :0000 __com_dispatch_method__YAJPAUIDispatch__JGGPAXPB_WZZ 
-0FB42DE910480DF2040B87B00023ADF8................................ 00 0000 0010 :0000 __com_dispatch_propput__YAJPAUIDispatch__JGZZ 
-2DE91E480DF2100B1C4613460022019202220094FFF7D4FCBDE81E88........ 00 0000 001C :0000 __com_dispatch_propget__YAJPAUIDispatch__JGPAX_Z 
-2DE93C480DF2100B0B460021........................................ 00 0000 000C :0000 __com_issue_errorex__YAXJPAUIUnknown__ABU_GUID___Z 
-40F20003C0F2000300211B681847FFFF................................ 00 0000 0010 :0000 __com_issue_error__YAXJ_Z 
-40F20003C0F2000318607047........................................ 00 0000 000C :0000 __set_com_error_handler__YAXP6AXJPAUIErrorInfo___Z_Z 
----

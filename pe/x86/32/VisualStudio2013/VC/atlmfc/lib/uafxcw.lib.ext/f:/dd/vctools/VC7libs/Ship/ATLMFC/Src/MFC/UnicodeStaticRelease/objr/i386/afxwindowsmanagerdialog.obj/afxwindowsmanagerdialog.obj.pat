@@ -1,0 +1,161 @@
+33C039410C0F9CC0C3.............................................. 00 0000 0009 :0000 _IsLocked_CStringData_ATL__QBE_NXZ 
+33C083790C010F9FC0C3............................................ 00 0000 000A :0000 _IsShared_CStringData_ATL__QBE_NXZ 
+5356578B..........8BF16A..6A..68........FFB6B8000000FFD78BD885DB 01 816A 0086 :0000 _OnMinimize_CMFCWindowsManagerDialog__IAEXXZ ....6A..6A..6A..FFB6B8000000FFD7EB..5368........FFB6B8000000FFD785C07E..6A..5368........FFB6B8000000FFD76A..50FF..........4B6A..79..6A..6A..FFB6B8000000FFD78BCEE8........8BCEE8........5F8BCE5E5BE9
+558BEC33C0C7..........89410C8941108941088941048941148B4508894118 06 E019 0026 :0000 __0__CList_PAUHWND____PAU1___QAE_H_Z 
+558BEC51515356578B..........8BF16A..6A..68........FFB6B8000000FF 09 761E 00AE :0000 _SelActive_CMFCWindowsManagerDialog__IAEXXZ ....................6A..6A..6A..FFB6B8000000FFD76A..8D43FF5068........FFB6B8000000FFD78B860C0100006A..6A..68........FFB010010000FFD733DB8945F8395DFC7E..6A..5368........FFB6B8000000FFD73B45F874..433B5DFC7C..EB..536A..68........FFB6B8000000FFD76A..6A..6A..FFB6B8000000FFD75F5E5B8BE55DC3
+558BEC5151538B..........56576A..8BF96A..68........FFB7B8000000FF 06 D383 00B4 :0000 _OnClose_CMFCWindowsManagerDialog__IAEXXZ ..............8B8F0C0100006A..6A..6A..8B8110010000FFB7B80000008945F8FFD3EB..6A..5668........FFB7B8000000FFD385C07E..6A..5668........FFB7B8000000FFD36A..6A..8BF06A..56FFD356FF..........3B45F874..8B75FC4E8975FC79..6A..6A..6A..FFB7B8000000FFD38BCFE8........8BCFE8........8BCFE8........5F5E5B8BE55DC3
+558BEC51518B450C8D55F8528B00FF70F450FF7108FF..........8B45088B4D 0F D9CA 002F :0000 _GetTextExtent_CDC__QBE_AVCSize__ABV__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL___Z 
+558BEC5153566A..8BF16A..68........FFB6B8000000FF..........8BD885 02 2D2E 00BD :0000 _OnSave_CMFCWindowsManagerDialog__IAEXXZ ......5733FF85DB7E..6A..5768........FFB6B8000000FF..........85C07E..6A..5768........FFB6B8000000FF..........6A..508D8E340100008945FCE8........85C075..FF75FCE8........5068........E8........595985C074..8B108BC8FF..........85C074..8B108BC8FF..........473BFB7C..5F8BCEE8........8BCEE8........8BCEE8........5E5B8BE55DC3
+558BEC51568BF15733FF8B4E14897E0C897E10897E08897E04E8........897E 07 8275 0027 :0000 _RemoveAll___CList_PAUHWND____PAU1___QAEXXZ 
+558BEC518BC1538945FC568B18578B4BF08B7BF48B01FF....8B75088BC86A.. 04 F1DD 0066 :0000 _Fork___CSimpleStringT__W_0A__ATL__AAEXH_Z ..........89450885C074..3BFE7D..8BF78D560152538D70105256E8........8B45088D4BF083C410897804E8........8B45FC5F89305E5B8BE55DC20400E8........CC
+558BEC5356578B7D088BD98BCF8B4718F7D0A8..74..FF730CE8........8B73 02 FA31 0062 :0000 _Serialize___CList_PAUHWND____PAU1___UAEXAAVCArchive___Z ......6A..8D46085057E8........8B3685F675..EB..E8........8BF085F674..6A..8D45085057E8........FF75088BCBE8........4E75..5F5E5B5DC20400
+558BEC5357FF750C8BD9FF7508E8........8BF8595985FF74..560FB7378BCB 02 26E3 004A :0000 _LoadStringW___CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAEHPAUHINSTANCE____I_Z ............0FB70F518D4F02515650E8........83C4108BCB56E8........33C0405E5F5B5DC20800
+558BEC538B5D0C578BF985DB75..E8........EB..837D080074..8B078B4D08 0F 9A95 0079 :0000 _SetString___CSimpleStringT__W_0A__ATL__QAEXPB_WH_Z ......................................8B4D0C8BD03BCE5E5377..8D0C4A518B0FFF71F852E8........EB..8B07FF7508FF70F852E8........83C4108BCF53E8........5F5B5DC2080068........E8........CC
+558BEC568B7508578BF98B0F3971F47E..8B71F48379FC017E..568BCFE8.... 00 0000 0058 :0000 _PrepareWrite2___CSimpleStringT__W_0A__ATL__AAEXH_Z ....EB..8B49F83BCE7D..81..........7E..81..........EB..8BC1992BC2D1F803C83BCE7D..8BCE518BCFE8........5F5E5DC20400
+558BEC568B7508578BF98B1783....8B0A3972087D..85F67E..8B016A..5652 01 00FF 0038 :0000 _Reallocate___CSimpleStringT__W_0A__ATL__AAEXH_Z ......85C074..83....89075F5E5DC20400E8........CC
+558BEC568B750C85F675..8B7104EB..8D4508508D460850E8........85C075 00 0000 0032 :0000 _Find___CList_PAUHWND____PAU1___QBEPAU__POSITION__PAUHWND____PAU2__Z ..8B3685F675..33C05E5DC208008BC6EB
+558BEC568B75104E78..578B7D088BCFFF....037D0C4E79..5F5E5DC21000.. 00 0000 001F :0000 ___H_YGXPAXIHP6EPAX0_Z_Z 
+558BEC568BF16A..FF7608E8........8B55088950088B4E0885C974..8901EB 00 0000 002C :0000 _AddTail___CList_PAUHWND____PAU1___QAEPAU__POSITION__PAUHWND_____Z ..8946048946085E5DC20400
+558BEC568BF1837E100075..6A..FF76188D461450E8........8B561883C004 0A C14C 005E :0000 _NewNode___CList_PAUHWND____PAU1___IAEPAUCNode_1_PAU21_0_Z ......................8B46108901894E1083....4A79..8B461085C074..8B08894E108B4D088948048B4D0C8908FF460C5E5DC20800E8........CC
+558BEC568BF18B4D0885C974..8B01FF....83....89068BC65E5DC2040068.. 00 0000 0029 :0000 __0__CSimpleStringT__W_0A__ATL__QAE_PAUIAtlStringMgr_1__Z ......E8........CC
+558BEC568BF1C7..........E8........F645080174..56E8........598BC6 05 765D 0025 :0000 ___G__CList_PAUHWND____PAU1___UAEPAXI_Z 
+558BEC568BF1E8........F645080174..56E8........598BC65E5DC20400.. 00 0000 001F :0000 ___GCMFCWindowsManagerDialog__UAEPAXI_Z 
+558BEC568BF1E8........F645080174..56E8........598BC65E5DC20400.. 00 0000 001F :0000 ___GCListBox__UAEPAXI_Z 
+558BEC56FF75088BF156FF..........8BC65E5DC20400.................. 00 0000 0017 :0000 __0CRect__QAE_ABUtagRECT___Z 
+558BEC56FF75088BF1E8........85C074..FF75088BCE50E8........5E5DC2 02 2768 0022 :0000 _LoadStringW___CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAEHI_Z 
+558BEC56FF75088BF1E8........8BC65E5DC20400...................... 00 0000 0015 :0000 __4__CSimpleStringT__W_0A__ATL__QAEAAV01_PB_W_Z 
+558BEC56FF75088BF1E8........8BC65E5DC20400...................... 00 0000 0015 :0000 __4__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAEAAV01_PB_W_Z 
+558BEC5DE9...................................................... 00 0000 0009 :0000 _GetFormattedLength___ChTraitsCRT__W_ATL__SAHPB_WPAD_Z 
+558BEC5DE9...................................................... 00 0000 0009 :0000 _Format___ChTraitsCRT__W_ATL__SAHPA_WIPB_WPAD_Z 
+558BEC5DE9...................................................... 00 0000 0009 :0000 _GetBuffer___CSimpleStringT__W_0A__ATL__QAEPA_WH_Z 
+558BEC5DE9...................................................... 00 0000 0009 :0000 _ReleaseBufferSetLength___CSimpleStringT__W_0A__ATL__QAEXH_Z 
+558BEC5DE9...................................................... 00 0000 0009 :0000 _FromHandle_CFont__SGPAV1_PAUHFONT_____Z 
+558BEC6A..FF750868........FF7120FF..........5DC20400............ 00 0000 001A :0000 _GetSel_CListBox__QBEHH_Z 
+558BEC6A..FF750868........FF7120FF..........5DC20400............ 00 0000 001A :0000 _SetHorizontalExtent_CListBox__QAEXH_Z 
+558BEC6A..FF750868........FF7120FF..........5DC20400............ 00 0000 001A :0000 _GetItemData_CListBox__QBEKH_Z 
+558BEC6A..FF75086A..FF7120FF..........5DC20400.................. 00 0000 0017 :0000 _SetRedraw_CWnd__QAEXH_Z 
+558BEC817D080E00078075..E8........FF7508E8........CC............ 00 0000 001A :0000 _AtlThrowImpl_ATL__YGXJ_Z 
+558BEC837D080053578BD974..FF750CFF7508E8........8BF8595985FF79.. 01 361F 005B :0000 _FormatV___CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAEXPB_WPAD_Z ..........EB..578BCBE8........FF750C8D4F01FF75085150E8........83C4108BCB57E8........5F5B5DC2080068........E8........CC
+558BEC837D0800578BF975..33C0EB..FF7508E8........5950FF75088BCFE8 00 0000 0029 :0000 _SetString___CSimpleStringT__W_0A__ATL__QAEXPB_W_Z ........5F5DC20400
+558BEC837D080074..FF7510FF750CEB..FF750CFF751068........FF7120FF 00 0000 0029 :0000 _SelItemRange_CListBox__QAEHHHH_Z ..........5DC20C00
+558BEC837D080075..33C05DC35DE9.................................. 00 0000 0013 :0000 _AtlStrLen_ATL__YAHPB_W_Z 
+558BEC837D080075..33C05DC35DE9.................................. 00 0000 0013 :0000 _GetBaseTypeLength___ChTraitsCRT__W_ATL__SAHPB_W_Z 
+558BEC837D080075..33C05DC35DE9.................................. 00 0000 0013 :0000 _StringLength___CSimpleStringT__W_0A__ATL__SAHPB_W_Z 
+558BEC83EC1053565733FF8BD9575768........FFB3B8000000FF.......... 19 CFB8 01AE :0000 _UpdateButtons_CMFCWindowsManagerDialog__IAEXXZ ..........................................................8BF7575768........FFB3B8000000FF..........3BF07D..575668........FFB3B8000000FF..........85C07E..575668........FFB3B8000000FF..........8BF08D8B180100005756E8........F7D88D8B34010000571BC0F7D02145FC56E8........8B75F885C075..C745F4010000008B45FC468975F885C075..EB..8B45FC8B75F05068........8BCBE8........8BC8E8........FF75F48BCB68........E8........8BC8E8........39BB1401000074..83....7C..33C040EB..8BC75068........8BCBE8........8BC8E8........39BB1401000074..83....7C..33C040EB..8BC75068........8BCBE8
+558BEC83EC34A1........33C58945FC535633DB8BF1578B..........39.... 00 0000 0115 :0000 _OnActivate_CMFCWindowsManagerDialog__IAEXXZ ......75..FF7620FF..........50E8........53536A..FF7020FFD7535368........FFB6B8000000FFD783....75..8D45CC506A..68........FFB6B8000000FFD783....75..53FF75CC68........FFB6B8000000FFD78BD883FBFF74..8D45D0C7............5053FF..........837DD80275..6A..53FF..........8B860C0100006A..5368........FFB010010000FFD76A..8BCEE8........33DB83............75..FF7620FF..........50E8........536A..6A..FF7020FFD7FF7620FF..........50E8........68........5353FF7020FF..........8B4DFC5F5E33CD5BE8........8BE55DC3
+558BEC8B450832D285C074..A9........75..0FB7C050E8........B2018AC2 04 057A 0024 :0000 _CheckImplicitLoad___CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__AAE_NPBX_Z 
+558BEC8B450883....89015DC20400.................................. 00 0000 000F :0000 _Attach___CSimpleStringT__W_0A__ATL__AAEXPAUCStringData_2__Z 
+558BEC8B450885C074..8B4D0C85C974..8B002B01F7D81BC0405DC20800E8.. 00 0000 0024 :0000 ___CompareElements_PAUHWND____PAU1___YGHPBQAUHWND____0_Z ......CC
+558BEC8B450885C074..83....74..83....74..83....74..83....74..E9.. 00 0000 002A :0000 _AfxCrtErrorCheck__YAHH_Z ......E9........5DC3
+558BEC8B450885C07E..0FB7C00D........5DC3........................ 00 0000 0014 :0000 _HRESULT_FROM_WIN32 
+558BEC8B450889018B450C8941048BC15DC20800........................ 00 0000 0014 :0000 __0CSize__QAE_UtagSIZE___Z 
+558BEC8B4508FF7510FF750C8B108B01FF72F452FF....5DC20C00.......... 00 0000 001B :0000 _DrawTextW_CDC__QAEHABV__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__PAUtagRECT__I_Z 
+558BEC8B450C5DC3................................................ 00 0000 0008 :0000 __2_YAPAXIPAX_Z 
+558BEC8B450C5DC3................................................ 00 0000 0008 :0000 _GetBaseTypeLength___ChTraitsCRT__W_ATL__SAHPB_WH_Z 
+558BEC8B450C85C074..8B400450FF7508FF7104FF..........5DC20800.... 00 0000 001E :0000 _FillRect_CDC__QAEXPBUtagRECT__PAVCBrush___Z 
+558BEC8B450C85C074..8B4004FF751050FF7508FF7120FF..........5DC20C 01 78F0 0021 :0000 _RedrawWindow_CWnd__QAEHPBUtagRECT__PAVCRgn__I_Z 
+558BEC8B450CC1E804406A..0FB7C050FF7508FF..........85C075..5DC3FF 07 38F0 0030 :0000 _AtlGetStringResourceImage_ATL__YAPBUATLSTRINGRESOURCEIMAGE_1_PAUHINSTANCE____I_Z ......................83C40C5DC3
+558BEC8B450CF7D8508B4508F7D85051FF..........5DC20800............ 00 0000 001A :0000 _DeflateRect_CRect__QAEXHH_Z 
+558BEC8B451403C050FF75108B450C03C050FF7508E8........83C4105DC3.. 00 0000 001F :0000 _CopyCharsOverlapped___CSimpleStringT__W_0A__ATL__SAXPA_WIPB_WH_Z 
+558BEC8B451403C050FF75108B450C03C050FF7508E8........83C4105DC3.. 00 0000 001F :0000 _CopyChars___CSimpleStringT__W_0A__ATL__SAXPA_WIPB_WH_Z 
+558BEC8B451483F8FF75..837D100075..33C0EB..FF7510E8........594050 0A 4275 0033 :0000 _ConvertToBaseType___ChTraitsCRT__W_ATL__SAXPA_WHPB_WH_Z ............................83C4105DC3
+558BEC8B4D088D451050FF750CE8........5DC3........................ 00 0000 0014 :0000 _Format___CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAAXPB_WZZ 
+558BEC8B4D0C5356578B7D1085FF74..85C90F84........8B55088B4218F7D0 01 3AD9 00A1 :0000 ___SerializeElements_PAUHWND______YGXAAVCArchive__PAPAUHWND____H_Z ....74..85FF74..BB........3BFB73..8BC7894510EB..8BC3895D108BF0C1E60256518BCAE8........8B4D0C8B550803CE894D0C2B7D1075..EB..85FF74..BB........3BFB73..8BC7894510EB..8BC3895D108BF0C1E60256518BCAE8........8B4D0C8B550803CE894D0C2B7D1075..5F5E5B5DC20C00E8........CC
+558BEC8B5508568BF185D278..8B0633C9412B48FC8B40F82BC20BC87D..528B 02 BB34 0038 :0000 _PrepareWrite___CSimpleStringT__W_0A__ATL__AAEPA_WH_Z ............8B065E5DC2040068........E8........CC
+558BEC8B550885D278..8B013B50F87F..8950F48B0133C966890C505DC20400 01 361F 002B :0000 _SetLength___CSimpleStringT__W_0A__ATL__AAEXH_Z ..........E8........CC
+558BEC8D81980000005068........FF7508E8........5DC20400.......... 00 0000 001B :0000 _DoDataExchange_CMFCWindowsManagerDialog__MAEXPAVCDataExchange___Z 
+558BECFF75086A..68........FF7120FF..........5DC20400............ 00 0000 001A :0000 _AddString_CListBox__QAEHPB_W_Z 
+558BECFF7508E8........595DC20400................................ 00 0000 0010 :0000 __3CObject__SGXPAX_Z 
+558BECFF7508E8........5DC3...................................... 00 0000 000D :0000 _FindStringResourceInstance___StrTraitMFC__WV__ChTraitsCRT__W_ATL____SAPAUHINSTANCE____I_Z 
+558BECFF7508FF7104FF..........5DC20400.......................... 00 0000 0013 :0000 _DrawFocusRect_CDC__QAEXPBUtagRECT___Z 
+558BECFF7508FF750C68........FF7120FF..........5DC20800.......... 00 0000 001B :0000 _SetSel_CListBox__QAEHHH_Z 
+558BECFF750C8B45080FB7C050E8........5DC20800.................... 00 0000 0016 :0000 _Create_CDialog__UAEHIPAVCWnd___Z 
+558BECFF750CFF750868........FF7120FF..........5DC20800.......... 00 0000 001B :0000 _GetSelItems_CListBox__QBEHHPAH_Z 
+558BECFF750CFF750868........FF7120FF..........5DC20800.......... 00 0000 001B :0000 _SetItemData_CListBox__QAEHHK_Z 
+558BECFF750CFF7508E8........3B450C75..5DC208006A..6A..E8........ 01 18FC 0021 :0000 _EnsureRead_CArchive__QAEXPAXI_Z 
+558BECFF750CFF7508FF..........5DC3.............................. 00 0000 0011 :0000 __AtlInitializeCriticalSectionEx_ATL__YAHPAU_RTL_CRITICAL_SECTION__KK_Z 
+558BECFF750CFF7508FF..........85C075..5DC35650FF..........8BF085 02 3C12 005E :0000 __AtlGetStringResourceImage_ATL__YAPBUATLSTRINGRESOURCEIMAGE_1_PAUHINSTANCE____PAUHRSRC____I_Z ......FF750CFF7508FF..........8B55108D0C0683....76..3BF173..0FB7068D344683C6024A75..3BF172..33C0EB..0FB706F7D81BC023C65E5DC3
+558BECFF7510FF750CFF7508FF7120FF..........5DC20C00.............. 00 0000 0019 :0000 _SendMessageW_CWnd__QBEJIIJ_Z 
+558BECFF7514FF7510FF750CFF7508E8........50E8........83C4145DC3.. 00 0000 001F :0000 _wmemcpy_s_Checked_ATL__YAXPA_WIPB_WI_Z 
+56578BF1E8........E8........33FF85C074..E8........8BC8E8........ 01 32D8 00CB :0000 _OnInitDialog_CMFCWindowsManagerDialog__MAEHXZ ..........85C174..5751578BCEE8........8BCEE8........39BE1401000075..5768........8BCEE8........8BC8E8........5768........8BCEE8........8BC8E8........5768........8BCEE8........8BC8E8........5768........8BCEE8........8BC8E8........8BCEE8........8BCEE8........68........8BCEE8........85C074..8B8E10010000F7D91BC983E105518BC8E8........33C05F405EC3
+56578BF933F6833CB70074..FF34B7FF..........4683....7C..5F5EC3.... 00 0000 001E :0000 __1CDCCache_CImage_ATL__QAE_XZ 
+568BF133C050890689461C8946208D460450FF..........85C075..FF...... 00 0000 0035 :0000 __0CInitGDIPlus_CImage_ATL__QAE_XZ ....85C07E..0FB7C00D........8946208BC65EC3
+568BF133C0578B0E83....8B3939410474..39410C7D..508BCEE8........EB 00 0000 0035 :0000 _Empty___CSimpleStringT__W_0A__ATL__QAEXXZ ..E8........8B078BCFFF....83....89065F5EC3
+568BF1578D7E0457FF..........833E0074..FF36E8........83260057FF.. 00 0000 0027 :0000 _ReleaseGDIPlus_CInitGDIPlus_CImage_ATL__QAEXXZ ........5F5EC3
+568BF183....8D460CF00FC1104A85D27F..8B0E568B01FF....5EC3........ 00 0000 001C :0000 _Release_CStringData_ATL__QAEXXZ 
+568BF1E8........508BCEE8........8BC65EC3........................ 00 0000 0014 :0000 __0__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAE_XZ 
+568BF1E8........566A..FF..........FF7020FF..........5EC3........ 00 0000 001C :0000 _OnWindowHelp_CMFCWindowsManagerDialog__IAEXXZ 
+568BF1E8........566A..FF..........FF7020FF..........33C05EC20400 00 0000 0020 :0000 _OnHelpInfo_CMFCWindowsManagerDialog__IAEHPAUtagHELPINFO___Z 
+568BF1E8........C7..........8BC65EC3............................ 00 0000 0012 :0000 __0CListBox__QAE_XZ 
+568BF1E8........8D460450FF..........5EC3........................ 00 0000 0014 :0000 __1CInitGDIPlus_CImage_ATL__QAE_XZ 
+568BF1E8........8B4804E8........8BC65EC3........................ 00 0000 0014 :0000 __0CWaitCursor__QAE_XZ 
+5733C08BF9ABABABAB8BC15FC3...................................... 00 0000 000D :0000 __0CDCCache_CImage_ATL__QAE_XZ 
+68........E8........CC.......................................... 00 0000 000B :0000 _ThrowMemoryException___CSimpleStringT__W_0A__ATL__KAXXZ 
+68........B8........E8........8365FC00E8........8B4804E8........ 01 3E9B 0026 :0000 __1CWaitCursor__QAE_XZ ..........C3
+68........B8........E8........8BF98B..........33F656566A..FFB7B8 08 CF96 027C :0000 _FillWindowList_CMFCWindowsManagerDialog__IAEXXZ ........................FFB7B8000000FFD38D879800000089B5ECFDFFFF508D8DC8FDFFFFE8........8BCF8975FCE8........508D8DC8FDFFFFE8........8D8F180100008985E4FDFFFFC7871401000001000000E8........8D8F34010000E8........8B870C0100006A..FFB010010000FF..........8BF085F60F84........56E8........5068........E8........8BD8595985DB0F84........8B038BCBFF..........85C00F84........68........8D85F0FDFFFF5056FF..........8D85F0FDFFFF506A..68........FFB7B8000000FF..........8985E0FDFFFF8D8DE8FDFFFF8D85F0FDFFFF50E8........8D85E8FDFFFF508D85C0FDFFFF
+68........FF..........A3........C3.............................. 00 0000 0011 :0000 ____EAFX_WM_WINDOW_HELP__YAXXZ 
+6A..68........E8........C3...................................... 00 0000 000D :0000 _OnTilevert_CMFCWindowsManagerDialog__IAEXXZ 
+6A..68........E8........C3...................................... 00 0000 000D :0000 _OnCascade_CMFCWindowsManagerDialog__IAEXXZ 
+6A..6A..68........FF7120FF..........C3.......................... 00 0000 0013 :0000 _ResetContent_CListBox__QAEXXZ 
+6A..6A..68........FF7120FF..........C3.......................... 00 0000 0013 :0000 _GetCount_CListBox__QBEHXZ 
+6A..6A..68........FF7120FF..........C3.......................... 00 0000 0013 :0000 _GetSelCount_CListBox__QBEHXZ 
+6A..6A..6A..FF7120FF..........50E8........C3.................... 00 0000 0016 :0000 _GetFont_CWnd__QBEPAVCFont__XZ 
+6A..FF7120FF..........C3........................................ 00 0000 000C :0000 _BeginModalState_CWnd__UAEXXZ 
+6A..68........E8........C3...................................... 00 0000 000D :0000 _OnTilehorz_CMFCWindowsManagerDialog__IAEXXZ 
+6A..FF7120FF..........C3........................................ 00 0000 000C :0000 _EndModalState_CWnd__UAEXXZ 
+6A..B8........E8........8BF18975F08D8E34010000C745FC02000000BF.. 00 0000 005B :0000 __1CMFCWindowsManagerDialog__UAE_XZ ......8939E8........8D8E18010000C645FC018939E8........8D8E98000000C645FC00E8........83......8BCEE8........E8........C3
+6A..B8........E8........8BF18975F0E8........508BCEE8........FF75 08 AAE5 0044 :0000 __0__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAE_PB_W_Z ........................84C075..FF75088BCEE8........8BC6E8........C20400
+6A..B8........E8........8BD9895DF08B7D085768........E8........83 0C C7FD 0079 :0000 __0CMFCWindowsManagerDialog__QAE_PAVCMDIFrameWndEx__H_Z ..................................E8........8B450C8D8B18010000C7..........6A..89BB0C010000898310010000E8........6A..8D8B34010000E8........C78314010000010000008BC3E8........C20800
+6A..B8........E8........8BF18975F0E8........8B4804E8........8B.. 00 0000 00BB :0000 _MDIMessage_CMFCWindowsManagerDialog__IAEXII_Z ........6A..6A..68........FFB6B8000000FFD78BD885DB7E..8B8E0C0100008B8110010000508945ECFF..........EB..5368........FFB6B8000000FFD76A..8BF08B45F05368........FFB0B8000000FFD733C985C00F9EC14983E10383C1065156FF..........8B75F04B6A..79..FF750CFF7508FF75ECFFD76A..FF..........83......8D4D0FE8........E8........C20800
+6A..B8........E8........8BC18945BC817D081B4200008B5D0C74..53FF75 02 C1AA 0190 :0000 _OnDrawItem_CMFCWindowsManagerDialog__IAEXHPAUtagDRAWITEMSTRUCT___Z ............837B08FF0F84........F643100174..E8........8DB0A0000000EB..E8........8DB0C8000000F643100174..E8........8B4040EB..E8........8B40708945B08D431C508D45E050FF..........FF7318E8........F6430C038BF8897DB474..85F675..33C0EB..8B4604508D45E050FF7704FF..........6A..8BCFE8........8B078BCFFF75B0FF....E8........508D4DB8E8........8B4DBC8D45B88365FC0081..........50FF7308E8........8B4DE08D75E08B45EC8D7DC02B4DE483C004A503C168........A5A5A58B75B48BCE8945C08D45C0508B45B88B16FF70F450FF....6A..FF732CFF..........8945BC85
+83............56BE........75..8BCEE8........C7.................. 04 9670 0024 :0000 _GetGlobalData__YAPAUAFX_GLOBAL_DATA__XZ 
+85C975..33C0C38B4104C3.......................................... 00 0000 000B :0000 _GetSafeHandle_CGdiObject__QBEPAXXZ 
+85C975..33C0C38B4104C3.......................................... 00 0000 000B :0000 _GetSafeHdc_CDC__QBEPAUHDC____XZ 
+8B0183....C3.................................................... 00 0000 0006 :0000 _GetData___CSimpleStringT__W_0A__ATL__ABEPAUCStringData_2_XZ 
+8B018B40F4C3.................................................... 00 0000 0006 :0000 _GetLength___CSimpleStringT__W_0A__ATL__QBEHXZ 
+8B018B40F8C3.................................................... 00 0000 0006 :0000 _GetAllocLength___CSimpleStringT__W_0A__ATL__QBEHXZ 
+8B01C3.......................................................... 00 0000 0003 :0000 __B__CSimpleStringT__W_0A__ATL__QBEPB_WXZ 
+8B01C3.......................................................... 00 0000 0003 :0000 _GetString___CSimpleStringT__W_0A__ATL__QBEPB_WXZ 
+8B0983....E9.................................................... 00 0000 000A :0000 __1__CSimpleStringT__W_0A__ATL__QAE_XZ 
+8B0983....E9.................................................... 00 0000 000A :0000 __1__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAE_XZ 
+8B..........56BE........F6....75..83C90189..........8BCEE8...... 00 0000 0030 :0000 _GetInitGDIPlusInstance_CImage_ATL__CAPAVCInitGDIPlus_12_XZ ..68........E8........598BC65EC3
+8B410C2B4104C3.................................................. 00 0000 0007 :0000 _Height_CRect__QBEHXZ 
+8B4118F7D083E001C3.............................................. 00 0000 0009 :0000 _IsStoring_CArchive__QBEHXZ 
+8B4DF081..........E9............................................ 00 0000 000E :0000 __unwindfunclet___1CMFCWindowsManagerDialog__UAE_XZ_2 
+8B4DF081..........E9............................................ 00 0000 000E :0000 __unwindfunclet___1CMFCWindowsManagerDialog__UAE_XZ_1 
+8B4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet___0__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAE_PB_W_Z_0 
+8B4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet___0CMFCWindowsManagerDialog__QAE_PAVCMDIFrameWndEx__H_Z_0 
+8B4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet___1CMFCWindowsManagerDialog__UAE_XZ_0 
+8B5424088D420C8B4AAC33C8E8........8B4AFC33C8E8........B8........ 01 B78A 0025 :0000 __ehhandler__OnDrawItem_CMFCWindowsManagerDialog__IAEXHPAUtagDRAWITEMSTRUCT___Z 
+8B5424088D420C8B4AE833C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler__MDIMessage_CMFCWindowsManagerDialog__IAEXII_Z 
+8B5424088D420C8B4AEC33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler___0CMFCWindowsManagerDialog__QAE_PAVCMDIFrameWndEx__H_Z 
+8B5424088D420C8B4AEC33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler___0__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAE_PB_W_Z 
+8B5424088D420C8B4AEC33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler___1CMFCWindowsManagerDialog__UAE_XZ 
+8B5424088D420C8B8A8CFDFFFF33C8E8........8B4AFC33C8E8........B8.. 00 0000 0028 :0000 __ehhandler__FillWindowList_CMFCWindowsManagerDialog__IAEXXZ ......E9
+8B5424088D420C8B8AE0FBFFFF33C8E8........8B4AF833C8E8........B8.. 00 0000 0028 :0000 __ehhandler___1CWaitCursor__QAE_XZ ......E9
+8BC1C3.......................................................... 00 0000 0003 :0000 __0CObject__IAE_XZ 
+8BC1C3.......................................................... 00 0000 0003 :0000 __BCRect__QAEPAUtagRECT__XZ 
+8D4104C3........................................................ 00 0000 0004 :0000 _data_CPlex__QAEPAXXZ 
+8D4110C3........................................................ 00 0000 0004 :0000 _data_CStringData_ATL__QAEPAXXZ 
+8D4D0FE9........................................................ 00 0000 0008 :0000 __unwindfunclet__MDIMessage_CMFCWindowsManagerDialog__IAEXII_Z_0 
+8D4DB8E9........................................................ 00 0000 0008 :0000 __unwindfunclet__OnDrawItem_CMFCWindowsManagerDialog__IAEXHPAUtagDRAWITEMSTRUCT___Z_0 
+8D8DC8FDFFFFE9.................................................. 00 0000 000B :0000 __unwindfunclet__FillWindowList_CMFCWindowsManagerDialog__IAEXXZ_0 
+8D8DE8FBFFFFE9.................................................. 00 0000 000B :0000 __unwindfunclet___1CWaitCursor__QAE_XZ_2 
+A1........56BE........A8..75..5783C8018BFEA3........33C068...... 00 0000 0030 :0000 _GetCDCCacheInstance_CImage_ATL__CAPAVCDCCache_12_XZ ..ABABABABE8........595F8BC65EC3
+B8........C3.................................................... 00 0000 0006 :0000 _GetThisMessageMap_CMFCWindowsManagerDialog__KGPBUAFX_MSGMAP__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetMessageMap_CMFCWindowsManagerDialog__MBEPBUAFX_MSGMAP__XZ 
+B9........E9.................................................... 00 0000 000A :0000 ____Fcache__1__GetCDCCacheInstance_CImage_ATL__CAPAVCDCCache_12_XZ_YAXXZ 
+B9........E8........68........FF..........C3.................... 00 0000 0016 :0000 ____FgdiPlus__1__GetInitGDIPlusInstance_CImage_ATL__CAPAVCInitGDIPlus_12_XZ_YAXXZ 
+C20400.......................................................... 00 0000 0003 :0000 _Serialize_CObject__UAEXAAVCArchive___Z 
+C20400.......................................................... 00 0000 0003 :0000 _DoDataExchange_CWnd__MAEXPAVCDataExchange___Z 
+C3.............................................................. 00 0000 0001 :0000 __1CObject__UAE_XZ 
+C7..........E9.................................................. 00 0000 000B :0000 __1__CList_PAUHWND____PAU1___UAE_XZ 
+E8........508D8DE8FBFFFFE8........8BBDE4FBFFFF8D8DECFBFFFF33F6C6 05 CF15 00AD :0000 __catch___1CWaitCursor__QAE_XZ_0 ..................8B07518BCFFF....85C074..8D85ECFBFFFF5068........68........68........8D85E8FBFFFF68........50E8........83C418EB..68........68........68........8D85E8FBFFFF68........50E8........83C41456568BB5E8FBFFFF56E8........8D4EF0C645FC01E8........8B078BCF6A..FF....B8........C3
+E8........E8........C6............C3............................ 00 0000 0012 :0000 ____E_isCImageStaticInitialized_CImage_ATL__0_NA__YAXXZ 
+E8........8B4004C3.............................................. 00 0000 0009 :0000 _AfxGetApp__YGPAVCWinApp__XZ 
+E8........85C074..8B108BC8FF....33C0C3.......................... 00 0000 0013 :0000 _AfxGetMainWnd__YGPAVCWnd__XZ 
+E8........E8........B001C3...................................... 00 0000 000D :0000 _CImageStaticInitialize_CImage_ATL__CA_NXZ 
+E9.............................................................. 00 0000 0005 :0000 _GetDefaultManager___StrTraitMFC__WV__ChTraitsCRT__W_ATL____SAPAUIAtlStringMgr_ATL__XZ 
+E9.............................................................. 00 0000 0005 :0000 _OnSelchangeList_CMFCWindowsManagerDialog__IAEXXZ 
+FF7120FF..........50E8........C3................................ 00 0000 0010 :0000 _GetParent_CWnd__QBEPAV1_XZ 
+---

@@ -1,0 +1,22 @@
+0030A0E3........................................................ 00 0000 0004 :0000 __0__CSimpleArray_GV__CSimpleArrayEqualHelper_G_ATL___ATL__QAA_XZ 
+040090E5........................................................ 00 0000 0004 :0000 _GetModuleInstance_CAtlBaseModule_ATL__QAAPAUHINSTANCE____XZ 
+040090E5........................................................ 00 0000 0004 :0000 _GetSize___CSimpleArray_GV__CSimpleArrayEqualHelper_G_ATL___ATL__QBAHXZ 
+04E02DE510309FE51C0080E20FE0.................................... 00 0000 000E :0000 __1_ATL_WIN_MODULE70_ATL__QAA_XZ 
+04E02DE514009FE50C309FE50FE0.................................... 00 0000 000E :0000 ____F_AtlWinModule_ATL__YAXXZ 
+0CB08DE2........................................................ 00 0000 0004 :0000 loc.00000c30 
+0DC0A0E1........................................................ 00 0000 0004 :0000 _Init_CComCriticalSection_ATL__QAAJXZ 
+10402DE9........................................................ 00 0000 0004 :0000 __A__CSimpleArray_GV__CSimpleArrayEqualHelper_G_ATL___ATL__QAAAAGH_Z 
+10402DE90040A0E1................................................ 00 0000 0008 :0000 __0CComCriticalSection_ATL__QAA_XZ 
+10402DE90040A0E1................................................ 00 0000 0008 :0000 __0CAtlWinModule_ATL__QAA_XZ 
+10402DE90040A0E1................................................ 00 0000 0008 :0000 __1CAtlWinModule_ATL__QAA_XZ 
+10402DE90040A0E1................................................ 00 0000 0008 :0000 __0_ATL_WIN_MODULE70_ATL__QAA_XZ 
+10402DE914409FE5................................................ 00 0000 0008 :0000 __AtlRaiseException_ATL__YAXKK_Z 
+1EFF2FE1........................................................ 00 0000 0004 :0000 __1CComCriticalSection_ATL__QAA_XZ 
+30402DE90040A0E1................................................ 00 0000 0008 :0000 _RemoveAll___CSimpleArray_GV__CSimpleArrayEqualHelper_G_ATL___ATL__QAAXXZ 
+F0412DE9........................................................ 00 0000 0004 :0000 _AtlWinModuleTerm_ATL__YAJPAU_ATL_WIN_MODULE70_1_PAUHINSTANCE_____Z 
+04..2D..2C..9F..24..9F..0F..A0......2FE114..9F..0C..9F..0F..A0.. 1C 799D 003C :0000 ____E_AtlWinModule_ATL__YAXXZ 
+04..2DE518309FE510209FE5041093E5................................ 00 0000 0010 :0000 _Term_CAtlWinModule_ATL__QAAXXZ 
+04..2D..0C309FE50FE0A0E113FF2FE104E0............................ 00 0000 0012 :0000 __1__CSimpleArray_GV__CSimpleArrayEqualHelper_G_ATL___ATL__QAA_XZ 
+04..2DE50020B0E10200001A34009FE5................................ 00 0000 0010 :0000 _AtlWinModuleInit_ATL__YAJPAU_ATL_WIN_MODULE70_1__Z 
+04..2D..10..9FE50FE0A0E113FF2FE10000A0E3........................ 00 0000 0014 :0000 _Term_CComCriticalSection_ATL__QAAJXZ 
+---

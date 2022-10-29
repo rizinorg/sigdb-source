@@ -1,0 +1,2 @@
+8BFF558BECFF7508FF..........85C079..50E8........32C0EB..B0015DC2 02 2768 0022 :0000 _Wow64EnableWow64FsRedirection_4 
+---

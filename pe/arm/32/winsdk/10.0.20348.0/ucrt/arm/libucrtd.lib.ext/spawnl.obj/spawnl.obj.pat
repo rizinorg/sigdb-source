@@ -1,0 +1,23 @@
+03B42DE90048EB460221039808F05CFF5DF804BB5DF80CFB................ 00 0000 0018 :0000 ____RPA_W___crt_internal_free_policy__QBAXQBQA_W_Z 
+03B42DE90048EB460221039808F0DCFF5DF804BB5DF80CFB................ 00 0000 0018 :0000 ____RPAD___crt_internal_free_policy__QBAXQBQAD_Z 
+03B42DE90048EB46029800F029F95DF804BB5DF80CFB.................... 00 0000 0016 :0000 __1____crt_unique_heap_ptr_PA_WU__crt_internal_free_policy____QAA_XZ 
+03B42DE90048EB46029800F039F95DF804BB5DF80CFB.................... 00 0000 0016 :0000 __1____crt_unique_heap_ptr_PADU__crt_internal_free_policy____QAA_XZ 
+03B42DE90048EB4682B0049A059B1360049B0093009802B05DF804BB5DF80CFB 00 0000 0020 :0000 __0____crt_unique_heap_ptr_PADU__crt_internal_free_policy____QAA_QAPAD_Z 
+03B42DE90048EB4682B0049A059B1360049B0093009802B05DF804BB5DF80CFB 00 0000 0020 :0000 __0____crt_unique_heap_ptr_PA_WU__crt_internal_free_policy____QAA_QAPA_W_Z 
+03B42DE90048EB4682B0049B19686846FEF7D6FB049A0023136002B05DF804BB 04 4D08 0024 :0000 _release_____crt_unique_heap_ptr_PA_WU__crt_internal_free_policy____QAAXXZ 
+03B42DE90048EB4682B0049B19686846FEF7E6FB049A0023136002B05DF804BB 04 4D08 0024 :0000 _release_____crt_unique_heap_ptr_PADU__crt_internal_free_policy____QAAXXZ 
+0FB42DE90048EB46....92FDD9..5E..00..02..01..04..01..00..04..04.. 00 0000 022A :0000 ___common_spawnl_D__YAH_NHQBD1PAD_Z ......................................................FD......................................FD......................................FD......03..................30......................................................................................FD......................................FD......................................FD......03..................................................................................................FC......................................FC
+0FB42DE90048EB46....D2FAD9..5E..00..02..01..04..01..00..04..04.. 00 0000 0226 :0000 ___common_spawnl__W__YAH_NHQB_W1PAD_Z ......................................................FA......................................FA......................................FA......03......................................................................................................FA......................................FA......................................FA......03..................................................................................................FA......................................FA
+0FB42DE90048EB4682B0079B1B68069A1268059909680498006807F029FF0090 10 2172 0030 :0000 ___tspawnve_ABHABQB_WABQAPA_WABQBQB_W_____crt_char_traits__W__SAHABHABQB_WABQAPA_WABQBQB_W_Z 
+0FB42DE90048EB4682B0079B1B68069A1268059909680498006807F0EDFF0090 10 2172 0030 :0000 ___tspawnve_ABHABQBDABQAPADABQBQBD_____crt_char_traits_D__SAHABHABQBDABQAPADABQBQBD_Z 
+0FB42DE90048EB4682B0079B1B68069A1268059909680498006808F035FE0090 10 2172 0030 :0000 ___capture_argv_PAPADABQB_WPAPA_WH_____crt_char_traits__W__SAPAPA_W__QAPAPADABQB_W__QAPAPA_W__QAH_Z 
+0FB42DE90048EB4682B0079B1B68069A1268059909680498006808F0E1FE0090 10 2172 0030 :0000 ___capture_argv_PAPADABQBDPAPADH_____crt_char_traits_D__SAPAPAD__QAPAPADABQBD0__QAH_Z 
+0FB42DE90048EB4686B009AB1B1D0293029B0093099B089A02210020FEF730FD 12 C99E 0032 :0000 _execl 
+0FB42DE90048EB4686B009AB1B1D0293029B0093099B089A02210020FEF780FD 12 C99E 0032 :0000 _wexecl 
+0FB42DE90048EB4686B009AB1B1D0293029B0093099B089A02210120FEF798FC 12 C99E 0032 :0000 _execle 
+0FB42DE90048EB4686B009AB1B1D0293029B0093099B089A02210120FEF7E8FC 12 C99E 0032 :0000 _wexecle 
+0FB42DE90048EB4686B00AAB1B1D0293029B00930A9B099A08990020FEF700FC 12 C99E 0032 :0000 _spawnl 
+0FB42DE90048EB4686B00AAB1B1D0293029B00930A9B099A08990020FEF750FC 12 C99E 0032 :0000 _wspawnl 
+0FB42DE90048EB4686B00AAB1B1D0293029B00930A9B099A08990120FEF760FB 12 C99E 0032 :0000 _spawnle 
+0FB42DE90048EB4686B00AAB1B1D0293029B00930A9B099A08990120FEF7B0FB 12 C99E 0032 :0000 _wspawnle 
+---
