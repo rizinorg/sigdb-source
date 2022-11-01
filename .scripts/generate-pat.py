@@ -83,30 +83,31 @@ class Signature(object):
 		self.postlude = self.postlude.rstrip('.')
 
 	def __lt__(self, other):
-		return self.signature() < other.signature()
+		return self.signature(False) < other.signature(False)
 
 	def __hash__(self):
-		return self.hash()
+		return hash(self.signature(False))
 
 	def __repr__(self):
 		return self.signature()
 
 	def __eq__(self, other):
-		return self.signature() == other.signature()
+		return self.signature(False) == other.signature(False)
 
 	def __ne__(self, other):
 		return (not self.__eq__(other))
 
 
-	def signature(self):
+	def signature(self, with_symbol=True):
 		sig = [
 			self.prelude,
 			self.crclen,
 			self.crc16,
 			self.funcsize,
-			self.offset,
-			self.symbol
+			self.offset
 		]
+		if with_symbol:
+			sig.append(self.symbol)
 		if len(self.postlude) > 0:
 			sig.append(self.postlude)
 		return " ".join(sig)
@@ -119,18 +120,6 @@ class Signature(object):
 		percentage = 100 - percentage
 		return percentage
 
-	def hash(self):
-		sig = [
-			self.prelude,
-			self.crclen,
-			self.crc16,
-			self.funcsize,
-			self.offset
-		]
-		if len(self.postlude) > 0:
-			sig.append(self.postlude)
-		return hash("".join(sig))
-
 
 class PatFile(object):
 	def __init__(self, outname, max_postlude):
@@ -141,6 +130,7 @@ class PatFile(object):
 
 	def generate(self):
 		lines = list(self.signatures)
+		lines.sort()
 		with open(self.outname, "w") as fp:
 			for line in lines:
 				fp.write(line.signature() + '\n')
