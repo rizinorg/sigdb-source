@@ -67,32 +67,83 @@ def similarity_group(grp):
 		return 1.0
 	return avg / cnt
 
-def calculate_stat_bytes(tokens):
-	mbytes = tokens[0]
-	if len(tokens) > 6:
-		mbytes += tokens[6]
-	masked = mbytes.count('.')
-	percentage = (masked / len(mbytes)) * 100
-	percentage = 100 - percentage
-	return percentage
+class Signature(object):
+	def __init__(self, tokens, max_postlude):
+		super(Signature, self).__init__()
+		self.prelude = tokens[0]
+		self.crclen = tokens[1]
+		self.crc16 = tokens[2]
+		self.funcsize = tokens[3]
+		self.offset = tokens[4]
+		self.symbol = tokens[5]
+		self.postlude = tokens[6] if len(tokens) > 6 else ""
+
+		if len(self.postlude) > max_postlude:
+			self.postlude = self.postlude[0:max_postlude]
+		self.postlude = self.postlude.rstrip('.')
+
+	def __lt__(self, other):
+		return self.signature() < other.signature()
+
+	def __hash__(self):
+		return self.hash()
+
+	def __repr__(self):
+		return self.signature()
+
+	def __eq__(self, other):
+		return self.signature() == other.signature()
+
+	def __ne__(self, other):
+		return (not self.__eq__(other))
+
+
+	def signature(self):
+		sig = [
+			self.prelude,
+			self.crclen,
+			self.crc16,
+			self.funcsize,
+			self.offset,
+			self.symbol
+		]
+		if len(self.postlude) > 0:
+			sig.append(self.postlude)
+		return " ".join(sig)
+
+	def completeness(self):
+		mbytes = self.prelude + self.postlude
+		masked = mbytes.count('.')
+		crc16len = int('0x' + self.crclen, 16)
+		percentage = (masked / (len(mbytes) + crc16len)) * 100
+		percentage = 100 - percentage
+		return percentage
+
+	def hash(self):
+		sig = [
+			self.prelude,
+			self.crclen,
+			self.crc16,
+			self.funcsize,
+			self.offset
+		]
+		if len(self.postlude) > 0:
+			sig.append(self.postlude)
+		return hash("".join(sig))
+
 
 class PatFile(object):
 	def __init__(self, outname, max_postlude):
 		super(PatFile, self).__init__()
 		self.outname = outname
 		self.max_postlude = max_postlude * 2
-		self.signatures = {}
+		self.signatures = set()
 
 	def generate(self):
-		lines = []
-		for crc in self.signatures:
-			for pre in self.signatures[crc]:
-				lines.append(self.signatures[crc][pre] + "\n")
-
-		lines.sort()
+		lines = list(self.signatures)
 		with open(self.outname, "w") as fp:
 			for line in lines:
-				fp.write(line)
+				fp.write(line.signature() + '\n')
 			fp.write("---\n")
 		print("{} has been created".format(self.outname))
 
@@ -110,106 +161,37 @@ class PatFile(object):
 				elif line == "---":
 					break
 
-				tokens = line.split(" ")
-				if is_bad_symbol(tokens[5]):
+				s = Signature(line.split(" "), self.max_postlude)
+				if is_bad_symbol(s.symbol):
+					if verbose:
+						print("dropping {} signature due bad symbol name ({:.2f}%)".format(s.signature()))
 					continue
 
 				n_signatures += 1
 
-				if tokens[3] == "0000":
+				if s.funcsize == "0000":
 					# drop any signature with function size of zero
+					if verbose:
+						print("dropping {} signature due function size ({:.2f}%)".format(s.signature()))
 					n_dropped += 1
 					continue
-				elif tokens[0] == ("." * len(tokens[0])):
+				elif s.prelude == ("." * len(s.prelude)):
 					# drop any signature with empty pattern
+					if verbose:
+						print("dropping {} signature due bad prelude ({:.2f}%)".format(s.signature()))
 					n_dropped += 1
 					continue
 
-				key = " ".join(tokens[1:3])
-				prelude = tokens[0]
-
-				if len(tokens) > 6:
-					if self.max_postlude == 0:
-						# drop any postlude
-						tokens.pop(6)
-					elif len(tokens[6]) > self.max_postlude:
-						# shorting the postlude
-						tokens[6] = tokens[6][0:self.max_postlude]
-
-					tokens[6] = tokens[6].rstrip('.')
-					if tokens[6] == ("." * len(tokens[6])):
-						# drop any postlude with empty pattern
-						tokens.pop(6)
-
-				percentage = calculate_stat_bytes(tokens)
+				percentage = s.completeness()
 				if percentage < threshold:
 					if verbose:
-						print("dropping {} signature due bad threshold ({:.2f}%)".format(" ".join(tokens), percentage))
+						print("dropping {} signature due bad threshold ({:.2f}%)".format(s.signature(), percentage))
 					# drop any signature that does not reach the threshold
 					n_dropped += 1
 					continue
 
-				if not key in self.signatures:
-					self.signatures[key] = {}
-					self.signatures[key][prelude] = set()
-				elif not prelude in self.signatures[key]:
-					self.signatures[key][prelude] = set()
-
-				self.signatures[key][prelude].add(" ".join(tokens))
+				self.signatures.add(s)
 		return (n_signatures, n_dropped)
-
-	def handle_conflicts(self, resolve, threshold, verbose):
-		n_dropped = 0
-		n_resolved = 0
-		n_total = 0
-		for crc in self.signatures:
-			to_drop = []
-			for prelude in self.signatures[crc]:
-				self.signatures[crc][prelude] = list(self.signatures[crc][prelude])
-				self.signatures[crc][prelude].sort()
-				n_sigs = len(self.signatures[crc][prelude])
-				n_total += n_sigs
-				if n_sigs < 2:
-					self.signatures[crc][prelude] = self.signatures[crc][prelude][0]
-					continue
-				if not resolve:
-					fcns = [s.split(" ")[5] for s in self.signatures[crc][prelude]]
-					print("Error: found conflicts on short prelude {} ({})".format(prelude, ', '.join(fcns)))
-					sys.exit(1)
-				to_drop.append(prelude)
-
-			for prelude in to_drop:
-				n_sigs = len(self.signatures[crc][prelude])
-				fcns = [s.split(" ")[5] for s in self.signatures[crc][prelude]]
-				if crc == "00 0000":
-					# too small functions gets always dropped when conflicts are found
-					if verbose:
-						print("[{}] dropping {} signatures with short prelude {} ({}) due multiple conflicts".format(crc, n_sigs, prelude, ', '.join(fcns)))
-					del self.signatures[crc][prelude]
-					n_dropped += n_sigs
-					continue
-
-				simgrp = similarity_group(fcns)
-				if simgrp < threshold:
-					if verbose:
-						print("[{}] dropping {} signatures with prelude {} ({}) due similarity of {:.2f}".format(crc, n_sigs, prelude, ', '.join(fcns), simgrp))
-					del self.signatures[crc][prelude]
-					n_dropped += n_sigs
-					continue
-
-				n_resolved += n_sigs
-				self.signatures[crc][prelude] = self.signatures[crc][prelude][0]
-				if verbose:
-					print("[{}] keeping {} signatures with prelude {} ({}) and similarity of {}".format(crc, n_sigs, prelude, ', '.join(fcns), simgrp))
-
-		if n_total < 1:
-			print("Error: the script could not find and load any valid pat file (use --verbose to have more details)")
-			sys.exit(1)
-
-		print("Stats: {} conflicts over a total of {} unique signatures.".format(n_dropped + n_resolved, n_total))
-		print("- Resolved: ", n_resolved)
-		print("- Dropped:  ", n_dropped)
-		print("- Kept:     ", n_total - n_dropped)
 
 def main():
 	parser = argparse.ArgumentParser(usage='%(prog)s [options]', description=DESCRIPTION, epilog=EPILOG, formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -286,9 +268,6 @@ def main():
 	if n_signatures > 0:
 		percentage = n_dropped / n_signatures * 100
 	print("        {}\rparsed a total of {} signatures and dropped {} (~{:.0f}%) signatures.".format(" " * maxlen, n_signatures, n_dropped, percentage), flush=True)
-
-	print("        {}\rhandling conflicts".format(" " * maxlen), flush=True)
-	pat.handle_conflicts(args.auto, args.threshold, args.verbose)
 
 	if not args.test:
 		pat.generate()
