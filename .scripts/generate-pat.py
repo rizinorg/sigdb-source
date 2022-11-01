@@ -83,6 +83,8 @@ class Signature(object):
 		self.postlude = self.postlude.rstrip('.')
 
 	def __lt__(self, other):
+		if self.signature(False) == other.signature(False):
+			return self.signature(True) < other.signature(True)
 		return self.signature(False) < other.signature(False)
 
 	def __hash__(self):
@@ -126,15 +128,21 @@ class PatFile(object):
 		super(PatFile, self).__init__()
 		self.outname = outname
 		self.max_postlude = max_postlude * 2
-		self.signatures = set()
+		self.signatures = []
 
 	def generate(self):
-		lines = list(self.signatures)
-		lines.sort()
+		old_len = len(self.signatures)
+		self.signatures = list(set(self.signatures))
+		self.signatures.sort()
+		n_duplicates = old_len - len(self.signatures)
 		with open(self.outname, "w") as fp:
-			for line in lines:
+			for line in self.signatures:
 				fp.write(line.signature() + '\n')
 			fp.write("---\n")
+		percentage = 0
+		if old_len > 0:
+			percentage = n_duplicates / old_len * 100
+		print("There were {} duplicates out of {} signatures (~{:.0f}%).".format(n_duplicates, old_len, percentage))
 		print("{} has been created".format(self.outname))
 
 	def parse(self, filepath, threshold, verbose):
@@ -180,7 +188,7 @@ class PatFile(object):
 					n_dropped += 1
 					continue
 
-				self.signatures.add(s)
+				self.signatures.append(s)
 		return (n_signatures, n_dropped)
 
 def main():
@@ -261,6 +269,7 @@ def main():
 
 	if not args.test:
 		pat.generate()
+
 
 if __name__ == '__main__':
 	main()
