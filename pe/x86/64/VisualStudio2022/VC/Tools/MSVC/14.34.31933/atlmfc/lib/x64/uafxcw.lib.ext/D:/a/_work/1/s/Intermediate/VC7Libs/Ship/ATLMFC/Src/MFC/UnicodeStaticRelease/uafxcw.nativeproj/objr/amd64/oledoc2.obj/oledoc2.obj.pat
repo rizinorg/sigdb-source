@@ -1,0 +1,7 @@
+48895C2408574883EC2033FF488BD94885D274..488BCAE8........488BF848 06 8283 0042 :0000 _ApplyPrintDevice_COleDocument__QEAAHPEBUtagPDW___Z ........488BCF8BD8FF..........8BC3488B5C24304883C4205FC3
+48895C2408574883EC20488BDA488BF94885D274..488BCAE8........488BD8 04 E9C5 0080 :0000 _ApplyPrintDevice_COleDocument__QEAAHPEBUtagDVTARGETDEVICE___Z ..488B8FE0010000FF..........488B07488BCF48899FE0010000488B8028020000FF..........4889442438EB..488BD3488BC8E8........488D542438488BCFE8........4885C075..B801000000488B5C24304883C4205FC3
+C20000.......................................................... 00 0000 0003 :0000 ___empty_global_delete__YAXPEAXW4align_val_t_std___Z 
+C20000.......................................................... 00 0000 0003 :0000 ___empty_global_delete__YAXPEAX_KW4align_val_t_std___Z 
+C20000.......................................................... 00 0000 0003 :0000 ___empty_global_delete__YAXPEAX_Z 
+C20000.......................................................... 00 0000 0003 :0000 ___empty_global_delete__YAXPEAX_K_Z 
+---

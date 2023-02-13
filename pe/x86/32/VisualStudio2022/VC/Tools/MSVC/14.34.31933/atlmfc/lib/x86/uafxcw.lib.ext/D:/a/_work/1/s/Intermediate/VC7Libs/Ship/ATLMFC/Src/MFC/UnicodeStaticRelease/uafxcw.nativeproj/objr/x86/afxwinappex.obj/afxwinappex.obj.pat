@@ -1,0 +1,207 @@
+33C0890189410489410889410C8BC1C3................................ 00 0000 0010 :0000 __0CRect__QAE_XZ 
+33C0C20400...................................................... 00 0000 0005 :0000 _OnWorkspaceIdle_CWinAppEx__UAEHPAVCWnd___Z 
+33C0C3.......................................................... 00 0000 0003 :0000 _GetApplicationRestartFlags_CWinApp__UAEKXZ 
+33C0C3.......................................................... 00 0000 0003 :0000 _GetApplicationRecoveryParameter_CWinApp__UAEPAXXZ 
+5356578BF983BFD800000000C7..........74..8B..........85DB74..8B03 01 243C 015E :0000 __1CWinAppEx__UAE_XZ ..8B70048BCEFF..........8BCBFFD683............83BFDC0000000074..8B..........85DB74..8B036A..8B70048BCEFF..........8BCBFFD683............83BFE00000000074..8B..........85DB74..8B036A..8B70048BCEFF..........8BCBFFD683............83BFE40000000074..8B..........85DB74..8B036A..8B70048BCEFF..........8BCBFFD683............83BFE80000000074..8B..........85DB74..8B036A..8B70048BCEFF..........8BCBFFD683............83BFEC0000000074..8B..........85DB74..8B036A..8B70048BCEFF..........8BCBFFD683............83BFF000000000
+558BEC515153578B7D0C8BD985FF75..E8........EB..837D080074..8B038B 11 A759 0087 :0000 _SetString___CSimpleStringT__W_0A__ATL__QAEXPB_WH_Z ........8B4DFC8BD08B0383E8083BCE8945F85E77..578D0C4A51FF3052E8........EB..8D043F508B45F8FF75088B0003C05052E8........83C4108BCB57E8........5F5BC9C2080068........E8........CC
+558BEC518B4508568BF18975FC8B0083....50E8........83....89068BC659 05 55C1 0025 :0000 __0__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAE_ABV01__Z 
+558BEC518B4D08538B5D18568B7510578D041E508945FCE8........03F68BF8 07 485F 004F :0000 _Concatenate___CSimpleStringT__W_0A__ATL__KAXAAV12_PB_WH1H_Z ........8D141B52FF75148D043E5250E8........8B4D0883C420FF75FCE8........5F5E5BC9C3
+558BEC51FF7510FF750C68........FF7508E8........8B4508C9C20C00.... 00 0000 001E :0000 _GetString_CWinAppEx__QAE_AV__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__PB_W0_Z 
+558BEC5356578B7D088BD985FF74..8B078B700C8BCEFF..........8BCFFFD6 01 EB46 0039 :0000 __0__CSimpleStringT__W_0A__ATL__QAE_PAUIAtlStringMgr_1__Z ....5F89038BC35E5B5DC2040068........E8........CC
+558BEC5356578B7D088DB1D40000008BDE85FF75..BF........57E8........ 06 C605 0033 :0000 _SetRegistryBase_CWinAppEx__QAEPB_WPB_W_Z ........8B065F5E5B5DC20400
+558BEC5357FF750C8BD9FF7508E8........8BF8595985FF74..560FB7378BCB 02 26E3 004A :0000 _LoadStringW___CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAEHPAUHINSTANCE____I_Z ........0FB70F518D4F02515650E8........83C4108BCB56E8........33C0405E5F5B5DC20800
+558BEC538B5D0856578B3B8B078B70108BCEFF..........8BCFFFD68BF88D43 05 6349 0082 :0000 _CloneData___CSimpleStringT__W_0A__ATL__CAPAUCStringData_2_PAU32__Z ..3B3B75..8BF3F0FF00EB..8B076A..FF73048B308BCEFF..........8BCFFFD68BF085F674..8B4B04894E048B43048D044502000000508D4310508D044D02000000508D461050E8........83C4105F8BC65E5B5DC3E8........CC
+558BEC538BD98B4D088B1383....394A087D..85C97E..56578B3A6A..51528B 07 4CE9 0046 :0000 _Reallocate___CSimpleStringT__W_0A__ATL__AAEXH_Z ..........8BCFFFD65F5E85C074..83....89035B5DC20400E8........CC
+558BEC56578BF98B078BB0100100008BCE8B450805........50FF750CFF.... 00 0000 002D :0000 _LoadState_CWinAppEx__QAEHPAVCFrameWndEx__PB_W_Z ......8BCFFFD65F5E5DC20800
+558BEC56578BF98B078BB0100100008BCE8B450805........50FF750CFF.... 00 0000 002D :0000 _LoadState_CWinAppEx__QAEHPAVCMDIFrameWndEx__PB_W_Z ......8BCFFFD65F5E5DC20800
+558BEC56578BF98B078BB0100100008BCE8B450805........50FF750CFF.... 00 0000 002D :0000 _LoadState_CWinAppEx__QAEHPAVCOleIPFrameWndEx__PB_W_Z ......8BCFFFD65F5E5DC20800
+558BEC56578BF98B078BB0180100008BCE8B450805........50FF750CFF.... 00 0000 002D :0000 _SaveState_CWinAppEx__QAEHPAVCFrameWndEx__PB_W_Z ......8BCFFFD65F5E5DC20800
+558BEC56578BF98B078BB0180100008BCE8B450805........50FF750CFF.... 00 0000 002D :0000 _SaveState_CWinAppEx__QAEHPAVCMDIFrameWndEx__PB_W_Z ......8BCFFFD65F5E5DC20800
+558BEC56578BF98B078BB0180100008BCE8B450805........50FF750CFF.... 00 0000 002D :0000 _SaveState_CWinAppEx__QAEHPAVCOleIPFrameWndEx__PB_W_Z ......8BCFFFD65F5E5DC20800
+558BEC5657FF75088BF96A..8B078BB0180100008BCEFF..........8BCFFFD6 06 6618 0026 :0000 _OnClosingMainFrame_CWinAppEx__MAEXPAVCFrameImpl___Z 
+558BEC568B7508578BF98B0F3971F47E..8B71F48379FC017E..568BCFE8.... 00 0000 0057 :0000 _PrepareWrite2___CSimpleStringT__W_0A__ATL__AAEXH_Z ....EB..8B49F83BCE7D..81..........7E..B8........EB..8BC1992BC2D1F803C83BCE7D..8BCE518BCFE8........5F5E5DC20400
+558BEC568B751485F675..33C0EB..8B450885C075..E8........6A..5E8930 01 3E9B 007F :0000 _memcpy_s ........8BC6EB..578B7D1085FF74..39750C72..565750E8........83C40C33C0EB..FF750C6A..50E8........83C40C85FF75..E8........6A..EB..39750C73..E8........6A..5E8930E8........8BC6EB..6A..585F5E5DC3
+558BEC568BF1E8........F645080174..F645080475..56E8........EB..68 00 0000 0033 :0000 ___GCWinAppEx__UAEPAXI_Z ........56E8........59598BC65E5DC20400
+558BEC56FF75088BF1E8........8BC65E5DC20400...................... 00 0000 0015 :0000 __4__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAEAAV01_ABV01__Z 
+558BEC56FF750CFF7508FF..........85C074..50FF..........8BF085F674 00 0000 005E :0000 __AtlGetStringResourceImage_ATL__YAPBUATLSTRINGRESOURCEIMAGE_1_PAUHINSTANCE____PAUHRSRC____I_Z ..FF750CFF7508FF..........8B55108D0C0683....76..3BF173..0FB7068D344683C60283EA0175..3BF173..0FB706F7D81BC023C6EB..33C05E5DC3
+558BEC578B..........85FF75..33C0EB..8B07566A..6A..8B70108BCE8B45 0D 1DF3 003C :0000 _ShowPopupMenu_CWinAppEx__UAEHIABVCPoint__PAVCWnd___Z ..........8BCFFFD65E5F5DC20C00
+558BEC578B7D0885FF74..8B07566A..FF750C8BB0840000008BCEFF........ 00 0000 002B :0000 _OnAppContextHelp_CWinAppEx__UAEXPAVCWnd__QBK_Z ..8BCFFFD65E5F5DC20800
+558BEC5DE9...................................................... 00 0000 0009 :0000 _GetBuffer___CSimpleStringT__W_0A__ATL__QAEPA_WH_Z 
+558BEC5DE9...................................................... 00 0000 0009 :0000 _ReleaseBufferSetLength___CSimpleStringT__W_0A__ATL__QAEXH_Z 
+558BEC6AFF68........64A1000000005056A1........33C5508D45F464A300 09 B3D4 003F :0000 __0__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAE_PAUIAtlStringMgr_1__Z ........8BC68B4DF464890D00000000595EC9C20400
+558BEC6AFF68........64A10000000050A1........33C5508D45F464A30000 06 BE2E 0037 :0000 _FindStringResourceInstance___StrTraitMFC__WV__ChTraitsCRT__W_ATL____SAPAUHINSTANCE____I_Z ........8B4DF464890D0000000059C9C3
+558BEC6AFF68........64A10000000050A1........33C5508D45F464A30000 03 8AAD 0034 :0000 _GetDefaultManager___StrTraitMFC__WV__ChTraitsCRT__W_ATL____SAPAUIAtlStringMgr_ATL__XZ ........8B4DF464890D0000000059C9C3
+558BEC6AFF68........64A10000000050535657A1........33C5508D45F464 0C BC1D 006F :0000 _Empty___CSimpleStringT__W_0A__ATL__QAEXXZ ....8B1939410474..39410C7D..508BCFE8........EB..E8........8B038B700C8BCEFF..........8BCBFFD683....89078B4DF464890D00000000595F5E5BC9C3
+558BEC6AFF68........64A100000000505657A1........33C5508D45F464A3 05 31A4 0057 :0000 _GetManager___CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QBEPAUIAtlStringMgr_2_XZ ........85C075..2145FCE8........8BF88B0F8B71108BCEFF..........8BCFFFD68B4DF464890D00000000595F5EC9C3
+558BEC6AFF68........64A1000000005056A1........33C5508D45F464A300 0A 9475 004A :0000 __0__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAE_XZ ........83......8BCE50E8........8BC68B4DF464890D00000000595EC9C3
+558BEC817D080E00078075..E8........FF7508E8........CC............ 00 0000 001A :0000 _AtlThrowImpl_ATL__YGXJ_Z 
+558BEC837D0800578BF975..33C0EB..FF7508E8........5950FF75088BCFE8 00 0000 0029 :0000 _Append___CSimpleStringT__W_0A__ATL__QAEXPB_W_Z ........5F5DC20400
+558BEC837D0800578BF975..33C0EB..FF7508E8........5950FF75088BCFE8 00 0000 0029 :0000 _SetString___CSimpleStringT__W_0A__ATL__QAEXPB_W_Z ........5F5DC20400
+558BEC837D0800578BF975..33C0EB..FF7508E8........5950FF75088BCFE8 00 0000 002B :0000 __4__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAEAAV01_PB_W_Z ........8BC75F5DC20400
+558BEC837D0800578BF975..33C0EB..FF7508E8........5950FF75088BCFE8 00 0000 002B :0000 __4__CSimpleStringT__W_0A__ATL__QAEAAV01_PB_W_Z ........8BC75F5DC20400
+558BEC837D0800578BF975..33C0EB..FF7508E8........5950FF75088BCFE8 00 0000 002B :0000 __Y__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAEAAV01_PB_W_Z ........8BC75F5DC20400
+558BEC837D0800578BF975..33C0EB..FF7508E8........5950FF75088BCFE8 00 0000 002B :0000 __Y__CSimpleStringT__W_0A__ATL__QAEAAV01_PB_W_Z ........8BC75F5DC20400
+558BEC837D080075..33C05DC35DE9.................................. 00 0000 0013 :0000 _AtlStrLen_ATL__YAHPB_W_Z 
+558BEC837D080075..33C05DC35DE9.................................. 00 0000 0013 :0000 _GetBaseTypeLength___ChTraitsCRT__W_ATL__SAHPB_W_Z 
+558BEC837D080075..33C05DC35DE9.................................. 00 0000 0013 :0000 _StringLength___CSimpleStringT__W_0A__ATL__SAHPB_W_Z 
+558BEC837D080075..33C05DC35DE9.................................. 00 0000 0013 :0000 _StringLengthN___CSimpleStringT__W_0A__ATL__SAHPB_WI_Z 
+558BEC83EC0C53568BD1578B7D088BF78955F88B022BF0D1FE837D0C008B40F4 04 5B7B 0091 :0000 _Append___CSimpleStringT__W_0A__ATL__QAEXPB_WH_Z ..85FF75..33DBEB..FF750C57E8........8B55F88BD88B45FC5959B9........2BCB3BC87C..03C38BCA508945F4E8........8B55FC3BF277..8D3C708D0C1B5157518D045050E8........8B4DF883C410FF75F4E8........5F5E5BC9C2080068........E8........CC
+558BEC83EC108BC18945F053568B00578945F88D48F08B398B41048945FC8B07 06 D273 0092 :0000 _Fork___CSimpleStringT__W_0A__ATL__AAEXH_Z ..........8BCFFFD68B5D088BF86A..538B0F8B318BCEFF..........8BCFFFD68BC8894DF485C974..8B7DFC3BFB7D..8BDF8D045D020000008B5DF850538D71105056E8........8B45F48D4BF083C410897804E8........8B45F05F89305E5BC9C20400E8........CC
+558BEC8B..........85C975..33C0EB..56FF750CE8........8BF085F674.. 04 31A2 007A :0000 _OnViewDoubleClick_CWinAppEx__UAEHPAVCWnd__H_Z ..8B..........85C974..56E8........85C075..8B4D0885C975..E8........EB..A1........85C075..E8........6A..5668........FF7020FF..........33C040EB..6AFFFF..........33C05E5DC20800
+558BEC8B450832D285C074..A9........75..0FB7C050E8........B2018AC2 04 057A 0024 :0000 _CheckImplicitLoad___CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__AAE_NPBX_Z 
+558BEC8B4508538BD9578B088B3B83....8D51F03BD774..837F0C007C..8B02 03 E600 0050 :0000 __4__CSimpleStringT__W_0A__ATL__QAEAAV01_ABV01__Z ..5652E8........598BCF8BF0E8........8D461089035EEB..FF71F4518BCBE8........5F8BC35B5DC20400
+558BEC8B4508568BF18B0083....50E8........83....89068BC6595E5DC204 01 78F0 0021 :0000 __0__CSimpleStringT__W_0A__ATL__QAE_ABV01__Z 
+558BEC8B45088321008941048BC15DC20400............................ 00 0000 0012 :0000 __0CSettingsStoreSP__QAE_K_Z 
+558BEC8B450883....89015DC20400.................................. 00 0000 000F :0000 _Attach___CSimpleStringT__W_0A__ATL__AAEXPAUCStringData_2__Z 
+558BEC8B450885C074..83....74..83....74..83....74..83....74..E9.. 00 0000 002A :0000 _AfxCrtErrorCheck__YAHH_Z ......E9........5DC3
+558BEC8B450C5DC3................................................ 00 0000 0008 :0000 _GetBaseTypeLength___ChTraitsCRT__W_ATL__SAHPB_WH_Z 
+558BEC8B450C85C074..8B4004FF751050FF7508FF7120FF..........5DC20C 01 78F0 0021 :0000 _RedrawWindow_CWnd__QAEHPBUtagRECT__PAVCRgn__I_Z 
+558BEC8B450CC1E804406A..0FB7C050FF7508FF..........85C075..5DC3FF 07 38F0 0030 :0000 _AtlGetStringResourceImage_ATL__YAPBUATLSTRINGRESOURCEIMAGE_1_PAUHINSTANCE____I_Z ........83C40C5DC3
+558BEC8B45145685C074..837D080075..E8........6A..5E8930E8........ 03 2124 004C :0000 _memmove_s ..837D100074..39450C73..E8........6A..EB..50FF7510FF7508E8........83C40C33C05E5DC3
+558BEC8B451483F8FF75..837D100075..33C0EB..FF7510E8........594050 0A 4275 0033 :0000 _ConvertToBaseType___ChTraitsCRT__W_ATL__SAXPA_WHPB_WH_Z ........83C4105DC3
+558BEC8B45148D0C0085C974..837D080075..E8........C7..........5DE9 00 0000 0051 :0000 _CopyCharsOverlapped___CSimpleStringT__W_0A__ATL__SAXPA_WIPB_WH_Z ........837D100074..8B450C03C03BC173..E8........C7..........EB..51FF7510FF7508E8........83C40C5DC3
+558BEC8B5508568BF185D278..8B0633C9412B48FC8B40F82BC20BC87D..528B 02 BB34 0038 :0000 _PrepareWrite___CSimpleStringT__W_0A__ATL__AAEPA_WH_Z ........8B065E5DC2040068........E8........CC
+558BEC8B550885D278..8B013B50F87F..8950F48B0133C966890C505DC20400 01 361F 002B :0000 _SetLength___CSimpleStringT__W_0A__ATL__AAEXH_Z ........E8........CC
+558BEC8B55088B0A85C974..8B0189028D41085DC20400E8........CC...... 00 0000 001D :0000 _GetNext_CObList__QAEAAPAVCObject__AAPAU__POSITION___Z 
+558BECA1........85C075..8B4D085DE9........5DC3.................. 00 0000 0017 :0000 _AFXGetTopLevelFrame__YAPAVCFrameWnd__PBVCWnd___Z 
+558BECFF7508E8........595DC20400................................ 00 0000 0010 :0000 __3CObject__SGXPAX_Z 
+558BECFF7508E8........595DC20400................................ 00 0000 0010 :0000 __2CObject__SGPAXI_Z 
+558BECFF750CFF750868........E8........5DC20800.................. 00 0000 0017 :0000 _GetObjectW_CWinAppEx__QAEHPB_WAAVCObject___Z 
+558BECFF750CFF750868........E8........5DC20800.................. 00 0000 0017 :0000 _GetInt_CWinAppEx__QAEHPB_WH_Z 
+558BECFF750CFF750868........E8........5DC20800.................. 00 0000 0017 :0000 _WriteInt_CWinAppEx__QAEHPB_WH_Z 
+558BECFF750CFF750868........E8........5DC20800.................. 00 0000 0017 :0000 _WriteString_CWinAppEx__QAEHPB_W0_Z 
+558BECFF750CFF750868........E8........5DC20800.................. 00 0000 0017 :0000 _WriteObject_CWinAppEx__QAEHPB_WAAVCObject___Z 
+558BECFF750CFF7508FF7120E8........5DC20800...................... 00 0000 0015 :0000 _GetDescendantWindow_CWnd__QBEPAV1_HH_Z 
+558BECFF7510FF750CFF750868........E8........5DC20C00............ 00 0000 001A :0000 _WriteBinary_CWinAppEx__QAEHPB_WPAEI_Z 
+558BECFF7510FF750CFF750868........E8........5DC20C00............ 00 0000 001A :0000 _GetBinary_CWinAppEx__QAEHPB_WPAPAEPAI_Z 
+558BECFF7510FF750CFF7508FF7120FF..........5DC20C00.............. 00 0000 0019 :0000 _SendMessageW_CWnd__QBEJIIJ_Z 
+558BECFF7514FF7510FF750CFF7508E8........50E8........83C4145DC3.. 00 0000 001F :0000 _wmemcpy_s_Checked_ATL__YAXPA_WIPB_WI_Z 
+568BB11001000083....3BF074..8B89140100003BC874..53578BC1996A..5B 14 290D 0045 :0000 _GetDataVersion_CWinAppEx__QBEHXZ ..8BC2C1E008C1E61003C603C75F5B5EC3
+568BF1E8........8BCE5EE9........................................ 00 0000 0010 :0000 _ExitInstance_CWinAppEx__UAEHXZ 
+578B3985FF74..8B07566A..8B70048BCEFF..........8BCFFFD65E5FC3.... 00 0000 001E :0000 __1CSettingsStoreSP__QAE_XZ 
+57E8........8BF885FF74..8B0F568B71748BCEFF..........8BCFFFD65E5F 05 C15E 0025 :0000 _AfxGetMainWnd__YGPAVCWnd__XZ 
+68........E8........CC.......................................... 00 0000 000B :0000 _ThrowMemoryException___CSimpleStringT__W_0A__ATL__KAXXZ 
+68........B8........E8........8BF9897D948B5D088D8D68FFFFFFE8.... 00 0000 01C7 :0000 _ReloadWindowPlacement_CWinAppEx__MAEHPAVCFrameWnd___Z ....33F68975FCE8........8B48048D8568FFFFFF50E8........39B570FFFFFF0F85........39B574FFFFFF0F85........8B078975E08975E48975E88975EC89759889759C8BB0400100008D45A0508D4598C745A001000000508D45E08BCE50FF..........8BCFFFD685C00F84........8D45A4C7............508BCBE8........85C00F84........8D75E08D7DC0A5A5A5A533FF39..........74..8B4D9439B90801000074..8B45A0897DAC89414CEB..8B45A08945AC578D45D050576A..FF..........8B45D4F7D8508B45D0F7D8508D45C050FF..........8BCB8BF7E8........85C075..6A..68........FF7320E8........50
+6A..B8........E8........8BF1FF75088365FC00E8........83......85C0 01 DBC5 0035 :0000 _LoadStringW___CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAEHI_Z ..FF75088BCE50E8........E8........C20400
+6A..B8........E8........33FF897DF057FFB1D4000000897DFCFF7508E8.. 00 0000 0074 :0000 _GetRegSectionPath_CWinAppEx__QAE_AV__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__PB_W_Z ......83C40C897DFC8B7D0CC745F00100000085FF74..57E8........5985C074..57E8........598B4D085057E8........BF........57E8........598B4D085057E8........8B4508E8........C20800
+6A..B8........E8........8BF9897DF033DB895DFCE8........83......8B 03 203E 005D :0000 __0__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAE_PB_W_Z ........8B75088BCF56C745FC01000000E8........84C075..85F674..56E8........598BD853568BCFE8........8BC7E8........C20400
+6A..B8........E8........8B5D0C33F68BCB8975F0E8........8B4D0833FF 06 A989 005C :0000 __HATL__YA_AV__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____0_ABV10_PB_W_Z ........897DF08B7D108975FC85FF74..57E8........598BF08B0B5657FF71F451FF7508E8........8B450883C414E8........C3
+6A..B8........E8........8BF183............74..33C0EB..6A..E8.... 00 0000 004D :0000 _InitKeyboardManager_CWinAppEx__QAEHXZ ....598945F033C9894DFC85C074..8BC8E8........8BC833C089..........408986D8000000E8........C3
+6A..B8........E8........8BF183............74..33C040EB..6A..E8.. 00 0000 004E :0000 _InitShellManager_CWinAppEx__QAEHXZ ......598945F033C9894DFC85C074..8BC8E8........8BC833C089..........408986EC000000E8........C3
+6A..B8........E8........8BF183............74..33C0EB..6A..E8.... 00 0000 0061 :0000 _EnableUserTools_CWinAppEx__QAEHIIIPAUCRuntimeClass__II_Z ....598945F033C9894DFC85C074..FF751C8BC8FF7518FF7514FF7510FF750CFF7508E8........8BC833C089..........408986E4000000E8........C21800
+6A..B8........E8........8BF183............74..33C0EB..6A..E8.... 00 0000 004D :0000 _InitContextMenuManager_CWinAppEx__QAEHXZ ....598945F033C9894DFC85C074..8BC8E8........8BC833C089..........408986DC000000E8........C3
+6A..B8........E8........8BF183............74..33C0EB..6A..E8.... 00 0000 004D :0000 _InitMouseManager_CWinAppEx__QAEHXZ ....598945F033C9894DFC85C074..8BC8E8........8BC833C089..........408986E0000000E8........C3
+6A..B8........E8........8BF183............74..33C0EB..68........ 01 3E9B 0050 :0000 _InitTooltipManager_CWinAppEx__QAEHXZ ........598945F033C9894DFC85C074..8BC8E8........8BC833C089..........408986F0000000E8........C3
+6A..B8........E8........8BF183............74..33C0EB..6A..E8.... 00 0000 0068 :0000 _EnableTearOffMenus_CWinAppEx__QAEHPB_WII_Z ....598945F033C9894DFC85C074..8BC8E8........8BC8FF751083......FF750C89..........FF7508C786E8000000010000008B..........E8........E8........C20C00
+6A..B8........E8........8BF9897DEC33F656E8........8975FC8DB7D400 05 3408 00E2 :0000 __0CWinAppEx__QAE_H_Z ..........E8........8B450833DB89870C0100004333C0885DFC8BCF8987D80000008987DC0000008987E00000008987E40000008987E80000008987F00000008987EC000000E8........68........8D4DF0E8........8D45F0C645FC02508BCEE8........8B4DF033F683............83............89B7F40000008D49F089B7F8000000899FFC00000089B700010000899FCC00000089B7D0000000899F0401000089B708010000E8........8BC7E8........C20400
+6A..B8........E8........8BD98B7D0885FF74..57E8........5950578D8B 05 1676 009A :0000 _CleanState_CWinAppEx__UAEHPB_W_Z ........68........8D45F08BCB50E8........33DB895DFC895DE8895DEC53538D4DE8C645FC01E8........8BF853FF75F08B0F8B711C8BCEFF..........8BCFFFD68B7DE88BD885FF74..8B176A..8B72048BCEFF..........8BCFFFD68B4DF08D49F0E8........8BC3E8........C20400
+6A..B8........E8........837D08000F84........837D0C000F84........ 08 A90B 00D6 :0000 _WriteSectionInt_CWinAppEx__QAEHPB_W0H_Z ........33C08945FC8945E88945EC50508D4DE8C645FC01E8........FF75F08BF88B0F8B710C8BCEFF..........8BCFFFD685C074..8B07FF7510FF750C8B70388BCEFF..........8BCFFFD68B7DE88BD885FF74..8B176A..8B72048BCEFF..........8BCFFFD68B4DF08D49F0E8........8BC3E8........C20C008B7DE885FF74..8B076A..8B70048BCEFF..........8BCFFFD68B4DF08D49F0E8........33C0EB..E8........CC
+6A..B8........E8........837D08000F84........837D0C000F84........ 06 9215 00E3 :0000 _WriteSectionBinary_CWinAppEx__QAEHPB_W0PAEI_Z ........FF75088D45F050E8........33C08945FC8945E88945EC50508D4DE8C645FC01E8........FF75F08BF88B0F8B710C8BCEFF..........8BCFFFD685C074..FF75148B07FF7510FF750C8B70288BCEFF..........8BCFFFD68B7DE88BD885FF74..8B176A..8B72048BCEFF..........8BCFFFD68B4DF08D49F0E8........8BC3E8........C210008B7DE885FF74..8B076A..8B70048BCEFF..........8BCFFFD68B4DF08D49F0E8........33C0EB..E8........CC
+6A..B8........E8........837D08000F84........837D0C000F84........ 06 9215 00E7 :0000 _GetSectionBinary_CWinAppEx__QAEHPB_W0PAPAEPAI_Z ........FF75088D45F050E8........33C08945FC8945E88945EC6A..508D4DE8C645FC01E8........FF75F08BF88B078B70108BCEFF..........8BCFFFD685C074..FF75148B07FF7510FF750C8B70448BCEFF..........8BCFFFD685C074..8B7DE885FF74..8B076A..8B70048BCEFF..........8BCFFFD68B4DF083C1F0E8........33C040E8........C210008B7DE885FF74..8B076A..8B70048BCEFF..........8BCFFFD68B4DF08D49F0E8........33C0EB..E8........CC
+6A..B8........E8........837D08000F84........837D0C000F84........ 08 A90B 00D6 :0000 _WriteSectionObject_CWinAppEx__QAEHPB_W0AAVCObject___Z ........33C08945FC8945E88945EC50508D4DE8C645FC01E8........FF75F08BF88B0F8B710C8BCEFF..........8BCFFFD685C074..8B07FF7510FF750C8B70248BCEFF..........8BCFFFD68B7DE88BD885FF74..8B176A..8B72048BCEFF..........8BCFFFD68B4DF08D49F0E8........8BC3E8........C20C008B7DE885FF74..8B076A..8B70048BCEFF..........8BCFFFD68B4DF08D49F0E8........33C0EB..E8........CC
+6A..B8........E8........837D08000F84........837D0C000F84........ 06 9215 00E0 :0000 _WriteSectionString_CWinAppEx__QAEHPB_W00_Z ........FF75088D45F050E8........33C08945FC8945E88945EC50508D4DE8C645FC01E8........FF75F08BF88B0F8B710C8BCEFF..........8BCFFFD685C074..8B07FF7510FF750C8B70308BCEFF..........8BCFFFD68B7DE88BD885FF74..8B176A..8B72048BCEFF..........8BCFFFD68B4DF08D49F0E8........8BC3E8........C20C008B7DE885FF74..8B076A..8B70048BCEFF..........8BCFFFD68B4DF08D49F0E8........33C0EB..E8........CC
+6A..B8........E8........837D08000F84........837D0C000F84........ 08 A90B 00DA :0000 _GetSectionObject_CWinAppEx__QAEHPB_W0AAVCObject___Z ........33C08945FC8945E88945EC6A..508D4DE8C645FC01E8........FF75F08BF88B078B70108BCEFF..........8BCFFFD685C074..8B07FF7510FF750C8B70408BCEFF..........8BCFFFD685C074..8B7DE885FF74..8B076A..8B70048BCEFF..........8BCFFFD68B4DF083C1F0E8........33C040E8........C20C008B7DE885FF74..8B076A..8B70048BCEFF..........8BCFFFD68B4DF08D49F0E8........33C0EB..E8........CC
+6A..B8........E8........8BF933DB895DE4895DE86A..538D4DE4895DFCE8 00 0000 00E1 :0000 _LoadWindowPlacement_CWinAppEx__MAEHAAVCRect__AAH1_Z ........8945F068........8B088D45EC508B71108BCFE8........FF308BCEC645FC01FF..........8B7DF08BCFFFD68B4DEC8BF083C1F0885DFCE8........85F674..8B07FF750868........8B70488BCEFF..........8BCFFFD685C074..8B07FF750C68........8B70548BCEFF..........8BCFFFD685C074..8B07FF751068........8B70548BCEFF..........8BCFFFD685C074..438B7DE485FF74..8B176A..8B72048BCEFF..........8BCFFFD68BC3E8........C20C00
+6A..B8........E8........8BF133DB895DE4895DE853538D4DE4895DFCE8.. 00 0000 00E1 :0000 _StoreWindowPlacement_CWinAppEx__MAEHABVCRect__HH_Z ......8945F068........8B088D45EC508B790C8BCEE8........FF308BCFC645FC01FF..........8B4DF0FFD78B4DEC8BF083C1F0885DFCE8........85F674..8B7DF0FF750868........8B078B702C8BCEFF..........8BCFFFD685C074..8B07FF750C68........8B70388BCEFF..........8BCFFFD685C074..8B07FF751068........8B70388BCEFF..........8BCFFFD685C074..438B7DE485FF74..8B176A..8B72048BCEFF..........8BCFFFD68BC3E8........C20C00
+6A..B8........E8........8BD98B7D0885FF74..57E8........5950578D8B 05 1676 00B8 :0000 _IsStateExists_CWinAppEx__QAEHPB_W_Z ........68........8D45EC8BCB50E8........33C08945FC8945E48945E86A..508D4DE4C645FC01E8........8BF88D45F068........508B0F8B71108BCBE8........FF308BCEC645FC02FF..........8BCFFFD68B4DF08BD883C1F0E8........8B7DE485FF74..8B176A..8B72048BCEFF..........8BCFFFD68B4DEC8D49F0E8........8BC3E8........C20400
+6A..B8........E8........837D08000F84........837D0C000F84........ 0B 68FB 00BB :0000 _GetSectionInt_CWinAppEx__QAEHPB_W0H_Z ........33C08945FC8945E48945E86A..508D4DE4C645FC01E8........FF75EC8BF88B078B70108BCEFF..........8BCFFFD685C074..8B078365F0008B70548D45F050FF750C8BCEFF..........8BCFFFD685C074..8B5DF08B7DE485FF74..8B076A..8B70048BCEFF..........8BCFFFD68B4DEC83C1F0E8........8BC3E8........C20C00E8........CC
+6A..B8........E8........8BF133FF897DFC897DE8397D0C0F84........39 04 65E9 00F8 :0000 _GetSectionString_CWinAppEx__QAE_AV__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__PB_W00_Z ........397D140F84........FF75148B4D08E8........FF750C33DB897DFC8D45EC43508BCE895DE8E8........895DFC897DE0897DE453578D4DE0C645FC02E8........FF75EC8BF88B078B70108BCEFF..........8BCFFFD685C074..8D4DF0E8........8B07C645FC038B704C8D45F050FF75108BCEFF..........8BCFFFD685C074..8B4D088D45F050E8........8B4DF08D49F0E8........8B7DE085FF74..8B07538B70048BCEFF..........8BCFFFD68B4DEC83C1F0E8........8B4508E8........C21000E8........CC
+6A..B8........E8........8BD98B4D0833F68B7D0C894DA039B3FC00000075 00 0000 02C7 :0000 _SaveState_CWinAppEx__UAEHPB_WPAVCFrameImpl___Z ..33C0E9........8D83D400000089459885C974..51E8........5950FF75A08D8BD4000000E8........EB..89459868........8D45A48BCB50E8........8B038975FC8BB0380100008BCEFF..........8BCBFFD633C089459089459450508D4D90C645FC01E8........8945A068........8B088D459C508B710C8BCBE8........FF308BCEC645FC02FF..........8B4DA0FFD68B4D9C8BF083C1F0C645FC01E8........85F674..8B45A06A..68........8B008B70388BCEFF..........8B4DA0FFD68B4DA06A..68........8B018B70388BCEFF..........8B4DA0FFD6FF75A4E8........E8........FF75A48BC8E8........85FF0F
+6A..B8........E8........8BD98B45088B7D0C89459C897D9085C074..50E8 00 0000 0491 :0000 _LoadState_CWinAppEx__UAEHPB_WPAVCFrameImpl___Z ........5950FF759C8D8BD4000000E8........68........8D45A08BCB50E8........8B038365FC008BB0300100008BCEFF..........8BCBFFD633C089458889458C6A..508D4D88C645FC01E8........8945A468........8B088D459C508B71108BCBE8........FF308BCEC645FC02FF..........8B4DA4FFD68B4D9C8BF083C1F0C645FC01E8........85F674..8B45A48B008B70548D83100100005068........8BCEFF..........8B4DA4FFD68B4DA48B018B70548D83140100005068........8BCEFF..........8B4DA4FFD6FF75A0E8........E8........FF75A08BC8E8........8B830C01000083659C00F7D81BC0F7D021
+83790C010F9FC0C3................................................ 00 0000 0008 :0000 _IsShared_CStringData_ATL__QBE_NXZ 
+83....F00FC1410C4885C07F..56578B39518B078B70048BCEFF..........8B 06 99FF 0026 :0000 _Release_CStringData_ATL__QAEXXZ 
+85C975..33C0C38B4104C3.......................................... 00 0000 000B :0000 _GetSafeHandle_CGdiObject__QBEPAXXZ 
+85C975..33C0C38B4120C3.......................................... 00 0000 000B :0000 _GetSafeHwnd_CWnd__QBEPAUHWND____XZ 
+8B01578B78F085FF74..8B07568B70108BCEFF..........8BCFFFD65E5FC333 03 FE68 0023 :0000 _GetManager___CSimpleStringT__W_0A__ATL__QBEPAUIAtlStringMgr_2_XZ 
+8B0183....C3.................................................... 00 0000 0006 :0000 _GetData___CSimpleStringT__W_0A__ATL__ABEPAUCStringData_2_XZ 
+8B018B40F4C3.................................................... 00 0000 0006 :0000 _GetLength___CSimpleStringT__W_0A__ATL__QBEHXZ 
+8B018B40F8C3.................................................... 00 0000 0006 :0000 _GetAllocLength___CSimpleStringT__W_0A__ATL__QBEHXZ 
+8B01C3.......................................................... 00 0000 0003 :0000 __B__CSimpleStringT__W_0A__ATL__QBEPB_WXZ 
+8B01C3.......................................................... 00 0000 0003 :0000 _GetString___CSimpleStringT__W_0A__ATL__QBEPB_WXZ 
+8B0983....E9.................................................... 00 0000 000A :0000 __1__CSimpleStringT__W_0A__ATL__QAE_XZ 
+8B0983....E9.................................................... 00 0000 000A :0000 __1__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAE_XZ 
+8B4104C3........................................................ 00 0000 0004 :0000 _GetHeadPosition_CObList__QBEPAU__POSITION__XZ 
+8B410CC1E81FC3.................................................. 00 0000 0007 :0000 _IsLocked_CStringData_ATL__QBE_NXZ 
+8B45E883E0010F84........83......8B4D08E9........C3.............. 00 0000 0019 :0000 __unwindfunclet__GetSectionString_CWinAppEx__QAE_AV__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__PB_W00_Z_0 
+8B45F083E0010F84........83......8B4D08E9........C3.............. 00 0000 0019 :0000 __unwindfunclet___HATL__YA_AV__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____0_ABV10_PB_W_Z_0 
+8B45F083E0010F84........83......8B4D08E9........C3.............. 00 0000 0019 :0000 __unwindfunclet__GetRegSectionPath_CWinAppEx__QAE_AV__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__PB_W_Z_0 
+8B4DEC81..........E9............................................ 00 0000 000E :0000 __unwindfunclet___0CWinAppEx__QAE_H_Z_1 
+8B4DECE9........................................................ 00 0000 0008 :0000 __unwindfunclet___0CWinAppEx__QAE_H_Z_0 
+8B4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet___0__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAE_PB_W_Z_0 
+8B8110010000C3.................................................. 00 0000 0007 :0000 _GetDataVersionMajor_CWinAppEx__QBEHXZ 
+8B8114010000C3.................................................. 00 0000 0007 :0000 _GetDataVersionMinor_CWinAppEx__QBEHXZ 
+8B81AC00000083E001C3............................................ 00 0000 000A :0000 _SupportsRestartManager_CWinApp__UBEHXZ 
+8B81AC00000083E002C3............................................ 00 0000 000A :0000 _SupportsApplicationRecovery_CWinApp__UBEHXZ 
+8B81AC00000083E004C3............................................ 00 0000 000A :0000 _SupportsAutosaveAtRestart_CWinApp__UBEHXZ 
+8B81AC00000083E008C3............................................ 00 0000 000A :0000 _SupportsAutosaveAtInterval_CWinApp__UBEHXZ 
+8B81AC00000083....C3............................................ 00 0000 000A :0000 _ReopenPreviousFilesAtRestart_CWinApp__UBEHXZ 
+8B81AC00000083....C3............................................ 00 0000 000A :0000 _RestoreAutosavedFilesAtRestart_CWinApp__UBEHXZ 
+8D4110C3........................................................ 00 0000 0004 :0000 _data_CStringData_ATL__QAEPAXXZ 
+8D4D88E9........................................................ 00 0000 0008 :0000 __unwindfunclet__LoadState_CWinAppEx__UAEHPB_WPAVCFrameImpl___Z_1 
+8D4D90E9........................................................ 00 0000 0008 :0000 __unwindfunclet__SaveState_CWinAppEx__UAEHPB_WPAVCFrameImpl___Z_1 
+8D4D98E9........................................................ 00 0000 0008 :0000 __unwindfunclet__LoadState_CWinAppEx__UAEHPB_WPAVCFrameImpl___Z_4 
+8D4D9CE9........................................................ 00 0000 0008 :0000 __unwindfunclet__LoadState_CWinAppEx__UAEHPB_WPAVCFrameImpl___Z_2 
+8D4D9CE9........................................................ 00 0000 0008 :0000 __unwindfunclet__SaveState_CWinAppEx__UAEHPB_WPAVCFrameImpl___Z_2 
+8D4D9CE9........................................................ 00 0000 0008 :0000 __unwindfunclet__SaveState_CWinAppEx__UAEHPB_WPAVCFrameImpl___Z_4 
+8D4DA0E9........................................................ 00 0000 0008 :0000 __unwindfunclet__LoadState_CWinAppEx__UAEHPB_WPAVCFrameImpl___Z_0 
+8D4DA4E9........................................................ 00 0000 0008 :0000 __unwindfunclet__SaveState_CWinAppEx__UAEHPB_WPAVCFrameImpl___Z_0 
+8D4DA8E9........................................................ 00 0000 0008 :0000 __unwindfunclet__LoadState_CWinAppEx__UAEHPB_WPAVCFrameImpl___Z_3 
+8D4DA8E9........................................................ 00 0000 0008 :0000 __unwindfunclet__SaveState_CWinAppEx__UAEHPB_WPAVCFrameImpl___Z_3 
+8D4DE0E9........................................................ 00 0000 0008 :0000 __unwindfunclet__GetSectionString_CWinAppEx__QAE_AV__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__PB_W00_Z_2 
+8D4DE4E9........................................................ 00 0000 0008 :0000 __unwindfunclet__IsStateExists_CWinAppEx__QAEHPB_W_Z_1 
+8D4DE4E9........................................................ 00 0000 0008 :0000 __unwindfunclet__GetSectionInt_CWinAppEx__QAEHPB_W0H_Z_1 
+8D4DE4E9........................................................ 00 0000 0008 :0000 __unwindfunclet__LoadWindowPlacement_CWinAppEx__MAEHAAVCRect__AAH1_Z_0 
+8D4DE4E9........................................................ 00 0000 0008 :0000 __unwindfunclet__StoreWindowPlacement_CWinAppEx__MAEHABVCRect__HH_Z_0 
+8D4DE8E9........................................................ 00 0000 0008 :0000 __unwindfunclet__CleanState_CWinAppEx__UAEHPB_W_Z_1 
+8D4DE8E9........................................................ 00 0000 0008 :0000 __unwindfunclet__GetSectionBinary_CWinAppEx__QAEHPB_W0PAPAEPAI_Z_1 
+8D4DE8E9........................................................ 00 0000 0008 :0000 __unwindfunclet__GetSectionObject_CWinAppEx__QAEHPB_W0AAVCObject___Z_1 
+8D4DE8E9........................................................ 00 0000 0008 :0000 __unwindfunclet__WriteSectionInt_CWinAppEx__QAEHPB_W0H_Z_1 
+8D4DE8E9........................................................ 00 0000 0008 :0000 __unwindfunclet__WriteSectionString_CWinAppEx__QAEHPB_W00_Z_1 
+8D4DE8E9........................................................ 00 0000 0008 :0000 __unwindfunclet__WriteSectionBinary_CWinAppEx__QAEHPB_W0PAEI_Z_1 
+8D4DE8E9........................................................ 00 0000 0008 :0000 __unwindfunclet__WriteSectionObject_CWinAppEx__QAEHPB_W0AAVCObject___Z_1 
+8D4DECE9........................................................ 00 0000 0008 :0000 __unwindfunclet__IsStateExists_CWinAppEx__QAEHPB_W_Z_0 
+8D4DECE9........................................................ 00 0000 0008 :0000 __unwindfunclet__GetSectionInt_CWinAppEx__QAEHPB_W0H_Z_0 
+8D4DECE9........................................................ 00 0000 0008 :0000 __unwindfunclet__GetSectionString_CWinAppEx__QAE_AV__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__PB_W00_Z_1 
+8D4DECE9........................................................ 00 0000 0008 :0000 __unwindfunclet__LoadWindowPlacement_CWinAppEx__MAEHAAVCRect__AAH1_Z_1 
+8D4DECE9........................................................ 00 0000 0008 :0000 __unwindfunclet__StoreWindowPlacement_CWinAppEx__MAEHABVCRect__HH_Z_1 
+8D4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet___0CWinAppEx__QAE_H_Z_2 
+8D4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet__CleanState_CWinAppEx__UAEHPB_W_Z_0 
+8D4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet__IsStateExists_CWinAppEx__QAEHPB_W_Z_2 
+8D4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet__GetSectionString_CWinAppEx__QAE_AV__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__PB_W00_Z_3 
+8D4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet__GetSectionBinary_CWinAppEx__QAEHPB_W0PAPAEPAI_Z_0 
+8D4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet__GetSectionObject_CWinAppEx__QAEHPB_W0AAVCObject___Z_0 
+8D4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet__WriteSectionInt_CWinAppEx__QAEHPB_W0H_Z_0 
+8D4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet__WriteSectionString_CWinAppEx__QAEHPB_W00_Z_0 
+8D4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet__WriteSectionBinary_CWinAppEx__QAEHPB_W0PAEI_Z_0 
+8D4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet__WriteSectionObject_CWinAppEx__QAEHPB_W0AAVCObject___Z_0 
+8D8138020000C3.................................................. 00 0000 0007 :0000 _GetDockingManager_CFrameWndEx__QAEPAVCDockingManager__XZ 
+8D8160010000C3.................................................. 00 0000 0007 :0000 _GetDockingManager_CMDIFrameWndEx__IAEPAVCDockingManager__XZ 
+8D8D68FFFFFFE9.................................................. 00 0000 000B :0000 __unwindfunclet__ReloadWindowPlacement_CWinAppEx__MAEHPAVCFrameWnd___Z_0 
+A1........C3.................................................... 00 0000 0006 :0000 _GetUserToolsManager_CWinAppEx__QAEPAVCUserToolsManager__XZ 
+A1........85C075..E8........A1........C3........................ 00 0000 0014 :0000 _GetMouseManager_CWinAppEx__QAEPAVCMouseManager__XZ 
+A1........85C075..E8........A1........C3........................ 00 0000 0014 :0000 _GetContextMenuManager_CWinAppEx__QAEPAVCContextMenuManager__XZ 
+A1........85C075..E8........A1........C3........................ 00 0000 0014 :0000 _GetKeyboardManager_CWinAppEx__QAEPAVCKeyboardManager__XZ 
+A1........85C075..E8........A1........C3........................ 00 0000 0014 :0000 _GetShellManager_CWinAppEx__QAEPAVCShellManager__XZ 
+A1........85C075..E8........A1........C3........................ 00 0000 0014 :0000 _GetTooltipManager_CWinAppEx__QAEPAVCTooltipManager__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetApplicationRecoveryPingInterval_CWinApp__UAEKXZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetRuntimeClass_CWinAppEx__UBEPAUCRuntimeClass__XZ 
+C20000.......................................................... 00 0000 0003 :0000 ___empty_global_delete__YAXPAX_Z 
+C20000.......................................................... 00 0000 0003 :0000 ___empty_global_delete__YAXPAXI_Z 
+C20000.......................................................... 00 0000 0003 :0000 ___empty_global_delete__YAXPAXW4align_val_t_std___Z 
+C20000.......................................................... 00 0000 0003 :0000 ___empty_global_delete__YAXPAXIW4align_val_t_std___Z 
+C20000.......................................................... 00 0000 0003 :0000 _PreLoadState_CWinAppEx__MAEXXZ 
+C20000.......................................................... 00 0000 0003 :0000 _LoadCustomState_CWinAppEx__MAEXXZ 
+C20000.......................................................... 00 0000 0003 :0000 _PreSaveState_CWinAppEx__MAEXXZ 
+C20000.......................................................... 00 0000 0003 :0000 _SaveCustomState_CWinAppEx__MAEXXZ 
+C20400.......................................................... 00 0000 0003 :0000 _Serialize_CObject__UAEXAAVCArchive___Z 
+E8........8B4004C3.............................................. 00 0000 0009 :0000 _AfxGetApp__YGPAVCWinApp__XZ 
+F0FF410CC3...................................................... 00 0000 0005 :0000 _AddRef_CStringData_ATL__QAEXXZ 
+FF7120FF..........C3............................................ 00 0000 000A :0000 _IsZoomed_CWnd__QBEHXZ 
+FF75F0E8........C3.............................................. 00 0000 0009 :0000 __unwindfunclet__InitTooltipManager_CWinAppEx__QAEHXZ_0 
+FF75F0E8........C3.............................................. 00 0000 0009 :0000 __unwindfunclet__InitMouseManager_CWinAppEx__QAEHXZ_0 
+FF75F0E8........C3.............................................. 00 0000 0009 :0000 __unwindfunclet__EnableTearOffMenus_CWinAppEx__QAEHPB_WII_Z_0 
+FF75F0E8........C3.............................................. 00 0000 0009 :0000 __unwindfunclet__InitContextMenuManager_CWinAppEx__QAEHXZ_0 
+FF75F0E8........C3.............................................. 00 0000 0009 :0000 __unwindfunclet__InitShellManager_CWinAppEx__QAEHXZ_0 
+FF75F0E8........C3.............................................. 00 0000 0009 :0000 __unwindfunclet__InitKeyboardManager_CWinAppEx__QAEHXZ_0 
+FF75F0E8........C3.............................................. 00 0000 0009 :0000 __unwindfunclet__EnableUserTools_CWinAppEx__QAEHIIIPAUCRuntimeClass__II_Z_0 
+---

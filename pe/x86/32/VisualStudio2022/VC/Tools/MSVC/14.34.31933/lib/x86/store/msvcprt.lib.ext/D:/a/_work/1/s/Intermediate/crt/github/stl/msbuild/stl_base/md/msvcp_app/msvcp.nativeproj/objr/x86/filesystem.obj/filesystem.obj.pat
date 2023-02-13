@@ -1,0 +1,69 @@
+558BEC5133C98D45FC5150FF7510FF750C515168........FF7508FF........ 00 0000 0033 :0000 ___std_fs_read_reparse_data_buffer_12 ..85C074..33C0EB..FF..........C9C20C00
+558BEC51516A..8D45F8C745F803000000506A..FF7508FF..........85C075 00 0000 0064 :0000 __Set_delete_flag__A0xffd0ec71__YG_AW4__std_win_error__W4__std_fs_file_handle___Z ..FF..........8BC883E90174..83E90474..83....74..83....75..6A..8D45FFC645FF01506A..FF7508FF..........85C075..FF..........EB..33C0C9C20400
+558BEC515356578B7D0881..........74..81..........74..8D45FC33F650 11 741D 00B3 :0000 ___std_fs_convert_wide_to_narrow_20 ........57FF..........8BD83975FC74..BA........8BC6EB..33F65656FF7518FF7514FF7510FF750C68........57FF..........8BD885DB75..FF..........8BD0EB..8BD681..........75..5656FF7518FF7514FF7510FF750C5657FF..........8BD885DB75..FF..........8BD0EB..8BD68BC35F5E5BC9C21400
+558BEC515657FF750868........E8........8BF885FF75..33F6FF........ 00 0000 0076 :0000 ___std_fs_get_temp_path_4 ..8BD08BC6EB..53FF7508FF..........83....3BC374..A8..74..A9........74..68........68........FF75088D45FC50E8........FF75FC8BF0E8........85F675..33D2EB..8BD38BC75B5F5EC9C20400
+558BEC515668........68........FF75108D45FC50E8........8BF085F675 00 0000 004B :0000 ___std_fs_set_last_write_time_12 ..8D4508505656FF75FCFF..........85C075..FF..........8BF0FF75FCE8........8BC65EC9C20C00
+558BEC515668........68........FF750C8D45FC50E8........8BF085F675 00 0000 003D :0000 ___std_fs_get_file_id_8 ..FF7508FF75FCE8........8BF0FF75FCE8........8BC65EC9C20800
+558BEC5633F656FF75146A..566A..FF7510FF750CE8........8B4D08890183 03 D057 0033 :0000 ___std_fs_open_handle_16 ..FF..........8BF08BC65E5DC21000
+558BEC565733F656FF7510FF750CFF7508FF..........8BF885FF75..FF.... 00 0000 002F :0000 ___std_fs_get_full_path_name_12 ......8BF08BC78BD65F5E5DC20C00
+558BEC565733FF5757FF7518FF7514FF7510FF750C68........FF7508FF.... 00 0000 006F :0000 ___std_fs_convert_wide_to_narrow_replace_chars_20 ......8BF085F675..FF..........8BD0EB..8BD781..........75..5757FF7518FF7514FF7510FF750C57FF7508FF..........8BF085F675..FF..........8BD0EB..8BD75F8BC65E5DC21400
+558BEC5668........FF..........68........50FF..........8BF085F675 00 0000 003C :0000 __Stl_GetTempPath2W_8 ..8B..........FF750C8BCEFF7508FF..........FFD65E5DC20800
+558BEC568B750CFF36E8........33C0505050FF75106A..FF7508FF........ 00 0000 0037 :0000 ___std_fs_directory_iterator_open_12 ..89065E83F8FF74..33C0EB..FF..........5DC20C00
+558BEC568BF1FF36FF..........8B5508832600598B0289068BC68322005E5D 03 8E1E 0023 :0000 __4____crt_unique_heap_ptr__WU__crt_internal_free_policy____QAEAAV0___QAV0__Z 
+558BEC56FF750CFF7508FF..........8BF085F674..3B750877..33D2EB..FF 00 0000 002E :0000 ___std_fs_get_current_path_8 ..........8BD08BC65E5DC20800
+558BEC56FF75108BF1FF750CFF750856E8........8B551489028BC65E5DC210 01 78F0 0021 :0000 __0_Fs_file_std__QAE_QB_WW4__std_access_rights__W4__std_fs_file_flags__QAW4__std_win_error___Z 
+558BEC56FF7514FF7510FF750CFF7508FF..........8BF085F675..FF...... 00 0000 002F :0000 ___std_fs_get_final_path_name_by_handle_16 ....8BD0EB..33D28BC65E5DC21000
+558BEC56FF7518FF7514FF7510FF750C6A..FF7508FF..........8BF085F675 00 0000 0034 :0000 ___std_fs_convert_narrow_to_wide_20 ..FF..........8BD0EB..33D28BC65E5DC21400
+558BEC6A..FF750CFF7508E8........5DC20800........................ 00 0000 0014 :0000 ___std_fs_create_symbolic_link_8 
+558BEC6A..FF750CFF7508E8........5DC20800........................ 00 0000 0014 :0000 ___std_fs_create_directory_symbolic_link_8 
+558BEC6A..FF750CFF7508FF..........85C074..33C0EB..FF..........5D 03 2EB7 0023 :0000 ___std_fs_rename_8 
+558BEC6A..FF750C6A..FF7508FF..........85C074..33C0EB..FF........ 00 0000 0025 :0000 __Get_file_id_by_handle__A0xffd0ec71__YG_AW4__std_win_error__QAXQAU_FILE_ID_INFO___Z ..5DC20800
+558BEC81ECB8020000A1........33C58945FC538B5D108AD3568B750880E201 01 EB46 026C :0000 ___std_fs_get_stats_16 ....89B554FDFFFF88955FFDFFFF578B7D0C84D274..8BC3C1E802A8..74..6A..58E9........8B4D148BC3D1E8A8..74..83F9FF74..8BC1C1E80AA8..74..84D275..83....894F1085DB0F84........F6....0F84........83F9FF74..C1E90AF6....74..84D20F85........8D45D8506A..56FF..........85C075..FF..........83....0F85........8D8560FDFFFF5056FF..........83F8FF75..FF..........E9........50FF..........8B8580FDFFFF8B8D60FDFFFF8BB57CFDFFFF89854CFDFFFF8B8574FDFFFF898548FDFFFF8B8578FDFFFF898558FDFFFFEB..8B45F88B75F48B4DD889854CFDFFFF8B45F0898558FDFFFF
+558BEC837D08FF74..33C0EB..FF..........5DC20400.................. 00 0000 0017 :0000 __Translate_CreateFile_last_error__A0xffd0ec71__YG_AW4__std_win_error__QAX_Z 
+558BEC837D08FF74..FF7508FF..........85C075..FF..........5DC20400 00 0000 0020 :0000 ___std_fs_directory_iterator_close_4 
+558BEC837D08FF74..FF7508FF..........85C075..FF..........5DC20400 00 0000 0020 :0000 ___std_fs_close_handle_4 
+558BEC83EC0C8D45FC566A..68........FF750850E8........8BF085F675.. 07 3650 0058 :0000 ___std_fs_resize_file_12 ..8945F48D45F4506A..FF75FC894DF8FF..........85C075..FF..........8BF0FF75FCE8........8BC65EC9C20C00
+558BEC83EC14538B5D14568B7510578B7D0C535657FF7508FF..........85C0 01 DBC5 0196 :0000 ___std_fs_space_16 ..33C0E9........FF..........83....890F894F04890E894E04890B894B043D........0F85........68........68........FF75088D45F850E8........8BF085F674..FF75F8E8........6A..FF..........598BC6E9........68........C7............FF..........33F68BF856897DF08975ECFF..........56897DF4FF..........8B75F8EB..8B45FC6A..83C0F2508D471C5056FF..........85C00F84........83....8D0C00894DF83B45FC76..518945FCFF..........FF75F48BF8897DF0FF..........6A..897DF4FF..........83C40C85FF75..56E8........57FF..........596A..585F5E5BC9C2100056E8
+558BEC83EC188B4D1C8365F4000FB7C181..........8945EC8B45148945F88B 0D 234D 0049 :0000 ___vcp_CreateFile__A0xffd0ec71__YGPAXQB_WKKQAU_SECURITY_ATTRIBUTES__KKQAX_Z ............FF7510894DF0FF750CFF7508FF..........C9C21C00
+558BEC83EC1C0FB64510538945E833DB8D45E4895DEC50FF750C895DF0FF7508 04 94FD 004A :0000 ___vcp_Copyfile__A0xffd0ec71__YG_AU__std_fs_copy_file_result__QB_W0_N_Z ............FF..........85C078..C645F8018BD3EB..885DF80FB7D08B45F85BC9C20C00
+558BEC83EC285333DB53FF7508FF..........85C074..C645F8018BD3EB..56 01 00FF 005F :0000 ___std_fs_create_directory_4 ..........8BD0BE........3BD675..6AFF6A..8D45D850FF7508E8........8BD085D275..8B45E8C1E804A8..75..8BD6885DF85E8B45F85BC9C20400
+558BEC83EC2CA1........33C58945FC8B45088D4DD4568B750C6A..516A..50 01 00FF 0048 :0000 ___std_fs_get_file_attributes_by_handle_8 ..........85C074..8B45F4890633C0EB..FF..........8B4DFC33CD5EE8........C9C20800
+558BEC83EC2CA1........33C58945FC8B45088D4DD4568B750C6A..516A..50 01 00FF 004E :0000 __Get_last_write_time_by_handle__A0xffd0ec71__YG_AW4__std_win_error__QAXQA_J_Z ..........85C074..8B45E48B4DE8890633C0894E04EB..FF..........8B4DFC33CD5EE8........C9C20800
+558BEC83EC30A1........33C58945FC568B750856FF..........8BC883F9FF 01 52D4 00D8 :0000 ___std_fs_change_permissions_12 ..FF..........E9........570FB67D10F7..........74..807D0C0074..68........68........568D45D050E8........8BF085F675..6A..8D45D45056FF75D0FF..........85C074..8B4DF48BC183E0013BC774..6A..8D45D483F1015056FF75D0894DF4FF..........85C075..FF..........8BF0FF75D0E8........8BC6EB..83E0013BC774..83F1015156FF..........85C075..FF..........EB..33C05F8B4DFC33CD5EE8........C9C20C00
+558BEC83EC40A1........33C58945FC5356578B7D088D45C468........68.. 00 0000 01A0 :0000 ___std_fs_remove_4 ......5733DB50885DCBE8........8BF06A..5885F675..B301EB..3BF00F85........68........68........578D45C450E8........8BD885DB74..8B7DC4E9........8A5DCB8B7DC48D45C06A..506A..57C7............FF..........85C074..33C9C645CC018BD9E9........FF..........8BC883E90174..83....74..83....0F85........57E8........85C074..6A..5E3BC60F85........84DB0F84........6A..8D45D433DB505357FF..........85C075..885DCCFF..........8BD8EB..8B45F4A8..74..83F0016A..8945F48D45D4505357FF..........85C074..57E8........85C075..C645CC01EB..3BC675
+558BEC83EC50A1........33C58945FC538B5D1033C0568B750C83....8975B0 0B 6E1C 0199 :0000 ___std_fs_copy_file_12 ....0F84........6A..5657E8........83....0F85........85DB0F84........33C083....0F94C033C951516A..518D0445010000005068........578945B8E8........8BF883FFFF75..FF..........8945C085C074..33C0578845C4E8........8B45C48B55C0E9........33C050506A..50FF75B868........56E8........8BF083FEFF75..FF..........8BD885DB74..33C08845C456E9........8B5D1083....75..8D45BC5057E8........8BD885DB74..33C08845C4E9........8D45B45056E8........8BD885DB75..8B45B83B45C07F..7C..8B45B43B45BC73..56E8........57E8........8B75B033C08B7DC8505657
+558BEC8B45080B450C5DC3.......................................... 00 0000 000B :0000 __U_YA_AW4__std_fs_stats_flags__W40_0_Z 
+558BEC8B45080B450C5DC3.......................................... 00 0000 000B :0000 __U_YA_AW4__std_access_rights__W40_0_Z 
+558BEC8B45080B450C5DC3.......................................... 00 0000 000B :0000 __U_YA_AW4__std_fs_file_flags__W40_0_Z 
+558BEC8B450823450C5DC3.......................................... 00 0000 000B :0000 __I_YA_AW4__std_fs_file_attr__W40_0_Z 
+558BEC8B450823450C5DC3.......................................... 00 0000 000B :0000 __I_YA_AW4__std_fs_stats_flags__W40_0_Z 
+558BEC8B450823450C5DC3.......................................... 00 0000 000B :0000 __I_YA_AW4__std_fs_copy_options__W40_0_Z 
+558BEC8B45084883E80174..83E80174..83....74..83....74..32C05DC3B0 03 080B 0023 :0000 ___std_is_file_not_found__YA_NW4__std_win_error___Z 
+558BEC8B45088138030000A00F94C05DC20400.......................... 00 0000 0013 :0000 ___std_fs_is_junction_from_reparse_data_buffer_4 
+558BEC8B450885450C0F95C05DC3.................................... 00 0000 000E :0000 ____Bitmask_includes_any_W4__std_fs_stats_flags___std__YA_NW4__std_fs_stats_flags__0_Z 
+558BEC8B450885450C0F95C05DC3.................................... 00 0000 000E :0000 ____Bitmask_includes_any_W4__std_fs_file_attr___std__YA_NW4__std_fs_file_attr__0_Z 
+558BEC8B450889018BC15DC20400.................................... 00 0000 000E :0000 __0_Fs_file_std__QAE_QAX_Z 
+558BEC8B450889018BC15DC20400.................................... 00 0000 000E :0000 __0____crt_unique_heap_ptr__WU__crt_internal_free_policy____QAE_QA_W_Z 
+558BEC8B45088B4D0C21085DC3...................................... 00 0000 000D :0000 ___4_YAAAW4__std_fs_stats_flags__AAW40_W40__Z 
+558BEC8B45088B4D0C21085DC3...................................... 00 0000 000D :0000 ___4_YAAAW4__std_fs_copy_options__AAW40_W40__Z 
+558BEC8B45088D48FF83E90174..83E90174..83....74..83....75..33C05D 03 8E1E 0023 :0000 __Translate_not_found_to_success__A0xffd0ec71__YG_AW4__std_win_error__W42__Z 
+558BEC8B4508F7D05DC3............................................ 00 0000 000A :0000 __S_YA_AW4__std_fs_stats_flags__W40__Z 
+558BEC8B4D0C33C0505050500FB7410483C004505168........FF7508FF.... 00 0000 0035 :0000 ___std_fs_write_reparse_data_buffer_8 ......85C074..33C0EB..FF..........5DC20800
+558BEC8B550833C00B450C5DC3...................................... 00 0000 000D :0000 __Merge_to_ull__A0xffd0ec71__YA_KKK_Z 
+558BEC8B5508568B750C813A0C0000A075..668B420E66D1E80FB7C88B451066 03 05CA 008B :0000 ___std_fs_read_name_from_reparse_data_buffer_12 ..668B4A0A66D1E96689080FB74208EB..6689080FB7420CD1E88D400AEB..813A030000A075..668B420E66D1E80FB7C88B45106685C975..668B4A0A66D1E96689080FB74208EB..6689080FB7420CD1E883C0088D0442890633C0EB..B8........5E5DC20C00
+558BECFF7508FF..........595DC20400.............................. 00 0000 0011 :0000 ____R_W___crt_internal_free_policy__QBEXQB_W_Z 
+558BECFF7508FF..........85C074..33C0EB..FF..........5DC20400.... 00 0000 001E :0000 ___std_fs_set_current_path_4 
+558BECFF750CE8........5DC20800.................................. 00 0000 000F :0000 ___std_fs_create_directory_template_8 
+558BECFF750CFF7508FF..........85C074..33C0EB..FF..........5DC208 01 78F0 0021 :0000 ___std_fs_directory_iterator_advance_8 
+568BF1FF36FF..........832600595EC3.............................. 00 0000 0011 :0000 __1____crt_unique_heap_ptr__WU__crt_internal_free_policy____QAE_XZ 
+568BF1FF36FF..........832600595EC3.............................. 00 0000 0011 :0000 _release_____crt_unique_heap_ptr__WU__crt_internal_free_policy____QAEXXZ 
+6A..58C20800.................................................... 00 0000 0006 :0000 ___std_fs_create_hard_link_8 
+6A..FF..........32C0C20C00...................................... 00 0000 000D :0000 __Not_supported_CreateSymbolicLinkW__A0xffd0ec71__YGEPB_W0K_Z 
+6A..FF..........FF..........83....75..6A..FF..........FF........ 00 0000 0024 :0000 __Create_symlink__A0xffd0ec71__YG_AW4__std_win_error__QB_W0K_Z ..C20C00
+8339000F95C0C3.................................................. 00 0000 0007 :0000 _is_valid_____crt_unique_heap_ptr__WU__crt_internal_free_policy____QBE_NXZ 
+8339000F95C0C3.................................................. 00 0000 0007 :0000 __B____crt_unique_heap_ptr__WU__crt_internal_free_policy____QBE_NXZ 
+8B01C3.......................................................... 00 0000 0003 :0000 __Get__Fs_file_std__QBEPAXXZ 
+8B01C3.......................................................... 00 0000 0003 :0000 _get_____crt_unique_heap_ptr__WU__crt_internal_free_policy____QBEPA_WXZ 
+FF..........B9........2BC1F7D81BC025........03C1C3.............. 00 0000 0019 :0000 ___std_fs_code_page_0 
+FF31E8........C3................................................ 00 0000 0008 :0000 __1_Fs_file_std__QAE_XZ 
+---

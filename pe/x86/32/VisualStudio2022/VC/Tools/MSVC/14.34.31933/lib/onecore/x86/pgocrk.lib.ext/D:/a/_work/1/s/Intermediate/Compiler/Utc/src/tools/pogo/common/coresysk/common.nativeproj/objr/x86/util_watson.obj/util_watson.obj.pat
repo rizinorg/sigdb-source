@@ -1,0 +1,4 @@
+558BEC8B45088B0081380300008074..A1........83E80074..83E80174..83 0B 5066 002B :0000 _ErrorReportingFilter__YAJPAU_EXCEPTION_POINTERS___N_Z 
+558BEC8B4508A3........5DC20400.................................. 00 0000 000F :0000 _ErrorReportingSetMode__YGXW4ErrorReportingMode___Z 
+A1........83E80074..83E80174..83E80174..4832C0C3B001C3.......... 00 0000 001B :0000 _ErrorReportingDisabled__YG_NXZ 
+---

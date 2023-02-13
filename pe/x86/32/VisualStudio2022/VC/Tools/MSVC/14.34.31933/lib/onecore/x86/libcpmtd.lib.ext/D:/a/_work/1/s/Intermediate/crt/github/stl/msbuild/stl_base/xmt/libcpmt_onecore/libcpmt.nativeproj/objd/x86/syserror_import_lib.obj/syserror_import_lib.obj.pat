@@ -1,0 +1,5 @@
+558BEC51894DFC0FB645088B4DFC8A04018BE55DC20400.................. 00 0000 0017 :0000 __Test__Whitespace_bitmap_t__A0xfa98056f__QBE_ND_Z 
+558BEC837D0C0074..8B450803450C0FB648FF51B9........E8........0FB6 04 DF68 0037 :0000 ___std_get_string_size_without_trailing_whitespace_8 ..8B450C83E80189450CEB..8B450C5DC20800
+558BEC83EC0C6A..8D45FC5068........68........FF..........8945F883 04 C843 0061 :0000 ___std_system_error_allocate_message_8 ..C745FC000000006A..6A..8B4D0C518B55FC528B4508506A..68........FF..........8945F48B4DF4518B550C8B0250E8........8BE55DC20800
+558BEC8B450850FF..........5DC20400.............................. 00 0000 0011 :0000 ___std_system_error_deallocate_message_4 
+---

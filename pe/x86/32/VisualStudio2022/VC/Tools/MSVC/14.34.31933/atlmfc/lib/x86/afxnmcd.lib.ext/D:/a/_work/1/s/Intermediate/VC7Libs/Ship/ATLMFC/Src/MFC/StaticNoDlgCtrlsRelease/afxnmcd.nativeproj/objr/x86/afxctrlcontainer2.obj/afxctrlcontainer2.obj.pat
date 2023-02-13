@@ -1,0 +1,36 @@
+33C0C3.......................................................... 00 0000 0003 :0000 _SubclassDlgControls_CMFCControlContainer__QAEHXZ 
+558BEC5151535733FF5757FF75108BDFFF75085768........FF..........89 05 95BC 00EF :0000 _UTF8ToString_CMFCControlContainer__SGHPBDAAV__CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__H_Z ..33C0E9........5633C9406A..5AF7E20F90C1F7D90BC851E8........8BF08B45FC8975F88D044502000000505756E8........83C410FF75FC56FF7510FF75085768........FF..........575757576AFF5657FF..........50FF..........8BF08975FC85F67E..4656E8........568BD85753E8........8B75FC83C410575756536AFFFF75F857FF..........50FF..........FF75F8E8........5985DB74..53E8........598BF88B4D0C5753E8........53E8........598BC65E5F5BC9C20C00
+558BEC5153578B7D0C8BD985FF75..E8........EB..837D080074..8B038B4D 0E 324D 0073 :0000 _SetString___CSimpleStringT_D_0A__ATL__QAEXPBDH_Z ........8B4DFC3BCE8B135E5777..03C851FF72F850E8........EB..FF7508FF72F850E8........83C4108BCB57E8........5F5BC9C2080068........E8........CC
+558BEC538BD98B4D088B1383....394A087D..85C97E..56578B3A6A..51528B 07 4CE9 0046 :0000 _Reallocate___CSimpleStringT_D_0A__ATL__AAEXH_Z ..........8BCFFFD65F5E85C074..83....89035B5DC20400E8........CC
+558BEC568B7508578BF98B0F3971F47E..8B71F48379FC017E..568BCFE8.... 00 0000 0057 :0000 _PrepareWrite2___CSimpleStringT_D_0A__ATL__AAEXH_Z ....EB..8B49F83BCE7D..81..........7E..B8........EB..8BC1992BC2D1F803C83BCE7D..8BCE518BCFE8........5F5E5DC20400
+558BEC568B751485F675..33C0EB..8B450885C075..E8........6A..5E8930 01 3E9B 007F :0000 _memcpy_s ........8BC6EB..578B7D1085FF74..39750C72..565750E8........83C40C33C0EB..FF750C6A..50E8........83C40C85FF75..E8........6A..EB..39750C73..E8........6A..5E8930E8........8BC6EB..6A..585F5E5DC3
+558BEC5DE9...................................................... 00 0000 0009 :0000 _GetBuffer___CSimpleStringT_D_0A__ATL__QAEPADH_Z 
+558BEC5DE9...................................................... 00 0000 0009 :0000 _ReleaseBufferSetLength___CSimpleStringT_D_0A__ATL__QAEXH_Z 
+558BEC6AFF68........64A10000000050535657A1........33C5508D45F464 0C BC1D 006F :0000 _Empty___CSimpleStringT_D_0A__ATL__QAEXXZ ....8B1939410474..39410C7D..508BCFE8........EB..E8........8B038B700C8BCEFF..........8BCBFFD683....89078B4DF464890D00000000595F5E5BC9C3
+558BEC817D080E00078075..E8........FF7508E8........CC............ 00 0000 001A :0000 _AtlThrowImpl_ATL__YGXJ_Z 
+558BEC837D0800578BF975..33C0EB..FF7508E8........5950FF75088BCFE8 00 0000 002B :0000 __4__CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QAEAAV01_PBD_Z ........8BC75F5DC20400
+558BEC837D0800578BF975..33C0EB..FF7508E8........5950FF75088BCFE8 00 0000 002B :0000 __4__CSimpleStringT_D_0A__ATL__QAEAAV01_PBD_Z ........8BC75F5DC20400
+558BEC837D0800578BF975..33C0EB..FF7508E8........5950FF75088BCFE8 00 0000 0029 :0000 _SetString___CSimpleStringT_D_0A__ATL__QAEXPBD_Z ........5F5DC20400
+558BEC837D080075..33C05DC35DE9.................................. 00 0000 0013 :0000 _StringLength___CSimpleStringT_D_0A__ATL__SAHPBD_Z 
+558BEC83EC108BC18945F053568B00578945F88D48F08B398B41048945FC8B07 06 D273 008E :0000 _Fork___CSimpleStringT_D_0A__ATL__AAEXH_Z ..........8BCFFFD68B5D088BF86A..538B0F8B318BCEFF..........8BCFFFD68BC8894DF485C974..8B7DFC3BFB7D..8BDF8D43018B5DF850538D71105056E8........8B45F48D4BF083C410897804E8........8B45F05F89305E5BC9C20400E8........CC
+558BEC8B450883....89015DC20400.................................. 00 0000 000F :0000 _Attach___CSimpleStringT_D_0A__ATL__AAEXPAUCStringData_2__Z 
+558BEC8B45145685C074..837D080075..E8........6A..5E8930E8........ 03 2124 004C :0000 _memmove_s ..837D100074..39450C73..E8........6A..EB..50FF7510FF7508E8........83C40C33C05E5DC3
+558BEC8B451485C074..837D080075..E8........C7..........5DE9...... 00 0000 004A :0000 _CopyCharsOverlapped___CSimpleStringT_D_0A__ATL__SAXPADIPBDH_Z ..837D100074..39450C73..E8........C7..........EB..50FF7510FF7508E8........83C40C5DC3
+558BEC8B5508568BF185D278..8B0633C9412B48FC8B40F82BC20BC87D..528B 02 BB34 0038 :0000 _PrepareWrite___CSimpleStringT_D_0A__ATL__AAEPADH_Z ........8B065E5DC2040068........E8........CC
+558BEC8B550885D278..8B013B50F87F..8950F48B01C60402005DC2040068.. 00 0000 0029 :0000 _SetLength___CSimpleStringT_D_0A__ATL__AAEXH_Z ......E8........CC
+68........E8........CC.......................................... 00 0000 000B :0000 _ThrowMemoryException___CSimpleStringT_D_0A__ATL__KAXXZ 
+83790C010F9FC0C3................................................ 00 0000 0008 :0000 _IsShared_CStringData_ATL__QBE_NXZ 
+83....F00FC1410C4885C07F..56578B39518B078B70048BCEFF..........8B 06 99FF 0026 :0000 _Release_CStringData_ATL__QAEXXZ 
+8B0183....C3.................................................... 00 0000 0006 :0000 _GetData___CSimpleStringT_D_0A__ATL__ABEPAUCStringData_2_XZ 
+8B018B40F4C3.................................................... 00 0000 0006 :0000 _GetLength___CSimpleStringT_D_0A__ATL__QBEHXZ 
+8B018B40F8C3.................................................... 00 0000 0006 :0000 _GetAllocLength___CSimpleStringT_D_0A__ATL__QBEHXZ 
+8B01C3.......................................................... 00 0000 0003 :0000 _GetString___CSimpleStringT_D_0A__ATL__QBEPBDXZ 
+8B410CC1E81FC3.................................................. 00 0000 0007 :0000 _IsLocked_CStringData_ATL__QBE_NXZ 
+8D4110C3........................................................ 00 0000 0004 :0000 _data_CStringData_ATL__QAEPAXXZ 
+C20000.......................................................... 00 0000 0003 :0000 ___empty_global_delete__YAXPAXI_Z 
+C20000.......................................................... 00 0000 0003 :0000 ___empty_global_delete__YAXPAXW4align_val_t_std___Z 
+C20000.......................................................... 00 0000 0003 :0000 _AfxRegisterMFCCtrlClasses__YAXXZ 
+C20000.......................................................... 00 0000 0003 :0000 ___empty_global_delete__YAXPAXIW4align_val_t_std___Z 
+C20000.......................................................... 00 0000 0003 :0000 ___empty_global_delete__YAXPAX_Z 
+C20400.......................................................... 00 0000 0003 :0000 _PreUnsubclassControl_CMFCControlContainer__IAEXPAVCWnd___Z 
+---

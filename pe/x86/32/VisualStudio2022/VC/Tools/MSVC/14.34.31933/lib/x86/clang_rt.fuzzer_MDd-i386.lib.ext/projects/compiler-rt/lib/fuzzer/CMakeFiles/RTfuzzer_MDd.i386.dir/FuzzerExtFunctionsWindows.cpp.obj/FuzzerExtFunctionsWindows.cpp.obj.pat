@@ -1,0 +1,36 @@
+558BEC8B45083B450C75..807D140074..FF751068........E8........83C4 05 EA61 0025 :0000 ___GetFnPtr___A6AHXZ__YAP6AHXZP6AHXZ0PBD_N_Z 
+558BEC8B45083B450C75..807D140074..FF751068........E8........83C4 05 EA61 0025 :0000 ___GetFnPtr___A6AXPAXPBDPADI_Z__YAP6AXPAXPBDPADI_ZP6AX012I_Z31_N_Z 
+558BEC8B45083B450C75..807D140074..FF751068........E8........83C4 05 EA61 0025 :0000 ___GetFnPtr___A6AXII_Z__YAP6AXII_ZP6AXII_Z0PBD_N_Z 
+558BEC8B45083B450C75..807D140074..FF751068........E8........83C4 05 EA61 0025 :0000 ___GetFnPtr___A6AIPBEI0IPAEII_Z__YAP6AIPBEI0IPAEII_ZP6AI0I0I1II_Z2PBD_N_Z 
+558BEC8B45083B450C75..807D140074..FF751068........E8........83C4 05 EA61 0025 :0000 ___GetFnPtr___A6AXPDXI_Z__YAP6AXPDXI_ZP6AX0I_Z1PBD_N_Z 
+558BEC8B45083B450C75..807D140074..FF751068........E8........83C4 05 EA61 0025 :0000 ___GetFnPtr___A6AHP6AXPDXI_ZP6AX0_Z_Z__YAP6AHP6AXPDXI_ZP6AX0_Z_ZP6AH12_Z3PBD_N_Z 
+558BEC8B45083B450C75..807D140074..FF751068........E8........83C4 05 EA61 0025 :0000 ___GetFnPtr___A6AHPAXPADIPAPAX_Z__YAP6AHPAXPADIPAPAX_ZP6AH01I2_Z3PBD_N_Z 
+558BEC8B45083B450C75..807D140074..FF751068........E8........83C4 05 EA61 0025 :0000 ___GetFnPtr___A6AXPAX_Z__YAP6AXPAX_ZP6AX0_Z1PBD_N_Z 
+558BEC8B45083B450C75..807D140074..FF751068........E8........83C4 05 EA61 0025 :0000 ___GetFnPtr___A6AXI_Z__YAP6AXI_ZP6AXI_Z0PBD_N_Z 
+558BEC8B45083B450C75..807D140074..FF751068........E8........83C4 05 EA61 0025 :0000 ___GetFnPtr___A6AXPBDI_Z__YAP6AXPBDI_ZP6AX0I_Z10_N_Z 
+558BEC8B45083B450C75..807D140074..FF751068........E8........83C4 05 EA61 0025 :0000 ___GetFnPtr___A6AIPAEIII_Z__YAP6AIPAEIII_ZP6AI0III_Z1PBD_N_Z 
+558BEC8B45083B450C75..807D140074..FF751068........E8........83C4 05 EA61 0025 :0000 ___GetFnPtr___A6AHPAHPAPAPAD_Z__YAP6AHPAHPAPAPAD_ZP6AH01_Z2PBD_N_Z 
+558BEC8B45083B450C75..807D140074..FF751068........E8........83C4 05 EA61 0025 :0000 ___GetFnPtr___A6AXP6AXXZ_Z__YAP6AXP6AXXZ_ZP6AX0_Z1PBD_N_Z 
+558BEC8B45083B450C75..807D140074..FF751068........E8........83C4 05 EA61 0025 :0000 ___GetFnPtr___A6AXXZ__YAP6AXXZP6AXXZ0PBD_N_Z 
+568BF16A..68........68........68........C70600000000C74604000000 80 A4F6 0294 :0000 __0ExternalFunctions_fuzzer__QAE_XZ ........6A..68........68........68........8906E8........6A..68........68........68........894604E8........6A..68........68........68........894608E8........83C44089460C6A..68........68........68........E8........6A..68........68........68........894610E8........6A..68........68........68........894614E8........6A..68........68........68........894618E8........83C44089461C6A..68........68........68........E8........6A..68........89462068........68........E8........6A..68........68........68........894624E8
+68........68........E8........83C4086A..FF..........CC.......... 00 0000 001B :0000 ___sanitizer_set_death_callbackDef 
+68........68........E8........83C4086A..FF..........CC.......... 00 0000 001B :0000 ___sanitizer_log_writeDef 
+68........68........E8........83C4086A..FF..........CC.......... 00 0000 001B :0000 ___sanitizer_set_report_fdDef 
+68........68........E8........83C4086A..FF..........CC.......... 00 0000 001B :0000 _LLVMFuzzerCustomMutatorDef 
+68........68........E8........83C4086A..FF..........CC.......... 00 0000 001B :0000 ___sanitizer_purge_allocatorDef 
+68........68........E8........83C4086A..FF..........CC.......... 00 0000 001B :0000 ___msan_scoped_disable_interceptor_checksDef 
+68........68........E8........83C4086A..FF..........CC.......... 00 0000 001B :0000 _LLVMFuzzerCustomCrossOverDef 
+68........68........E8........83C4086A..FF..........CC.......... 00 0000 001B :0000 ___sanitizer_print_memory_profileDef 
+68........68........E8........83C4086A..FF..........CC.......... 00 0000 001B :0000 ___msan_scoped_enable_interceptor_checksDef 
+68........68........E8........83C4086A..FF..........CC.......... 00 0000 001B :0000 ___lsan_enableDef 
+68........68........E8........83C4086A..FF..........CC.......... 00 0000 001B :0000 ___lsan_disableDef 
+68........68........E8........83C4086A..FF..........CC.......... 00 0000 001B :0000 ___sanitizer_print_stack_traceDef 
+68........68........E8........83C4086A..FF..........CC.......... 00 0000 001B :0000 ___lsan_do_recoverable_leak_checkDef 
+68........68........E8........83C4086A..FF..........CC.......... 00 0000 001B :0000 ___msan_unpoisonDef 
+68........68........E8........83C4086A..FF..........CC.......... 00 0000 001B :0000 ___sanitizer_symbolize_pcDef 
+68........68........E8........83C4086A..FF..........CC.......... 00 0000 001B :0000 ___msan_unpoison_paramDef 
+68........68........E8........83C4086A..FF..........CC.......... 00 0000 001B :0000 ___sanitizer_acquire_crash_stateDef 
+68........68........E8........83C4086A..FF..........CC.......... 00 0000 001B :0000 ___sanitizer_get_module_and_offset_for_pcDef 
+68........68........E8........83C4086A..FF..........CC.......... 00 0000 001B :0000 _LLVMFuzzerInitializeDef 
+68........68........E8........83C4086A..FF..........CC.......... 00 0000 001B :0000 ___sanitizer_install_malloc_and_free_hooksDef 
+---

@@ -1,0 +1,2 @@
+83............0F8D........E9........FFFFFFFFFFFFFFFFFFFFFFFFFFFF B0 1FE9 00D0 :0000 ___vdecl_u16div16 
+---
