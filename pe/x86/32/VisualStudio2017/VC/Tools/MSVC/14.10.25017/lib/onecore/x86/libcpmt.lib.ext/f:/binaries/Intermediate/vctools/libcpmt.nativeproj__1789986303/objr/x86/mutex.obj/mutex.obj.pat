@@ -1,0 +1,34 @@
+558BEC51A1........85C078..83....7E..83....75..8B4D0885C974..E8.. 00 0000 003B :0000 _create_stl_critical_section_details_Concurrency__YAXPAVstl_critical_section_interface_12__Z ......8BE55DC38B4D0885C974..E8........EB..E8........CC
+558BEC56578B7D0833F639772474..FF..........39472075..465F8BC65E5D 01 EF04 0021 :0000 __Mtx_current_owns 
+558BEC56578B7D086A..6A..832700E8........8BF0595985F675..40EB..FF 04 0E81 0032 :0000 __Mtx_init ........5959893733C05F5E5DC3
+558BEC56578B7D088B47048B70108BCEE8........8D4F04FFD65F5E5DC3.... 00 0000 001E :0000 __Mtx_destroy_in_situ 
+558BEC568B75088D460450E8........83......8B450C836624005989065E5D 01 EF04 0021 :0000 __Mtx_init_in_situ 
+558BEC578B7D08836F240175..83......8B4704568B700C8BCEE8........8D 0A 372B 002A :0000 __Mtx_unlock 
+558BEC6A..FF7508E8........59595DC3.............................. 00 0000 0011 :0000 __Mtx_lock 
+558BEC837D080074..FF7508E8........595DE9........5DC3............ 00 0000 001A :0000 __Mtx_destroy 
+558BEC83EC14A1........33C58945FC8B450833C9894DF4894DEC894DF08D4D 04 EEBE 0038 :0000 __Mtx_trylock ........59598B4DFC33CDE8........8BE55DC3
+558BEC83EC18A1........33C58945FC538B5D08568B750C578B0325........ 04 7C00 0186 :0000 _mtx_do_lock__YAHPAU_Mtx_internal_imp_t__PBUxtime___Z ....75..FF..........39432074..8B43048B308BCEE8........8D4B04FFD6FF..........894320FF4324E9........85F675..FF..........3943200F84........8B43048B308BCEE8........8D4B04FFD6E9........837E04008B060F8C........7F..85C00F82........0B460475..3946087E..8D45EC6A..50E8........8B0659598B4DF03B4E047C..7F..3945EC72..3945EC0F85........3B4E040F85........8B45F43B46087D..FF..........39432074..8B73048D45EC50FF75E8E8........8B76085959508BCEE8........8D4B04FFD684C075..8D45EC6A..50E8........8B75E8EB..FF..........39432074..8B43
+558BEC8B450883......FF48245DC3.................................. 00 0000 000F :0000 __Mtx_clear_owner 
+558BEC8B450883C0045DC3.......................................... 00 0000 000B :0000 __Mtx_getconcrtcs 
+558BEC8B4508A3........5DC3...................................... 00 0000 000D :0000 ___set_stl_sync_api_mode 
+558BEC8B450C5DC3................................................ 00 0000 0008 :0000 __2_YAPAXIPAX_Z 
+558BECFF..........8B4D08FF41248941205DC3........................ 00 0000 0014 :0000 __Mtx_reset_owner 
+558BECFF750CFF7508E8........595983....75..6A..585DC3............ 00 0000 001A :0000 __Mtx_timedlock 
+568BF16A..68........8D4604C7..........50FF..........8BC65EC3.... 00 0000 001E :0000 __0stl_critical_section_vista_details_Concurrency__QAE_XZ 
+568BF18D4604C7..........50FF..........8BC65EC3.................. 00 0000 0017 :0000 __0stl_critical_section_win7_details_Concurrency__QAE_XZ 
+8BC1C3.......................................................... 00 0000 0003 :0000 __0stl_critical_section_interface_details_Concurrency__QAE_XZ 
+8D410450FF..........C3.......................................... 00 0000 000B :0000 _unlock_stl_critical_section_win7_details_Concurrency__UAEXXZ 
+8D410450FF..........C3.......................................... 00 0000 000B :0000 _lock_stl_critical_section_win7_details_Concurrency__UAEXXZ 
+8D410450FF..........33C984C00F95C18AC1C3........................ 00 0000 0014 :0000 _try_lock_stl_critical_section_win7_details_Concurrency__UAE_NXZ 
+8D410450FF..........C3.......................................... 00 0000 000B :0000 _lock_stl_critical_section_vista_details_Concurrency__UAEXXZ 
+8D410450FF..........C3.......................................... 00 0000 000B :0000 _unlock_stl_critical_section_vista_details_Concurrency__UAEXXZ 
+8D410450FF..........F7D81BC0F7D8C20400.......................... 00 0000 0013 :0000 _try_lock_for_stl_critical_section_vista_details_Concurrency__UAE_NI_Z 
+8D410450FF..........F7D81BC0F7D8C3.............................. 00 0000 0011 :0000 _try_lock_stl_critical_section_vista_details_Concurrency__UAE_NXZ 
+8D410450FF..........C3.......................................... 00 0000 000B :0000 _destroy_stl_critical_section_vista_details_Concurrency__UAEXXZ 
+8D4104C3........................................................ 00 0000 0004 :0000 __get_cs__Mtx_internal_imp_t__QAEPAVstl_critical_section_interface_details_Concurrency__XZ 
+B001C3.......................................................... 00 0000 0003 :0000 _are_win7_sync_apis_available_details_Concurrency__YA_NXZ 
+B001C3.......................................................... 00 0000 0003 :0000 _are_vista_sync_apis_available_details_Concurrency__YA_NXZ 
+C3.............................................................. 00 0000 0001 :0000 _destroy_stl_critical_section_win7_details_Concurrency__UAEXXZ 
+C3.............................................................. 00 0000 0001 :0000 __3_YAXPAX0_Z 
+E8........C20400................................................ 00 0000 0008 :0000 _try_lock_for_stl_critical_section_win7_details_Concurrency__UAE_NI_Z 
+---

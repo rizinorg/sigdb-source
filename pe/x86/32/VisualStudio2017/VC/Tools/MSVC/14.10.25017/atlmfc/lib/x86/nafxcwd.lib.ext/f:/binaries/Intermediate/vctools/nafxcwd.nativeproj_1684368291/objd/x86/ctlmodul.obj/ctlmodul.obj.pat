@@ -1,0 +1,13 @@
+558BEC51C7............894DFC68........8B450850E8........83C4088B 08 0BCE 0032 :0000 __0__CTraceCategoryEx__0CAAA__0A__ATL__QAE_PBD_Z ........8BE55DC20400
+558BEC51C7............894DFCB8........8BE55DC3.................. 00 0000 0017 :0000 _GetRuntimeClass_COleControlModule__UBEPAUCRuntimeClass__XZ 
+558BEC51C7............894DFCE8........B80100000083C4043BECE8.... 00 0000 0026 :0000 _InitInstance_COleControlModule__UAEHXZ ....8BE55DC3
+558BEC51C7............894DFCE8........8B4DFCE8........83C4043BEC 01 3E9B 0029 :0000 _ExitInstance_COleControlModule__UAEHXZ ........8BE55DC3
+558BEC5DC3...................................................... 00 0000 0005 :0000 ___empty_global_delete__YAXPAXI_Z 
+558BEC5DC3...................................................... 00 0000 0005 :0000 _____vcrt_va_start_verify_argument_type_QB_W__YAXXZ 
+558BEC5DC3...................................................... 00 0000 0005 :0000 ___empty_global_delete__YAXPAX_Z 
+558BEC68........B9........E8........3BECE8........5DC3.......... 00 0000 001B :0000 ____EatlTraceException_ATL__YAXXZ 
+558BEC81EC0C010000578DBDF4FEFFFFB9........B8........F3ABA1...... 00 0000 010F :0000 _RegisterCategory_CTrace_ATL__SAXPBDI_Z ..33C58945FC837D080075..E9........83............72..33C075..68........68........6A..68........68........6A..E8........83C41883....75..CCEB..6915B01A0000040100008B450C8982C01A000033C966898DF8FEFFFF68........6A..8D95FAFEFFFF52E8........83C40C8B45085068........6A..8D8DF8FEFFFF51E8........83C4108D95F8FEFFFF526A..6905B01A00000401000005........50E8........83C40C8B..........83C10189..........528BCD508D1530120000E8........585A5F8B4DFC33CDE8........81C40C0100003BECE8........8BE55DC3
+558BEC83EC08C7............C7............8B4518508B4D14518B551052 09 BCE8 0065 :0000 __vswprintf_s_l ........8B5004528B0050E8........83C41C8945FC837DFC007D..C7............EB..8B4DFC894DF88B45F883C4083BECE8........8BE55DC3
+558BEC83EC08C7............C7............E8........8D45148945F88B 04 632D 0054 :0000 _swprintf_s ..8B5510528B450C508B4D0851E8........83C4148945FCC745F8000000008B45FC83C4083BECE8........8BE55DC3
+558BECB8........5DC3............................................ 00 0000 000A :0000 ___local_stdio_printf_options 
+---

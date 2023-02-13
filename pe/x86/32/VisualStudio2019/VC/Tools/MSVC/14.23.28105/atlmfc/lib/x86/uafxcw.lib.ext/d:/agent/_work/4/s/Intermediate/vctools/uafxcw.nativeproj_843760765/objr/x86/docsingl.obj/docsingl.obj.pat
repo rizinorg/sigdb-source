@@ -1,0 +1,67 @@
+558BEC5156FF75148BF1FF75108975FCFF750CFF7508E8........83A6880000 05 F4C6 002F :0000 __0CSingleDocTemplate__QAE_IPAUCRuntimeClass__00_Z ..........5EC9C21000
+558BEC5356578B7D088BD985FF74..8B078B700C8BCEFF..........8BCFFFD6 01 EB46 0039 :0000 __0__CSimpleStringT__W_0A__ATL__QAE_PAUIAtlStringMgr_1__Z ....5F89038BC35E5B5DC2040068........E8........CC
+558BEC5357FF750C8BD9FF7508E8........8BF8595985FF74..560FB7378BCB 02 26E3 004A :0000 _LoadStringW___CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAEHPAUHINSTANCE____I_Z ........0FB70F518D4F02515650E8........83C4108BCB56E8........33C0405E5F5B5DC20800
+558BEC538BD9568B75088B1383....3972087D..85F67E..578B3A6A..56528B 07 4CE9 0046 :0000 _Reallocate___CSimpleStringT__W_0A__ATL__AAEXH_Z ..........8BCFFFD65F85C074..83....5E89035B5DC20400E8........CC
+558BEC5657FF750C8BF96A..FF75088B078BB0800000008BCEFF..........8B 09 041D 0029 :0000 _OpenDocumentFile_CSingleDocTemplate__UAEPAVCDocument__PB_WH_Z 
+558BEC568B750857568BF9E8........89B7880000005F5E5DC20400........ 00 0000 001C :0000 _AddDocument_CSingleDocTemplate__UAEXPAVCDocument___Z 
+558BEC568B7508578BF98B0F3971F47E..8B71F48379FC017E..568BCFE8.... 00 0000 0057 :0000 _PrepareWrite2___CSimpleStringT__W_0A__ATL__AAEXH_Z ....EB..8B49F83BCE7D..81..........7E..B8........EB..8BC1992BC2D1F803C83BCE7D..8BCE518BCFE8........5F5E5DC20400
+558BEC568B751485F675..33C0EB..8B450885C075..E8........6A..5E8930 01 3E9B 007F :0000 _memcpy_s ........8BC6EB..578B7D1085FF74..39750C72..565750E8........83C40C33C0EB..FF750C6A..50E8........83C40C85FF75..E8........6A..EB..39750C73..E8........6A..5E8930E8........8BC6EB..6A..585F5E5DC3
+558BEC568BF1C7..........E8........F645080174..F645080475..56E8.. 00 0000 0039 :0000 ___GCSingleDocTemplate__UAEPAXI_Z ......EB..68........56E8........59598BC65E5DC20400
+558BEC56FF75088BF1E8........83A688000000005E5DC20400............ 00 0000 001A :0000 _RemoveDocument_CSingleDocTemplate__UAEXPAVCDocument___Z 
+558BEC56FF75088BF1E8........85C074..FF75088BCE50E8........5E5DC2 02 2768 0022 :0000 _LoadStringW___CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAEHI_Z 
+558BEC56FF750CFF7508FF..........85C074..50FF..........8BF085F674 00 0000 005D :0000 __AtlGetStringResourceImage_ATL__YAPBUATLSTRINGRESOURCEIMAGE_1_PAUHINSTANCE____PAUHRSRC____I_Z ..FF750CFF7508FF..........8B55108D0C0683....76..3BF173..0FB7068D344683C60283EA0175..3BF173..66833E0074..8BC6EB..33C05E5DC3
+558BEC5DE9...................................................... 00 0000 0009 :0000 _GetBuffer___CSimpleStringT__W_0A__ATL__QAEPA_WH_Z 
+558BEC5DE9...................................................... 00 0000 0009 :0000 _ReleaseBufferSetLength___CSimpleStringT__W_0A__ATL__QAEXH_Z 
+558BEC6AFF68........64A1000000005081EC10040000A1........33C58945 16 4110 005C :0000 __1CWaitCursor__QAE_XZ ........8B4804E8........8B4DF464890D00000000595F5E5B8B4DEC33CDE8........C9C3
+558BEC817D080E00078075..E8........FF7508E8........CC............ 00 0000 001A :0000 _AtlThrowImpl_ATL__YGXJ_Z 
+558BEC837D080053578BD974..FF750CFF7508E8........8BF8595985FF79.. 01 361F 005B :0000 _FormatV___CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAEXPB_WPAD_Z ........EB..578BCBE8........FF750C8D4F01FF75085150E8........83C4108BCB57E8........5F5B5DC2080068........E8........CC
+558BEC837D0800578BF97C..8B1733C9418B42F82B4AFC2B45080BC87D..FF75 04 681E 003C :0000 _PrepareWrite___CSimpleStringT__W_0A__ATL__AAEPA_WH_Z ........8B178BC25F5DC2040068........E8........CC
+558BEC837D080075..33C05DC35DE9.................................. 00 0000 0013 :0000 _AtlStrLen_ATL__YAHPB_W_Z 
+558BEC837D080075..33C05DC35DE9.................................. 00 0000 0013 :0000 _GetBaseTypeLength___ChTraitsCRT__W_ATL__SAHPB_W_Z 
+558BEC83EC108BC18945F053568B00578945F88D48F08B398B41048945FC8B07 06 D273 008E :0000 _Fork___CSimpleStringT__W_0A__ATL__AAEXH_Z ..........8BCFFFD68B5D088BF86A..538B0F8B318BCEFF..........8BCFFFD68BC8894DF485C974..8B7DFC3BFB7D..8BDF8D43018B5DF850538D71105056E8........8B45F48D4BF083C410897804E8........8B45F05F89305E5BC9C20400E8........CC
+558BEC8B450883....89015DC20400.................................. 00 0000 000F :0000 _Attach___CSimpleStringT__W_0A__ATL__AAEXPAUCStringData_2__Z 
+558BEC8B450885C074..83....74..83....74..83....74..83....74..E9.. 00 0000 002A :0000 _AfxCrtErrorCheck__YAHH_Z ......E9........5DC3
+558BEC8B450C5DC3................................................ 00 0000 0008 :0000 _GetBaseTypeLength___ChTraitsCRT__W_ATL__SAHPB_WH_Z 
+558BEC8B450CC1E804406A..0FB7C050FF7508FF..........85C075..5DC3FF 07 38F0 0030 :0000 _AtlGetStringResourceImage_ATL__YAPBUATLSTRINGRESOURCEIMAGE_1_PAUHINSTANCE____I_Z ........83C40C5DC3
+558BEC8B451403C050FF75108B450C03C050FF7508E8........83C4105DC3.. 00 0000 001F :0000 _CopyChars___CSimpleStringT__W_0A__ATL__SAXPA_WIPB_WH_Z 
+558BEC8B451483F8FF75..837D100075..33C0EB..FF7510E8........594050 0A 4275 0033 :0000 _ConvertToBaseType___ChTraitsCRT__W_ATL__SAXPA_WHPB_WH_Z ........83C4105DC3
+558BEC8B4D088D451050FF750CE8........5DC3........................ 00 0000 0014 :0000 _Format___CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAAXPB_WZZ 
+558BEC8B550833C0833AFF75..8B81880000008322005DC20400............ 00 0000 001A :0000 _GetNextDoc_CSingleDocTemplate__UBEPAVCDocument__AAPAU__POSITION___Z 
+558BEC8B550885D278..8B013B50F87F..8950F48B0133C966890C505DC20400 01 361F 002B :0000 _SetLength___CSimpleStringT__W_0A__ATL__AAEXH_Z ........E8........CC
+558BECFF7508E8........5DC3...................................... 00 0000 000D :0000 _FindStringResourceInstance___StrTraitMFC__WV__ChTraitsCRT__W_ATL____SAPAUHINSTANCE____I_Z 
+558BECFF7508E8........595DC20400................................ 00 0000 0010 :0000 __3CObject__SGXPAX_Z 
+558BECFF750C33C050FF75085050E8........8B08FF700483C90651E8...... 00 0000 002D :0000 _GetFormattedLength___ChTraitsCRT__W_ATL__SAHPB_WPAD_Z ..83C41C85C079..83....5DC3
+558BECFF75146A..FF7510FF750CFF7508E8........8B08FF700483C90451E8 00 0000 0030 :0000 _Format___ChTraitsCRT__W_ATL__SAHPA_WIPB_WPAD_Z ........83C41C85C079..83....5DC3
+558BECFF7514FF7510FF750CFF7508E8........50E8........83C4145DC3.. 00 0000 001F :0000 _wmemcpy_s_Checked_ATL__YAXPA_WIPB_WI_Z 
+568BF1E8........508BCEE8........8BC65EC3........................ 00 0000 0014 :0000 __0__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAE_XZ 
+568BF1E8........8B4804E8........8BC65EC3........................ 00 0000 0014 :0000 __0CWaitCursor__QAE_XZ 
+57E8........8BF885FF74..8B0F568B71748BCEFF..........8BCFFFD65E5F 05 C15E 0025 :0000 _AfxGetMainWnd__YGPAVCWnd__XZ 
+68........E8........CC.......................................... 00 0000 000B :0000 _ThrowMemoryException___CSimpleStringT__W_0A__ATL__KAXXZ 
+6A..B8........E8........8BF9E8........508D4DF0E8........8B078D4D 06 CDB2 0092 :0000 _SetDefaultTitle_CSingleDocTemplate__UAEXPAVCDocument___Z ..518B70648BCEFF..........8BCFFFD685C074..8B45F08378F40075..BE........56E8........85C074..56508D4DF0E8........85C074..8B45F08B7D08508B178B72548BCEFF..........8BCFFFD68B4DF08D49F0E8........E8........C20400E8........CC
+6A..B8........E8........8BC18945EC8B988800000033FF217DE885DB74.. 0B 79B0 0278 :0000 _OpenDocumentFile_CSingleDocTemplate__UAEPAVCDocument__PB_WHH_Z ..........8BCBFFD685C075..21..........33C0E9........E8........8BF8EB..8B008B706C8BCEFF..........8B4DECFFD68BD8C745E80100000085DB75..6AFF5368........E8........EB..85FF75..8B45EC8BBB9C00000083A39C000000006A..8B00538B70708BCEFF..........8B4DECFFD689BB9C0000008BF88945E485FF75..6AFF5068........E8........8B036A..8B70048BCEFF..........8BCBFFD6E9........837D080075..8B45EC538B008BB0880000008BCEFF..........8B4DECFFD6837D100075..C783A0000000010000008B038B70788BCEFF..........8BCBFFD685C00F85........3945E80F84
+83790C010F9FC0C3................................................ 00 0000 0008 :0000 _IsShared_CStringData_ATL__QBE_NXZ 
+83....F00FC1410C4885C07F..56578B39518B078B70048BCEFF..........8B 06 99FF 0026 :0000 _Release_CStringData_ATL__QAEXXZ 
+8B018378F4000F94C0C3............................................ 00 0000 000A :0000 _IsEmpty___CSimpleStringT__W_0A__ATL__QBE_NXZ 
+8B0183....C3.................................................... 00 0000 0006 :0000 _GetData___CSimpleStringT__W_0A__ATL__ABEPAUCStringData_2_XZ 
+8B018B40F4C3.................................................... 00 0000 0006 :0000 _GetLength___CSimpleStringT__W_0A__ATL__QBEHXZ 
+8B01C3.......................................................... 00 0000 0003 :0000 __B__CSimpleStringT__W_0A__ATL__QBEPB_WXZ 
+8B0983....E9.................................................... 00 0000 000A :0000 __1__CSimpleStringT__W_0A__ATL__QAE_XZ 
+8B0983....E9.................................................... 00 0000 000A :0000 __1__CStringT__WV__StrTraitMFC__WV__ChTraitsCRT__W_ATL_____ATL__QAE_XZ 
+8B5424088D420C8B4AE033C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler__OpenDocumentFile_CSingleDocTemplate__UAEPAVCDocument__PB_WHH_Z 
+8B5424088D420C8B4AEC33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler__SetDefaultTitle_CSingleDocTemplate__UAEXPAVCDocument___Z 
+8B5424088D420C8B8AE0FBFFFF33C8E8........8B4AF833C8E8........B8.. 00 0000 0028 :0000 __ehhandler___1CWaitCursor__QAE_XZ ......E9
+8B8188000000F7D81BC0C3.......................................... 00 0000 000B :0000 _GetFirstDocPosition_CSingleDocTemplate__UBEPAU__POSITION__XZ 
+8D4110C3........................................................ 00 0000 0004 :0000 _data_CStringData_ATL__QAEPAXXZ 
+8D4DF0E9........................................................ 00 0000 0008 :0000 __unwindfunclet__SetDefaultTitle_CSingleDocTemplate__UAEXPAVCDocument___Z_0 
+8D4DF3E9........................................................ 00 0000 0008 :0000 __unwindfunclet__OpenDocumentFile_CSingleDocTemplate__UAEPAVCDocument__PB_WHH_Z_0 
+8D8DE8FBFFFFE9.................................................. 00 0000 000B :0000 __unwindfunclet___1CWaitCursor__QAE_XZ_2 
+B8........C3.................................................... 00 0000 0006 :0000 ___local_stdio_printf_options 
+B8........C3.................................................... 00 0000 0006 :0000 _GetRuntimeClass_CSingleDocTemplate__UBEPAUCRuntimeClass__XZ 
+C20400.......................................................... 00 0000 0003 :0000 _Serialize_CObject__UAEXAAVCArchive___Z 
+C3.............................................................. 00 0000 0001 :0000 ___empty_global_delete__YAXPAX_Z 
+C3.............................................................. 00 0000 0001 :0000 ___empty_global_delete__YAXPAXI_Z 
+C7..........E9.................................................. 00 0000 000B :0000 __1CSingleDocTemplate__UAE_XZ 
+E8........8B4004C3.............................................. 00 0000 0009 :0000 _AfxGetApp__YGPAVCWinApp__XZ 
+E8........508D8DE8FBFFFFE8........8BBDE4FBFFFF8D85ECFBFFFF6A..68 00 0000 00BD :0000 __catch___1CWaitCursor__QAE_XZ_0 ........508B37C645FC028B4E0CFF..........8BCFFF....85C074..8D85ECFBFFFF5068........68........68........8D85E8FBFFFF68........50E8........83C418EB..68........68........68........8D85E8FBFFFF68........50E8........83C4148BB5E8FBFFFF6A..6A..56E8........8D4EF0E8........8B076A..8B70048BCEFF..........8BCFFFD6B8........C3
+E9.............................................................. 00 0000 0005 :0000 _GetDefaultManager___StrTraitMFC__WV__ChTraitsCRT__W_ATL____SAPAUIAtlStringMgr_ATL__XZ 
+---

@@ -1,0 +1,152 @@
+33C04885D274..493BD076..B8........C3............................ 00 0000 0012 :0000 _StringValidateDestW__YAJPEBG_K_K_Z 
+33C0C3.......................................................... 00 0000 0003 :0000 _ConnectFilters_CBaseTerminal__UEAAJXZ 
+40534883EC20488BD94585C074..48............4889412083A1D802000000 03 CBA8 0070 :0000 __0__CComObject_VCAudioCaptureTerminal___ATL__QEAA_PEAX_Z ........48............48890348............4889430848............4889431048............4889431848............488983B8020000F0FF0511FB0000488BC34883C4205BC3
+40534883EC20488BD9488911488BCAFF..........488BC34883C4205BC3.... 00 0000 001E :0000 __0CLock__QEAA_AEAVCMSPCritSection___Z 
+40534883EC20488BD948............E8........488BC34883C4205BC3.... 00 0000 001E :0000 __0__IDispatchImpl_UITBasicAudioTerminal___1_IID_ITBasicAudioTerminal__3U_GUID__B_1_LIBID_TAPI3Lib__3U3_B_00_0A_VCComTypeInfo 
+40534883EC20488BD948............E8........488BC34883C4205BC3.... 00 0000 001E :0000 __0__IDispatchImpl_UITStaticAudioTerminal___1_IID_ITStaticAudioTerminal__3U_GUID__B_1_LIBID_TAPI3Lib__3U3_B_00_0A_VCComTypeIn 
+40534883EC20488BD985D274..48............4889411083A1980200000033 02 8A08 0054 :0000 __0CSingleFilterTerminal__QEAA_XZ ........48............48890348............488943084883A388020000004883A39002000000488BC34883C4205BC3
+40534883EC20488BD985D274..48............4889411083A1A80200000033 02 8A08 005C :0000 __0CSingleFilterStaticTerminal__QEAA_XZ ........4883A388020000004883A3900200000048............48890348............488943084883A39802000000488BC34883C4205BC3
+40574883EC3048C7442420FEFFFFFF48895C24484889742450418BD8488BFA48 03 C530 0165 :0000 _DisconnectTerminal_CAudioCaptureTerminal__UEAAJPEAUIGraphBuilder__K_Z ............74..48............B9........E8........448BC3488BD7488BCEE8........8BD885C079..83............74..448BC048............B9........E8........8BC3E9........80BEB0020000000F84........488364244000488BBE88020000488B07488B18488BCBFF..........4C8D44244048............488BCFFFD385C079..83............74..448BC048............B9........E8........EB..488B5C2440488B03488B7818488BCFFF..........4533C0418D5001488BCBFFD785C074..83............74..448BC048............B9........E8........C686B002000000488B5C24404885DB
+48............E9................................................ 00 0000 000C :0000 _QueryInterface___CComObject_VCAudioCaptureTerminal___ATL__WCLI_EAAJAEBU_GUID__PEAPEAX_Z 
+48............E9................................................ 00 0000 000C :0000 _AddRef___CComObject_VCAudioCaptureTerminal___ATL__WCLI_EAAKXZ 
+48............E9................................................ 00 0000 000C :0000 _Release___CComObject_VCAudioCaptureTerminal___ATL__WCLI_EAAKXZ 
+48832100488BC1C3................................................ 00 0000 0008 :0000 __0__CComPtr_UIAMResourceControl___ATL__QEAA_XZ 
+48832100488BC1C3................................................ 00 0000 0008 :0000 __0__CComPtr_UIEnumPins___ATL__QEAA_XZ 
+48832100488BC1C3................................................ 00 0000 0008 :0000 __0__CComPtr_UIPropertyBag___ATL__QEAA_XZ 
+48832100488BC1C3................................................ 00 0000 0008 :0000 __0__CComPtr_UIAMAudioInputMixer___ATL__QEAA_XZ 
+48832100488BC1C3................................................ 00 0000 0008 :0000 __0__CComPtr_UIMoniker___ATL__QEAA_XZ 
+48832100488BC1C3................................................ 00 0000 0008 :0000 __0__CComPtr_UIBaseFilter___ATL__QEAA_XZ 
+48832100488BC1C3................................................ 00 0000 0008 :0000 __0__CComPtr_UIPin___ATL__QEAA_XZ 
+4883B9A0020000000F84........33C0C3.............................. 00 0000 0011 :0000 _CreateFiltersIfRequired_CAudioCaptureTerminal__QEAAJXZ 
+4883E908E9...................................................... 00 0000 0009 :0000 _QueryInterface___CComObject_VCAudioCaptureTerminal___ATL__W7EAAJAEBU_GUID__PEAPEAX_Z 
+4883E908E9...................................................... 00 0000 0009 :0000 _AddRef___CComObject_VCAudioCaptureTerminal___ATL__W7EAAKXZ 
+4883E908E9...................................................... 00 0000 0009 :0000 _Release___CComObject_VCAudioCaptureTerminal___ATL__W7EAAKXZ 
+48......E9...................................................... 00 0000 0009 :0000 _QueryInterface___CComObject_VCAudioCaptureTerminal___ATL__WBA_EAAJAEBU_GUID__PEAPEAX_Z 
+48......E9...................................................... 00 0000 0009 :0000 _AddRef___CComObject_VCAudioCaptureTerminal___ATL__WBA_EAAKXZ 
+48......E936A9F9FF.............................................. 00 0000 0009 :0000 ___E__CComObject_VCAudioCaptureTerminal___ATL__WBA_EAAPEAXI_Z 
+48......E986A8F9FF.............................................. 00 0000 0009 :0000 ___ECAudioCaptureTerminal__WBA_EAAPEAXI_Z 
+48......E9...................................................... 00 0000 0009 :0000 _Release___CComObject_VCAudioCaptureTerminal___ATL__WBA_EAAKXZ 
+48......E9...................................................... 00 0000 0009 :0000 _AddRef___CComObject_VCAudioCaptureTerminal___ATL__WBI_EAAKXZ 
+48......E9...................................................... 00 0000 0009 :0000 _Release___CComObject_VCAudioCaptureTerminal___ATL__WBI_EAAKXZ 
+48......E9...................................................... 00 0000 0009 :0000 _QueryInterface___CComObject_VCAudioCaptureTerminal___ATL__WBI_EAAJAEBU_GUID__PEAPEAX_Z 
+4883EC2883............74..48............B9........E8........83.. 00 0000 0048 :0000 _put_Balance_CAudioCaptureTerminal__UEAAJJ_Z ..........74..48............41..........B9........E8........B8........4883C428C3
+4883EC2883............74..48............B9........E8........83.. 00 0000 0048 :0000 _get_Balance_CAudioCaptureTerminal__UEAAJPEAJ_Z ..........74..48............41..........B9........E8........B8........4883C428C3
+4885D275..B8........C3C7020100000033C0C3........................ 00 0000 0014 :0000 _GetTypeInfoCount___IDispatchImpl_UITStaticAudioTerminal___1_IID_ITStaticAudioTerminal__3U_GUID__B_1_LIBID_TAPI3Lib__3U3_B_00 
+4885D275..B8........C3C7020100000033C0C3........................ 00 0000 0014 :0000 _GetTypeInfoCount___IDispatchImpl_UITBasicAudioTerminal___1_IID_ITBasicAudioTerminal__3U_GUID__B_1_LIBID_TAPI3Lib__3U3_B_00_0 
+4885D275..B8........C3C7020100000033C0C3........................ 00 0000 0014 :0000 _GetTypeInfoCount___IDispatchImpl_V__ITTerminalVtblBase_VCBaseTerminal_____1_IID_ITTerminal__3U_GUID__B_1_LIBID_TAPI3Lib__3U3 
+48894C2408574883EC3048C7442420FEFFFFFF48895C2448488BF985D274..48 00 0000 0105 :0000 __0CAudioCaptureTerminal__QEAA_XZ ............4889412083A1D80200000048............E8........9048............E8........90488D5F1033D2488BCBE8........4883A388020000004883A3900200000048............48890348............488943084883A3980200000083A7C00200000048............48890748............4889470848............48890348............4889471848............488987B80200004883A7D0020000008367500083675400C687C80200000083............74..48............B9........E8........90488BC7488B5C24484883C4305FC3
+48895C240848896C2410488974241857415641574883EC30458BF9418BF0488B 05 ED8E 00C2 :0000 _SetInterfaceSafetyOptions_CMSPObjectSafetyImpl__UEAAJAEBU_GUID__KK_Z ............74..B8........EB..488B01488364242000488B18488BCBFF..........4C8D442420488BD7498BCEFFD38BE885C078..488B7C2420488B17488B5A10488BCBFF..........488BCFFFD348836424200048............FF..........8BC64123F7F7D048............412346080BC641894608FF..........8BC5488B5C2450488B6C2458488B7424604883C430415F415E5FC3
+48895C24084889742410574883EC20488B412083....48635004F00FC1740A20 03 AF74 0060 :0000 _Release___CComObject_VCAudioCaptureTerminal___ATL__UEAAKXZ ..F0FF050D3A0000488D79104C8B07498B5870488BCBFF..........8D5601488BCFFFD3F0FF0DEA390000488B5C24308BC6488B7424384883C4205FC3
+48895C24084889742410574883EC208B..........488BF985C074..48...... 00 0000 0121 :0000 _AddFiltersToGraph_CAudioCaptureTerminal__UEAAJXZ ......B9........E8........8B..........4883BF800200000075..85C074..48............B9........E8........B8........E9........488D4FF04883B9A00200000075..E8........8BD88B..........EB..33DB85DB79..85C074..448BC348............B9........E8........8BC3EB..488BB7900200004885F675..85C074..48............EB..488BBF80020000488B07488B5818488BCBFF..........4C............488BD6488BCFFFD38BD885C079..83............74..448BC048............EB..83............74..48............B9........E8........33C0488B5C2430488B7424384883C420
+48895C24084889742410574883EC208BF2488BD9F6....74..488D79F84C.... 00 0000 006B :0000 ___ECComVariant_ATL__QEAAPEAXI_Z ........BA........448B07E8........40......74..488BCFE8........488BC7EB..FF..........40......74..488BCBE8........488BC3488B5C2430488B7424384883C4205FC3
+48895C240848897C241033FF498BD9448BDF448BD74885D274..488B44242848 06 AEC8 0070 :0000 _StringCopyWorkerW__YAJPEAG_KPEA_KPEBG1_Z ..440FB70C0B664585C974..6644890948FFC849FFC24883C10248FFCA75..4885D275..4883E90241..........49FFCA6689394D85C074..4D8910488B5C2408488B7C2410418BC3C3
+48895C240848D1EA33DB41..........488D42FF448BCB41..........493BC2 08 40D5 0078 :0000 _StringCbCopyW__YAJPEAG_KPEBG_Z ..448BCB4885D274..4C2BD24C2BC1498D04124885C074..410FB704086685C074..6689014883C10248FFCA75..4885D275..4883E90241..........EB..4885D274..668919488B5C2408418BC1C3
+48895C2408574883EC20488B394885FF74..488B07488B5810488BCBFF...... 00 0000 0032 :0000 __1__CComPtr_UIPropertyBag___ATL__QEAA_XZ ....488BCFFFD3488B5C24304883C4205FC3
+48895C2408574883EC20488B394885FF74..488B07488B5810488BCBFF...... 00 0000 0032 :0000 __1__CComPtr_UIAMAudioInputMixer___ATL__QEAA_XZ ....488BCFFFD3488B5C24304883C4205FC3
+48895C2408574883EC20488B394885FF74..488B07488B5810488BCBFF...... 00 0000 0032 :0000 __1__CComPtr_UIBaseFilter___ATL__QEAA_XZ ....488BCFFFD3488B5C24304883C4205FC3
+48895C2408574883EC20488B394885FF74..488B07488B5810488BCBFF...... 00 0000 0032 :0000 __1__CComPtr_UIPin___ATL__QEAA_XZ ....488BCFFFD3488B5C24304883C4205FC3
+48895C2408574883EC20488B394885FF74..488B07488B5810488BCBFF...... 00 0000 0032 :0000 __1__CComPtr_UIMoniker___ATL__QEAA_XZ ....488BCFFFD3488B5C24304883C4205FC3
+48895C2408574883EC20488B394885FF74..488B07488B5810488BCBFF...... 00 0000 0032 :0000 __1__CComPtr_UIAMResourceControl___ATL__QEAA_XZ ....488BCFFFD3488B5C24304883C4205FC3
+48895C2408574883EC20488B394885FF74..488B07488B5810488BCBFF...... 00 0000 0032 :0000 __1__CComPtr_UIEnumPins___ATL__QEAA_XZ ....488BCFFFD3488B5C24304883C4205FC3
+48895C2408574883EC2048............8BDA488BF948890148............ 05 5EDC 0080 :0000 ___G__CComObject_VCAudioCaptureTerminal___ATL__UEAAPEAXI_Z ............4889411048............4889411848............488981B8020000488B41204C63400441C744082001000000F0FF0D38A60000E8........F6....74..488BCFE8........488BC7488B5C24304883C4205FC3
+48895C2408574883EC208BDA488BF9E8........F6....74..488BCFE8...... 00 0000 002F :0000 ___GCSingleFilterTerminal__UEAAPEAXI_Z ..488BC7488B5C24304883C4205FC3
+48895C2408574883EC208BDA488BF9E8........F6....74..488BCFE8...... 00 0000 002F :0000 ___GCAudioCaptureTerminal__UEAAPEAXI_Z ..488BC7488B5C24304883C4205FC3
+48895C241048896C2418565741564883EC5083............4C8BF2488BF174 00 0000 01C8 :0000 _get_WaveId_CAudioCaptureTerminal__UEAAJPEAJ_Z ..48............B9........E8........488D5E20488BCBFF..........BA04000000498BCEE8........85C074..83............74..48............B9........E8........BD........E9........488B8EA0020000BA08000000E8........85C074..83............74..48............B9........E8........BD........E9........488BB6A0020000488B06488B7848488BCFFF..........488D4424704C............4533C033D2488BCE4889442420FFD78BE885C079..83............0F84........448BC048............EB..488B74247033C04889442432488944243A894424426689442446B8030000006689
+48895C2410488974241848897C242041564883EC20488D5928488BF14C8BF248 03 FCC2 01E2 :0000 _get_Volume_CAudioCaptureTerminal__UEAAJPEAJ_Z ..........83............74..48............B9........E8........BA04000000498BCEE8........85C074..83............74..48............B9........E8........BF........E9........4883BEA00200000075..488BCEE8........8BF8EB..33FF85FF79..83............0F84........448BC748............EB..488BB6D00200004885F675..39..........74..48............B9........E8........BF........E9........488B06488B7840488BCFFF..........488D542430488BCEFFD78BF885C079..83............0F84........448BC048............B9........E8........E9........F2
+488B01C3........................................................ 00 0000 0004 :0000 __C__CComPtr_UIAMResourceControl___ATL__QEAAPEAV___NoAddRefReleaseOnCComPtr_UIAMResourceControl___1_XZ 
+488B01C3........................................................ 00 0000 0004 :0000 __C__CComPtr_UIEnumPins___ATL__QEAAPEAV___NoAddRefReleaseOnCComPtr_UIEnumPins___1_XZ 
+488B01C3........................................................ 00 0000 0004 :0000 __C__CComPtr_UIPropertyBag___ATL__QEAAPEAV___NoAddRefReleaseOnCComPtr_UIPropertyBag___1_XZ 
+488B01C3........................................................ 00 0000 0004 :0000 __C__CComPtr_UIAMAudioInputMixer___ATL__QEAAPEAV___NoAddRefReleaseOnCComPtr_UIAMAudioInputMixer___1_XZ 
+488B01C3........................................................ 00 0000 0004 :0000 __B__CComPtr_UIAMAudioInputMixer___ATL__QEAAPEAUIAMAudioInputMixer__XZ 
+488B01C3........................................................ 00 0000 0004 :0000 __C__CComPtr_UIMoniker___ATL__QEAAPEAV___NoAddRefReleaseOnCComPtr_UIMoniker___1_XZ 
+488B01C3........................................................ 00 0000 0004 :0000 __B__CComPtr_UIMoniker___ATL__QEAAPEAUIMoniker__XZ 
+488B01C3........................................................ 00 0000 0004 :0000 __C__CComPtr_UIBaseFilter___ATL__QEAAPEAV___NoAddRefReleaseOnCComPtr_UIBaseFilter___1_XZ 
+488B01C3........................................................ 00 0000 0004 :0000 __B__CComPtr_UIBaseFilter___ATL__QEAAPEAUIBaseFilter__XZ 
+488B01C3........................................................ 00 0000 0004 :0000 __B__CComPtr_UIPin___ATL__QEAAPEAUIPin__XZ 
+488B01C3........................................................ 00 0000 0004 :0000 __C__CComPtr_UIGraphBuilder___ATL__QEAAPEAV___NoAddRefReleaseOnCComPtr_UIGraphBuilder___1_XZ 
+488B01C3........................................................ 00 0000 0004 :0000 __B__CComPtr_UIGraphBuilder___ATL__QEAAPEAUIGraphBuilder__XZ 
+488B0948........................................................ 00 0000 000A :0000 __1CLock__QEAA_XZ 
+488B1248........................................................ 00 0000 000A :0000 __4__CComPtr_UIMoniker___ATL__QEAAPEAUIMoniker__AEBV01__Z 
+488B412048635004B801000000F00FC1440A20FFC0C3.................... 00 0000 0016 :0000 _AddRef___CComObject_VCAudioCaptureTerminal___ATL__UEAAKXZ 
+488B8A4000000048............E9.................................. 00 0000 0013 :0000 _dtor_1__0___1CSingleFilterTerminal__UEAA_XZ_4HA 
+488B8A4000000048............E9.................................. 00 0000 0013 :0000 _dtor_3__0___0CAudioCaptureTerminal__QEAA_XZ_4HA 
+488B8A4000000048............E9.................................. 00 0000 0013 :0000 _dtor_3__0___1CAudioCaptureTerminal__UEAA_XZ_4HA 
+488B8A400000004883C108E9........................................ 00 0000 0010 :0000 _dtor_1__0___0CAudioCaptureTerminal__QEAA_XZ_4HA 
+488B8A400000004883C108E9........................................ 00 0000 0010 :0000 _dtor_1__0___1CAudioCaptureTerminal__UEAA_XZ_4HA 
+488B8A4000000048......E9........................................ 00 0000 0010 :0000 _dtor_2__0___0CAudioCaptureTerminal__QEAA_XZ_4HA 
+488B8A4000000048......E9........................................ 00 0000 0010 :0000 _dtor_2__0___1CAudioCaptureTerminal__UEAA_XZ_4HA 
+488B8A40000000E9................................................ 00 0000 000C :0000 _dtor_0__0___0CAudioCaptureTerminal__QEAA_XZ_4HA 
+488B8A40000000E9................................................ 00 0000 000C :0000 _dtor_0__0___1CAudioCaptureTerminal__UEAA_XZ_4HA 
+488B8A40000000E9................................................ 00 0000 000C :0000 _dtor_0__0___1CSingleFilterStaticTerminal__UEAA_XZ_4HA 
+488B8A40000000E9................................................ 00 0000 000C :0000 _dtor_0__0___1CSingleFilterTerminal__UEAA_XZ_4HA 
+488B8A40000000E9................................................ 00 0000 000C :0000 _dtor_0__0____GCSingleFilterStaticTerminal__UEAAPEAXI_Z_4HA 
+488B8A40000000E9................................................ 00 0000 000C :0000 _dtor_2__0__CreateTerminal_CAudioCaptureTerminal__SAJV__CComPtr_UIMoniker___ATL__PEAJPEAPEAUITTerminal___Z_4HA 
+488B8A48000000E9................................................ 00 0000 000C :0000 _dtor_4__0___1CAudioCaptureTerminal__UEAA_XZ_4HA 
+488B8AB0000000E9................................................ 00 0000 000C :0000 _dtor_0__0__CreateTerminal_CAudioCaptureTerminal__SAJV__CComPtr_UIMoniker___ATL__PEAJPEAPEAUITTerminal___Z_4HA 
+488BC1C3........................................................ 00 0000 0004 :0000 __0IDispatch__QEAA_XZ 
+488BC1C3........................................................ 00 0000 0004 :0000 __0ITStaticAudioTerminal__QEAA_XZ 
+488BC1C3........................................................ 00 0000 0004 :0000 __0ITBasicAudioTerminal__QEAA_XZ 
+488BC1C3........................................................ 00 0000 0004 :0000 __I__CComPtr_UIAMResourceControl___ATL__QEAAPEAPEAUIAMResourceControl__XZ 
+488BC1C3........................................................ 00 0000 0004 :0000 __I__CComPtr_UIEnumPins___ATL__QEAAPEAPEAUIEnumPins__XZ 
+488BC1C3........................................................ 00 0000 0004 :0000 __I__CComPtr_UIPropertyBag___ATL__QEAAPEAPEAUIPropertyBag__XZ 
+488BC1C3........................................................ 00 0000 0004 :0000 __I__CComPtr_UIAMAudioInputMixer___ATL__QEAAPEAPEAUIAMAudioInputMixer__XZ 
+488BC1C3........................................................ 00 0000 0004 :0000 __I__CComPtr_UIBaseFilter___ATL__QEAAPEAPEAUIBaseFilter__XZ 
+488BC1C3........................................................ 00 0000 0004 :0000 _GetControllingUnknown_CBaseTerminal__UEAAPEAUIUnknown__XZ 
+488BC1C3........................................................ 00 0000 0004 :0000 _GetUnknown_CBaseTerminal__QEAAPEAUIUnknown__XZ 
+488BC1C3........................................................ 00 0000 0004 :0000 __0IUnknown__QEAA_XZ 
+488BC1C3........................................................ 00 0000 0004 :0000 __0IObjectSafety__QEAA_XZ 
+488BC1C3........................................................ 00 0000 0004 :0000 _OLE2T__YAPEAGPEAG_Z 
+488BC4488948085556574154415541564157488BEC4883EC7048C745C0FEFFFF 12 C438 044D :0000 _CreateTerminal_CAudioCaptureTerminal__SAJV__CComPtr_UIMoniker___ATL__PEAJPEAPEAUITTerminal___Z ............74..48............B9........E8........BB080000008BD3498BCEE8........85C074..44............74..48............B9........E8........90488B3E4885FF74..488B07488B5810488BCBFF..........488BCFFFD3B8........E9........488BD3488B0EE8........85C074..44............74..48............EB..4D892E4C896D58488B3E488B07488B5848488BCBFF..........488D455848894424204C............4533C033D2488BCFFFD3448BF885C079..44............74..48............B9........448BC0E8........90488B5D584885DB74..488B03488B7810488BCFFF
+488BC448894808574883EC3048C740E8FEFFFFFF488958104889681848897020 10 6776 0075 :0000 ___GCSingleFilterStaticTerminal__UEAAPEAXI_Z ..488B06488B5810488BCBFF..........488BCEFFD390488BCFE8........40......74..488BCFE8........488BC7488B5C2448488B6C2450488B7424584883C4305FC3
+488BC448894808574883EC3048C740E8FEFFFFFF4889581048897018488BF948 0A 2D21 007A :0000 __1CSingleFilterTerminal__UEAA_XZ ..488B06488B5810488BCBFF..........488BCEFFD390488BB7880200004885F674..488B06488B5810488BCBFF..........488BCEFFD390488BCF488B5C2448488B7424504883C4305FE9
+488BC448894808574883EC3048C740E8FEFFFFFF4889581048897018488BF948 0A 910C 0058 :0000 __1CSingleFilterStaticTerminal__UEAA_XZ ..488B06488B5810488BCBFF..........488BCEFFD390488BCF488B5C2448488B7424504883C4305FE9
+488BC448894808574883EC3048C740E8FEFFFFFF4889581848897020488BD948 00 0000 00F0 :0000 __1CAudioCaptureTerminal__UEAA_XZ ............48890148............48894108488D791048............48890748............4889411848............488981B802000083............74..48............B9........E8........90488BB3D00200004885F674..488B06488B5810488BCBFF..........488BCEFFD39048897C2448488BB7980200004885F674..488B06488B5810488BCBFF..........488BCEFFD390488BCFE8........9048............E8........9048............488B5C2450488B7424584883C4305FE9
+488BC44889580848896810488970184889782041564883EC30488BE948...... 07 BC14 0188 :0000 _put_Volume_CAudioCaptureTerminal__UEAAJJ_Z ..........8B..........85C074..48............B9........E8........8B..........4883BDA00200000075..488BCDE8........8BF88B..........EB..33FF85FF79..85C00F84........448BC748............B9........E9........4C8BB5D00200004D85F675..85C074..48............B9........E8........BF........E9........85F679..85C074..48............4533C9448BC6B9........E8........EB..41..........413BF17E..85C074..48............418D4903448BC6E8........BF........EB..F20F............498B3E0F57D2660F6EF6F20F5CC2488B4F38F30FE6F6F20F5E354A0E0000
+488BC44889580848896810488970184889782041564883EC308B..........48 05 7F85 01C7 :0000 _CreateFilters_CAudioCaptureTerminal__QEAAJXZ ..48............B9........E8........8B..........4C8DB5A002000049833E000F85........4883BD98020000000F85........488DB5D002000048833E000F85........488BBDA8020000488B07488B5840488BCBFF..........4C............4533C033D2488BCF4C89742420FFD38BD885C00F88........498B3E4885FF0F84........488B07488B18488BCBFF..........48............4C8BC6488BCFFFD385C078..48833E0075..83............74..48............448BC0B9........E8........33D2488BCEFF..........488BCDE8........8BD885C078..4883BD980200000074..83............74..48
+488BC448895808488968104889702057415641574883EC20498BF14D8BF0488B 08 8221 00C6 :0000 _GetInterfaceSafetyOptions_CMSPObjectSafetyImpl__UEAAJAEBU_GUID__PEAK1_Z ..4D85C974..41832000488360180041832100488B01488B18488BCBFF..........4C8D442450488BD7498BCFFFD38BE885C078..488B7C2450488B17488B5A10488BCBFF..........488BCFFFD348836424500048............41C70603000000FF..........418B470848............8906FF..........8BC5EB..B8........488B5C2440488B6C2448488B7424584883C420415F415E5FC3
+488BC4565741564883EC3048C740D8FEFFFFFF48895818488968204C8BF1488D 0A 31B9 0179 :0000 _CompleteConnectTerminal_CAudioCaptureTerminal__UEAAJXZ ..........9083............74..48............B9........E8........41C686B002000000498BCEE8........8BE885C079..83............0F84........48............B9........E8........E9........488364245000498BB688020000488B06488B18488BCBFF..........4C8D44245048............488BCEFFD385C079..83............74..448BC048............B9........E8........EB..488B5C2450488B03488B7018488BCEFF..........4533C033D2488BCBFFD68BE885C074..83............74..448BC048............B9........E8........EB..41C686B00200000183............74..48
+48............48890148............4889410848............48894110 01 343E 0055 :0000 __1__CComObject_VCAudioCaptureTerminal___ATL__UEAA_XZ ............4889411848............488981B8020000488B412048635004C7440A2001000000F0FF0D18DC0000E9
+48............C3................................................ 00 0000 0008 :0000 __GetEntries_CAudioCaptureTerminal__SAPEBU_ATL_INTMAP_ENTRY_ATL__XZ 
+48............C3................................................ 00 0000 0008 :0000 __GetEntries_CBaseTerminal__SAPEBU_ATL_INTMAP_ENTRY_ATL__XZ 
+48............E9................................................ 00 0000 000C :0000 _GetTypeInfo___IDispatchImpl_V__ITTerminalVtblBase_VCBaseTerminal_____1_IID_ITTerminal__3U_GUID__B_1_LIBID_TAPI3Lib__3U3_B_00 
+48............E9................................................ 00 0000 000C :0000 __1__IDispatchImpl_UITStaticAudioTerminal___1_IID_ITStaticAudioTerminal__3U_GUID__B_1_LIBID_TAPI3Lib__3U3_B_00_0A_VCComTypeIn 
+48............E9................................................ 00 0000 000C :0000 _GetTypeInfo___IDispatchImpl_UITBasicAudioTerminal___1_IID_ITBasicAudioTerminal__3U_GUID__B_1_LIBID_TAPI3Lib__3U3_B_00_0A_VCC 
+48............E9................................................ 00 0000 000C :0000 _GetTypeInfo___IDispatchImpl_UITStaticAudioTerminal___1_IID_ITStaticAudioTerminal__3U_GUID__B_1_LIBID_TAPI3Lib__3U3_B_00_0A_V 
+48............E9................................................ 00 0000 000C :0000 __1__IDispatchImpl_UITBasicAudioTerminal___1_IID_ITBasicAudioTerminal__3U_GUID__B_1_LIBID_TAPI3Lib__3U3_B_00_0A_VCComTypeInfo 
+48............E9................................................ 00 0000 000C :0000 _GetIDsOfNames___IDispatchImpl_UITStaticAudioTerminal___1_IID_ITStaticAudioTerminal__3U_GUID__B_1_LIBID_TAPI3Lib__3U3_B_00_0A 
+48............E9................................................ 00 0000 000C :0000 _GetIDsOfNames___IDispatchImpl_V__ITTerminalVtblBase_VCBaseTerminal_____1_IID_ITTerminal__3U_GUID__B_1_LIBID_TAPI3Lib__3U3_B 
+48............E9................................................ 00 0000 000C :0000 _GetIDsOfNames___IDispatchImpl_UITBasicAudioTerminal___1_IID_ITBasicAudioTerminal__3U_GUID__B_1_LIBID_TAPI3Lib__3U3_B_00_0A_V 
+488D8A40000000E9................................................ 00 0000 000C :0000 _dtor_0__0__DisconnectTerminal_CAudioCaptureTerminal__UEAAJPEAUIGraphBuilder__K_Z_4HA 
+488D8A50000000E9................................................ 00 0000 000C :0000 _dtor_1__0__CompleteConnectTerminal_CAudioCaptureTerminal__UEAAJXZ_4HA 
+488D8A58000000E9................................................ 00 0000 000C :0000 _dtor_0__0__CompleteConnectTerminal_CAudioCaptureTerminal__UEAAJXZ_4HA 
+488D8A78000000E9................................................ 00 0000 000C :0000 _dtor_0__0__FindTerminalPin_CAudioCaptureTerminal__QEAAJXZ_4HA 
+488D8AC8000000E9................................................ 00 0000 000C :0000 _dtor_1__0__CreateTerminal_CAudioCaptureTerminal__SAJV__CComPtr_UIMoniker___ATL__PEAJPEAPEAUITTerminal___Z_4HA 
+48.............................................................. 00 0000 0007 :0000 __4__CComPtr_UIAMAudioInputMixer___ATL__QEAAPEAUIAMAudioInputMixer__PEAU2__Z 
+48.............................................................. 00 0000 0007 :0000 __4__CComPtr_UIBaseFilter___ATL__QEAAPEAUIBaseFilter__PEAU2__Z 
+48.............................................................. 00 0000 0007 :0000 __4__CComPtr_UIPin___ATL__QEAAPEAUIPin__PEAU2__Z 
+48.............................................................. 00 0000 0007 :0000 _Unlock_CMSPCritSection__QEAAXXZ 
+48.............................................................. 00 0000 0007 :0000 _Lock_CMSPCritSection__QEAAXXZ 
+48.............................................................. 00 0000 0007 :0000 _InternalQueryInterface_CComObjectRootBase_ATL__SAJPEAXPEBU_ATL_INTMAP_ENTRY_2_AEBU_GUID__PEAPEAX_Z 
+48.............................................................. 00 0000 0007 :0000 _Clear_CComVariant_ATL__QEAAJXZ 
+48.............................................................. 00 0000 0007 :0000 __1CComVariant_ATL__QEAA_XZ 
+4C8BDC4883EC58488B8424A0000000498943F0488B842498000000498943E848 32 04CD 0062 :0000 _Invoke___IDispatchImpl_UITStaticAudioTerminal___1_IID_ITStaticAudioTerminal__3U_GUID__B_1_LIBID_TAPI3Lib__3U3_B_00_0A_VCComT ............E8........4883C458C3
+4C8BDC4883EC58488B8424A0000000498943F0488B842498000000498943E848 32 04CD 0062 :0000 _Invoke___IDispatchImpl_UITBasicAudioTerminal___1_IID_ITBasicAudioTerminal__3U_GUID__B_1_LIBID_TAPI3Lib__3U3_B_00_0A_VCComTyp ............E8........4883C458C3
+4C8BDC4883EC58488B8424A0000000498943F0488B842498000000498943E848 32 04CD 0062 :0000 _Invoke___IDispatchImpl_V__ITTerminalVtblBase_VCBaseTerminal_____1_IID_ITTerminal__3U_GUID__B_1_LIBID_TAPI3Lib__3U3_B_00_0A_V ............E8........4883C458C3
+4D8BC84C8BC248............48.................................... 00 0000 0014 :0000 _QueryInterface___CComObject_VCAudioCaptureTerminal___ATL__UEAAJAEBU_GUID__PEAPEAX_Z 
+4D8BC84C8BC248............48.................................... 00 0000 0014 :0000 __InternalQueryInterface_CAudioCaptureTerminal__QEAAJAEBU_GUID__PEAPEAX_Z 
+832100488BC1C3.................................................. 00 0000 0007 :0000 __0__CComObjectRootEx_VCComMultiThreadModelNoCS_ATL___ATL__QEAA_XZ 
+832100488BC1C3.................................................. 00 0000 0007 :0000 __0CComObjectRootBase_ATL__QEAA_XZ 
+8361080048............488901488BC1C3............................ 00 0000 0012 :0000 __0CMSPObjectSafetyImpl__QEAA_XZ 
+83....F00FC101FFC8C3............................................ 00 0000 000A :0000 _InternalRelease___CComObjectRootEx_VCComMultiThreadModelNoCS_ATL___ATL__QEAAKXZ 
+83....F00FC101FFC8C3............................................ 00 0000 000A :0000 _Decrement_CComMultiThreadModel_ATL__SAKPEAJ_Z 
+83....F00FC101FFC8C3............................................ 00 0000 000A :0000 _Decrement_CComMultiThreadModelNoCS_ATL__SAKPEAJ_Z 
+83....F00FC14128FFC8C3.......................................... 00 0000 000B :0000 _Unlock_CComModule_ATL__QEAAJXZ 
+B801000000F00FC101FFC0C3........................................ 00 0000 000C :0000 _InternalAddRef___CComObjectRootEx_VCComMultiThreadModelNoCS_ATL___ATL__QEAAKXZ 
+B801000000F00FC101FFC0C3........................................ 00 0000 000C :0000 _Increment_CComMultiThreadModel_ATL__SAKPEAJ_Z 
+B801000000F00FC101FFC0C3........................................ 00 0000 000C :0000 _Increment_CComMultiThreadModelNoCS_ATL__SAKPEAJ_Z 
+B801000000F00FC14128FFC0C3...................................... 00 0000 000D :0000 _Lock_CComModule_ATL__QEAAJXZ 
+B808000000C3.................................................... 00 0000 0006 :0000 _GetSupportedMediaTypes_CAudioCaptureTerminal__UEAAKXZ 
+C20000.......................................................... 00 0000 0003 :0000 _FinalRelease_CComObjectRootBase_ATL__QEAAXXZ 
+F0FF0591DD0000488BC1C3.......................................... 00 0000 000B :0000 __0ModuleLockHelper_ATL__QEAA_XZ 
+F0FF0DF1BF0000C3................................................ 00 0000 0008 :0000 __1ModuleLockHelper_ATL__QEAA_XZ 
+---

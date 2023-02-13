@@ -1,0 +1,77 @@
+33C03981780100000F94C0C3........................................ 00 0000 000C :0000 _DoesAllowSiblingBars_CPane__UBEHXZ 
+33C040C20400.................................................... 00 0000 0006 :0000 _OnBeforeShowPaneMenu_CPane__MAEHAAVCMenu___Z 
+33C040C20400.................................................... 00 0000 0006 :0000 _OnAfterShowPaneMenu_CPane__MAEHH_Z 
+33C040C3........................................................ 00 0000 0004 :0000 _CanFocus_CBasePane__UBEHXZ 
+33C040C3........................................................ 00 0000 0004 :0000 _HideInPrintPreviewMode_CBasePane__UBEHXZ 
+33C040C3........................................................ 00 0000 0004 :0000 _AllowShowOnPaneMenu_CPane__UBEHXZ 
+33C040C3........................................................ 00 0000 0004 :0000 _IsTabLocationBottom_CDockablePane__UBEHXZ 
+33C040C3........................................................ 00 0000 0004 :0000 _IsResizable_CDockablePane__UBEHXZ 
+33C040C3........................................................ 00 0000 0004 :0000 _CanBeAttached_CDockablePane__UBEHXZ 
+33C040C3........................................................ 00 0000 0004 :0000 _HasAutoHideMode_CDockablePane__UBEHXZ 
+33C0C3.......................................................... 00 0000 0003 :0000 _IsAccessibilityCompatible_CDockablePane__UAEHXZ 
+51FF..........C3................................................ 00 0000 0008 :0000 _SetRectEmpty_CRect__QAEXXZ 
+558BEC51568BF18975FCE8........C7..........8BC6C7................ 00 0000 0024 :0000 __0CMFCOutlookBarPaneAdapter__QAE_XZ ..5EC9C3
+558BEC5356578B7D088BD98B078BB0940100008BCEFF..........8BCFFFD68B 0C C980 0046 :0000 _CanBeDocked_CPane__UBEHPAVCBasePane___Z ..........8BCBFFD623F8F7DF1BFFF7DF8BC75F5E5B5DC20400
+558BEC568BF1C7..........E8........F645080174..F645080475..56E8.. 00 0000 0039 :0000 ___GCMFCOutlookBarPaneAdapter__UAEPAXI_Z ......EB..68........56E8........59598BC65E5DC20400
+558BEC56FF75088BF1E8........8BC65E5DC20400...................... 00 0000 0015 :0000 __0AFX_CLASSINIT__QAE_PAUCRuntimeClass___Z 
+558BEC578BF98B4D0885C975..33C0EB..5668........E8........85C074.. 0B 9954 005D :0000 _CanAcceptPane_CDockablePane__UBEHPBVCBasePane___Z ..........8BCFFFD685C075..8B078BB0A80100008BCEFF..........8BCFFFD685C074..33C040EB..33C05E5F5DC20400
+558BEC6A..FF75086A..FF7120FF..........5DC20400.................. 00 0000 0017 :0000 _GetIcon_CWnd__QBEPAUHICON____H_Z 
+558BEC6A..FF75086A..FF7120FF..........5DC20400.................. 00 0000 0017 :0000 _GetPaneIcon_CBasePane__UAEPAUHICON____H_Z 
+558BEC8B4508832000836004005DC20800.............................. 00 0000 0011 :0000 _CalcSize_CPane__UAE_AVCSize__H_Z 
+558BEC8B4508832000836004005DC20C00.............................. 00 0000 0011 :0000 _StretchPane_CBasePane__UAE_AVCSize__HH_Z 
+558BEC8B450889018B450C8941048BC15DC20800........................ 00 0000 0014 :0000 __0CSize__QAE_HH_Z 
+558BEC8B45088981780100005DC20400................................ 00 0000 0010 :0000 _SetExclusiveRowMode_CPane__UAEXH_Z 
+558BEC8B45088981880000005DC20400................................ 00 0000 0010 :0000 _SetRestoredFromRegistry_CBasePane__UAEXH_Z 
+558BEC8B45088981980000005DC20400................................ 00 0000 0010 :0000 _EnableDocking_CBasePane__UAEXK_Z 
+558BEC8B450889819C0000005DC20400................................ 00 0000 0010 :0000 _SetPaneStyle_CBasePane__UAEXK_Z 
+558BEC8B45088981A00000005DC20400................................ 00 0000 0010 :0000 _SetControlBarStyle_CBasePane__UAEXK_Z 
+558BEC8B4D0868........E8........8B4D0C89018B45085DC20800........ 00 0000 001C :0000 __5_YGAAVCArchive__AAV0_AAPAVCMFCOutlookBarPaneAdapter___Z 
+558BEC8B55088B816001000089028B81640100008942045DC20400.......... 00 0000 001B :0000 _GetMinSize_CPane__UBEXAAVCSize___Z 
+558BEC8B819C00000025........0B450889819C0000005DC20400.......... 00 0000 001B :0000 _SetPaneAlignment_CBasePane__UAEXK_Z 
+558BECFF7508E8........595DC20400................................ 00 0000 0010 :0000 __3CObject__SGXPAX_Z 
+558BECFF7508E8........595DC20400................................ 00 0000 0010 :0000 __2CObject__SGPAXI_Z 
+558BECFF7508FF..........FF750CFF..........5DC20800.............. 00 0000 0019 :0000 _GetTabArea_CDockablePane__UBEXAAVCRect__0_Z 
+56578BF96A..6A..578B078BB0FC0200008BCEFF..........8BCFFFD65F5EC3 00 0000 0020 :0000 _OnAfterDockFromMiniFrame_CDockablePane__UAEXXZ 
+56578BF96A..6A..6A..8B078BB0100300008BCEFF..........8BCFFFD65F5E 01 EF04 0021 :0000 _DockToRecentPos_CDockablePane__UAEHXZ 
+56578BF98B078BB0680100008BCEFF..........8BCFFFD6F7D85F1BC0405EC3 00 0000 0020 :0000 _IsFloating_CBasePane__UBEHXZ 
+56578BF98B078BB0940100008BCEFF..........8BCFFFD65F25........5EC3 00 0000 0020 :0000 _IsHorizontal_CBasePane__UBEHXZ 
+56578BF98B078BB0CC0100008BCEFF..........8BCFFFD65F5EC3.......... 00 0000 001B :0000 _DoesAllowDynInsertBefore_CBasePane__UBEHXZ 
+578BF9E8........85FF74..8B07566A..8B70048BCEFF..........8BCFFFD6 03 9CF1 0023 :0000 _OnNcDestroy_CMFCOutlookBarPaneAdapter__IAEXXZ 
+68........E8........C3.......................................... 00 0000 000B :0000 ____E_init_CMFCOutlookBarPaneAdapter__YAXXZ 
+6A..FF7120FF..........C3........................................ 00 0000 000C :0000 _BeginModalState_CWnd__UAEXXZ 
+6A..FF7120FF..........C3........................................ 00 0000 000C :0000 _EndModalState_CWnd__UAEXXZ 
+6A..B8........E8........68........E8........598BC8894DF033C08945 04 8101 0030 :0000 _CreateObject_CMFCOutlookBarPaneAdapter__SGPAVCObject__XZ ..E8........E8........C3
+83....C3........................................................ 00 0000 0004 :0000 _GetResizeStep_CPane__UBEHXZ 
+8B8128030000C3.................................................. 00 0000 0007 :0000 _GetAHSlideMode_CDockablePane__UBEIXZ 
+8B8174010000C3.................................................. 00 0000 0007 :0000 _IsDragMode_CPane__UBEHXZ 
+8B8178010000C3.................................................. 00 0000 0007 :0000 _GetExclusiveRowMode_CPane__UBEHXZ 
+8B817C030000C3.................................................. 00 0000 0007 :0000 _GetWrappedWnd_CDockablePaneAdapter__UBEPAVCWnd__XZ 
+8B8184000000C3.................................................. 00 0000 0007 :0000 _GetRecentVisibleState_CBasePane__UBEHXZ 
+8B8188000000C3.................................................. 00 0000 0007 :0000 _IsRestoredFromRegistry_CBasePane__UBEHXZ 
+8B8198000000C3.................................................. 00 0000 0007 :0000 _GetEnabledAlignment_CBasePane__UBEKXZ 
+8B819C000000C3.................................................. 00 0000 0007 :0000 _GetPaneStyle_CBasePane__UBEKXZ 
+8B81A000000083E004C3............................................ 00 0000 000A :0000 _CanBeResized_CBasePane__UBEHXZ 
+8B81A000000083E008C3............................................ 00 0000 000A :0000 _CanBeClosed_CBasePane__UBEHXZ 
+8B81A0000000C3.................................................. 00 0000 0007 :0000 _GetControlBarStyle_CBasePane__UBEKXZ 
+8B81B8000000C3.................................................. 00 0000 0007 :0000 _GetParentDockSite_CBasePane__UBEPAVCDockSite__XZ 
+8B81E0020000C3.................................................. 00 0000 0007 :0000 _IsAutohideAllEnabled_CDockablePane__UBEHXZ 
+8B81F8020000C3.................................................. 00 0000 0007 :0000 _IsAutoHideMode_CDockablePane__UBEHXZ 
+A1........C3.................................................... 00 0000 0006 :0000 _IsHideInAutoHideMode_CDockablePane__UBEHXZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetThisMessageMap_CMFCOutlookBarPaneAdapter__KGPBUAFX_MSGMAP__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetMessageMap_CMFCOutlookBarPaneAdapter__MBEPBUAFX_MSGMAP__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetRuntimeClass_CMFCOutlookBarPaneAdapter__UBEPAUCRuntimeClass__XZ 
+C20400.......................................................... 00 0000 0003 :0000 _DoDataExchange_CWnd__MAEXPAVCDataExchange___Z 
+C20400.......................................................... 00 0000 0003 :0000 _OnMovePaneDivider_CBasePane__UAEXPAVCPaneDivider___Z 
+C20400.......................................................... 00 0000 0003 :0000 _OnRemoveFromMiniFrame_CBasePane__UAEXPAVCPaneFrameWnd___Z 
+C20400.......................................................... 00 0000 0003 :0000 _AccNotifyObjectFocusEvent_CBasePane__UAEXH_Z 
+C20400.......................................................... 00 0000 0003 :0000 _OnBeforeStretch_CPane__MAEXAAH_Z 
+C20400.......................................................... 00 0000 0003 :0000 _OnAfterStretch_CPane__MAEXH_Z 
+C20400.......................................................... 00 0000 0003 :0000 _OnPressButtons_CDockablePane__MAEXI_Z 
+C3.............................................................. 00 0000 0001 :0000 ___empty_global_delete__YAXPAX_Z 
+C3.............................................................. 00 0000 0001 :0000 ___empty_global_delete__YAXPAXI_Z 
+C3.............................................................. 00 0000 0001 :0000 _OnDrawCaption_CBasePane__UAEXXZ 
+C3.............................................................. 00 0000 0001 :0000 _AdjustLayout_CBasePane__UAEXXZ 
+C3.............................................................. 00 0000 0001 :0000 _OnContinueMoving_CDockablePane__MAEXXZ 
+C7..........E9.................................................. 00 0000 000B :0000 __1CMFCOutlookBarPaneAdapter__UAE_XZ 
+FF75F0E8........C3.............................................. 00 0000 0009 :0000 __unwindfunclet__CreateObject_CMFCOutlookBarPaneAdapter__SGPAVCObject__XZ_0 
+---

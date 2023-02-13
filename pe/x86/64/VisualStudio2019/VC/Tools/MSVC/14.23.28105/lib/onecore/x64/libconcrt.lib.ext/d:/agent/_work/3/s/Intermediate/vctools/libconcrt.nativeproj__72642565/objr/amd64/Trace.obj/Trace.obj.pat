@@ -1,0 +1,32 @@
+33C0C3.......................................................... 00 0000 0003 :0000 _EnableTracing_Concurrency__YAJXZ 
+33C0C3.......................................................... 00 0000 0003 :0000 _DisableTracing_Concurrency__YAJXZ 
+40534883EC20488BD9488BC248............0F57C048890B488D5308488D48 05 11A0 003C :0000 __0invalid_operation_Concurrency__QEAA_AEBV01__Z ........48............488903488BC34883C4205BC3
+40534883EC20488BD9488BC248............0F57C048890B488D5308488D48 05 11A0 0032 :0000 __0exception_std__QEAA_AEBV01__Z ........488BC34883C4205BC3
+40534883EC2083E90474..83....74..B8........E9........48.......... 00 0000 00C5 :0000 _ControlCallback_details_Concurrency__YAKW4WMIDPREQUESTCODE__PEAXPEAK1_Z ....C6............C7..................E9........48............498BD1E8........48............4883F8FF75..4883C4205B48............33C9FF..........48............48............E8........8AD884C075..FF..........85C075..B30448............48............E8........85C075..FF..........85C075..83....89..........88..........33C04883C4205BC3
+4055488BEC4883EC60488BC148............4885C974..0F57C04533C90F11 18 CF17 006E :0000 _PPL_Trace_Event_details_Concurrency__YAXAEBU_GUID__W4ConcRT_EventType_2_E_Z ..........0F10008855C448............448845C54C8D45C0F30F7F45D86644894DC0C7............E8........4883C4605DC3
+448901885104C3.................................................. 00 0000 0007 :0000 __EnableTrace__CONCRT_TRACE_INFO_details_Concurrency__QEAAXEK_Z 
+48..............C3.............................................. 00 0000 0009 :0000 __RegisterConcRTEventTracing_details_Concurrency__YAXXZ 
+488379080048............480F454108C3............................ 00 0000 0012 :0000 _what_exception_std__UEBAPEBDXZ 
+4883EC288A..........458BC83AD077..8B..........A8..74..448AC2418B 02 E222 002B :0000 __Trace_ppl_function_Concurrency__YAXAEBU_GUID__EW4ConcRT_EventType_1__Z ........4883C428C3
+4883EC4848..............75..4883C448C3488D4C2420E8........48.... 00 0000 002F :0000 __UnregisterConcRTEventTracing_details_Concurrency__YAXXZ ........488D4C2420E8........CC
+48895C240848896C24104889742418574883EC50488B19418BF933C9498BF048 03 17F8 0088 :0000 _RegisterGuids_Etw_details_Concurrency__QEAAKP6AKW4WMIDPREQUESTCODE__PEAXPEAK1_ZPEBU_GUID__KPEAU_TRACE_GUID_REGISTRATION__PEA ..........483BD874..488BCBE8........488B8C2488000000448BCF48894C24384C8BC648836424300033D2488B8C248000000048836424280048894C2420488BCDFF..........EB..B8........488B5C2460488B6C2468488B7424704883C4505FC3
+48895C24084889742410574883EC20488B5910498BF833C9488BF2FF........ 00 0000 0051 :0000 _Trace_Etw_details_Concurrency__QEAAK_KPEAU_EVENT_TRACE_HEADER___Z ..483BD874..488BCBE8........488BD7488BCEFF..........EB..B8........488B5C2430488B7424384883C4205FC3
+48895C2408574883EC20488B5908488BFA33C9FF..........483BD874..488B 02 034A 0041 :0000 _UnregisterGuids_Etw_details_Concurrency__QEAAK_K_Z ........488BCFFF..........EB..B8........488B5C24304883C4205FC3
+48895C2408574883EC20488B5918488BFA33C9FF..........483BD874..488B 02 034A 004B :0000 _GetLoggerHandle_Etw_details_Concurrency__QEAA_KPEAX_Z ........488BCFFF..........EB..B9........FF..........4883C8FF488B5C24304883C4205FC3
+48895C2408574883EC20488B5920488BFA33C9FF..........483BD874..488B 02 034A 0049 :0000 _GetEnableLevel_Etw_details_Concurrency__QEAAE_K_Z ........488BCFFF..........EB..B9........FF..........32C0488B5C24304883C4205FC3
+48895C2408574883EC20488B5928488BFA33C9FF..........483BD874..488B 02 034A 0049 :0000 _GetEnableFlags_Etw_details_Concurrency__QEAAK_K_Z ........488BCFFF..........EB..B9........FF..........33C0488B5C24304883C4205FC3
+48895C2408574883EC2048............488BF94889018BDA4883C108E8.... 00 0000 0042 :0000 ___Ginvalid_operation_Concurrency__UEAAPEAXI_Z ....F6....74..BA........488BCFE8........488B5C2430488BC74883C4205FC3
+48895C2408574883EC2048............488BF94889018BDA4883C108E8.... 00 0000 0042 :0000 ___Gexception_std__UEAAPEAXI_Z ....F6....74..BA........488BCFE8........488B5C2430488BC74883C4205FC3
+488BC4488950104C8940184C8948205553488D68A14881ECC800000048...... 00 0000 0103 :0000 __Trace_agents_Concurrency__YAXW4Agents_EventType_1__JZZ ......4833C448894537488D45778BD9488945A78A..........3C..0F82........8B..........A8..0F84........33D2488D4DB9448D4276E8........C7............B8........668945B7488B456F488945E7885DBBC645BC040F10..........F30F7F45CF85DB74..83....74..83....7E..83....7E..83....75..488B45A74C8B004D85C074..4983C9FF8D5319488D4DEFE8........EB..488B45A78B008945EFEB..488B45A7488B00488945EF48............4C8D45B748............E8........488B4D374833CCE8........4881C4C80000005B5DC3
+48............0F57C0488901488BC10F114108C3...................... 00 0000 0015 :0000 __0exception_std__QEAA_XZ 
+48............0F57C00F114108488901488BC1C3...................... 00 0000 0015 :0000 __0invalid_operation_Concurrency__QEAA_XZ 
+48............4889014883C108E9.................................. 00 0000 0013 :0000 __1invalid_operation_Concurrency__UEAA_XZ 
+48............4889014883C108E9.................................. 00 0000 0013 :0000 __1exception_std__UEAA_XZ 
+48............C3................................................ 00 0000 0008 :0000 __GetConcRTTraceInfo_Concurrency__YAPEBU_CONCRT_TRACE_INFO_details_1_XZ 
+8A41043AD077..8B014123C0413BC075..B001C332C0C3.................. 00 0000 0017 :0000 __IsEnabled__CONCRT_TRACE_INFO_details_Concurrency__QEBA_NEK_Z 
+C20000.......................................................... 00 0000 0003 :0000 ___empty_global_delete__YAXPEAXW4align_val_t_std___Z 
+C20000.......................................................... 00 0000 0003 :0000 ___empty_global_delete__YAXPEAX_KW4align_val_t_std___Z 
+C20000.......................................................... 00 0000 0003 :0000 ___empty_global_delete__YAXPEAX_Z 
+C20000.......................................................... 00 0000 0003 :0000 ___empty_global_delete__YAXPEAX_K_Z 
+C6410400C70100000000C3.......................................... 00 0000 000B :0000 __DisableTrace__CONCRT_TRACE_INFO_details_Concurrency__QEAAXXZ 
+---

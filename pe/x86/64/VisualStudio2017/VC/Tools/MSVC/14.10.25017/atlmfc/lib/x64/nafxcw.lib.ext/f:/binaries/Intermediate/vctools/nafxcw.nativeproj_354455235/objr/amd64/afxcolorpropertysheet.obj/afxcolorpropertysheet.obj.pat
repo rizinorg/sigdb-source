@@ -1,0 +1,36 @@
+33C048890148894108488BC1C3...................................... 00 0000 000D :0000 __0CRect__QEAA_XZ 
+33C0C3.......................................................... 00 0000 0003 :0000 _IsLeftNavigationPane_CPropertySheet__MEBAHPEAUHWND_____Z 
+40534883EC20488BD9E8........488BCB4883C4205BE9.................. 00 0000 001B :0000 _OnSize_CMFCColorPropertySheet__IEAAXIHH_Z 
+40534883EC20488BD9E8........4883A3900100000048............488903 09 6390 0029 :0000 __0CMFCColorPropertySheet__QEAA_IPEAVCWnd__I_Z 
+40534883EC20488BD9E8........4883A3900100000048............488903 09 6390 0029 :0000 __0CMFCColorPropertySheet__QEAA_PEBDPEAVCWnd__I_Z 
+4883EC284885D278..483B51107D..488B4108488B04D04883C428C3E8...... 00 0000 0022 :0000 _GetAt_CPtrArray__QEBAPEAX_J_Z ..CC
+4883EC284885D278..483B51107D..488B4108488B04D04883C428C3E8...... 00 0000 0022 :0000 __ACPtrArray__QEBAPEAX_J_Z ..CC
+4883EC28488B49404533C94533C0BA........FF..........488BC84883C428 01 B78A 0025 :0000 _GetTabControl_CPropertySheet__QEBAPEAVCTabCtrl__XZ 
+4883EC284C63C285D278..4C3B81580100007D..488B81500100004A8B04C048 03 940C 0035 :0000 _GetPage_CPropertySheet__QEBAPEAVCPropertyPage__H_Z ..4883C428C3E8........CCE8........CC
+4883EC28E8........488B40104883C428C3............................ 00 0000 0012 :0000 _AfxGetInstanceHandle__YAPEAUHINSTANCE____XZ 
+48895C240848896C24104889742418574883EC20498BF1498BD8488BEA488BF9 04 BEAB 005F :0000 _OnNotify_CMFCColorPropertySheet__MEAAH_K_JPEA_J_Z ..41817810D9FDFFFF75..E8........4C8BCE4C8BC3488BD5488BCF488B5C2430488B6C2438488B7424404883C4205FE9........E8........CC
+48895C2408574883EC20488BF9E8........4533C933D241..........488BCF 03 3B19 003C :0000 _OnInitDialog_CMFCColorPropertySheet__UEAAHXZ ........488BCFE8........8BC3488B5C24304883C4205FC3
+48895C2408574883EC20488BF9E8........83BF840100000074..488B07488B 06 F75F 003F :0000 _PostNcDestroy_CMFCColorPropertySheet__MEAAXXZ ........BA01000000488BCFFFD3488B5C24304883C4205FC3
+48895C2408574883EC20488BFA488BD9488B91900100004885D274..488B4940 04 CDD0 004A :0000 _PreTranslateMessage_CMFCColorPropertySheet__MEAAHPEAUtagMSG___Z ..........85C074..B801000000EB..488BD7488BCBE8........488B5C24304883C4205FC3
+48895C2408574883EC2048............8BFA488901488BD9E8........40.. 00 0000 004C :0000 ___GCMFCColorPropertySheet__UEAAPEAXI_Z ....74..488BCB40......75..E8........EB..BA........E8A1EBFFFF488BC3488B5C24304883C4205FC3
+48895C2410488974241848897C2420554154415541564157488BEC4883EC7048 00 0000 01A1 :0000 _ResizeControl_CMFCColorPropertySheet__IEAAXXZ ............4833C4488945F0488BF94533C9488B49404533C0BA........FF..........488BC8E8........4C8BF04885C00F84........488B4F40488D55D00F57C0F30F7F45D0FF..........8B55DC4533C98B4DD84533C02B55D42B4DD0C7..............8954242833D2894C2420498BCEE8........488BCFE8........B9........8BD8FF..........B9........448BE0FF..........8D4BFF33DB448BE84C63F985C90F88........4885DB0F88........483B9F580100000F8D........488B8750010000488B34D84885F60F84........488B4E404885C974..0F57C0488D55E0F30F7F45E0FF..........488D55E0498BCEE8
+488B494033D248.................................................. 00 0000 000D :0000 _BeginModalState_CWnd__UEAAXXZ 
+488B494048...................................................... 00 0000 000B :0000 _GetWindowRect_CWnd__QEBAXPEAUtagRECT___Z 
+488B494048...................................................... 00 0000 000B :0000 _GetClientRect_CWnd__QEBAXPEAUtagRECT___Z 
+488B4940BA0100000048............................................ 00 0000 0010 :0000 _EndModalState_CWnd__UEAAXXZ 
+488BC1C3........................................................ 00 0000 0004 :0000 __BCRect__QEAAPEAUtagRECT__XZ 
+48............C3................................................ 00 0000 0008 :0000 _GetRuntimeClass_CMFCColorPropertySheet__UEBAPEAUCRuntimeClass__XZ 
+48............488901E9.......................................... 00 0000 000F :0000 __1CMFCColorPropertySheet__UEAA_XZ 
+48............C3................................................ 00 0000 0008 :0000 _GetThisMessageMap_CMFCColorPropertySheet__KAPEBUAFX_MSGMAP__XZ 
+48............C3................................................ 00 0000 0008 :0000 _GetMessageMap_CMFCColorPropertySheet__MEBAPEBUAFX_MSGMAP__XZ 
+85D274..48895C2408574883EC208BDA488BF9E8........0FB7D3488B4810FF 00 0000 0037 :0000 _LoadAcceleratorTable_CMFCColorPropertySheet__QEAAXI_Z ..........488B5C2430488987900100004883C4205FC3
+8B41082B01C3.................................................... 00 0000 0006 :0000 _Width_CRect__QEBAHXZ 
+8B410C2B4104C3.................................................. 00 0000 0007 :0000 _Height_CRect__QEBAHXZ 
+B801000000C3.................................................... 00 0000 0006 :0000 _CanAddPageToDynamicLayout_CPropertySheet__MEBAHXZ 
+C20000.......................................................... 00 0000 0003 :0000 ___empty_global_delete__YAXPEAX_Z 
+C20000.......................................................... 00 0000 0003 :0000 ___empty_global_delete__YAXPEAX_K_Z 
+C20000.......................................................... 00 0000 0003 :0000 _DoDataExchange_CWnd__MEAAXPEAVCDataExchange___Z 
+C20000.......................................................... 00 0000 0003 :0000 _Serialize_CObject__UEAAXAEAVCArchive___Z 
+E9.............................................................. 00 0000 0005 :0000 _OnSize_CWnd__IEAAXIHH_Z 
+E9.............................................................. 00 0000 0005 :0000 __3CObject__SAXPEAX_Z 
+---

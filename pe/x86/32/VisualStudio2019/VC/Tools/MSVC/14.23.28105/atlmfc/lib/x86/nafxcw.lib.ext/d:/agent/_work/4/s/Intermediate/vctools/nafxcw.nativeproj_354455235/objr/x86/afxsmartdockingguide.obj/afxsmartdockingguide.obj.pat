@@ -1,0 +1,216 @@
+33C039818C0000000F95C0C3........................................ 00 0000 000C :0000 _IsValid_CMFCToolBarImages__QBEHXZ 
+33C040C20400.................................................... 00 0000 0006 :0000 _OnEraseBkgnd_CSmartDockingStandaloneGuideWnd__IAEHPAVCDC___Z 
+33C040C20400.................................................... 00 0000 0006 :0000 _OnEraseBkgnd_CSmartDockingGroupGuidesWnd__QAEHPAVCDC___Z 
+33C050505068........E8........C3................................ 00 0000 0010 :0000 ___GetSmartDockingWndClassName__0ICA___YAPBDXZ 
+33C0890189410489410889410C8BC1C3................................ 00 0000 0010 :0000 __0CRect__QAE_XZ 
+51FF..........C3................................................ 00 0000 0008 :0000 _SetRectEmpty_CRect__QAEXXZ 
+558BEC51518B4508538BD9565768........8943048B450C8983F00200008B03 09 DB5F 0190 :0000 _Create_CSmartDockingGroupGuide__MAEXW4SDMarkerPlace_CSmartDockingStandaloneGuide__PAVCSmartDockingGroupGuidesManager___Z ..........8BCBFFD683BBE80200000074..E8........83E80174..83E80175..C7..................6A..EB..C7..................6A..58A3........A3........E8........8BF881..........538D45F8508B0F8BB1D00100008BCEFF..........8BCFFFD6FF336A..6A..FF..........8B5DFC508D8BF8020000E8........68........6A..6A..FF..........508D8B00030000E8........8B5304A1........8B..........8BB3F40000008BBBF800000083EA0474..83EA0174..83EA0174..83EA0174..83EA0175..2BC6992BC2D1F8898308030000EB..2BC6992BC2D1F82BCF898308030000898B0C030000EB..2BC6992B
+558BEC51518B450C53565733FF8BD95757FF75148B33FF75088983800000008B 0C CB68 0094 :0000 _Create_CSmartDockingStandaloneGuideWnd__QAEHPAUtagRECT__PAUHBITMAP____PAUHRGN____PAVCWnd__HH_Z ........68........898390000000E8........8B4E585057FF..........8BCBFF....8945FC85C074..57FF7510FF7320FF..........E8........8BF88D8B84000000518D45F8508B178BB2D00100008BCEFF..........8BCFFFD68B45FC5F5E5BC9C21800
+558BEC51538BD9895DFC83BB381100000074..56576A..8DBBA00000005B8B07 06 14A8 0067 :0000 _Destroy_CSmartDockingGroupGuidesManager__UAEXXZ ..........8BCFFFD681..........83EB0175..8B5DFC8B43088B70608BCEFF..........8D4B08FFD68D8B30110000E8........83A338110000005F5E5BC9C3
+558BEC51568BF18975FCE8........33C9C7..........83............B8.. 00 0000 0050 :0000 __0CSmartDockingGroupGuide__QAE_XZ ......898EF00200008986F8020000898EFC0200008986000300008BC6898E04030000C78610030000010000005EC9C3
+558BEC51568BF18975FCE8........33C0C7..........83............8986 15 2709 0035 :0000 __0CSmartDockingStandaloneGuideWnd__QAE_XZ 
+558BEC51836104008BC1894DFCC7..........C9C3...................... 00 0000 0015 :0000 __0CPen__QAE_XZ 
+558BEC51836104008BC1894DFCC7..........C9C3...................... 00 0000 0015 :0000 __0CBrush__QAE_XZ 
+558BEC51836104008BC1894DFCC7..........C9C3...................... 00 0000 0015 :0000 __0CBitmap__QAE_XZ 
+558BEC51836104008BC1894DFCC7..........C9C3...................... 00 0000 0015 :0000 __0CRgn__QAE_XZ 
+558BEC5356578B7D088BD985FF74..8B078B700C8BCEFF..........8BCFFFD6 01 EB46 0039 :0000 __0__CSimpleStringT_D_0A__ATL__QAE_PAUIAtlStringMgr_1__Z ....5F89038BC35E5B5DC2040068........E8........CC
+558BEC53568BF1578B7D088D5E088BCB39BEE002000075..E8........EB..57 07 52C9 0073 :0000 _Highlight_CSmartDockingStandaloneGuide__UAEXH_Z ........83BEE80200000074..E8........83....75..8B863001000085C075..8B862C01000085FF74..8B864402000085C075..8B862C0100006A..508BCBE8........5F5E5B5DC20400
+558BEC538BD9568B75088B1383....3972087D..85F67E..578B3A6A..56528B 07 4CE9 0046 :0000 _Reallocate___CSimpleStringT_D_0A__ATL__AAEXH_Z ..........8BCFFFD65F85C074..83....5E89035B5DC20400E8........CC
+558BEC5657FF75088BF98B078B701C8BCEFF..........8BCFFFD65F5E85C074 00 0000 003B :0000 _ShowGuide_CSmartDockingGroupGuidesManager__QAEXW4SDMarkerPlace_CSmartDockingStandaloneGuide__HH_Z ..8B4D0C39881003000074..FF7510518BC8E8........5DC20C00
+558BEC568B7508578BF98B0F3971F47E..8B71F48379FC017E..568BCFE8.... 00 0000 0057 :0000 _PrepareWrite2___CSimpleStringT_D_0A__ATL__AAEXH_Z ....EB..8B49F83BCE7D..81..........7E..B8........EB..8BC1992BC2D1F803C83BCE7D..8BCE518BCFE8........5F5E5DC20400
+558BEC568B751485F675..33C0EB..8B450885C075..E8........6A..5E8930 01 3E9B 007F :0000 _memcpy_s ........8BC6EB..578B7D1085FF74..39750C72..565750E8........83C40C33C0EB..FF750C6A..50E8........83C40C85FF75..E8........6A..EB..39750C73..E8........6A..5E8930E8........8BC6EB..6A..585F5E5DC3
+558BEC568BF183BE100300000075..33C0EB..8D4508508B86F0020000FF7028 01 00FF 003D :0000 _IsPtIn_CSmartDockingGroupGuide__UBEHVCPoint___Z ..........FF750CFF7508FFB6D4020000FF..........5E5DC20800
+558BEC568BF18B460483E80074..83E80174..83E80174..83E8010F85...... 00 0000 00AB :0000 _AdjustPos_CSmartDockingStandaloneGuide__UAEXVCRect___Z ..8B4D088B55108B86D8020000D1F88D140A8B4D142B8EDC020000D1FA2BD083....EB..8B4D088B55108B86D8020000D1F88D140A8B4D0CD1FA2BD083....EB..8B55102B96D802000083....EB..8B550883....8B4D14034D0C8B86DC020000D1F8D1F92BC883C60874..837E200074..6A..6AFF6AFF515268........8BCEE8........5E5DC21000
+558BEC568BF1C7..........E8........F645080174..F645080475..56E8.. 00 0000 0036 :0000 ___GCPen__UAEPAXI_Z ......EB..6A..56E8........59598BC65E5DC20400
+558BEC568BF1C7..........E8........F645080174..F645080475..56E8.. 00 0000 0036 :0000 ___GCBrush__UAEPAXI_Z ......EB..6A..56E8........59598BC65E5DC20400
+558BEC568BF1C7..........E8........F645080174..F645080475..56E8.. 00 0000 0036 :0000 ___GCBitmap__UAEPAXI_Z ......EB..6A..56E8........59598BC65E5DC20400
+558BEC568BF1C7..........E8........F645080174..F645080475..56E8.. 00 0000 0036 :0000 ___GCRgn__UAEPAXI_Z ......EB..6A..56E8........59598BC65E5DC20400
+558BEC568BF1C7..........E8........F645080174..F645080475..56E8.. 00 0000 0039 :0000 ___GCSmartDockingStandaloneGuideWnd__UAEPAXI_Z ......EB..68........56E8........59598BC65E5DC20400
+558BEC568BF1E8........F645080174..F645080475..56E8........EB..68 00 0000 0033 :0000 ___GCSmartDockingGroupGuidesManager__UAEPAXI_Z ........56E8........59598BC65E5DC20400
+558BEC568BF1E8........F645080174..F645080475..56E8........EB..68 00 0000 0033 :0000 ___GCSmartDockingGroupGuidesWnd__UAEPAXI_Z ........56E8........59598BC65E5DC20400
+558BEC568BF1E8........F645080174..F645080475..56E8........EB..68 00 0000 0033 :0000 ___GCSmartDockingGroupGuide__UAEPAXI_Z ........56E8........59598BC65E5DC20400
+558BEC568BF1E8........F645080174..F645080475..56E8........EB..68 00 0000 0033 :0000 ___GCSmartDockingStandaloneGuide__UAEPAXI_Z ........56E8........59598BC65E5DC20400
+558BEC568BF1E8........F645080174..F645080475..56E8........EB..6A 00 0000 0030 :0000 ___GCGdiObject__UAEPAXI_Z ..56E8........59598BC65E5DC20400
+558BEC568BF1FF7628FF..........85C074..8B45088D4E08F7D81BC083E005 02 F6B7 002B :0000 _Show_CSmartDockingStandaloneGuide__UAEXH_Z ........5E5DC20400
+558BEC568BF1FF7628FF..........85C074..8B45088D4E08F7D81BC083E005 02 F6B7 002B :0000 _Show_CSmartDockingGroupGuidesManager__UAEXH_Z ........5E5DC20400
+558BEC56FF75088BF1FF..........8D460885C074..8378200074..FF7508FF 03 4672 002D :0000 _GetWindowRect_CSmartDockingGroupGuidesManager__QAEXAAVCRect___Z ..........5E5DC20400
+558BEC56FF75088BF1FF..........508BCEE8........5E5DC20400........ 00 0000 001C :0000 _CreateSolidBrush_CBrush__QAEHK_Z 
+558BEC56FF75108BF1FF750CFF7508FF..........508BCEE8........5E5DC2 02 E7A6 0022 :0000 _CreatePen_CPen__QAEHHHK_Z 
+558BEC56FF75108BF1FF750CFF7508FF..........508BCEE8........5E5DC2 02 E7A6 0022 :0000 _CreatePolygonRgn_CRgn__QAEHPAUtagPOINT__HH_Z 
+558BEC56FF75148BF1FF7510FF750CFF7508FF..........508BCEE8........ 05 87AF 0025 :0000 _CreateRectRgn_CRgn__QAEHHHHH_Z 
+558BEC5DE9...................................................... 00 0000 0009 :0000 _GetBuffer___CSimpleStringT_D_0A__ATL__QAEPADH_Z 
+558BEC5DE9...................................................... 00 0000 0009 :0000 _ReleaseBufferSetLength___CSimpleStringT_D_0A__ATL__QAEXH_Z 
+558BEC5DFF...................................................... 00 0000 000A :0000 _DrawState__YGHPAUHDC____PAUHBRUSH____P6GH0JIHH_ZJIHHHHI_Z 
+558BEC6AFF68........64A1000000005056A1........33C5508D45F464A300 06 A605 0073 :0000 __1CSmartDockingStandaloneGuide__UAE_XZ ..........E8........8D8ED0020000C7..........E8........8D8EB8010000E8........8D8EA0000000E8........8D4E08C7..........E8........8B4DF464890D00000000595EC9C3
+558BEC6AFF68........64A1000000005056A1........33C5508D45F464A300 06 A605 007A :0000 __1CSmartDockingGroupGuidesManager__UAE_XZ ..........E8........8D8E30110000C7..........E8........8D8E18100000E8........68........6A..68........8D86A000000050E8........8D4E08E8........8B4DF464890D00000000595EC9C3
+558BEC6AFF68........64A1000000005081EC10020000A1........33C58945 16 B4C9 005A :0000 __1CGdiObject__UAE_XZ ..........E8........8B4DF464890D00000000595F5E5B8B4DEC33CDE8........C9C3
+558BEC817D080E00078075..E8........FF7508E8........CC............ 00 0000 001A :0000 _AtlThrowImpl_ATL__YGXJ_Z 
+558BEC837D080053578BD974..FF750C6A..FF7508E8........8BF883C40C85 02 C11E 0060 :0000 _FormatV___CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QAEXPBDPAD_Z ..68........EB..578BCBE8........FF750C8D4F016A..FF75085150E8........83C4148BCB57E8........5F5B5DC2080068........E8........CC
+558BEC837D0800578BF97C..8B1733C9418B42F82B4AFC2B45080BC87D..FF75 04 681E 003C :0000 _PrepareWrite___CSimpleStringT_D_0A__ATL__AAEPADH_Z ........8B178BC25F5DC2040068........E8........CC
+558BEC837D0C008B450889811003000074..8B89F002000085C974..83C108E8 00 0000 0028 :0000 _SetVisible_CSmartDockingGroupGuide__QAEXHH_Z ........5DC20800
+558BEC83EC10538BD98D8BA0000000E8........83............8D8BB80100 02 0164 0211 :0000 _InitImages_CSmartDockingStandaloneGuide__MAEXAAVCSmartDockingInfo___Z ........8B430483....0F87........57FF............6A..586A..C7............BF........C7............EB..6A..586A..C7............BF........C7............EB..6A..586A..C7............BF........C7............EB..6A..586A..C7............BF........C7............EB..6A..586A..C7............BF........C7............59568B75088B14308B04318945F433C085D28955F00F94C08983E802000085D275..E8........83E80174..83E80175..8B45FC8B108B45F88B008945F4EB..8B17EB..8B55F033C98DBBA000000033C0898BD40000003945F451510F94C08BCF528983D80000
+558BEC83EC108BC18945F053568B00578945F88D48F08B398B41048945FC8B07 06 D273 008E :0000 _Fork___CSimpleStringT_D_0A__ATL__AAEXH_Z ..........8BCFFFD68B5D088BF86A..538B0F8B318BCEFF..........8BCFFFD68BC8894DF485C974..8B7DFC3BFB7D..8BDF8D43018B5DF850538D71105056E8........8B45F48D4BF083C410897804E8........8B45F05F89305E5BC9C20400E8........CC
+558BEC83EC18A1........33C58945FC8B450C5356578BF98945E88B45088947 02 B4DE 0140 :0000 _Create_CSmartDockingStandaloneGuide__UAEXW4SDMarkerPlace_1_PAVCWnd___Z ............75..E8........83....74..33DBEB..33DB438B0768........8B70248BCEFF..........8BCFFFD6FF..........FFB72C010000E8........508D8FD0020000E8........8D45EC33F650FFB7D40200008975EC8975F08975F48975F8FF..........8B45F42B45EC8B8F300100008987D80200008B45F82B45F08987DC02000085C975..8B8F2C010000837F040274..837F040374..8BC6EB..33C04050FFB7E80200008D45ECFF75E88D77086A..51508BCEE8........6A..68........6A..8BCEE8........85DB75..85F675..33C0EB..8B46206A..6A..FF..........50E8........8BC8E8........6A..6A..6A..8BCEC7
+558BEC83EC28A1........33C58945FC53568BF133C957894DEC894DF08D5E08 0A ACAB 00EF :0000 _AdjustPos_CSmartDockingGroupGuidesManager__UAEHVCRect__H_Z ........394B200F84........8B451833D24283F8FF74..85C075..398E3C11000074..898E3C110000EB..3BC275..398E3C11000075..89963C1100008BCBE8........8D45EC50FF7628FF..........8B45EC2B45F40345080345108B7DF02B7DF8037D0C037D14D1F88945D833C08945DC8945E08945E48945E88D45DC50FF7628D1FFFF..........8B4DD8394DDC75..397DE074..6A..6AFF6AFF575168........8BCBE8........33C040EB..33C08B4DFC5F5E33CD5BE8........C9C21400
+558BEC83EC30A1........33C58945FC538B5D0833D2568BF1578B86E0020000 03 1D1D 02AA :0000 _Draw_CSmartDockingGroupGuide__MAEXAAVCDC__H_Z ..3996E802000075..39964402000075..33C941894DE4EB..8BCA894DE485C074..399644020000BA........75..BA........837D0C008D3C16897DE874..85C075..8B96080300008BB60C0300008B4F588945EC8945F08945F48945F88B475468........8975D483EC108BFC8955D003C28945D88D040E8D75EC8945DCA533C08B4DE85050A55083EC10A5A58BFC8D75D053A5A5A5A5E8........E9........5133C08BCF50508D45D450E8........68........FF75E433C08BCF5050505050FFB60C030000FFB60803000053E8........8D45D48BCF50E8........33FF39BEE80200000F84........E8........83....0F84........8D45
+558BEC8B41080301992BC2D1F8568B750889068B410C034104992BC2D1F88946 08 BAE8 0028 :0000 _CenterPoint_CRect__QBE_AVCPoint__XZ 
+558BEC8B45083981E002000074..8981E00200008B89F002000083C108E8.... 00 0000 0026 :0000 _Highlight_CSmartDockingGroupGuide__UAEXH_Z ....5DC20400
+558BEC8B4508568BF1578BBEA80000003BC774..6A..8986A8000000E8...... 00 0000 0032 :0000 _SetTransparentColor_CMFCToolBarImages__QAEKK_Z ..6A..8BCEE8........8BC75F5E5DC20400
+558BEC8B4508568BF1837E200089868C00000074..68........6A..6A..FF76 02 0C23 0033 :0000 _Highlight_CSmartDockingStandaloneGuideWnd__QAEXH_Z ..........8BCEE8........5E5DC20400
+558BEC8B4508568BF185C074..8B400450FF..........508BCEE8........5E 04 057A 0024 :0000 _CreateCompatibleDC_CDC__QAEHPAV1__Z 
+558BEC8B4508568BF18B4D0CF7D91BC983....8B5431548B4C31588910894804 05 D6F4 0025 :0000 _GetImageSize_CMFCToolBarImages__QBE_AUtagSIZE__H_Z 
+558BEC8B450883....89015DC20400.................................. 00 0000 000F :0000 _Attach___CSimpleStringT_D_0A__ATL__AAEXPAUCStringData_2__Z 
+558BEC8B450885C074..8B400450FF7104E8........5DC20400............ 00 0000 001A :0000 _SelectObject_CDC__QAEPAVCBitmap__PAV2__Z 
+558BEC8B450885C074..898180000000FF750C6A..FF7120FF..........33C0 05 2E21 0025 :0000 _Assign_CSmartDockingStandaloneGuideWnd__QAEHPAUHBITMAP____H_Z 
+558BEC8B450889018B450C8941048B45108941088B451489410C8BC15DC21000 00 0000 0020 :0000 __0CRect__QAE_HHHH_Z 
+558BEC8B450889018B450C8941048BC15DC20800........................ 00 0000 0014 :0000 __0CSize__QAE_HH_Z 
+558BEC8B450889018B450C8941048BC15DC20800........................ 00 0000 0014 :0000 __0CSize__QAE_UtagSIZE___Z 
+558BEC8B450889018B450C8941048BC15DC20800........................ 00 0000 0014 :0000 __0CPoint__QAE_HH_Z 
+558BEC8B45088941105DC20400...................................... 00 0000 000D :0000 _SetLightPercentage_CMFCToolBarImages__QAEXH_Z 
+558BEC8B45088941345DC20400...................................... 00 0000 000D :0000 _SetMapTo3DColors_CMFCToolBarImages__QAEXH_Z 
+558BEC8B45088941385DC20400...................................... 00 0000 000D :0000 _SetAlwaysLight_CMFCToolBarImages__QAEXH_Z 
+558BEC8B45088B51082B1189108B510C2B51048950045DC20400............ 00 0000 001A :0000 _Size_CRect__QBE_AVCSize__XZ 
+558BEC8B450C85C074..8B400450FF7508FF7104FF..........5DC20800.... 00 0000 001E :0000 _FillRect_CDC__QAEXPBUtagRECT__PAVCBrush___Z 
+558BEC8B450C85C074..8B4004FF751050FF7508FF7120FF..........5DC20C 01 78F0 0021 :0000 _RedrawWindow_CWnd__QAEHPBUtagRECT__PAVCRgn__I_Z 
+558BEC8B450CF7D8508B4508F7D85051FF..........5DC20800............ 00 0000 001A :0000 _DeflateRect_CRect__QAEXHH_Z 
+558BEC8B451C83C80450FF7514FF7510FF750CFF75086A..FF75186A..FF7520 04 108B 002D :0000 _DrawState_CDC__QAEHVCPoint__VCSize__PAUHBITMAP____IPAUHBRUSH_____Z ..........5DC21C00
+558BEC8B4D088D451050FF750CE8........5DC3........................ 00 0000 0014 :0000 _Format___CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QAAXPBDZZ 
+558BEC8B550885D278..8B013B50F87F..8950F48B01C60402005DC2040068.. 00 0000 0029 :0000 _SetLength___CSimpleStringT_D_0A__ATL__AAEXH_Z ......E8........CC
+558BEC8B55088B451003C289118B550C8941088B451403C289510489410C8BC1 04 F488 0024 :0000 __0CRect__QAE_UtagPOINT__UtagSIZE___Z 
+558BEC8B55088D42FC83....77..69C21803000005........03C1EB..33C05D 03 8E1E 0023 :0000 _GetGuide_CSmartDockingGroupGuidesManager__UAEPAVCSmartDockingGroupGuide__W4SDMarkerPlace_CSmartDockingStandaloneGuide___Z 
+558BEC8B550C33C0568BF185D275..8BD0EB..8B52048B4D0885C974..8B4104 09 9961 0033 :0000 _CombineRgn_CRgn__QAEHPBV1_0H_Z ..........5E5DC20C00
+558BEC8B550C33C0568BF185D275..8BD0EB..8B52048B4D0885C974..8B4104 06 1131 0030 :0000 _FillRgn_CDC__QAEHPAVCRgn__PAVCBrush___Z ..........5E5DC20800
+558BEC8B550C33C0568BF185D275..8BD0EB..8B52048B4D0885C974..8B4104 0C DCC8 0036 :0000 _FrameRgn_CDC__QAEHPAVCRgn__PAVCBrush__HH_Z ..........5E5DC21000
+558BEC8B551433C0568BF185D275..8BD0EB..8B52048B4D0885C974..8B4104 18 F840 0042 :0000 _UpdateLayeredWindow_CWnd__QAEHPAVCDC__PAUtagPOINT__PAUtagSIZE__01KPAU_BLENDFUNCTION__K_Z ..........5E5DC22000
+558BECFF75086A..FF7120FF..........5DC20400...................... 00 0000 0015 :0000 _Invalidate_CWnd__QAEXH_Z 
+558BECFF7508E8........595DC20400................................ 00 0000 0010 :0000 __3CObject__SGXPAX_Z 
+558BECFF7508E8........595DC20400................................ 00 0000 0010 :0000 __2CObject__SGPAXI_Z 
+558BECFF7508FF7104FF..........5DC20400.......................... 00 0000 0013 :0000 _GetRgnBox_CRgn__QBEHPAUtagRECT___Z 
+558BECFF7508FF7120FF..........5DC20400.......................... 00 0000 0013 :0000 _GetWindowRgn_CWnd__QBEHPAUHRGN_____Z 
+558BECFF7508FF7120FF..........5DC20400.......................... 00 0000 0013 :0000 _GetClientRect_CWnd__QBEXPAUtagRECT___Z 
+558BECFF7508FF7120FF..........5DC20400.......................... 00 0000 0013 :0000 _GetWindowRect_CWnd__QBEXPAUtagRECT___Z 
+558BECFF7508FF7120FF..........5DC20400.......................... 00 0000 0013 :0000 _ScreenToClient_CWnd__QBEXPAUtagPOINT___Z 
+558BECFF750C6A..FF7508E8........83C40C5DC3...................... 00 0000 0015 :0000 _GetFormattedLength___ChTraitsCRT_D_ATL__SAHPBDPAD_Z 
+558BECFF750C6A..FF7508E8........83C40C5DC3...................... 00 0000 0015 :0000 __vscprintf 
+558BECFF750CFF7508FF7104FF..........5DC20800.................... 00 0000 0016 :0000 _OffsetRgn_CRgn__QAEHHH_Z 
+558BECFF750CFF7508FF7104FF..........5DC20800.................... 00 0000 0016 :0000 _PtInRegion_CRgn__QBEHHH_Z 
+558BECFF750CFF7508FF7104FF..........5DC20800.................... 00 0000 0016 :0000 _PtInRegion_CRgn__QBEHUtagPOINT___Z 
+558BECFF750CFF7508FF7108FF..........5DC20800.................... 00 0000 0016 :0000 _GetBoundsRect_CDC__QAEIPAUtagRECT__I_Z 
+558BECFF750CFF7508FF7120FF..........5DC20800.................... 00 0000 0016 :0000 _SetWindowRgn_CWnd__QAEHPAUHRGN____H_Z 
+558BECFF7510FF750CFF75086A..6A..E8........8B08FF700483C90251E8.. 00 0000 002F :0000 __vscprintf_l ......83C41C85C079..83....5DC3
+558BECFF75146A..FF7510FF750CFF7508E8........83C4145DC3.......... 00 0000 001B :0000 _Format___ChTraitsCRT_D_ATL__SAHPADIPBD0_Z 
+558BECFF75146A..FF7510FF750CFF7508E8........83C4145DC3.......... 00 0000 001B :0000 _vsprintf_s 
+558BECFF7518FF7514FF7510FF750CFF7508E8........FF7004FF30E8...... 00 0000 002D :0000 __vsprintf_s_l ..83C41C85C079..83....5DC3
+568BF157BF........8D8E00030000C7..........8939E8........8D8EF802 05 7955 0032 :0000 __1CSmartDockingGroupGuide__UAE_XZ ........5F8BCE5EE9
+568BF157BF........8D8E8C0000008939E8........8D8E840000008939E8.. 00 0000 002C :0000 __1CSmartDockingGroupGuidesWnd__UAE_XZ ......5F8BCE5EE9
+568BF1E8........508BCEE8........8BC65EC3........................ 00 0000 0014 :0000 __0__CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QAE_XZ 
+578BF9FF7728FF..........85C074..8B4708568B70608BCEFF..........8D 07 3202 0027 :0000 _Destroy_CSmartDockingStandaloneGuide__UAEXXZ 
+68........6A..68........8B45F005........50E8........C3.......... 00 0000 001B :0000 __unwindfunclet___0CSmartDockingGroupGuidesManager__QAE_XZ_1 
+68........E8........CC.......................................... 00 0000 000B :0000 _ThrowMemoryException___CSimpleStringT_D_0A__ATL__KAXXZ 
+68........B8........E8........8BD9538D8D50FFFFFFE8........538D85 0E A119 00F4 :0000 _OnPaint_CSmartDockingGroupGuidesWnd__QAEXXZ ........8D75B4397DAC75..8B75A88D45E089B54CFFFFFF50FF7320897DE0897DE4897DE8897DECFF..........89BD48FFFFFFC7..................FF..........C645FC02FF..........508D8D44FFFFFFE8........FFB548FFFFFF8D45E050FF7604FF..........8B8B800000008D75E083EC108D838C0000008BFC50A58D838400000050FFB54CFFFFFFA5A5A5E8........8D8D44FFFFFFC7..................E8........8D4DA4E8........8D8D50FFFFFFE8........E8........C3
+6A..FF7120FF..........C3........................................ 00 0000 000C :0000 _BeginModalState_CWnd__UAEXXZ 
+6A..FF7120FF..........C3........................................ 00 0000 000C :0000 _EndModalState_CWnd__UAEXXZ 
+6A..B8........E8........68........E8........598BC8894DF033C08945 04 8101 0030 :0000 _CreateObject_CSmartDockingStandaloneGuide__SGPAVCObject__XZ ..E8........E8........C3
+6A..B8........E8........A1........85C075..8B..........85C975..68 00 0000 007A :0000 _GetInstance_CMFCVisualManager__SGPAV1_XZ ........E8........598BC8894DF033C08945FC85C974..50E8........83......EB..E8........A3........C780B4000000010000008B..........8B078B70308BCEFF..........8BCFFFD6A1........E8........C3
+6A..B8........E8........8BF18975F083......8D4E08C7..........E8.. 00 0000 007E :0000 __0CSmartDockingStandaloneGuide__QAE_XZ ......33FF8D8EA0000000897DFCE8........8D8EB8010000C645FC01E8........89BED40200008BC6C7..................83............83............89BEE002000089BEE4020000C786E802000001000000E8........C3
+6A..B8........E8........8BF18975F08D4E08C7..........E8........68 00 0000 007A :0000 __0CSmartDockingGroupGuidesManager__QAE_XZ ........68........6A..68........8D86A000000033FF50897DFCE8........8D8E18100000C645FC01E8........89BE341100008BC6C7..................89BE3811000089BE3C11000089BE40110000E8........C3
+6A..B8........E8........68........E8........598BC8894DF033C08945 04 8101 0030 :0000 _CreateObject_CSmartDockingGroupGuidesManager__SGPAVCObject__XZ ..E8........E8........C3
+6A..B8........E8........8BF18D460885C00F84........837820000F84.. 00 0000 00B2 :0000 _IsPtIn_CSmartDockingStandaloneGuide__UBEHVCPoint___Z ......FF7628FF..........85C074..8D450850FF7628FF..........33C03986E402000074..FF750CFF7508FFB6D4020000FF..........EB..BF........8945F0897DEC505050508945FCFF..........508D4DECE8........FF75F0FF7628FF..........FF750CFF7508FF75F0FF..........8D4DEC897DEC8BF0E8........8BC6EB..33C0E8........C20800
+6A..B8........E8........8BD9895DE8E8........33D2C7..........8D83 0B CEED 00B1 :0000 __0CSmartDockingGroupGuidesWnd__IAE_XZ ........8955FC89500489088D838C0000008950048908C645FC02E8........8BF88D45EC508D45F0508B0F8BB1D00100008BCEFF..........8BCFFFD6A1........83F8FF75..8B45F050FF..........508D8B84000000E8........A1........83F8FF75..8B45EC50FF..........508D8B8C000000E8........8BC3E8........C3
+6A..B8........E8........8B7D088D450C6AFF6AFF50C7............C7.. 00 0000 00C4 :0000 _ShadeRect__YGXPAVCDC__VCRect__H_Z ..........FF..........33F6FF74B5E48D4DEC6A..6A..E8........8365FC008D45EC508BCFE8........837D1C008BD874..FF75108B4D0C8D45DC03CE51508BCFE8........8B450CFF751803C650EB..8B45108BCF03C650FF750C8D45D450E8........8B451003C650FF75148BCFE8........538BCFE8........83......8D4DECC7............E8........4683....0F8C........E8........C21800
+6A..B8........E8........8BF18975CC83............8B450C8B5D088945 08 226B 01EF :0000 _DrawCentralGroupGuides_CSmartDockingGroupGuidesManager__IAEXAAVCDC__AAVCBrush__1VCRect___Z ..E8........83....74..33FFEB..33FF478D4DB0897DD8E8........8365FC0085DB75..33C0EB..8B430450FF..........508D4DB0E8........85FF75..33C0508945E08945E48945E88945EC8D45E050FF7308FF..........217DD4C7............FF..........C645FC01FF..........508D4DD0E8........FF75D48D45E050FF7304FF..........8D4DD0C645FC00C7............E8........33C9398EA410000074..85FF894DE0894DE48D75E00F94C0894DE8FEC8894DEC24..FEC80FB6C05083EC108BFC6A..A56A..5183EC10A5A5A58BFC8D751453A5A5A5A58B75CC8D8E18100000E8........EB..FF75C88DBE301100008B
+6A..B8........E8........8BF183............75..E8........83....0F 01 DD23 0146 :0000 _UpdateLayered_CSmartDockingStandaloneGuideWnd__QAEXXZ ........8D45E033DB50FF7620895DE0895DE4895DE8895DECFF..........8B45E82B45E08B4DEC2B4DE48945D48D45C0508D45D4895DC450895DC8894DD8895DC0E8........85C00F84........895DD0C7............508D4DCC895DFCE8........568D4D9CE8........8D4DB0C645FC01E8........FF75A0C645FC02FF..........508D4DB0E8........FF75D0FF75B4E8........5353FFB6800000008D4DB08BF8FF75D8FF75D4FF75C8FF75C4E8........399E8C0000006A..0F94C066895DDCFEC8C645DF0124..04..8845DE8D45DC50538D45C450FF75B48D45D4505353FF7620FF..........85FF74..8B5F0453FF75B4E8
+6A..B8........E8........8BD9895DA08B450889459C33C03983381100000F 01 DD23 024A :0000 _Create_CSmartDockingGroupGuidesManager__UAEXPAVCWnd___Z ........8945ACC7............505050508945FCFF..........508D4DA8E8........6A..59894DA48DBBA00000008B0753518B70288BCEFF..........8BCFFFD68D87D002000085C074..8B87D40200006A..50FF75ACFF75ACFF..........8B4DA481..........41894DA483....7E..A1........85C075..E8........4883E80175..B8........33FFC783501000000100000057578DB31810000089BB4C100000508BCEE8........8BCEE8........FF..........8BCEE8........EB..33FF8D45C0897DC050FF75AC897DC4897DC8897DCCFF..........A1........F7D850508D45C050FF..........8B5DCC8B45C48B75C003C38B
+6A..B8........E8........8BF18975CC83............75..E8........83 00 0000 015D :0000 _Update_CSmartDockingGroupGuidesWnd__QAEXXZ ....74..68........33DB5353FF7620FF..........E9........8D45E033DB50FF7620895DE0895DE4895DE8895DECFF..........8B45E82B45E08B4DEC2B4DE48945C08D45D0508D45C0895DA850895DAC894DC4895DD0E8........85C00F84........895DD8C7............508D4DD4895DFCE8........568D4D94E8........8D4DB0C645FC01E8........FF7598C645FC02FF..........508D4DB0E8........FF75D8FF75B4E8........83EC108945C88BFC8D75E0A5A5A5A58B75CC8D8E8C000000518B8E800000008D8684000000508D45B050E8........6A..8D45DCC7............50538D45A850FF75B48D45C0505353FF7620
+6A..B8........E8........8BF1568D4D8CE8........8D45E033FF50FF7620 10 3FA2 00B1 :0000 _OnPaint_CSmartDockingStandaloneGuideWnd__IAEXXZ ..........8B45EC8B4DE82B45E42B4DE05757FFB680000000505157578D4D8CE8........39BE8800000074..E8........83....74..B8........39BE8C00000075..8B868400000050508D45E0508D4D8CE8........FFB6900000008D75E083EC108D458C8BFC50A5A5A5A5E8........8D4D8CE8........E8........C3
+81..........E9.................................................. 00 0000 000B :0000 _DestroyImages_CSmartDockingGroupGuide__MAEXXZ 
+83............56BE........75..8BCEE8........C7.................. 04 9670 0024 :0000 _GetGlobalData__YAPAUAFX_GLOBAL_DATA__XZ 
+83............74..33C0C3A1........85C075..5657E8........8BF88B07 09 0AAE 0035 :0000 _GetVMTheme__YG_AW4AFX_SMARTDOCK_THEME__XZ ..........8BCFFFD65F5EC3
+836104008BC1C7..........C3...................................... 00 0000 000D :0000 __0CGdiObject__QAE_XZ 
+837908008D411075..8B4104C3...................................... 00 0000 000D :0000 _GetDC_CMemDC__QAEAAVCDC__XZ 
+83790C010F9FC0C3................................................ 00 0000 0008 :0000 _IsShared_CStringData_ATL__QBE_NXZ 
+83....F00FC1410C4885C07F..56578B39518B078B70048BCEFF..........8B 06 99FF 0026 :0000 _Release_CStringData_ATL__QAEXXZ 
+85C975..33C0C38B4104C3.......................................... 00 0000 000B :0000 _GetSafeHandle_CGdiObject__QBEPAXXZ 
+85C975..33C0C38B4104C3.......................................... 00 0000 000B :0000 __BCRgn__QBEPAUHRGN____XZ 
+85C975..33C0C38B4104C3.......................................... 00 0000 000B :0000 _GetSafeHdc_CDC__QBEPAUHDC____XZ 
+85C975..33C0C38B4120C3.......................................... 00 0000 000B :0000 _GetSafeHwnd_CWnd__QBEPAUHWND____XZ 
+8B0183....C3.................................................... 00 0000 0006 :0000 _GetData___CSimpleStringT_D_0A__ATL__ABEPAUCStringData_2_XZ 
+8B01C3.......................................................... 00 0000 0003 :0000 __B__CSimpleStringT_D_0A__ATL__QBEPBDXZ 
+8B0983....E9.................................................... 00 0000 000A :0000 __1__CSimpleStringT_D_0A__ATL__QAE_XZ 
+8B0983....E9.................................................... 00 0000 000A :0000 __1__CStringT_DV__StrTraitMFC_DV__ChTraitsCRT_D_ATL_____ATL__QAE_XZ 
+8B41082B01C3.................................................... 00 0000 0006 :0000 _Width_CRect__QBEHXZ 
+8B410C2B4104C3.................................................. 00 0000 0007 :0000 _Height_CRect__QBEHXZ 
+8B4DE881..........E9............................................ 00 0000 000E :0000 __unwindfunclet___0CSmartDockingGroupGuidesWnd__IAE_XZ_1 
+8B4DE881..........E9............................................ 00 0000 000E :0000 __unwindfunclet___0CSmartDockingGroupGuidesWnd__IAE_XZ_2 
+8B4DE8E9........................................................ 00 0000 0008 :0000 __unwindfunclet___0CSmartDockingGroupGuidesWnd__IAE_XZ_0 
+8B4DF081..........E9............................................ 00 0000 000E :0000 __unwindfunclet___0CSmartDockingStandaloneGuide__QAE_XZ_1 
+8B4DF083C108E9.................................................. 00 0000 000B :0000 __unwindfunclet___0CSmartDockingStandaloneGuide__QAE_XZ_0 
+8B4DF083C108E9.................................................. 00 0000 000B :0000 __unwindfunclet___0CSmartDockingGroupGuidesManager__QAE_XZ_0 
+8B5424088D420C8B4A8833C8E8........8B4AFC33C8E8........B8........ 01 B78A 0025 :0000 __ehhandler__OnPaint_CSmartDockingStandaloneGuideWnd__IAEXXZ 
+8B5424088D420C8B4A9033C8E8........8B4AFC33C8E8........B8........ 01 B78A 0025 :0000 __ehhandler__Update_CSmartDockingGroupGuidesWnd__QAEXXZ 
+8B5424088D420C8B4A9833C8E8........8B4AFC33C8E8........B8........ 01 B78A 0025 :0000 __ehhandler__UpdateLayered_CSmartDockingStandaloneGuideWnd__QAEXXZ 
+8B5424088D420C8B4A9833C8E8........8B4AFC33C8E8........B8........ 01 B78A 0025 :0000 __ehhandler__Create_CSmartDockingGroupGuidesManager__UAEXPAVCWnd___Z 
+8B5424088D420C8B4AAC33C8E8........8B4AFC33C8E8........B8........ 01 B78A 0025 :0000 __ehhandler__DrawCentralGroupGuides_CSmartDockingGroupGuidesManager__IAEXAAVCDC__AAVCBrush__1VCRect___Z 
+8B5424088D420C8B4AD033C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler__ShadeRect__YGXPAVCDC__VCRect__H_Z 
+8B5424088D420C8B4AE433C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler___0CSmartDockingGroupGuidesWnd__IAE_XZ 
+8B5424088D420C8B4AE833C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler__IsPtIn_CSmartDockingStandaloneGuide__UBEHVCPoint___Z 
+8B5424088D420C8B4AEC33C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler___0CSmartDockingStandaloneGuide__QAE_XZ 
+8B5424088D420C8B4AF833C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler___1CSmartDockingGroupGuidesManager__UAE_XZ 
+8B5424088D420C8B4AF833C8E8........B8........E9.................. 00 0000 001B :0000 __ehhandler___1CSmartDockingStandaloneGuide__UAE_XZ 
+8B5424088D420C8B8A40FFFFFF33C8E8........8B4AFC33C8E8........B8.. 00 0000 0028 :0000 __ehhandler__OnPaint_CSmartDockingGroupGuidesWnd__QAEXXZ ......E9
+8B5424088D420C8B8AE0FDFFFF33C8E8........8B4AF833C8E8........B8.. 00 0000 0028 :0000 __ehhandler___1CGdiObject__UAE_XZ ......E9
+8B8110030000C3.................................................. 00 0000 0007 :0000 _IsVisible_CSmartDockingGroupGuide__QBEHXZ 
+8B818C000000C3.................................................. 00 0000 0007 :0000 _GetImageWell_CMFCToolBarImages__QBEPAUHBITMAP____XZ 
+8B8190000000C3.................................................. 00 0000 0007 :0000 _GetImageWellLight_CMFCToolBarImages__QBEPAUHBITMAP____XZ 
+8BC1C3.......................................................... 00 0000 0003 :0000 __0CObject__IAE_XZ 
+8BC1C3.......................................................... 00 0000 0003 :0000 __BCRect__QAEPAUtagRECT__XZ 
+8D4110C3........................................................ 00 0000 0004 :0000 _data_CStringData_ATL__QAEPAXXZ 
+8D4D8CE9........................................................ 00 0000 0008 :0000 __unwindfunclet__OnPaint_CSmartDockingStandaloneGuideWnd__IAEXXZ_0 
+8D4D94E9........................................................ 00 0000 0008 :0000 __unwindfunclet__Update_CSmartDockingGroupGuidesWnd__QAEXXZ_1 
+8D4D9CE9........................................................ 00 0000 0008 :0000 __unwindfunclet__UpdateLayered_CSmartDockingStandaloneGuideWnd__QAEXXZ_1 
+8D4DA4E9........................................................ 00 0000 0008 :0000 __unwindfunclet__OnPaint_CSmartDockingGroupGuidesWnd__QAEXXZ_1 
+8D4DA8E9........................................................ 00 0000 0008 :0000 __unwindfunclet__Create_CSmartDockingGroupGuidesManager__UAEXPAVCWnd___Z_0 
+8D4DB0E9........................................................ 00 0000 0008 :0000 __unwindfunclet__UpdateLayered_CSmartDockingStandaloneGuideWnd__QAEXXZ_2 
+8D4DB0E9........................................................ 00 0000 0008 :0000 __unwindfunclet__Update_CSmartDockingGroupGuidesWnd__QAEXXZ_2 
+8D4DB0E9........................................................ 00 0000 0008 :0000 __unwindfunclet__DrawCentralGroupGuides_CSmartDockingGroupGuidesManager__IAEXAAVCDC__AAVCBrush__1VCRect___Z_0 
+8D4DCCE9........................................................ 00 0000 0008 :0000 __unwindfunclet__UpdateLayered_CSmartDockingStandaloneGuideWnd__QAEXXZ_0 
+8D4DD0E9........................................................ 00 0000 0008 :0000 __unwindfunclet__DrawCentralGroupGuides_CSmartDockingGroupGuidesManager__IAEXAAVCDC__AAVCBrush__1VCRect___Z_1 
+8D4DD4E9........................................................ 00 0000 0008 :0000 __unwindfunclet__Update_CSmartDockingGroupGuidesWnd__QAEXXZ_0 
+8D4DECE9........................................................ 00 0000 0008 :0000 __unwindfunclet__IsPtIn_CSmartDockingStandaloneGuide__UBEHVCPoint___Z_0 
+8D4DECE9........................................................ 00 0000 0008 :0000 __unwindfunclet__ShadeRect__YGXPAVCDC__VCRect__H_Z_0 
+8D8D44FFFFFFE9.................................................. 00 0000 000B :0000 __unwindfunclet__OnPaint_CSmartDockingGroupGuidesWnd__QAEXXZ_2 
+8D8D50FFFFFFE9.................................................. 00 0000 000B :0000 __unwindfunclet__OnPaint_CSmartDockingGroupGuidesWnd__QAEXXZ_0 
+8D8DE8FDFFFFE9.................................................. 00 0000 000B :0000 __unwindfunclet___1CGdiObject__UAE_XZ_2 
+A1........C3.................................................... 00 0000 0006 :0000 _GetSmartDockingTheme_CDockingManager__SG_AW4AFX_SMARTDOCK_THEME__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetSmartDockingParams_CDockingManager__SGAAVCSmartDockingInfo__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 ___local_stdio_printf_options 
+B8........C3.................................................... 00 0000 0006 :0000 _GetThisMessageMap_CSmartDockingStandaloneGuideWnd__KGPBUAFX_MSGMAP__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetMessageMap_CSmartDockingStandaloneGuideWnd__MBEPBUAFX_MSGMAP__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetRuntimeClass_CSmartDockingStandaloneGuide__UBEPAUCRuntimeClass__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetRuntimeClass_CSmartDockingGroupGuidesManager__UBEPAUCRuntimeClass__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetThisMessageMap_CSmartDockingGroupGuidesWnd__KGPBUAFX_MSGMAP__XZ 
+B8........C3.................................................... 00 0000 0006 :0000 _GetMessageMap_CSmartDockingGroupGuidesWnd__MBEPBUAFX_MSGMAP__XZ 
+C20400.......................................................... 00 0000 0003 :0000 _Serialize_CObject__UAEXAAVCArchive___Z 
+C20400.......................................................... 00 0000 0003 :0000 _DoDataExchange_CWnd__MAEXPAVCDataExchange___Z 
+C20400.......................................................... 00 0000 0003 :0000 _Show_CSmartDockingGroupGuide__UAEXH_Z 
+C20800.......................................................... 00 0000 0003 :0000 _Create_CSmartDockingGroupGuide__UAEXW4SDMarkerPlace_CSmartDockingStandaloneGuide__PAVCWnd___Z 
+C21000.......................................................... 00 0000 0003 :0000 _AdjustPos_CSmartDockingGroupGuide__UAEXVCRect___Z 
+C3.............................................................. 00 0000 0001 :0000 ___empty_global_delete__YAXPAX_Z 
+C3.............................................................. 00 0000 0001 :0000 ___empty_global_delete__YAXPAXI_Z 
+C3.............................................................. 00 0000 0001 :0000 __1CObject__UAE_XZ 
+C3.............................................................. 00 0000 0001 :0000 _OnClose_CSmartDockingStandaloneGuideWnd__IAEXXZ 
+C3.............................................................. 00 0000 0001 :0000 _OnClose_CSmartDockingGroupGuidesWnd__QAEXXZ 
+C3.............................................................. 00 0000 0001 :0000 _Destroy_CSmartDockingGroupGuide__UAEXXZ 
+C7..........E9.................................................. 00 0000 000B :0000 __1CPen__UAE_XZ 
+C7..........E9.................................................. 00 0000 000B :0000 __1CBrush__UAE_XZ 
+C7..........E9.................................................. 00 0000 000B :0000 __1CBitmap__UAE_XZ 
+C7..........E9.................................................. 00 0000 000B :0000 __1CRgn__UAE_XZ 
+C7..........E9.................................................. 00 0000 000B :0000 __1CSmartDockingStandaloneGuideWnd__UAE_XZ 
+E8........508D8DE8FDFFFFE8........8BBDE4FDFFFF8D85ECFDFFFF6A..68 00 0000 00B7 :0000 __catch___1CGdiObject__UAE_XZ_0 ........508B37C645FC028B4E0CFF..........8BCFFF....85C074..8D85ECFDFFFF506A..68........68........8D85E8FDFFFF68........50E8........83C418EB..6A..68........68........8D85E8FDFFFF68........50E8........83C4148BB5E8FDFFFF6A..6A..56E8........8D4EF0E8........8B076A..8B70048BCEFF..........8BCFFFD6B8........C3
+E9.............................................................. 00 0000 0005 :0000 _CopyChars___CSimpleStringT_D_0A__ATL__SAXPADIPBDH_Z 
+E9.............................................................. 00 0000 0005 :0000 _GetDefaultManager___StrTraitMFC_DV__ChTraitsCRT_D_ATL____SAPAUIAtlStringMgr_ATL__XZ 
+FF7120FF..........C3............................................ 00 0000 000A :0000 _IsWindowVisible_CWnd__QBEHXZ 
+FF75F0E8........C3.............................................. 00 0000 0009 :0000 __unwindfunclet__CreateObject_CSmartDockingStandaloneGuide__SGPAVCObject__XZ_0 
+FF75F0E8........C3.............................................. 00 0000 0009 :0000 __unwindfunclet__CreateObject_CSmartDockingGroupGuidesManager__SGPAVCObject__XZ_0 
+FF75F0E8........C3.............................................. 00 0000 0009 :0000 __unwindfunclet__GetInstance_CMFCVisualManager__SGPAV1_XZ_0 
+---
