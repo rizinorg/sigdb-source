@@ -1,0 +1,4 @@
+91eeee63f2e4da373ae6f8e445ba399c2d57316d  ./install-linux_gcc_i686/lib/libz.a
+cc8595927e0788cf2e348b74336bc37fe8f11463  ./install-linux_clang_i686/lib/libz.a
+521a1beecc0a6b6479f82f052ed18b0eecb314f1  ./install-linux_gcc_x64/lib/libz.a
+1220a9d30a0c023cd77300ee04d0325cb0d961d8  ./install-linux_clang_x64/lib/libz.a
