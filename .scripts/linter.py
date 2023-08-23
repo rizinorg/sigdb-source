@@ -84,18 +84,19 @@ def main():
 			descr_path = os.path.join(subpath, libname + '.description')
 			sha1_path = os.path.join(subpath, libname + '.src.sha1')
 
-			if not test_text(dirpath, pat_path):
+			if test_text(dirpath, pat_path):
 				has_failed = True
 
-			if not test_text(dirpath, descr_path):
+			if test_text(dirpath, descr_path):
 				has_failed = True
 
-			if not test_sha1(dirpath, sha1_path):
+			if test_sha1(dirpath, sha1_path):
 				has_failed = True
-
 
 	if has_failed:
 		sys.exit(1)
+
+	sys.exit(0)
 
 
 if __name__ == '__main__':
