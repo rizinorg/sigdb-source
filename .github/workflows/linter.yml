@@ -1,0 +1,21 @@
+name: "Linters and checks"
+
+on:
+  push:
+    branches:
+    - 'main'
+  pull_request:
+
+# Automatically cancel any previous workflow on new push.
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}-${{ github.event_name }}
+  cancel-in-progress: true
+
+jobs:
+  sigdb-linter:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+    - name: Run sigdb linter
+      run: python .scripts/linter.py .

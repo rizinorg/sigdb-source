@@ -37,7 +37,7 @@ bin  elf         ELF format plugin (LGPL3)
 # Create folders and files
 $ mkdir -p sigdb-source/elf/tricore/32/mylibrary
 $ echo "My Library Description" > sigdb-source/elf/tricore/32/mylibrary.description
-$ sha1sum my-tricore-lib.a > sigdb-source/elf/tricore/32/mylibrary.src.sha1
+$ sha1sum sources.zip > sigdb-source/elf/tricore/32/mylibrary.src.sha1
 
 # Resolve automatically conflicts and generate the final pat file
 $ python .scripts/generate-pat.py --auto --input /path/to/signature.pat --output sigdb-source/elf/tricore/32/mylibrary/mylibrary.pat
